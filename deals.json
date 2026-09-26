@@ -1,0 +1,68 @@
+{
+  "channel": "BlockbusterDeals 19",
+  "lastScan": "2026-09-26T18:06:00Z",
+  "nextScan": "2026-09-26T19:47:00Z",
+  "offers": [
+    {
+      "id": "hsn-birkenstock-clearance-20260926",
+      "store": "HSN",
+      "title": "Birkenstock EVA sandal clearance",
+      "price": "From $24",
+      "was": "$34.95",
+      "discount": "Up to 28% off",
+      "code": "WELCOME2026",
+      "notes": "EVA sandal $24.95 (28% off); Barbados EVA sandal $26.95 (22% off). Code takes $15 off a first order of $35+. Free shipping.",
+      "link": "https://go.magik.ly/ml/4f8h2/",
+      "postedAt": "2026-09-26T18:03:00Z",
+      "expiresAt": null,
+      "status": "active"
+    },
+    {
+      "id": "aveeno-baby-bubble-bath-20260926",
+      "store": "Subscribe & Save",
+      "title": "Aveeno Baby Sensitive Skin Bubble Bath with Oat Extract, 19.2 fl oz",
+      "price": "$2",
+      "was": "$9",
+      "discount": "78% off",
+      "code": null,
+      "notes": "Clip the coupon and choose Subscribe & Save to get this price.",
+      "link": "https://blockbusterdeals.net/product/aveeno-baby-sensitive-skin-bubble-bath-with-oat-extract-19-2-fl-oz-3/",
+      "postedAt": "2026-09-26T18:03:00Z",
+      "expiresAt": null,
+      "status": "active"
+    },
+    {
+      "id": "hsn-ninja-nutri-blender-pro-20260926",
+      "store": "HSN",
+      "title": "Ninja Nutri-Blender Pro with Auto-iQ Personal Blender",
+      "price": "$67",
+      "was": "$99",
+      "discount": "32% off",
+      "code": "WELCOME2026",
+      "notes": "Code takes $15 off a first order of $35+ (about $52 after code). Free shipping.",
+      "link": "https://go.magik.ly/ml/4f8fe/",
+      "postedAt": "2026-09-26T17:43:00Z",
+      "expiresAt": null,
+      "status": "active"
+    },
+    {
+      "id": "paris-hilton-food-jar-20260926",
+      "store": "Prime Deal",
+      "title": "Paris Hilton Stainless Steel Food Jar, 16 oz, Pink with Heart Design",
+      "price": "$6",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Double-wall vacuum insulated with carry handle lid. Posted as selling fast.",
+      "link": "https://blockbusterdeals.net/product/paris-hilton-stainless-steel-food-jar/",
+      "postedAt": "2026-09-26T17:43:00Z",
+      "expiresAt": null,
+      "status": "active"
+    }
+  ],
+  "log": [
+    { "at": "2026-09-26T18:06:00Z", "text": "2 new offers (Birkenstock clearance at HSN, Aveeno bubble bath)." },
+    { "at": "2026-09-26T18:02:00Z", "text": "2 new offers (Ninja blender at HSN, Paris Hilton food jar)." },
+    { "at": "2026-09-26T17:40:00Z", "text": "First scan: no offers posted yet." }
+  ]
+}

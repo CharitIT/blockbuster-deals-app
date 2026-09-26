@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>BlockbusterDeals Board</title>
+<meta name="description" content="Offers from the BlockbusterDeals 19 WhatsApp community, refreshed every hour.">
+<meta name="theme-color" content="#0B6E4F">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="BB Deals">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+:root{
+  color-scheme:light;
+  --bg:#F3F5F2; --surface:#FFFFFF; --ink:#18221D; --muted:#5E6B64; --line:#DCE3DE;
+  --accent:#0B6E4F; --accent-soft:#E2F1EA; --tag:#F5B700; --tag-ink:#2A2000;
+  --warn:#B45309; --warn-soft:#FDF0DC; --dead:#8A948F;
+  --display:"Archivo",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    color-scheme:dark;
+    --bg:#0F1512; --surface:#18201C; --ink:#E6ECE8; --muted:#9AA7A0; --line:#2A3530;
+    --accent:#4CC79A; --accent-soft:#16372B; --tag:#F5C23A; --tag-ink:#231B00;
+    --warn:#F0A54A; --warn-soft:#3A2A12; --dead:#6F7A74;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 var(--body);
+  padding:env(safe-area-inset-top,0px) max(16px,env(safe-area-inset-right,0px)) env(safe-area-inset-bottom,0px) max(16px,env(safe-area-inset-left,0px))}
+.wrap{max-width:1040px;margin:0 auto;padding-block:20px 48px;display:grid;gap:20px}
+header{display:grid;gap:12px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.eyebrow{font:600 12px/1 var(--body);letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1{font:800 clamp(26px,6vw,40px)/1.05 var(--display);margin:0;letter-spacing:-.01em;text-wrap:balance}
+.refresh{font:600 13px/1 var(--body);border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:9px 12px;border-radius:999px;cursor:pointer;white-space:nowrap}
+.refresh[aria-busy="true"]{opacity:.6}
+.status{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13px;color:var(--muted);border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding-block:10px}
+.status b{color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--accent);margin-right:6px;vertical-align:1px}
+.dot.off{background:var(--warn)}
+.tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font:500 13px/1 var(--body);border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:8px 12px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+button:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.chip .n{opacity:.7;margin-left:4px;font-variant-numeric:tabular-nums}
+#q{flex:1 1 200px;min-width:0;font:inherit;font-size:16px;padding:8px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:grid;gap:10px;align-content:start}
+.card.expired{opacity:.6}
+.card.new{border-color:var(--accent)}
+.row{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
+.store{font:600 12px/1.2 var(--body);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.off{font:800 14px/1 var(--display);background:var(--tag);color:var(--tag-ink);padding:6px 8px 6px 14px;border-radius:4px;white-space:nowrap;clip-path:polygon(8px 0,100% 0,100% 100%,8px 100%,0 50%)}
+.title{font:700 17px/1.3 var(--display);margin:0;text-wrap:balance}
+.price{display:flex;gap:8px;align-items:baseline;font-variant-numeric:tabular-nums}
+.price .now{font:800 22px/1 var(--display);color:var(--accent)}
+.price .was{color:var(--muted);text-decoration:line-through}
+.code{display:flex;align-items:center;gap:8px;border:1px dashed var(--line);border-radius:6px;padding:6px 8px}
+.code span{font:500 14px var(--mono);letter-spacing:.04em;flex:1;overflow-wrap:anywhere}
+.copy{font:500 12px var(--body);border:0;background:var(--accent-soft);color:var(--accent);padding:6px 10px;border-radius:5px;cursor:pointer}
+.notes{margin:0;font-size:14px;color:var(--muted)}
+.meta{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:12px;color:var(--muted);align-items:center}
+.pill{font-weight:600;padding:3px 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent)}
+.pill.soon{background:var(--warn-soft);color:var(--warn)}
+.pill.gone{background:transparent;color:var(--dead);border:1px solid var(--line)}
+.card a.go{color:var(--accent);font-weight:600;text-decoration:none}
+.empty{background:var(--surface);border:1px dashed var(--line);border-radius:10px;padding:28px 20px;display:grid;gap:8px}
+.empty h2{font:700 20px/1.2 var(--display);margin:0}
+.empty p{margin:0;color:var(--muted)}
+.log{display:grid;gap:6px}
+.log h2{font:700 15px/1 var(--display);margin:0 0 4px}
+.log ol{list-style:none;margin:0;padding:0;display:grid;gap:4px;font-size:13px;color:var(--muted)}
+.log li{display:flex;gap:12px}
+.log time{font:500 12px var(--mono);color:var(--ink);white-space:nowrap}
+footer{font-size:12px;color:var(--muted)}
+.install{background:var(--accent-soft);color:var(--ink);border-radius:10px;padding:12px 14px;font-size:14px;display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.install button{font:600 13px var(--body);border:0;background:var(--accent);color:var(--bg);padding:8px 12px;border-radius:6px;cursor:pointer}
+@media (prefers-reduced-motion:no-preference){.card{transition:border-color .3s}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="top">
+      <div class="eyebrow">WhatsApp community · Announcements</div>
+      <button class="refresh" id="refresh" type="button">Refresh</button>
+    </div>
+    <h1>BlockbusterDeals 19</h1>
+    <div class="status">
+      <span><span class="dot" id="dot"></span>Checked <b id="checked">—</b></span>
+      <span>Last scan <b id="last">—</b></span>
+      <span>Active offers <b id="cActive">0</b></span>
+    </div>
+  </header>
+
+  <div class="install" id="install" hidden>
+    <span id="installText">Add this app to your home screen.</span>
+    <button type="button" id="installBtn" hidden>Install</button>
+  </div>
+
+  <div class="tools">
+    <div class="chips" role="group" aria-label="Filter offers">
+      <button class="chip" data-f="active" aria-pressed="true">Active<span class="n" id="nActive">0</span></button>
+      <button class="chip" data-f="soon" aria-pressed="false">Ending soon<span class="n" id="nSoon">0</span></button>
+      <button class="chip" data-f="expired" aria-pressed="false">Expired<span class="n" id="nExpired">0</span></button>
+      <button class="chip" data-f="all" aria-pressed="false">All<span class="n" id="nAll">0</span></button>
+    </div>
+    <input id="q" type="search" placeholder="Search store, item or code" aria-label="Search offers">
+  </div>
+
+  <section id="list" class="grid" aria-live="polite"></section>
+  <div id="empty" class="empty" hidden>
+    <h2 id="emptyTitle">No offers yet</h2>
+    <p id="emptyText">New offers show up here after the next scan.</p>
+  </div>
+
+  <section class="log">
+    <h2>Scan history</h2>
+    <ol id="log"></ol>
+  </section>
+
+  <footer>Refreshes every hour while open, and each time you come back to the app. Prices and codes are copied as posted; check the store before buying.</footer>
+</div>
+
+<script>
+(function(){
+  const REFRESH_MS = 60 * 60 * 1000;   // 1 hour
+  const $ = s => document.querySelector(s);
+  let data = {offers:[],log:[]}, filter = "active", q = "", lastFetch = 0, seen = new Set();
+  try { const f = localStorage.getItem("bd-filter"); if (f) filter = f; } catch(e){}
+  try { seen = new Set(JSON.parse(localStorage.getItem("bd-seen")||"[]")); } catch(e){}
+
+  const fmt = iso => { if(!iso) return "—"; const d=new Date(iso); return isNaN(d)?iso:d.toLocaleString(undefined,{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"}); };
+  const fmtDay = iso => { const d=new Date(iso); return isNaN(d)?iso:d.toLocaleDateString(undefined,{month:"short",day:"numeric"}); };
+  const ago = t => { const m=Math.round((Date.now()-t)/60000); return m<1?"just now":m<60?m+" min ago":Math.round(m/60)+" h ago"; };
+  const el = (tag,cls,text) => { const e=document.createElement(tag); if(cls) e.className=cls; if(text!=null) e.textContent=text; return e; };
+
+  function state(o){
+    if (o.status === "expired") return "expired";
+    if (!o.expiresAt) return "active";
+    const ms = new Date(o.expiresAt) - Date.now();
+    if (isNaN(ms)) return "active";
+    if (ms < 0) return "expired";
+    return ms < 48*3600e3 ? "soon" : "active";
+  }
+
+  function card(o){
+    const s = state(o);
+    const c = el("article","card"+(s==="expired"?" expired":"")+(seen.size && !seen.has(o.id)?" new":""));
+    const top = el("div","row");
+    top.append(el("div","store",o.store||"Deal"));
+    if (o.discount) top.append(el("div","off",o.discount));
+    c.append(top, el("h3","title",o.title||"Untitled offer"));
+    if (o.price || o.was){
+      const p = el("div","price");
+      if (o.price) p.append(el("span","now",o.price));
+      if (o.was) p.append(el("span","was",o.was));
+      c.append(p);
+    }
+    if (o.code){
+      const box = el("div","code"), t = el("span",null,o.code), b = el("button","copy","Copy");
+      b.type = "button";
+      b.addEventListener("click",()=>{
+        const done=()=>{b.textContent="Copied";setTimeout(()=>b.textContent="Copy",1500);};
+        const sel=()=>{const r=document.createRange();r.selectNodeContents(t);const w=getSelection();w.removeAllRanges();w.addRange(r);b.textContent="Selected";};
+        try{navigator.clipboard.writeText(o.code).then(done,sel);}catch(e){sel();}
+      });
+      box.append(t,b); c.append(box);
+    }
+    if (o.notes) c.append(el("p","notes",o.notes));
+    const m = el("div","meta");
+    m.append(el("span","pill"+(s==="soon"?" soon":s==="expired"?" gone":""),
+      s==="expired"?"Expired":o.expiresAt?"Ends "+fmtDay(o.expiresAt):"No end date"));
+    if (o.postedAt) m.append(el("span",null,"Posted "+fmt(o.postedAt)));
+    if (o.link && /^https?:\/\//.test(o.link)){ const a=el("a","go","Open deal ↗"); a.href=o.link; a.target="_blank"; a.rel="noopener"; m.append(a); }
+    c.append(m);
+    return c;
+  }
+
+  function render(){
+    const offers = data.offers || [];
+    const counts = {active:0,soon:0,expired:0};
+    offers.forEach(o=>counts[state(o)]++);
+    $("#nActive").textContent = counts.active+counts.soon;
+    $("#nSoon").textContent = counts.soon;
+    $("#nExpired").textContent = counts.expired;
+    $("#nAll").textContent = offers.length;
+    $("#cActive").textContent = counts.active+counts.soon;
+    $("#last").textContent = fmt(data.lastScan);
+    document.querySelectorAll(".chip").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.f===filter)));
+    const needle = q.trim().toLowerCase();
+    const shown = offers.filter(o=>{
+      const s = state(o);
+      if (filter==="active" && s==="expired") return false;
+      if (filter==="soon" && s!=="soon") return false;
+      if (filter==="expired" && s!=="expired") return false;
+      return !needle || [o.store,o.title,o.code,o.notes].join(" ").toLowerCase().includes(needle);
+    }).sort((a,b)=>(b.postedAt||"").localeCompare(a.postedAt||""));
+    $("#list").replaceChildren(...shown.map(card));
+    $("#empty").hidden = shown.length>0;
+    if (!shown.length && offers.length){ $("#emptyTitle").textContent="Nothing matches"; $("#emptyText").textContent="Try another filter or clear the search."; }
+    $("#log").replaceChildren(...(data.log||[]).slice(0,12).map(x=>{ const li=el("li"); li.append(el("time",null,fmt(x.at)),el("span",null,x.text)); return li; }));
+  }
+
+  async function load(){
+    const btn = $("#refresh"); btn.setAttribute("aria-busy","true"); btn.textContent = "Refreshing…";
+    try {
+      const res = await fetch("deals.json?t="+Date.now(), {cache:"no-store"});
+      if (!res.ok) throw new Error(res.status);
+      data = await res.json();
+      lastFetch = Date.now();
+      $("#dot").classList.remove("off");
+      render();
+      try { localStorage.setItem("bd-seen", JSON.stringify((data.offers||[]).map(o=>o.id))); } catch(e){}
+    } catch(e){
+      $("#dot").classList.add("off");
+      $("#checked").textContent = "offline, showing saved offers";
+    } finally {
+      btn.removeAttribute("aria-busy"); btn.textContent = "Refresh"; tick();
+    }
+  }
+  function tick(){ if (lastFetch) $("#checked").textContent = ago(lastFetch); }
+
+  document.querySelectorAll(".chip").forEach(b=>b.addEventListener("click",()=>{ filter=b.dataset.f; try{localStorage.setItem("bd-filter",filter);}catch(e){} render(); }));
+  $("#q").addEventListener("input",e=>{ q=e.target.value; render(); });
+  $("#refresh").addEventListener("click", load);
+
+  // Hourly refresh while open, plus a refresh whenever the app comes back to the foreground after an hour.
+  setInterval(load, REFRESH_MS);
+  setInterval(tick, 60000);
+  document.addEventListener("visibilitychange",()=>{ if (!document.hidden && Date.now()-lastFetch > REFRESH_MS) load(); });
+
+  // Install hint
+  const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+  let deferred;
+  if (!standalone){
+    const ios = /iphone|ipad|ipod/i.test(navigator.userAgent);
+    if (ios){ $("#installText").textContent = "Install on iPhone: tap Share, then Add to Home Screen."; $("#install").hidden = false; }
+    addEventListener("beforeinstallprompt", e=>{ e.preventDefault(); deferred=e; $("#install").hidden=false; $("#installBtn").hidden=false; });
+    $("#installBtn").addEventListener("click", async()=>{ if(!deferred) return; deferred.prompt(); await deferred.userChoice; deferred=null; $("#install").hidden=true; });
+  }
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(()=>{});
+
+  load();
+})();
+</script>
+</body>
+</html>
