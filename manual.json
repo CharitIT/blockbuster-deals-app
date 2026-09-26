@@ -1,0 +1,50 @@
+{
+  "note": "WhatsApp-only offers that are not on blockbusterdeals.net. Add or remove entries here by hand; the Action merges them into deals.json.",
+  "offers": [
+    {
+      "id": "curology-free-box-20260926",
+      "store": "Curology",
+      "title": "Free $96 Curology skincare box (11th Anniversary deal)",
+      "price": "$5.45 shipping",
+      "was": "$96",
+      "discount": "Free box",
+      "code": null,
+      "notes": "Click Get Your Formula, take the short skincare quiz, pay $5.45 shipping. Starts a 30-day trial subscription; cancel anytime. A new email is needed if you've tried the offer before.",
+      "link": "https://theblogcm.com/566/eJbN",
+      "postedAt": "2026-09-26T18:09:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "amazon-prime-trial-20260926",
+      "store": "Amazon",
+      "title": "Amazon Prime free trial: 6 months for ages 18-24, 1 month for everyone",
+      "price": "Free trial",
+      "was": null,
+      "discount": "Free",
+      "code": null,
+      "notes": "For people without Prime. Prime for Young Adults (18-24): 6-month trial at https://link.amazon/B0hY4iLGz. Everyone else: 1-month trial.",
+      "link": "https://link.amazon/B0eEuQDAR",
+      "postedAt": "2026-09-26T18:07:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "hsn-birkenstock-clearance-20260926",
+      "store": "HSN",
+      "title": "Birkenstock EVA sandal clearance",
+      "price": "From $24",
+      "was": "$34.95",
+      "discount": "Up to 28% off",
+      "code": "WELCOME2026",
+      "notes": "EVA sandal $24.95 (28% off); Barbados EVA sandal $26.95 (22% off). Code takes $15 off a first order of $35+. Free shipping.",
+      "link": "https://go.magik.ly/ml/4f8h2/",
+      "postedAt": "2026-09-26T18:03:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>BlockbusterDeals Board</title>
-<meta name="description" content="Offers from the BlockbusterDeals 19 WhatsApp community, refreshed every 30 minutes.">
+<meta name="description" content="Offers from the BlockbusterDeals 19 WhatsApp community, updated live.">
 <meta name="theme-color" content="#0B6E4F">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon-192.png">
@@ -64,6 +64,8 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(-
 .store{font:600 12px/1.2 var(--body);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
 .off{font:800 14px/1 var(--display);background:var(--tag);color:var(--tag-ink);padding:6px 8px 6px 14px;border-radius:4px;white-space:nowrap;clip-path:polygon(8px 0,100% 0,100% 100%,8px 100%,0 50%)}
 .title{font:700 17px/1.3 var(--display);margin:0;text-wrap:balance}
+.thumb{width:100%;aspect-ratio:1/1;max-height:220px;object-fit:contain;background:#fff;border-radius:8px;border:1px solid var(--line)}
+.pill.fresh{background:var(--tag);color:var(--tag-ink)}
 .price{display:flex;gap:8px;align-items:baseline;font-variant-numeric:tabular-nums}
 .price .now{font:800 22px/1 var(--display);color:var(--accent)}
 .price .was{color:var(--muted);text-decoration:line-through}
@@ -94,7 +96,7 @@ footer{font-size:12px;color:var(--muted)}
 <div class="wrap">
   <header>
     <div class="top">
-      <div class="eyebrow">WhatsApp community · Announcements</div>
+      <div class="eyebrow">Live deals · blockbusterdeals.net</div>
       <button class="refresh" id="refresh" type="button">Refresh</button>
     </div>
     <h1>BlockbusterDeals 19</h1>
@@ -131,12 +133,13 @@ footer{font-size:12px;color:var(--muted)}
     <ol id="log"></ol>
   </section>
 
-  <footer>Refreshes every 30 minutes while open, and each time you come back to the app. Prices and codes are copied as posted; check the store before buying.</footer>
+  <footer>Refreshes every 5 minutes while open, and each time you come back to the app. Prices and codes are copied as posted; check the store before buying.</footer>
 </div>
 
 <script>
 (function(){
-  const REFRESH_MS = 30 * 60 * 1000;   // 30 minutes
+  const REFRESH_MS = 5 * 60 * 1000;    // 5 minutes
+  const SITE_API = "https://blockbusterdeals.net/wp-json/wp/v2/product?per_page=20&_fields=id,date_gmt,link,title,_links,_embedded&_embed=wp:featuredmedia";
   const $ = s => document.querySelector(s);
   let data = {offers:[],log:[]}, filter = "active", q = "", lastFetch = 0, seen = new Set();
   try { const f = localStorage.getItem("bd-filter"); if (f) filter = f; } catch(e){}
@@ -162,6 +165,7 @@ footer{font-size:12px;color:var(--muted)}
     const top = el("div","row");
     top.append(el("div","store",o.store||"Deal"));
     if (o.discount) top.append(el("div","off",o.discount));
+    if (o.image && /^https:\/\//.test(o.image)){ const im=el("img","thumb"); im.src=o.image; im.alt=""; im.loading="lazy"; im.decoding="async"; im.onerror=()=>im.remove(); c.append(im); }
     c.append(top, el("h3","title",o.title||"Untitled offer"));
     if (o.price || o.was){
       const p = el("div","price");
@@ -181,7 +185,8 @@ footer{font-size:12px;color:var(--muted)}
     }
     if (o.notes) c.append(el("p","notes",o.notes));
     const m = el("div","meta");
-    m.append(el("span","pill"+(s==="soon"?" soon":s==="expired"?" gone":""),
+    if (o.live) m.append(el("span","pill fresh","Just posted"));
+    else m.append(el("span","pill"+(s==="soon"?" soon":s==="expired"?" gone":""),
       s==="expired"?"Expired":o.expiresAt?"Ends "+fmtDay(o.expiresAt):"No end date"));
     if (o.postedAt) m.append(el("span",null,"Posted "+fmt(o.postedAt)));
     if (o.link && /^https?:\/\//.test(o.link)){ const a=el("a","go","Open deal ↗"); a.href=o.link; a.target="_blank"; a.rel="noopener"; m.append(a); }
@@ -220,6 +225,7 @@ footer{font-size:12px;color:var(--muted)}
       const res = await fetch("deals.json?t="+Date.now(), {cache:"no-store"});
       if (!res.ok) throw new Error(res.status);
       data = await res.json();
+      await addLive();
       lastFetch = Date.now();
       $("#dot").classList.remove("off");
       render();
@@ -231,13 +237,33 @@ footer{font-size:12px;color:var(--muted)}
       btn.removeAttribute("aria-busy"); btn.textContent = "Refresh"; tick();
     }
   }
+  // Deals posted on blockbusterdeals.net since the last GitHub update, read straight from the site.
+  // This feed has no prices; the next GitHub update (every ~10 min) fills them in.
+  async function addLive(){
+    try {
+      const r = await fetch(SITE_API + "&t=" + Date.now(), {cache:"no-store"});
+      if (!r.ok) return;
+      const known = new Set((data.offers||[]).map(o=>o.id));
+      const tmp = document.createElement("textarea");
+      const dec = h => { tmp.innerHTML = String(h||"").replace(/<[^>]+>/g," "); return tmp.value.replace(/\s+/g," ").trim(); };
+      const fresh = (await r.json()).filter(p => !known.has("bbd-"+p.id)).map(p => ({
+        id: "bbd-"+p.id, live: true, store: "New on site", title: dec(p.title && p.title.rendered),
+        price: null, was: null, discount: null, code: null,
+        notes: "Price and store link show up within about 10 minutes.",
+        link: p.link, image: p._embedded && p._embedded["wp:featuredmedia"] && p._embedded["wp:featuredmedia"][0] &&
+          (((p._embedded["wp:featuredmedia"][0].media_details||{}).sizes||{}).medium||((p._embedded["wp:featuredmedia"][0].media_details||{}).sizes||{}).thumbnail||{}).source_url || (p._embedded && p._embedded["wp:featuredmedia"] && p._embedded["wp:featuredmedia"][0].source_url),
+        postedAt: p.date_gmt ? p.date_gmt + "Z" : null, status: "active"
+      }));
+      if (fresh.length) { data.offers = fresh.concat(data.offers||[]); render(); }
+    } catch(e){ /* site unreachable: keep the GitHub copy */ }
+  }
   function tick(){ if (lastFetch) $("#checked").textContent = ago(lastFetch); }
 
   document.querySelectorAll(".chip").forEach(b=>b.addEventListener("click",()=>{ filter=b.dataset.f; try{localStorage.setItem("bd-filter",filter);}catch(e){} render(); }));
   $("#q").addEventListener("input",e=>{ q=e.target.value; render(); });
   $("#refresh").addEventListener("click", load);
 
-  // Refresh every 30 minutes while open, plus whenever the app comes back to the foreground after 30 minutes.
+  // Refresh every 5 minutes while open, plus whenever the app comes back to the foreground after 5 minutes.
   setInterval(load, REFRESH_MS);
   setInterval(tick, 60000);
   document.addEventListener("visibilitychange",()=>{ if (!document.hidden && Date.now()-lastFetch > REFRESH_MS) load(); });

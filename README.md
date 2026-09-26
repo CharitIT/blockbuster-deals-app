@@ -1,14 +1,17 @@
 # BlockbusterDeals Board (PWA)
 
-A phone app for iPhone and Android that shows offers from the BlockbusterDeals 19 WhatsApp community.
-It reloads `deals.json` every 30 minutes while it's open, and again whenever you come back to it after 30 minutes.
+A phone app for iPhone and Android that shows live offers from blockbusterdeals.net, the site behind the BlockbusterDeals 19 WhatsApp community.
+It reloads every 5 minutes while it's open, and whenever you come back to it.
 
 ## Files
 
 | File | What it does |
 |---|---|
-| `index.html` | The app: offer cards, filters, search, copy-code buttons, 30-minute refresh |
-| `deals.json` | The offers. Claude rewrites this file after each WhatsApp scan |
+| `index.html` | The app: offer cards with photos, filters, search, copy-code buttons, live refresh |
+| `deals.json` | The offers. Rewritten automatically by GitHub Actions |
+| `manual.json` | Offers you add by hand (merged into `deals.json`) |
+| `scripts/fetch_deals.py` | Pulls deals from blockbusterdeals.net |
+| `.github/workflows/update-deals.yml` | Runs the script every 10 minutes |
 | `manifest.webmanifest` | Name, icon and colors used when you install it on your phone |
 | `sw.js` | Service worker: makes it installable and keeps the last offers available offline |
 | `icons/` | App icons |
@@ -45,22 +48,17 @@ Open http://localhost:8080. You need a server because opening `index.html` direc
 
 It opens full-screen with its own icon, like a regular app.
 
-## How offers get updated
+## How offers get updated (fully automatic)
 
-1. Claude scans the WhatsApp community (Announcements only) on your Mac.
-2. Claude updates `deals.json` in this folder, then commits and pushes it.
-3. GitHub Pages redeploys in about a minute.
-4. The app picks up the new offers at its next 30-minute refresh, or right away when you tap **Refresh**.
+No WhatsApp and no Mac needed. The deals come from **blockbusterdeals.net**, the website behind the BlockbusterDeals WhatsApp community.
 
-To update it by hand, edit `deals.json` and push. Each offer looks like this:
+1. **GitHub Actions** runs `scripts/fetch_deals.py` every 10 minutes (`.github/workflows/update-deals.yml`). It reads the site's public product list (price, regular price, store link, photo, posted time), merges in `manual.json`, and commits `deals.json` only when something changed.
+2. **GitHub Pages** redeploys within about a minute of that commit.
+3. **The app** reloads `deals.json` every 5 minutes while open. It also reads the site's newest products directly, so a deal posted a minute ago shows up right away, marked "Just posted". Its price fills in after the next Actions run.
 
-```json
-{ "id": "unique-id", "store": "HSN", "title": "Item name", "price": "$67", "was": "$99",
-  "discount": "32% off", "code": "WELCOME2026", "notes": "…", "link": "https://…",
-  "postedAt": "2026-09-26T17:43:00Z", "expiresAt": null, "status": "active" }
-```
+To run it right now: GitHub → **Actions** → **Update deals** → **Run workflow**.
 
-Set `"status": "expired"` or a past `expiresAt` to move an offer to the Expired tab.
+WhatsApp-only offers that aren't on the website (for example HSN collections or sign-up offers) can be added by hand to `manual.json`.
 
 ## Note
 
