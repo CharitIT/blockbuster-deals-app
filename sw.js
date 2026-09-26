@@ -1,6 +1,6 @@
 // App shell: cache-first. deals.json: network-first so the latest offers win,
 // with the cached copy as an offline fallback.
-const CACHE = "bb-deals-v1";
+const CACHE = "bb-deals-v2";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest",
   "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon.png"];
 

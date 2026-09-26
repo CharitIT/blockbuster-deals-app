@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>BlockbusterDeals Board</title>
-<meta name="description" content="Offers from the BlockbusterDeals 19 WhatsApp community, refreshed every hour.">
+<meta name="description" content="Offers from the BlockbusterDeals 19 WhatsApp community, refreshed every 30 minutes.">
 <meta name="theme-color" content="#0B6E4F">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon-192.png">
@@ -131,12 +131,12 @@ footer{font-size:12px;color:var(--muted)}
     <ol id="log"></ol>
   </section>
 
-  <footer>Refreshes every hour while open, and each time you come back to the app. Prices and codes are copied as posted; check the store before buying.</footer>
+  <footer>Refreshes every 30 minutes while open, and each time you come back to the app. Prices and codes are copied as posted; check the store before buying.</footer>
 </div>
 
 <script>
 (function(){
-  const REFRESH_MS = 60 * 60 * 1000;   // 1 hour
+  const REFRESH_MS = 30 * 60 * 1000;   // 30 minutes
   const $ = s => document.querySelector(s);
   let data = {offers:[],log:[]}, filter = "active", q = "", lastFetch = 0, seen = new Set();
   try { const f = localStorage.getItem("bd-filter"); if (f) filter = f; } catch(e){}
@@ -237,7 +237,7 @@ footer{font-size:12px;color:var(--muted)}
   $("#q").addEventListener("input",e=>{ q=e.target.value; render(); });
   $("#refresh").addEventListener("click", load);
 
-  // Hourly refresh while open, plus a refresh whenever the app comes back to the foreground after an hour.
+  // Refresh every 30 minutes while open, plus whenever the app comes back to the foreground after 30 minutes.
   setInterval(load, REFRESH_MS);
   setInterval(tick, 60000);
   document.addEventListener("visibilitychange",()=>{ if (!document.hidden && Date.now()-lastFetch > REFRESH_MS) load(); });

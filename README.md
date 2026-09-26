@@ -1,13 +1,13 @@
 # BlockbusterDeals Board (PWA)
 
 A phone app for iPhone and Android that shows offers from the BlockbusterDeals 19 WhatsApp community.
-It reloads `deals.json` every hour while it's open, and again whenever you come back to it after an hour.
+It reloads `deals.json` every 30 minutes while it's open, and again whenever you come back to it after 30 minutes.
 
 ## Files
 
 | File | What it does |
 |---|---|
-| `index.html` | The app: offer cards, filters, search, copy-code buttons, hourly refresh |
+| `index.html` | The app: offer cards, filters, search, copy-code buttons, 30-minute refresh |
 | `deals.json` | The offers. Claude rewrites this file after each WhatsApp scan |
 | `manifest.webmanifest` | Name, icon and colors used when you install it on your phone |
 | `sw.js` | Service worker: makes it installable and keeps the last offers available offline |
@@ -50,7 +50,7 @@ It opens full-screen with its own icon, like a regular app.
 1. Claude scans the WhatsApp community (Announcements only) on your Mac.
 2. Claude updates `deals.json` in this folder, then commits and pushes it.
 3. GitHub Pages redeploys in about a minute.
-4. The app picks up the new offers at its next hourly refresh, or right away when you tap **Refresh**.
+4. The app picks up the new offers at its next 30-minute refresh, or right away when you tap **Refresh**.
 
 To update it by hand, edit `deals.json` and push. Each offer looks like this:
 

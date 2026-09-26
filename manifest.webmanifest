@@ -1,7 +1,7 @@
 {
   "name": "BlockbusterDeals Board",
   "short_name": "BB Deals",
-  "description": "Offers from the BlockbusterDeals 19 WhatsApp community, refreshed every hour.",
+  "description": "Offers from the BlockbusterDeals 19 WhatsApp community, refreshed every 30 minutes.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
