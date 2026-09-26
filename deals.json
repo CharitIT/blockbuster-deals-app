@@ -1,8 +1,50 @@
 {
   "channel": "BlockbusterDeals 19",
-  "lastScan": "2026-09-26T18:06:00Z",
+  "lastScan": "2026-09-26T18:40:00Z",
   "nextScan": "2026-09-26T19:47:00Z",
   "offers": [
+    {
+      "id": "curology-free-box-20260926",
+      "store": "Curology",
+      "title": "Free $96 Curology skincare box (11th Anniversary deal)",
+      "price": "$5.45 shipping",
+      "was": "$96",
+      "discount": "Free box",
+      "code": null,
+      "notes": "Click Get Your Formula, take the short skincare quiz, pay $5.45 shipping. Starts a 30-day trial subscription; cancel anytime. A new email is needed if you've tried the offer before.",
+      "link": "https://theblogcm.com/566/eJbN",
+      "postedAt": "2026-09-26T18:09:00Z",
+      "expiresAt": null,
+      "status": "active"
+    },
+    {
+      "id": "amazon-prime-trial-20260926",
+      "store": "Amazon",
+      "title": "Amazon Prime free trial: 6 months for ages 18-24, 1 month for everyone",
+      "price": "Free trial",
+      "was": null,
+      "discount": "Free",
+      "code": null,
+      "notes": "For people without Prime. Prime for Young Adults (18-24): 6-month trial at https://link.amazon/B0hY4iLGz. Everyone else: 1-month trial.",
+      "link": "https://link.amazon/B0eEuQDAR",
+      "postedAt": "2026-09-26T18:07:00Z",
+      "expiresAt": null,
+      "status": "active"
+    },
+    {
+      "id": "ecolution-stock-pot-20260926",
+      "store": "Prime Deal",
+      "title": "Ecolution Stainless Steel Stock Pot with Glass Lid, 8-Quart",
+      "price": "$18",
+      "was": "$25",
+      "discount": "28% off",
+      "code": null,
+      "notes": "Limited Prime deal. Encapsulated, induction ready, oven safe, dishwasher safe.",
+      "link": "https://blockbusterdeals.net/product/ecolution-stainless-steel-stock-pot-encapsulated-induction-ready-cooking-pot-with-glass-lid-oven-safe-dishwasher-safe-soup-pot-8-quart-2/",
+      "postedAt": "2026-09-26T18:06:00Z",
+      "expiresAt": null,
+      "status": "active"
+    },
     {
       "id": "hsn-birkenstock-clearance-20260926",
       "store": "HSN",
@@ -61,8 +103,21 @@
     }
   ],
   "log": [
-    { "at": "2026-09-26T18:06:00Z", "text": "2 new offers (Birkenstock clearance at HSN, Aveeno bubble bath)." },
-    { "at": "2026-09-26T18:02:00Z", "text": "2 new offers (Ninja blender at HSN, Paris Hilton food jar)." },
-    { "at": "2026-09-26T17:40:00Z", "text": "First scan: no offers posted yet." }
+    {
+      "at": "2026-09-26T18:40:00Z",
+      "text": "3 new offers (Ecolution stock pot, Amazon Prime trial, free Curology box)."
+    },
+    {
+      "at": "2026-09-26T18:06:00Z",
+      "text": "2 new offers (Birkenstock clearance at HSN, Aveeno bubble bath)."
+    },
+    {
+      "at": "2026-09-26T18:02:00Z",
+      "text": "2 new offers (Ninja blender at HSN, Paris Hilton food jar)."
+    },
+    {
+      "at": "2026-09-26T17:40:00Z",
+      "text": "First scan: no offers posted yet."
+    }
   ]
 }
