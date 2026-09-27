@@ -7,8 +7,8 @@ Runs in GitHub Actions. Standard library only.
 deals.json is only rewritten when the offer list actually changes, so GitHub Pages
 doesn't redeploy for nothing.
 """
-import html, json, re, sys, urllib.request
-from datetime import datetime, timezone
+import html, json, os, re, sys, urllib.request
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -114,6 +114,49 @@ def main():
         "log": log[:20],
     }, indent=2, ensure_ascii=False) + "\n")
     print(f"Wrote {len(offers)} offers ({len(added)} new).")
+    notify(added, now)
+
+
+# ---------- Phone notifications via ntfy (https://ntfy.sh) ----------
+# Set the repo secret NTFY_TOPIC to your private topic name to turn this on.
+# Optional repo variable NTFY_MIN_DISCOUNT (e.g. 40) only alerts for deals at least that % off.
+def pct(o):
+    m = re.match(r"(\d+)% off", o.get("discount") or "")
+    return int(m.group(1)) if m else 0
+
+
+def ntfy(topic, payload):
+    req = urllib.request.Request("https://ntfy.sh/", data=json.dumps(dict(payload, topic=topic)).encode(),
+                                 headers={"Content-Type": "application/json"}, method="POST")
+    urllib.request.urlopen(req, timeout=15).read()
+
+
+def notify(added, now):
+    topic = os.environ.get("NTFY_TOPIC", "").strip()
+    if not topic or not added:
+        return
+    min_off = int(os.environ.get("NTFY_MIN_DISCOUNT") or 0)
+    cutoff = (datetime.now(timezone.utc) - timedelta(hours=2)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    # Only deals posted recently, so the first run (or a long pause) doesn't send a flood.
+    fresh = [o for o in added if (o.get("postedAt") or "") >= cutoff and pct(o) >= min_off]
+    app = "https://charitit.github.io/blockbuster-deals-app/"
+    try:
+        if len(fresh) > 4:
+            ntfy(topic, {"title": f"{len(fresh)} new deals", "tags": ["shopping_cart"], "click": app,
+                         "message": "\n".join(f"{o.get('price') or ''} · {o['title'][:60]}" for o in fresh[:8])})
+        else:
+            for o in fresh:
+                head = " · ".join(x for x in (o.get("price"), o.get("discount")) if x)
+                msg = {"title": (head + " — " if head else "") + o["title"][:80],
+                       "message": " · ".join(x for x in (o.get("store"), ("was " + o["was"]) if o.get("was") else None) if x) or "New deal",
+                       "tags": ["shopping_cart"], "click": o.get("link") or app,
+                       "actions": [{"action": "view", "label": "Open app", "url": app}]}
+                if o.get("image"):
+                    msg["attach"] = o["image"]
+                ntfy(topic, msg)
+        print(f"Notified {len(fresh)} deal(s).")
+    except Exception as e:  # never fail the update because of a notification
+        print("Notification failed:", e)
 
 
 if __name__ == "__main__":

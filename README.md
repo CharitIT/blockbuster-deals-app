@@ -60,6 +60,14 @@ To run it right now: GitHub → **Actions** → **Update deals** → **Run workf
 
 WhatsApp-only offers that aren't on the website (for example HSN collections or sign-up offers) can be added by hand to `manual.json`.
 
+## Phone notifications (ntfy)
+
+1. Install the free **ntfy** app ([iPhone](https://apps.apple.com/app/ntfy/id1625396347) · [Android](https://play.google.com/store/apps/details?id=io.heckel.ntfy)), tap **+**, and subscribe to your private topic name.
+2. On GitHub: **Settings → Secrets and variables → Actions → New repository secret**. Name `NTFY_TOPIC`, value = the same topic name.
+3. Optional: under the **Variables** tab, add `NTFY_MIN_DISCOUNT` (e.g. `40`) to be alerted only for deals at least that % off.
+
+Each GitHub run (every ~10 min) sends one alert per new deal (price, % off, photo; tap to open the deal). More than 4 at once are grouped into a single summary. Only deals posted in the last 2 hours trigger alerts, so there's no flood after a pause.
+
 ## Note
 
 A public repo means anyone with the link can see the offers. The offers come from the community's posts, so keep the link to yourself and your family.

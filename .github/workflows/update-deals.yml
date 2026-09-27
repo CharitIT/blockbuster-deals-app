@@ -23,6 +23,9 @@ jobs:
           python-version: "3.12"
       - name: Fetch deals from blockbusterdeals.net
         run: python scripts/fetch_deals.py
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_MIN_DISCOUNT: ${{ vars.NTFY_MIN_DISCOUNT }}
       - name: Commit if changed
         run: |
           if git diff --quiet -- deals.json; then echo "No changes"; exit 0; fi
