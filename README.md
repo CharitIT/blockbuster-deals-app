@@ -66,7 +66,7 @@ WhatsApp-only offers that aren't on the website (for example HSN collections or 
 2. On GitHub: **Settings → Secrets and variables → Actions → New repository secret**. Name `NTFY_TOPIC`, value = the same topic name.
 3. Optional: under the **Variables** tab, add `NTFY_MIN_DISCOUNT` (e.g. `40`) to be alerted only for deals at least that % off.
 
-Each GitHub run (every ~10 min) sends one alert per new deal (price, % off, photo; tap to open the deal). More than 4 at once are grouped into a single summary. Only deals posted in the last 2 hours trigger alerts, so there's no flood after a pause.
+Each GitHub run (every ~10 min) sends one alert per new deal (price, % off, photo; tap to open the deal). More than 4 at once are grouped into a single summary. Only deals posted in the last 12 hours trigger alerts, so there is no flood after a long pause. GitHub often runs the job every 1-3 hours instead of every 10 minutes on free repos; alerts arrive when it runs.
 
 ## Note
 

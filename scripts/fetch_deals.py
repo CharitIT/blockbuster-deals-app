@@ -136,8 +136,8 @@ def notify(added, now):
     if not topic or not added:
         return
     min_off = int(os.environ.get("NTFY_MIN_DISCOUNT") or 0)
-    cutoff = (datetime.now(timezone.utc) - timedelta(hours=2)).strftime("%Y-%m-%dT%H:%M:%SZ")
-    # Only deals posted recently, so the first run (or a long pause) doesn't send a flood.
+    cutoff = (datetime.now(timezone.utc) - timedelta(hours=12)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    # Only deals posted in the last 12 hours (GitHub can delay runs by hours), so the first run or a long pause does not send a flood.
     fresh = [o for o in added if (o.get("postedAt") or "") >= cutoff and pct(o) >= min_off]
     app = "https://charitit.github.io/blockbuster-deals-app/"
     try:
