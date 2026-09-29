@@ -68,7 +68,10 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(-
 .pill.fresh{background:var(--tag);color:var(--tag-ink)}
 .price{display:flex;gap:8px;align-items:baseline;font-variant-numeric:tabular-nums}
 .price .now{font:800 22px/1 var(--display);color:var(--accent)}
-.price .was{color:var(--muted);text-decoration:line-through}
+.price .was{color:var(--muted);text-decoration:none}
+.price .was s{text-decoration:line-through}
+.price.pending{font-size:14px;color:var(--muted)}
+.save{font:600 14px/1.2 var(--body);color:var(--accent);margin-top:-4px}
 .code{display:flex;align-items:center;gap:8px;border:1px dashed var(--line);border-radius:6px;padding:6px 8px}
 .code span{font:500 14px var(--mono);letter-spacing:.04em;flex:1;overflow-wrap:anywhere}
 .copy{font:500 12px var(--body);border:0;background:var(--accent-soft);color:var(--accent);padding:6px 10px;border-radius:5px;cursor:pointer}
@@ -139,6 +142,7 @@ footer{font-size:12px;color:var(--muted)}
 <script>
 (function(){
   const REFRESH_MS = 5 * 60 * 1000;    // 5 minutes
+  const WORKER_URL = "";   // e.g. "https://bbdeals.<your-name>.workers.dev/" (set after deploying worker/worker.js)
   const SITE_API = "https://blockbusterdeals.net/wp-json/wp/v2/product?per_page=20&_fields=id,date_gmt,link,title,_links,_embedded&_embed=wp:featuredmedia";
   const $ = s => document.querySelector(s);
   let data = {offers:[],log:[]}, filter = "active", q = "", lastFetch = 0, seen = new Set();
@@ -159,6 +163,12 @@ footer{font-size:12px;color:var(--muted)}
     return ms < 48*3600e3 ? "soon" : "active";
   }
 
+  const num = v => { const m = String(v||"").replace(/,/g,"").match(/\$\s*([\d.]+)/); return m ? parseFloat(m[1]) : null; };
+  function saving(price, was){
+    const a = num(price), b = num(was);
+    if (a == null || b == null || b <= a) return null;
+    const d = b - a; return "$" + (Number.isInteger(Math.round(d*100)/100) ? d.toFixed(0) : d.toFixed(2));
+  }
   function card(o){
     const s = state(o);
     const c = el("article","card"+(s==="expired"?" expired":"")+(seen.size && !seen.has(o.id)?" new":""));
@@ -170,8 +180,16 @@ footer{font-size:12px;color:var(--muted)}
     if (o.price || o.was){
       const p = el("div","price");
       if (o.price) p.append(el("span","now",o.price));
-      if (o.was) p.append(el("span","was",o.was));
+      if (o.was){ const w=el("span","was"); w.append(el("span","lbl","Was "), el("s",null,o.was)); p.append(w); }
       c.append(p);
+      const save = o.save || saving(o.price, o.was);
+      if (save || o.discount){
+        const sv = el("div","save");
+        sv.textContent = [save ? "You save " + save : null, /^\d+% off$/.test(o.discount||"") ? "(" + o.discount + ")" : null].filter(Boolean).join(" ");
+        if (sv.textContent) c.append(sv);
+      }
+    } else if (o.live) {
+      c.append(el("div","price pending","Checking price…"));
     }
     if (o.code){
       const box = el("div","code"), t = el("span",null,o.code), b = el("button","copy","Copy");
@@ -225,7 +243,7 @@ footer{font-size:12px;color:var(--muted)}
       const res = await fetch("deals.json?t="+Date.now(), {cache:"no-store"});
       if (!res.ok) throw new Error(res.status);
       data = await res.json();
-      await addLive();
+      if (!(await addPriced())) await addLive();
       lastFetch = Date.now();
       $("#dot").classList.remove("off");
       render();
@@ -239,6 +257,22 @@ footer{font-size:12px;color:var(--muted)}
   }
   // Deals posted on blockbusterdeals.net since the last GitHub update, read straight from the site.
   // This feed has no prices; the next GitHub update (every ~10 min) fills them in.
+  // Live deals WITH prices from the Cloudflare Worker (see worker/). Falls back to addLive() if not set up.
+  async function addPriced(){
+    if (!WORKER_URL) return false;
+    try {
+      const r = await fetch(WORKER_URL + "?t=" + Date.now(), {cache:"no-store"});
+      if (!r.ok) return false;
+      const live = (await r.json()).offers || [];
+      if (!live.length) return false;
+      const byId = new Map(live.map(o => [o.id, o]));
+      const rest = (data.offers||[]).filter(o => !byId.has(o.id));
+      data.offers = live.concat(rest);
+      if (data.fetchedAt === undefined) data.lastScan = new Date().toISOString();
+      render();
+      return true;
+    } catch(e){ return false; }
+  }
   async function addLive(){
     try {
       const r = await fetch(SITE_API + "&t=" + Date.now(), {cache:"no-store"});
