@@ -1,9 +1,27 @@
 {
   "channel": "BlockbusterDeals 19",
   "source": "https://blockbusterdeals.net",
-  "lastScan": "2026-10-04T02:00:55Z",
+  "lastScan": "2026-10-04T08:19:52Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "bbd-55200",
+      "store": "Household and Kitchen",
+      "title": "Mixing Bowls with Lids Set of 5, Vesteel Stainless Steel Mixing Bowls Metal Nesting Salad Bowls, Size 4.5, 3, 1.5, 1, 0.7 QT Great for Cooking, Baking, Serving – Multi-Color",
+      "price": "$19",
+      "was": "$34",
+      "discount": "44% off",
+      "code": null,
+      "notes": "Vesteel Mixing Bowls Set is constructed by commercial grade stainless steel, which is shatterproof, dent and rust resistant. The thoughtful design is their fla…",
+      "link": "https://mavely.app.link/VEAze59WW6b",
+      "page": "https://blockbusterdeals.net/product/mixing-bowls-with-lids-set-of-5-vesteel-stainless-steel-mixing-bowls-metal-nesting-salad-bowls-size-4-5-3-1-5-1-0-7-qt-great-for-cooking-baking-serving-multi-color-5/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261004_073005_0000-300x300.png",
+      "category": "Household and Kitchen",
+      "postedAt": "2026-10-04T02:01:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site"
+    },
     {
       "id": "bbd-55198",
       "store": "Amazon",
@@ -1067,24 +1085,6 @@
       "source": "site"
     },
     {
-      "id": "bbd-55055",
-      "store": "Amazon",
-      "title": "roborock Q10 S5+ Robot Vacuum and Mop, 10,000Pa Suction",
-      "price": "$279",
-      "was": "$549",
-      "discount": "49% off",
-      "code": null,
-      "notes": "",
-      "link": "https://amzn.to/4rQclbO",
-      "page": "https://blockbusterdeals.net/product/roborock-q10-s5-robot-vacuum-and-mop-10000pa-suction/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Black_20261003_052910_0000-300x300.png",
-      "category": "Amazon Deals",
-      "postedAt": "2026-10-03T00:00:33Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1131,6 +1131,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-10-04T08:19:52Z",
+      "text": "1 new offer(s): Mixing Bowls with Lids Set of 5, Vesteel"
+    },
     {
       "at": "2026-10-04T02:00:55Z",
       "text": "29 new offer(s): Toddler Mini Trampoline!, Lots Of Swimwear Sale, Superman Men’s and Big Men’s Graphic Hoo"
@@ -1206,10 +1210,6 @@
     {
       "at": "2026-09-29T06:48:07Z",
       "text": "25 new offer(s): Shark Steam & Scrub with Steam Blaster T, 18-Pack Travel Bottles for Toiletries, T, Waterpik Cordless Pulse 3100 Portable Wa"
-    },
-    {
-      "at": "2026-09-28T21:17:53Z",
-      "text": "37 new offer(s): Black Mixing Bowls With Airtight Lids,, Cetaphil Gentle Cleanser, Hydrating Face, The Quencher H2.O FlowState™ Tumbler | 2"
     }
   ]
 }
