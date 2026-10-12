@@ -1,9 +1,45 @@
 {
   "channel": "BlockbusterDeals 19",
   "source": "https://blockbusterdeals.net",
-  "lastScan": "2026-10-12T06:15:44Z",
+  "lastScan": "2026-10-12T15:29:14Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "bbd-56039",
+      "store": "Amazon",
+      "title": "PRETTYGARDEN Women’s Floral Oversized Cardigan Sweaters Trendy Fall Outfits",
+      "price": "$14",
+      "was": "$45",
+      "discount": "69% off",
+      "code": null,
+      "notes": "Limited time deal!!",
+      "link": "https://amzn.to/3VGG6Qe",
+      "page": "https://blockbusterdeals.net/product/prettygarden-womens-floral-oversized-cardigan-sweaters-trendy-fall-outfits/",
+      "image": null,
+      "category": null,
+      "postedAt": "2026-10-12T15:01:33Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site"
+    },
+    {
+      "id": "bbd-56038",
+      "store": "Amazon",
+      "title": "Cetaphil Baby Daily Lotion Organic Calendula Sensitive Skin 13.5 oz Paraben & mineral oil free, Vitamin E, sweet almond oil, dermatologist tested, gentle for newborns & eczema-prone skin",
+      "price": "$4",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "",
+      "link": "https://amzn.to/4s4ARpB",
+      "page": "https://blockbusterdeals.net/product/cetaphil-baby-daily-lotion-organic-calendula-sensitive-skin-13-5-oz-paraben-mineral-oil-free-vitamin-e-sweet-almond-oil-dermatologist-tested-gentle-for-newborns-eczema-prone-skin/",
+      "image": null,
+      "category": "Household and Kitchen",
+      "postedAt": "2026-10-12T14:59:12Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site"
+    },
     {
       "id": "bbd-56027",
       "store": "Deal",
@@ -1049,42 +1085,6 @@
       "source": "site"
     },
     {
-      "id": "bbd-55873",
-      "store": "Amazon",
-      "title": "YESHOMY Vanity Desk with Lighted Mirror,11 Lights,2 Drawers Makeup Table",
-      "price": "$98",
-      "was": "$109",
-      "discount": "10% off",
-      "code": null,
-      "notes": "",
-      "link": "https://amzn.to/3TBvT73",
-      "page": "https://blockbusterdeals.net/product/yeshomy-vanity-desk-with-lighted-mirror11-lights2-drawers-makeup-table/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/InShot_20261011_203401088-300x300.jpg",
-      "category": null,
-      "postedAt": "2026-10-11T15:10:32Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
-      "id": "bbd-55866",
-      "store": "Furniture",
-      "title": "BedLuxury 111.5” Modular Sectional Sofa with Movable Ottomans, U Shaped Cloud Couch for Living Room, 3-Seat, Beige",
-      "price": "$598",
-      "was": "$999",
-      "discount": "40% off",
-      "code": null,
-      "notes": "Easy To Rearrange",
-      "link": "https://mavely.app.link/1x4Ds77x86b",
-      "page": "https://blockbusterdeals.net/product/bedluxury-111-5-modular-sectional-sofa-with-movable-ottomans-u-shaped-cloud-couch-for-living-room-3-seat-beige-4/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Untitled-design_20261011_073302_0000-300x300.png",
-      "category": "Furniture",
-      "postedAt": "2026-10-11T02:04:29Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1131,6 +1131,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-10-12T15:29:14Z",
+      "text": "2 new offer(s): PRETTYGARDEN Women’s Floral Oversized Ca, Cetaphil Baby Daily Lotion Organic Calen"
+    },
     {
       "at": "2026-10-12T06:15:44Z",
       "text": "18 new offer(s): DOKOTOO Jeans for Women High Waisted Wid, WAthletic Works Girl’s ButterCore Active, Celebrity Pink Women’s Signature Zip Up "
@@ -1206,10 +1210,6 @@
     {
       "at": "2026-10-04T23:57:46Z",
       "text": "19 new offer(s): Apple AirPods Pro 3 Wireless Earbuds wit, Derma E Anti-Aging Regenerative Serum (1, Coffee Pod Drawer Holder, Compatible wit"
-    },
-    {
-      "at": "2026-10-04T18:06:31Z",
-      "text": "18 new offer(s): Wonder Nation Kids Two Buckle Footbed Sl, Chefman CraftBrew Espresso Machine, 15 B, Sony WH-CH720N Wireless Noise Cancelling"
     }
   ]
 }
