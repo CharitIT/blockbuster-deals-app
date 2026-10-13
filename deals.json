@@ -1,9 +1,27 @@
 {
   "channel": "BlockbusterDeals 19",
   "source": "https://blockbusterdeals.net",
-  "lastScan": "2026-10-12T15:29:14Z",
+  "lastScan": "2026-10-13T03:08:28Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "bbd-56084",
+      "store": "Deal",
+      "title": "S Rothschild & CO Girls’ 6-16 Contrast-Vestee Hooded Puffer Jacket",
+      "price": "$0",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Designed with a snuggly attached faux-sherpa vestee for added warmth and comfort, this quilted puffer jacket from S Rothschild & CO gives her a trend-right lay…",
+      "link": "https://blockbusterdeals.net/product/s-rothschild-co-girls-6-16-contrast-vestee-hooded-puffer-jacket/",
+      "page": "https://blockbusterdeals.net/product/s-rothschild-co-girls-6-16-contrast-vestee-hooded-puffer-jacket/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/68_20261012_071958_0000-300x300.png",
+      "category": null,
+      "postedAt": "2026-10-13T03:04:31Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site"
+    },
     {
       "id": "bbd-56039",
       "store": "Amazon",
@@ -1067,24 +1085,6 @@
       "source": "site"
     },
     {
-      "id": "bbd-55874",
-      "store": "Deal",
-      "title": "Garanimals Baby & Toddler Boys French Terry Pull-On Joggers",
-      "price": "$1",
-      "was": "$4",
-      "discount": "75% off",
-      "code": null,
-      "notes": "",
-      "link": "https://mavely.app.link/PH4WXswu96b",
-      "page": "https://blockbusterdeals.net/product/garanimals-baby-toddler-boys-french-terry-pull-on-joggers/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261011_203505_0000-300x300.png",
-      "category": null,
-      "postedAt": "2026-10-11T15:12:12Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1131,6 +1131,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-10-13T03:08:28Z",
+      "text": "1 new offer(s): S Rothschild & CO Girls’ 6-16 Contrast-V"
+    },
     {
       "at": "2026-10-12T15:29:14Z",
       "text": "2 new offer(s): PRETTYGARDEN Women’s Floral Oversized Ca, Cetaphil Baby Daily Lotion Organic Calen"
@@ -1206,10 +1210,6 @@
     {
       "at": "2026-10-05T03:44:06Z",
       "text": "12 new offer(s): Pen+Gear Squishy, Fidget Toys & Sensory , Brushed Microfiber Sheet Set-3 Piece Bed, Gal. House and Siding Pressure Wash Conc"
-    },
-    {
-      "at": "2026-10-04T23:57:46Z",
-      "text": "19 new offer(s): Apple AirPods Pro 3 Wireless Earbuds wit, Derma E Anti-Aging Regenerative Serum (1, Coffee Pod Drawer Holder, Compatible wit"
     }
   ]
 }
