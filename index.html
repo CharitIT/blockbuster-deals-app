@@ -43,8 +43,11 @@ header{display:grid;gap:12px}
 .top{display:flex;justify-content:space-between;align-items:center;gap:12px}
 .eyebrow{font:600 12px/1 var(--body);letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
 h1{font:800 clamp(26px,6vw,40px)/1.05 var(--display);margin:0;letter-spacing:-.01em;text-wrap:balance}
-.refresh{font:600 13px/1 var(--body);border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:9px 12px;border-radius:999px;cursor:pointer;white-space:nowrap}
-.refresh[aria-busy="true"]{opacity:.6}
+.refresh{display:grid;place-items:center;width:40px;height:40px;padding:0;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:50%;cursor:pointer}
+.refresh:hover{color:var(--accent);border-color:var(--accent)}
+.refresh:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.refresh[aria-busy="true"] svg{animation:spin .8s linear infinite;color:var(--accent)}
+@media (prefers-reduced-motion:reduce){.refresh[aria-busy="true"] svg{animation:none}}
 .status{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13px;color:var(--muted);border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding-block:10px}
 .status b{color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums}
 .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--accent);margin-right:6px;vertical-align:1px}
@@ -193,11 +196,11 @@ footer{font-size:12px;color:var(--muted)}
   .eyebrow{display:none}
   header{position:relative}
   .top{position:absolute;top:0;right:0}
-  h1{padding-right:92px;min-height:34px;line-height:34px;font-size:22px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  h1{padding-right:48px;min-height:34px;line-height:34px;font-size:22px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   .install{flex-wrap:nowrap}
   #installText{flex:1;min-width:0}
   .status{font-size:12px;padding-block:6px;gap:2px 12px}
-  .refresh{padding:6px 10px;font-size:12px}
+  .refresh{width:36px;height:36px}
   .install{padding:8px 10px;font-size:13px}
   .viewbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);margin-inline:-16px;padding:8px 16px;border-bottom:1px solid var(--line)}
 }
@@ -210,7 +213,9 @@ footer{font-size:12px;color:var(--muted)}
   <header>
     <div class="top">
       <div class="eyebrow">Live deals · blockbusterdeals.net</div>
-      <button class="refresh" id="refresh" type="button">Refresh</button>
+      <button class="refresh" id="refresh" type="button" aria-label="Refresh deals" title="Refresh">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M20 12a8 8 0 1 1-2.34-5.66" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M20 4v5h-5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
     </div>
     <h1>BlockbusterDeals 19</h1>
     <div class="status">
@@ -511,7 +516,7 @@ footer{font-size:12px;color:var(--muted)}
   }
 
   async function load(){
-    const btn = $("#refresh"); btn.setAttribute("aria-busy","true"); btn.textContent = "Refreshing…";
+    const btn = $("#refresh"); btn.setAttribute("aria-busy","true"); btn.setAttribute("aria-label","Refreshing deals");
     try {
       const res = await fetch("deals.json?t="+Date.now(), {cache:"no-store"});
       if (!res.ok) throw new Error(res.status);
@@ -525,7 +530,7 @@ footer{font-size:12px;color:var(--muted)}
       $("#dot").classList.add("off");
       $("#checked").textContent = "offline, showing saved offers";
     } finally {
-      btn.removeAttribute("aria-busy"); btn.textContent = "Refresh"; tick();
+      btn.removeAttribute("aria-busy"); btn.setAttribute("aria-label","Refresh deals"); tick();
     }
   }
   // Deals posted on blockbusterdeals.net since the last GitHub update, read straight from the site.
