@@ -499,6 +499,10 @@ footer{font-size:12px;color:var(--muted)}
     m.append(el("span","catTag",category(o)));
     if (o.postedAt) m.append(el("span",null,"Posted "+fmt(o.postedAt)));
     if (o.link && /^https?:\/\//.test(o.link)){ const a=el("a","go","Open deal ↗"); a.href=o.link; a.target="_blank"; a.rel="noopener"; m.append(a); }
+    if (o.page && /^https?:\/\//.test(o.page) && o.page !== o.link){
+      const a=el("a","go","View original post ↗"); a.href=o.page; a.target="_blank"; a.rel="noopener";
+      a.title="Use the original post if the deal link does not open"; m.append(a);
+    }
     c.append(m);
     return c;
   }
