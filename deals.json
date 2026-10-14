@@ -1,12 +1,31 @@
 {
   "channel": "BlockbusterDeals 19",
   "source": "https://blockbusterdeals.net",
-  "lastScan": "2026-10-14T02:22:45Z",
+  "lastScan": "2026-10-14T05:29:56Z",
   "nextScan": null,
   "offers": [
     {
+      "id": "bbd-56240",
+      "store": "Walmart",
+      "title": "Dove Clinical + Care Antiperspirant Deodorant Dry Spray For Women With Nourishing Serum Original Clean ,3.8 oz",
+      "price": "$12",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Keeps You Dry Longer",
+      "link": "https://mavely.app.link/3ejNgKPud7b",
+      "page": "https://blockbusterdeals.net/product/dove-clinical-care-antiperspirant-deodorant-dry-spray-for-women-with-nourishing-serum-original-clean-3-8-oz/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261014_075202_0000-300x300.png",
+      "category": null,
+      "postedAt": "2026-10-14T02:23:56Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Walmart"
+    },
+    {
       "id": "bbd-56238",
-      "store": "Amazon",
+      "store": "Furniture",
       "title": "Zinus Kai Platform Bed Frame, Four",
       "price": "$72",
       "was": "$199",
@@ -20,8 +39,7 @@
       "postedAt": "2026-10-14T02:20:42Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site",
-      "merchant": "Amazon"
+      "source": "site"
     },
     {
       "id": "bbd-56236",
@@ -44,7 +62,7 @@
     },
     {
       "id": "bbd-56234",
-      "store": "Apple",
+      "store": "Victoria's Secret",
       "title": "Victoria’s secret pink all sale",
       "price": "$0",
       "was": null,
@@ -59,11 +77,11 @@
       "expiresAt": null,
       "status": "active",
       "source": "site",
-      "merchant": "Apple"
+      "merchant": "Victoria's Secret"
     },
     {
       "id": "bbd-56232",
-      "store": "Apple",
+      "store": "Victoria's Secret",
       "title": "PINK Quarter-Zip Sweatshirt",
       "price": "$17",
       "was": "$59",
@@ -78,7 +96,7 @@
       "expiresAt": null,
       "status": "active",
       "source": "site",
-      "merchant": "Apple"
+      "merchant": "Victoria's Secret"
     },
     {
       "id": "bbd-56230",
@@ -556,7 +574,7 @@
     },
     {
       "id": "bbd-56172",
-      "store": "Amazon",
+      "store": "Deal",
       "title": "Sleeplux Durable Inflatable Air Mattress Pump",
       "price": "$29",
       "was": "$69",
@@ -570,8 +588,7 @@
       "postedAt": "2026-10-13T18:14:19Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site",
-      "merchant": "Amazon"
+      "source": "site"
     },
     {
       "id": "bbd-56170",
@@ -1123,25 +1140,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "bbd-56012",
-      "store": "Walmart",
-      "title": "Ozark Trail Men’s & Big Men’s Softshell Jacket, Sizes S-3XL",
-      "price": "$12",
-      "was": "$34",
-      "discount": "65% off",
-      "code": null,
-      "notes": "Happy trails! Tackle your next hike in Ozark Trail’s Softshell Jacket. This men’s jacket easily adds another layer to your look as you wear it over a Textured …",
-      "link": "https://go.sylikes.com/fa9l3iFYPGsQ",
-      "page": "https://blockbusterdeals.net/product/ozark-trail-mens-big-mens-softshell-jacket-sizes-s-3xl/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261012_064705_0000-300x300.png",
-      "category": null,
-      "postedAt": "2026-10-12T01:21:29Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1188,6 +1186,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-10-14T05:29:56Z",
+      "text": "1 new offer(s): Dove Clinical + Care Antiperspirant Deod"
+    },
     {
       "at": "2026-10-14T02:22:45Z",
       "text": "10 new offer(s): Zinus Kai Platform Bed Frame, Four, No Boundaries Super Soft Core Ankle Legg, Victoria’s secret pink all sale"
@@ -1263,10 +1265,6 @@
     {
       "at": "2026-10-08T23:50:57Z",
       "text": "17 new offer(s): Nikes shoes sale, Pompeian Smooth Extra Virgin Olive Oil –, Great Sleep® Down Alternative Cotton Sat"
-    },
-    {
-      "at": "2026-10-08T19:29:11Z",
-      "text": "20 new offer(s): Carter’s Child of Mine Baby Bodysuits, F, Cuisinart® Chef’s Classic 11-Piece Stain, Winnie the Pooh Baby Boys Fleece Sweatsh"
     }
   ]
 }
