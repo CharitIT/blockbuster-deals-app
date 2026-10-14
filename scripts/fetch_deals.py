@@ -33,25 +33,32 @@ def money(minor, unit):
     return f"${v:,.0f}" if v == int(v) else f"${v:,.2f}"
 
 
-MERCHANTS = (("amzn", "Amazon"), ("amazon", "Amazon"), ("walmart", "Walmart"), ("target.com", "Target"),
-             ("hsn.com", "HSN"), ("qvc", "QVC"), ("macys", "Macy's"), ("kohls", "Kohl's"), ("bestbuy", "Best Buy"),
-             ("nordstromrack", "Nordstrom"), ("nordstrom", "Nordstrom"), ("jcpenney", "JCPenney"), ("homedepot", "Home Depot"),
-             ("lowes", "Lowe's"), ("costco", "Costco"), ("samsclub", "Sam's Club"), ("ulta", "Ulta"), ("sephora", "Sephora"),
-             ("oldnavy", "Old Navy"), ("gap.com", "Gap"), ("nike", "Nike"), ("adidas", "Adidas"), ("wayfair", "Wayfair"),
-             ("ebay", "eBay"), ("curology", "Curology"), ("dickssportinggoods", "Dick's"), ("bjs.com", "BJ's"),
-             ("bedbathandbeyond", "Bed Bath & Beyond"), ("overstock", "Overstock"), ("zappos", "Zappos"), ("chewy", "Chewy"),
-             ("dell.com", "Dell"), ("lenovo.com", "Lenovo"), ("apple.com", "Apple"), ("samsung.com", "Samsung"),
-             ("michaelkors", "Michael Kors"), ("calvinklein", "Calvin Klein"), ("belk", "Belk"), ("dillards", "Dillard's"),
-             ("saksoff5th", "Saks Off 5th"), ("tjmaxx", "TJ Maxx"), ("marshalls", "Marshalls"), ("rossstores", "Ross"))
+# Store web domains (exact domain or a subdomain of it).
+MERCHANTS = (("amazon.com", "Amazon"), ("amzn.to", "Amazon"), ("amzn.com", "Amazon"), ("a.co", "Amazon"), ("link.amazon", "Amazon"),
+             ("walmart.com", "Walmart"), ("target.com", "Target"), ("hsn.com", "HSN"), ("qvc.com", "QVC"),
+             ("macys.com", "Macy's"), ("kohls.com", "Kohl's"), ("bestbuy.com", "Best Buy"), ("nordstromrack.com", "Nordstrom"),
+             ("nordstrom.com", "Nordstrom"), ("jcpenney.com", "JCPenney"), ("homedepot.com", "Home Depot"), ("lowes.com", "Lowe's"),
+             ("costco.com", "Costco"), ("samsclub.com", "Sam's Club"), ("ulta.com", "Ulta"), ("sephora.com", "Sephora"),
+             ("oldnavy.com", "Old Navy"), ("oldnavy.gap.com", "Old Navy"), ("gap.com", "Gap"), ("nike.com", "Nike"),
+             ("adidas.com", "Adidas"), ("wayfair.com", "Wayfair"), ("ebay.com", "eBay"), ("ebay.us", "eBay"),
+             ("curology.com", "Curology"), ("dickssportinggoods.com", "Dick's"), ("bjs.com", "BJ's"),
+             ("bedbathandbeyond.com", "Bed Bath & Beyond"), ("overstock.com", "Overstock"), ("zappos.com", "Zappos"),
+             ("chewy.com", "Chewy"), ("dell.com", "Dell"), ("lenovo.com", "Lenovo"), ("samsung.com", "Samsung"),
+             ("michaelkors.com", "Michael Kors"), ("calvinklein.us", "Calvin Klein"), ("belk.com", "Belk"),
+             ("dillards.com", "Dillard's"), ("saksoff5th.com", "Saks Off 5th"), ("tjmaxx.tjx.com", "TJ Maxx"),
+             ("marshalls.com", "Marshalls"), ("rossstores.com", "Ross"))
+# apple.com is only a store when the link actually lands there (never from an App Store badge on a redirect page).
 KNOWN = {name for _, name in MERCHANTS}
 SHORTENERS = ("mavely", "sylikes", "magik.ly", "bit.ly", "tinyurl", "linksynergy", "sjv.io", "go.skimresources",
               "howl.me", "shopmy", "rstyle", "click.linksynergy", "theblogcm")
 
 
 def merchant_for(host):
-    host = (host or "").lower()
-    for key, name in MERCHANTS:
-        if key in host:
+    host = (host or "").lower().split(":")[0]
+    if host.startswith("www."):
+        host = host[4:]
+    for dom, name in MERCHANTS:
+        if host == dom or host.endswith("." + dom):
             return name
     return None
 
@@ -115,7 +122,8 @@ def resolve_merchant(url, cache, budget):
     try:
         for _ in range(4):
             with _open(nxt) as r:
-                found = merchant_for(urlparse(r.geturl()).netloc) or ""
+                land = urlparse(r.geturl()).netloc.lower()
+                found = merchant_for(land) or ("Apple" if land in ("apple.com", "www.apple.com") else "")
                 if found:
                     break
                 body = html.unescape(unquote(r.read(300000).decode("utf-8", "ignore")))
