@@ -56,6 +56,13 @@ h1{font:800 clamp(26px,6vw,40px)/1.05 var(--display);margin:0;letter-spacing:-.0
 button:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .chip .n{opacity:.7;margin-left:4px;font-variant-numeric:tabular-nums}
 #q{flex:1 1 200px;min-width:0;font:inherit;font-size:16px;padding:8px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+.filters{display:grid;gap:10px}
+.frow{display:grid;gap:6px;min-width:0}
+.flabel{font:600 11px/1 var(--body);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.chips.scroll{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;padding-bottom:2px;min-width:0}
+.chips.scroll::-webkit-scrollbar{display:none}
+.chips.scroll .chip{flex:0 0 auto}
+.catTag{font:600 11px/1 var(--body);color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:3px 8px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
 .card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:grid;gap:10px;align-content:start}
 .card.expired{opacity:.6}
@@ -125,6 +132,17 @@ footer{font-size:12px;color:var(--muted)}
     <input id="q" type="search" placeholder="Search store, item or code" aria-label="Search offers">
   </div>
 
+  <div class="filters">
+    <div class="frow">
+      <span class="flabel" id="lblOff">Discount</span>
+      <div class="chips scroll" role="group" aria-labelledby="lblOff" id="offChips"></div>
+    </div>
+    <div class="frow">
+      <span class="flabel" id="lblCat">Category</span>
+      <div class="chips scroll" role="group" aria-labelledby="lblCat" id="catChips"></div>
+    </div>
+  </div>
+
   <section id="list" class="grid" aria-live="polite"></section>
   <div id="empty" class="empty" hidden>
     <h2 id="emptyTitle">No offers yet</h2>
@@ -169,6 +187,54 @@ footer{font-size:12px;color:var(--muted)}
     if (a == null || b == null || b <= a) return null;
     const d = b - a; return "$" + (Number.isInteger(Math.round(d*100)/100) ? d.toFixed(0) : d.toFixed(2));
   }
+  // ---- Category from title (site categories are mostly blank) ----
+  const CATS = [
+    ["Kids & Toys", /\b(kids?|toddler|baby|babies|infant|boys?|girls?|juniors?|toys?|lego|playset|play ?set|playard|stroller|crib|magnetic tiles?|advent calendar|puzzle|doll|nursery|child(?:ren)?|youth|plush|stuffed|squishmallows?|barbie|hug-a-lumps)\b/i],
+    ["Electronics", /\b(laptop|tablet|ipad|iphone|phone|tv|television|monitor|earbuds?|headphones?|speaker|bluetooth|camera|smart ?watch|charger|usb|hdmi|router|wifi|gaming|console|keyboard|mouse|printer|projector|fire tv|echo|alexa|kindle|ssd|power bank|drone|copilot\+? pc|chromebook)\b/i],
+    ["Beauty & Health", /\b(skin ?care|serum|moisturi[sz]|lotion|cleanser|shampoo|conditioner|hair ?(?:dryer|styler|brush)|makeup|cosmetic|nail|perfume|eau de|fragrance|toothbrush|floss(?:er)?|dental|vitamin|supplement|red light|face mask|facial|razor|shaver|deodorant|sunscreen|lipstick|mascara)\b/i],
+    ["Bed & Bath", /\b(mattress|pillows?|bed ?sheets?|sheets? set|comforter|duvet|quilt|blankets?|bedding|towels?|bath ?mat|shower|bathrobe|headboard|bed frame|air mattress)\b/i],
+    ["Home & Kitchen", /\b(kitchen|cook(?:er|ware|ing)?|pots?|pans?|skillet|dutch oven|blender|mixer|air fryer|knife|knives|utensil|food|coffee|kettle|tumblers?|bottles?|mug|plates?|bowls?|storage|organi[sz]er|shelf|shelves|rack|bench|table|chair|sofa|couch|rug|curtains?|lamp|decor|decorations?|vacuum|mop|cleaning|laundry|hamper|trash|candle|frame|furniture|cabinet|drill|tools?|garden|patio|grill)\b/i],
+    ["Women", /\b(women'?s?|womens|ladies|woman|her|dress|skirt|bra|bralette|leggings|handbag|purse|tote|shoulder bag|crossbody|jumpsuit)\b|women[’']s/i],
+    ["Men", /\b(men'?s?|mens|man|his|boxer|polo)\b|men[’']s/i],
+  ];
+  const APPAREL = /\b(shoes?|sneakers?|sandals?|slippers?|boots?|jackets?|hoodie|jeans|shirts?|tee|sweaters?|socks|belt|wallet|watch|clothing|apparel)\b/i;
+  function category(o){
+    const t = o.title || "";
+    for (const [name, re] of CATS) if (re.test(t)) return name;           // title first
+    for (const [name, re] of CATS) if (re.test(o.category || "")) return name; // then the site's category
+    if (APPAREL.test(t + " " + (o.category || ""))) return "Clothing & Shoes";
+    return "Other";
+  }
+  const CAT_ORDER = ["All","Electronics","Home & Kitchen","Bed & Bath","Women","Men","Kids & Toys","Beauty & Health","Clothing & Shoes","Other"];
+  const OFF_STEPS = [0,20,40,60,80];
+  const pctOff = o => { const m = String(o.discount||"").match(/(\d+)%/); return m ? +m[1] : 0; };
+  let cat = "All", minOff = 0;
+  try { cat = localStorage.getItem("bd-cat") || "All"; minOff = +(localStorage.getItem("bd-off") || 0); } catch(e){}
+
+  function chip(label, pressed, onClick, count){
+    const b = el("button","chip"); b.type="button"; b.setAttribute("aria-pressed", String(pressed));
+    b.append(label); if (count != null) b.append(el("span","n",String(count)));
+    b.addEventListener("click", onClick); return b;
+  }
+  function renderFilters(base){
+    // Discount chips: counts reflect the current category.
+    const inCat = base.filter(o => cat==="All" || category(o)===cat);
+    $("#offChips").replaceChildren(...OFF_STEPS.map(n => chip(n ? n+"%+" : "Any", minOff===n,
+      () => { minOff=n; try{localStorage.setItem("bd-off",n);}catch(e){} render(); },
+      inCat.filter(o => pctOff(o) >= n).length)));
+    // Category chips: counts reflect the current discount; hide empty categories.
+    const inOff = base.filter(o => pctOff(o) >= minOff);
+    const counts = {}; inOff.forEach(o => { const c = category(o); counts[c] = (counts[c]||0)+1; });
+    $("#catChips").replaceChildren(...CAT_ORDER.filter(c => c==="All" || counts[c] || c===cat).map(c => chip(c, cat===c,
+      () => { cat=c; try{localStorage.setItem("bd-cat",c);}catch(e){} render(); },
+      c==="All" ? inOff.length : (counts[c]||0))));
+    // Keep the selected chips visible in their scrolling rows.
+    for (const row of ["#offChips","#catChips"]) {
+      const on = document.querySelector(row + ' .chip[aria-pressed="true"]');
+      if (on) { const r = on.parentElement; r.scrollLeft = Math.max(0, on.offsetLeft - r.offsetLeft - 16); }
+    }
+  }
+
   function card(o){
     const s = state(o);
     const c = el("article","card"+(s==="expired"?" expired":"")+(seen.size && !seen.has(o.id)?" new":""));
@@ -206,6 +272,7 @@ footer{font-size:12px;color:var(--muted)}
     if (o.live) m.append(el("span","pill fresh","Just posted"));
     else m.append(el("span","pill"+(s==="soon"?" soon":s==="expired"?" gone":""),
       s==="expired"?"Expired":o.expiresAt?"Ends "+fmtDay(o.expiresAt):"No end date"));
+    m.append(el("span","catTag",category(o)));
     if (o.postedAt) m.append(el("span",null,"Posted "+fmt(o.postedAt)));
     if (o.link && /^https?:\/\//.test(o.link)){ const a=el("a","go","Open deal ↗"); a.href=o.link; a.target="_blank"; a.rel="noopener"; m.append(a); }
     c.append(m);
@@ -222,13 +289,16 @@ footer{font-size:12px;color:var(--muted)}
     $("#nAll").textContent = offers.length;
     $("#cActive").textContent = counts.active+counts.soon;
     $("#last").textContent = fmt(data.lastScan);
-    document.querySelectorAll(".chip").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.f===filter)));
+    document.querySelectorAll(".chip[data-f]").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.f===filter)));
     const needle = q.trim().toLowerCase();
+    renderFilters(offers.filter(o => { const s = state(o); return filter==="all" || (filter==="active" ? s!=="expired" : s===filter); }));
     const shown = offers.filter(o=>{
       const s = state(o);
       if (filter==="active" && s==="expired") return false;
       if (filter==="soon" && s!=="soon") return false;
       if (filter==="expired" && s!=="expired") return false;
+      if (minOff && pctOff(o) < minOff) return false;
+      if (cat!=="All" && category(o)!==cat) return false;
       return !needle || [o.store,o.title,o.code,o.notes].join(" ").toLowerCase().includes(needle);
     }).sort((a,b)=>(b.postedAt||"").localeCompare(a.postedAt||""));
     $("#list").replaceChildren(...shown.map(card));
@@ -293,7 +363,7 @@ footer{font-size:12px;color:var(--muted)}
   }
   function tick(){ if (lastFetch) $("#checked").textContent = ago(lastFetch); }
 
-  document.querySelectorAll(".chip").forEach(b=>b.addEventListener("click",()=>{ filter=b.dataset.f; try{localStorage.setItem("bd-filter",filter);}catch(e){} render(); }));
+  document.querySelectorAll(".chip[data-f]").forEach(b=>b.addEventListener("click",()=>{ filter=b.dataset.f; try{localStorage.setItem("bd-filter",filter);}catch(e){} render(); }));
   $("#q").addEventListener("input",e=>{ q=e.target.value; render(); });
   $("#refresh").addEventListener("click", load);
 
