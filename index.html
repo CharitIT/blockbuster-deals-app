@@ -72,6 +72,53 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(-
 #offRange::-moz-range-thumb{width:18px;height:18px;border-radius:50%;background:var(--surface);border:3px solid var(--accent)}
 #offRange:focus-visible{outline:2px solid var(--accent);outline-offset:4px;border-radius:999px}
 .offTicks{display:flex;justify-content:space-between;font-size:11px;color:var(--muted);margin-top:-4px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.viewbar{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.sortbox{display:flex;align-items:center;gap:8px}
+#sortSel{font:500 14px var(--body);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:7px 28px 7px 10px;appearance:none;-webkit-appearance:none;
+  background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);
+  background-position:calc(100% - 15px) 52%,calc(100% - 10px) 52%;background-size:5px 5px;background-repeat:no-repeat}
+.viewtoggle{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.vbtn{border:0;background:var(--surface);color:var(--muted);padding:6px 10px;cursor:pointer;display:grid;place-items:center}
+.vbtn svg{fill:currentColor}
+.vbtn[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.vbtn:focus-visible,#sortSel:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.dual{position:relative;height:28px}
+.dualTrack{position:absolute;left:12px;right:12px;top:11px;height:6px;border-radius:999px;background:var(--line)}
+.dualFill{position:absolute;top:0;bottom:0;border-radius:999px;background:var(--accent)}
+.dual input[type=range]{position:absolute;inset:0;width:100%;height:28px;margin:0;background:transparent;pointer-events:none;-webkit-appearance:none;appearance:none}
+.dual input[type=range]::-webkit-slider-runnable-track{background:transparent;height:6px}
+.dual input[type=range]::-moz-range-track{background:transparent}
+.dual input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;pointer-events:auto;width:24px;height:24px;margin-top:-9px;border-radius:50%;background:var(--surface);border:3px solid var(--accent);box-shadow:0 1px 3px rgba(0,0,0,.25);cursor:pointer}
+.dual input[type=range]::-moz-range-thumb{pointer-events:auto;width:18px;height:18px;border-radius:50%;background:var(--surface);border:3px solid var(--accent);cursor:pointer}
+.dual input[type=range]:focus-visible{outline:none}
+.dual input[type=range]:focus-visible::-webkit-slider-thumb{outline:2px solid var(--accent);outline-offset:2px}
+/* compact grid: 2 per row on phones */
+.grid.compact{grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px}
+@media (max-width:520px){.grid.compact{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.grid.compact .card{padding:10px;gap:6px;border-radius:10px}
+.grid.compact .thumb{max-height:none;aspect-ratio:1/1}
+.grid.compact .row{gap:6px}
+.grid.compact .store{font-size:10px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
+.grid.compact .off{font-size:12px;padding:4px 6px 4px 11px}
+.grid.compact .title{font-size:13.5px;line-height:1.25;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.grid.compact .price{flex-wrap:wrap;gap:2px 6px}
+.grid.compact .price .now{font-size:18px}
+.grid.compact .price .was{font-size:12px}
+.grid.compact .price .was .lbl{display:none}
+.grid.compact .save{font-size:12px;margin-top:0}
+.save .svs{display:none}
+.grid.compact .save .svl,.grid.compact .save .svp{display:none}
+.grid.compact .save .svs{display:inline}
+.grid.compact .notes,.grid.compact .code,.grid.compact .meta .pill:not(.fresh),.grid.compact .catTag{display:none}
+.grid.compact .meta{gap:4px 8px;font-size:11px}
+/* pull to refresh */
+.ptr{position:fixed;left:0;right:0;top:calc(env(safe-area-inset-top,0px) - 48px);height:44px;display:flex;align-items:center;justify-content:center;gap:8px;font:600 13px var(--body);color:var(--accent);z-index:10;pointer-events:none;transition:transform .2s}
+.ptrSpin{width:18px;height:18px;border-radius:50%;border:2.5px solid var(--line);border-top-color:var(--accent)}
+.ptr.loading .ptrSpin{animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.ptr.loading .ptrSpin{animation:none}}
+html,body{overscroll-behavior-y:contain}
 .catTag{font:600 11px/1 var(--body);color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:3px 8px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
 .card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:grid;gap:10px;align-content:start}
@@ -113,6 +160,7 @@ footer{font-size:12px;color:var(--muted)}
 </style>
 </head>
 <body>
+<div class="ptr" id="ptr" aria-hidden="true"><span class="ptrSpin"></span><span id="ptrText">Pull to refresh</span></div>
 <div class="wrap">
   <header>
     <div class="top">
@@ -142,6 +190,23 @@ footer{font-size:12px;color:var(--muted)}
     <input id="q" type="search" placeholder="Search store, item or code" aria-label="Search offers">
   </div>
 
+  <div class="viewbar">
+    <label class="sortbox"><span class="flabel">Sort</span>
+      <select id="sortSel" aria-label="Sort deals">
+        <option value="new">Newest</option>
+        <option value="pct">Biggest % off</option>
+        <option value="save">Biggest $ saved</option>
+        <option value="low">Lowest price</option>
+      </select>
+    </label>
+    <div class="viewtoggle" role="group" aria-label="Layout">
+      <button type="button" class="vbtn" data-view="grid" aria-pressed="true" title="Grid">
+        <svg viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"><rect x="2" y="2" width="7" height="7" rx="1.5"/><rect x="11" y="2" width="7" height="7" rx="1.5"/><rect x="2" y="11" width="7" height="7" rx="1.5"/><rect x="11" y="11" width="7" height="7" rx="1.5"/></svg><span class="sr">Grid</span></button>
+      <button type="button" class="vbtn" data-view="list" aria-pressed="false" title="List">
+        <svg viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"><rect x="2" y="3" width="16" height="4" rx="1.5"/><rect x="2" y="9" width="16" height="4" rx="1.5"/><rect x="2" y="15" width="16" height="3" rx="1.5"/></svg><span class="sr">List</span></button>
+    </div>
+  </div>
+
   <div class="filters">
     <div class="frow">
       <div class="offHead">
@@ -152,12 +217,28 @@ footer{font-size:12px;color:var(--muted)}
       <div class="offTicks" aria-hidden="true"><span>Any</span><span>30%</span><span>60%</span><span>90%</span></div>
     </div>
     <div class="frow">
+      <div class="offHead">
+        <span class="flabel" id="lblPrice">Price</span>
+        <span class="offVal" id="priceVal" aria-live="polite">Any price</span>
+      </div>
+      <div class="dual" id="priceDual">
+        <div class="dualTrack"><div class="dualFill" id="priceFill"></div></div>
+        <input type="range" id="priceMin" min="0" max="300" step="5" value="0" aria-label="Minimum price">
+        <input type="range" id="priceMax" min="0" max="300" step="5" value="300" aria-label="Maximum price">
+      </div>
+      <div class="offTicks" aria-hidden="true"><span>$0</span><span>$100</span><span>$200</span><span>$300+</span></div>
+    </div>
+    <div class="frow">
+      <span class="flabel" id="lblStore">Store</span>
+      <div class="chips scroll" role="group" aria-labelledby="lblStore" id="storeChips"></div>
+    </div>
+    <div class="frow">
       <span class="flabel" id="lblCat">Category</span>
       <div class="chips scroll" role="group" aria-labelledby="lblCat" id="catChips"></div>
     </div>
   </div>
 
-  <section id="list" class="grid" aria-live="polite"></section>
+  <section id="list" class="grid compact" aria-live="polite"></section>
   <div id="empty" class="empty" hidden>
     <h2 id="emptyTitle">No offers yet</h2>
     <p id="emptyText">New offers show up here after the next scan.</p>
@@ -223,6 +304,28 @@ footer{font-size:12px;color:var(--muted)}
   const pctOff = o => { const m = String(o.discount||"").match(/(\d+)%/); return m ? +m[1] : 0; };
   let cat = "All", minOff = 0;
   try { cat = localStorage.getItem("bd-cat") || "All"; minOff = +(localStorage.getItem("bd-off") || 0); } catch(e){}
+  const PMAX = 300;
+  let sortBy = "new", pMin = 0, pMax = PMAX, store = "All", view = "grid";
+  try {
+    sortBy = localStorage.getItem("bd-sort") || "new";
+    pMin = +(localStorage.getItem("bd-pmin") || 0); pMax = +(localStorage.getItem("bd-pmax") || PMAX);
+    store = localStorage.getItem("bd-store") || "All"; view = localStorage.getItem("bd-view") || "grid";
+  } catch(e){}
+  const save = (k,v) => { try { localStorage.setItem(k, v); } catch(e){} };
+  const priceOf = o => { const v = num(o.price); return v != null && v > 0 ? v : null; };
+  const savedOf = o => { const a = num(o.price), b = num(o.was); return a != null && b != null && b > a ? b - a : 0; };
+  const KNOWN_STORES = ["Amazon","Walmart","Target","HSN","QVC","Macy's","Kohl's","Best Buy","Nordstrom","JCPenney","Home Depot","Lowe's","Costco","Sam's Club","Ulta","Sephora","Old Navy","Gap","Nike","Adidas","Wayfair","eBay","Curology"];
+  const storeOf = o => KNOWN_STORES.includes(o.store) ? o.store : (o.merchant || "Other");
+  const priceOk = o => { if (pMin <= 0 && pMax >= PMAX) return true; const p = priceOf(o); if (p == null) return false; return p >= pMin && (pMax >= PMAX || p <= pMax); };
+  const offOk = o => !minOff || pctOff(o) >= minOff;
+  const catOk = o => cat === "All" || category(o) === cat;
+  const storeOk = o => store === "All" || storeOf(o) === store;
+  const SORTS = {
+    new:  (a,b) => (b.postedAt||"").localeCompare(a.postedAt||""),
+    pct:  (a,b) => pctOff(b) - pctOff(a) || SORTS.new(a,b),
+    save: (a,b) => savedOf(b) - savedOf(a) || SORTS.new(a,b),
+    low:  (a,b) => { const x = priceOf(a), y = priceOf(b); return (x==null) - (y==null) || (x ?? 0) - (y ?? 0) || SORTS.new(a,b); },
+  };
 
   function chip(label, pressed, onClick, count){
     const b = el("button","chip"); b.type="button"; b.setAttribute("aria-pressed", String(pressed));
@@ -230,21 +333,35 @@ footer{font-size:12px;color:var(--muted)}
     b.addEventListener("click", onClick); return b;
   }
   function renderFilters(base){
-    // Discount chips: counts reflect the current category.
-    const inCat = base.filter(o => cat==="All" || category(o)===cat);
-    const rng = $("#offRange"), nOff = inCat.filter(o => pctOff(o) >= minOff).length;
+    const all = o => offOk(o) && priceOk(o) && catOk(o) && storeOk(o);
+    // Discount slider: count reflects all filters.
+    const rng = $("#offRange"), nOff = base.filter(all).length;
     if (+rng.value !== minOff) rng.value = minOff;
     rng.style.setProperty("--p", (minOff / 90 * 100) + "%");
     rng.setAttribute("aria-valuetext", minOff ? minOff + "% off or more" : "Any discount");
     $("#offVal").textContent = (minOff ? minOff + "%+ off" : "Any discount") + " · " + nOff + " deal" + (nOff === 1 ? "" : "s");
-    // Category chips: counts reflect the current discount; hide empty categories.
-    const inOff = base.filter(o => pctOff(o) >= minOff);
+    // Price slider
+    const lo = $("#priceMin"), hi = $("#priceMax");
+    if (+lo.value !== pMin) lo.value = pMin; if (+hi.value !== pMax) hi.value = pMax;
+    $("#priceFill").style.left = (pMin / PMAX * 100) + "%"; $("#priceFill").style.right = (100 - pMax / PMAX * 100) + "%";
+    const pLabel = (pMin <= 0 && pMax >= PMAX) ? "Any price" : pMax >= PMAX ? "$" + pMin + "+" : pMin <= 0 ? "Under $" + pMax : "$" + pMin + " – $" + pMax;
+    lo.setAttribute("aria-valuetext", "$" + pMin); hi.setAttribute("aria-valuetext", pMax >= PMAX ? "no maximum" : "$" + pMax);
+    $("#priceVal").textContent = pLabel + " · " + nOff + " deal" + (nOff === 1 ? "" : "s");
+    // Store chips: counts reflect the other filters; hide empty stores.
+    const forStore = base.filter(o => offOk(o) && priceOk(o) && catOk(o));
+    const sc = {}; forStore.forEach(o => { const k = storeOf(o); sc[k] = (sc[k]||0)+1; });
+    const storeNames = Object.keys(sc).sort((a,b) => (a==="Other") - (b==="Other") || sc[b]-sc[a] || a.localeCompare(b));
+    if (store !== "All" && !sc[store]) storeNames.push(store);
+    $("#storeChips").replaceChildren(chip("All", store==="All", () => { store="All"; save("bd-store","All"); render(); }, forStore.length),
+      ...storeNames.map(n => chip(n, store===n, () => { store=n; save("bd-store",n); render(); }, sc[n]||0)));
+    // Category chips: counts reflect the other filters; hide empty categories.
+    const inOff = base.filter(o => offOk(o) && priceOk(o) && storeOk(o));
     const counts = {}; inOff.forEach(o => { const c = category(o); counts[c] = (counts[c]||0)+1; });
     $("#catChips").replaceChildren(...CAT_ORDER.filter(c => c==="All" || counts[c] || c===cat).map(c => chip(c, cat===c,
       () => { cat=c; try{localStorage.setItem("bd-cat",c);}catch(e){} render(); },
       c==="All" ? inOff.length : (counts[c]||0))));
     // Keep the selected chips visible in their scrolling rows.
-    for (const row of ["#catChips"]) {
+    for (const row of ["#catChips","#storeChips"]) {
       const on = document.querySelector(row + ' .chip[aria-pressed="true"]');
       if (on) { const r = on.parentElement; r.scrollLeft = Math.max(0, on.offsetLeft - r.offsetLeft - 16); }
     }
@@ -266,7 +383,8 @@ footer{font-size:12px;color:var(--muted)}
       const save = o.save || saving(o.price, o.was);
       if (save || o.discount){
         const sv = el("div","save");
-        sv.textContent = [save ? "You save " + save : null, /^\d+% off$/.test(o.discount||"") ? "(" + o.discount + ")" : null].filter(Boolean).join(" ");
+        if (save) sv.append(el("span","svl","You save "), el("span","svs","Save "), save);
+        if (/^\d+% off$/.test(o.discount||"")) sv.append(el("span","svp", (save ? " " : "") + "(" + o.discount + ")"));
         if (sv.textContent) c.append(sv);
       }
     } else if (o.live) {
@@ -312,10 +430,12 @@ footer{font-size:12px;color:var(--muted)}
       if (filter==="active" && s==="expired") return false;
       if (filter==="soon" && s!=="soon") return false;
       if (filter==="expired" && s!=="expired") return false;
-      if (minOff && pctOff(o) < minOff) return false;
-      if (cat!=="All" && category(o)!==cat) return false;
-      return !needle || [o.store,o.title,o.code,o.notes].join(" ").toLowerCase().includes(needle);
-    }).sort((a,b)=>(b.postedAt||"").localeCompare(a.postedAt||""));
+      if (!offOk(o) || !priceOk(o) || !catOk(o) || !storeOk(o)) return false;
+      return !needle || [o.store,o.merchant,o.title,o.code,o.notes].join(" ").toLowerCase().includes(needle);
+    }).sort(SORTS[sortBy] || SORTS.new);
+    $("#list").classList.toggle("compact", view === "grid");
+    document.querySelectorAll(".vbtn").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.view === view)));
+    if ($("#sortSel").value !== sortBy) $("#sortSel").value = sortBy;
     $("#list").replaceChildren(...shown.map(card));
     $("#empty").hidden = shown.length>0;
     if (!shown.length && offers.length){ $("#emptyTitle").textContent="Nothing matches"; $("#emptyText").textContent="Try another filter or clear the search."; }
@@ -379,6 +499,35 @@ footer{font-size:12px;color:var(--muted)}
   function tick(){ if (lastFetch) $("#checked").textContent = ago(lastFetch); }
 
   document.querySelectorAll(".chip[data-f]").forEach(b=>b.addEventListener("click",()=>{ filter=b.dataset.f; try{localStorage.setItem("bd-filter",filter);}catch(e){} render(); }));
+  $("#sortSel").addEventListener("change", e => { sortBy = e.target.value; save("bd-sort", sortBy); render(); });
+  document.querySelectorAll(".vbtn").forEach(b => b.addEventListener("click", () => { view = b.dataset.view; save("bd-view", view); render(); }));
+  const onPrice = (which) => {
+    let lo = +$("#priceMin").value, hi = +$("#priceMax").value;
+    if (lo > hi - 5) { if (which === "min") lo = hi - 5; else hi = lo + 5; }
+    pMin = Math.max(0, lo); pMax = Math.min(PMAX, hi); render();
+  };
+  $("#priceMin").addEventListener("input", () => onPrice("min"));
+  $("#priceMax").addEventListener("input", () => onPrice("max"));
+  ["#priceMin","#priceMax"].forEach(id => $(id).addEventListener("change", () => { save("bd-pmin", pMin); save("bd-pmax", pMax); }));
+
+  // Pull to refresh (touch screens, when scrolled to the top)
+  (() => {
+    const ptr = $("#ptr"), txt = $("#ptrText"), TH = 70; let y0 = null, dy = 0, busy = false;
+    const reset = () => { ptr.style.transform = ""; ptr.classList.remove("loading"); dy = 0; };
+    addEventListener("touchstart", e => { if (!busy && scrollY <= 0 && e.touches.length === 1) { y0 = e.touches[0].clientY; dy = 0; } else y0 = null; }, {passive:true});
+    addEventListener("touchmove", e => {
+      if (y0 == null) return; dy = Math.max(0, e.touches[0].clientY - y0);
+      if (!dy) return; const d = Math.min(dy * 0.5, 90);
+      ptr.style.transform = "translateY(" + (d + 48) + "px)"; txt.textContent = dy > TH ? "Release to refresh" : "Pull to refresh";
+      $(".ptrSpin").style.transform = "rotate(" + dy * 3 + "deg)";
+    }, {passive:true});
+    addEventListener("touchend", async () => {
+      if (y0 == null) return; y0 = null;
+      if (dy > TH && !busy) { busy = true; ptr.classList.add("loading"); txt.textContent = "Refreshing…"; ptr.style.transform = "translateY(70px)";
+        try { await load(); } finally { busy = false; setTimeout(reset, 300); } }
+      else reset();
+    });
+  })();
   $("#offRange").addEventListener("input", e => { minOff = +e.target.value; render(); });
   $("#offRange").addEventListener("change", e => { try{ localStorage.setItem("bd-off", e.target.value); }catch(err){} });
   $("#q").addEventListener("input",e=>{ q=e.target.value; render(); });

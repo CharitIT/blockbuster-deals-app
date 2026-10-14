@@ -33,13 +33,69 @@ def money(minor, unit):
     return f"${v:,.0f}" if v == int(v) else f"${v:,.2f}"
 
 
-def store_for(url, cats):
-    host = urlparse(url or "").netloc.lower()
-    if "amzn" in host or "amazon" in host:
-        return "Amazon"
-    for key, name in (("walmart", "Walmart"), ("target", "Target"), ("hsn", "HSN"), ("qvc", "QVC"), ("macys", "Macy's")):
+MERCHANTS = (("amzn", "Amazon"), ("amazon", "Amazon"), ("walmart", "Walmart"), ("target.com", "Target"),
+             ("hsn.com", "HSN"), ("qvc", "QVC"), ("macys", "Macy's"), ("kohls", "Kohl's"), ("bestbuy", "Best Buy"),
+             ("nordstromrack", "Nordstrom"), ("nordstrom", "Nordstrom"), ("jcpenney", "JCPenney"), ("homedepot", "Home Depot"),
+             ("lowes", "Lowe's"), ("costco", "Costco"), ("samsclub", "Sam's Club"), ("ulta", "Ulta"), ("sephora", "Sephora"),
+             ("oldnavy", "Old Navy"), ("gap.com", "Gap"), ("nike", "Nike"), ("adidas", "Adidas"), ("wayfair", "Wayfair"),
+             ("ebay", "eBay"), ("curology", "Curology"))
+KNOWN = {name for _, name in MERCHANTS}
+SHORTENERS = ("mavely", "sylikes", "magik.ly", "bit.ly", "tinyurl", "linksynergy", "sjv.io", "go.skimresources",
+              "howl.me", "shopmy", "rstyle", "click.linksynergy", "theblogcm")
+
+
+def merchant_for(host):
+    host = (host or "").lower()
+    for key, name in MERCHANTS:
         if key in host:
             return name
+    return None
+
+
+STORES = ROOT / "stores.json"   # cache: link -> merchant (or "" when unknown)
+
+
+def load_store_cache():
+    try:
+        return json.loads(STORES.read_text())
+    except Exception:
+        return {}
+
+
+def resolve_merchant(url, cache, budget):
+    """Follow an affiliate short link once to learn the real store. Cached per link."""
+    if not url:
+        return None
+    direct = merchant_for(urlparse(url).netloc)
+    if direct:
+        return direct
+    if url in cache:
+        return cache[url] or None
+    if budget[0] <= 0 or not any(k in url for k in SHORTENERS):
+        return None
+    budget[0] -= 1
+    found = ""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"})
+        with urllib.request.urlopen(req, timeout=10) as r:
+            found = merchant_for(urlparse(r.geturl()).netloc) or ""
+            if not found:  # some shorteners use a JS/meta redirect: look for a store URL in the page
+                body = r.read(200000).decode("utf-8", "ignore")
+                for m in re.finditer(r"https?://(?:www\.)?([a-z0-9.-]+\.[a-z]{2,})", body):
+                    found = merchant_for(m.group(1)) or ""
+                    if found:
+                        break
+    except Exception as e:
+        print("resolve failed:", url, e)
+        return None  # don't cache failures; try again next run
+    cache[url] = found
+    return found or None
+
+
+def store_for(url, cats, cache=None, budget=None):
+    m = resolve_merchant(url, cache if cache is not None else {}, budget or [0])
+    if m:
+        return m
     return cats[0] if cats else "Deal"
 
 
@@ -59,6 +115,8 @@ def build():
     products = get(f"{SITE}/wp-json/wc/store/v1/products?per_page={COUNT}&orderby=date&order=desc")
     dates = {p["id"]: p["date_gmt"] for p in get(f"{SITE}/wp-json/wp/v2/product?per_page={COUNT}&_fields=id,date_gmt")}
     offers = []
+    cache = load_store_cache()
+    budget = [40]   # max new links to resolve per run
     for p in products:
         pr = p.get("prices") or {}
         unit = int(pr.get("currency_minor_unit") or 2)
@@ -71,7 +129,7 @@ def build():
         posted = dates.get(p["id"])
         offers.append({
             "id": f"bbd-{p['id']}",
-            "store": store_for(buy, cats),
+            "store": store_for(buy, cats, cache, budget),
             "title": html.unescape(p.get("name") or "").strip(),
             "price": money(price, unit),
             "was": money(reg, unit) if disc else None,
@@ -87,6 +145,11 @@ def build():
             "status": "active" if p.get("is_in_stock", True) else "expired",
             "source": "site",
         })
+    for o in offers:
+        if o["store"] in KNOWN:
+            o["merchant"] = o["store"]
+    keep = {o["link"] for o in offers}
+    STORES.write_text(json.dumps({k: v for k, v in cache.items() if k in keep}, indent=1, sort_keys=True) + "\n")
     if MANUAL.exists():
         offers += json.loads(MANUAL.read_text()).get("offers", [])
     offers.sort(key=lambda o: o.get("postedAt") or "", reverse=True)

@@ -3,6 +3,14 @@
 A phone app for iPhone and Android that shows live offers from blockbusterdeals.net, the site behind the BlockbusterDeals 19 WhatsApp community.
 It reloads every 5 minutes while it's open, and whenever you come back to it.
 
+## App features
+
+- **Sort:** newest, biggest % off, biggest $ saved, lowest price.
+- **Filters:** discount slider (0–90%+), price range slider ($0–$300+), store chips, category chips. All combine, show live counts, and are remembered on the device.
+- **Layout:** compact 2-per-row grid (default on phones) or full list, via the toggle next to Sort.
+- **Pull down to refresh** on touch screens.
+- **Real store names:** affiliate short links (mavely, sylikes, magik.ly…) are followed once by the GitHub job to find the actual store (Walmart, Macy's, HSN…). Results are cached in `stores.json`.
+
 ## Files
 
 | File | What it does |
