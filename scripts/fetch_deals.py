@@ -10,7 +10,7 @@ doesn't redeploy for nothing.
 import html, json, os, re, sys, urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, unquote
 
 SITE = "https://blockbusterdeals.net"
 COUNT = 60
@@ -38,7 +38,11 @@ MERCHANTS = (("amzn", "Amazon"), ("amazon", "Amazon"), ("walmart", "Walmart"), (
              ("nordstromrack", "Nordstrom"), ("nordstrom", "Nordstrom"), ("jcpenney", "JCPenney"), ("homedepot", "Home Depot"),
              ("lowes", "Lowe's"), ("costco", "Costco"), ("samsclub", "Sam's Club"), ("ulta", "Ulta"), ("sephora", "Sephora"),
              ("oldnavy", "Old Navy"), ("gap.com", "Gap"), ("nike", "Nike"), ("adidas", "Adidas"), ("wayfair", "Wayfair"),
-             ("ebay", "eBay"), ("curology", "Curology"))
+             ("ebay", "eBay"), ("curology", "Curology"), ("dickssportinggoods", "Dick's"), ("bjs.com", "BJ's"),
+             ("bedbathandbeyond", "Bed Bath & Beyond"), ("overstock", "Overstock"), ("zappos", "Zappos"), ("chewy", "Chewy"),
+             ("dell.com", "Dell"), ("lenovo.com", "Lenovo"), ("apple.com", "Apple"), ("samsung.com", "Samsung"),
+             ("michaelkors", "Michael Kors"), ("calvinklein", "Calvin Klein"), ("belk", "Belk"), ("dillards", "Dillard's"),
+             ("saksoff5th", "Saks Off 5th"), ("tjmaxx", "TJ Maxx"), ("marshalls", "Marshalls"), ("rossstores", "Ross"))
 KNOWN = {name for _, name in MERCHANTS}
 SHORTENERS = ("mavely", "sylikes", "magik.ly", "bit.ly", "tinyurl", "linksynergy", "sjv.io", "go.skimresources",
               "howl.me", "shopmy", "rstyle", "click.linksynergy", "theblogcm")
@@ -62,8 +66,41 @@ def load_store_cache():
         return {}
 
 
+UA_MOBILE = "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+NEXT_HOP = re.compile(r"""(?:http-equiv=["']?refresh["']?[^>]*url=|location(?:\.href)?\s*=\s*|location\.replace\(\s*|window\.open\(\s*)["']?(https?://[^"'\s<>)]+)""", re.I)
+ANY_URL = re.compile(r"https?://(?:www\.)?([a-z0-9.-]+\.[a-z]{2,})", re.I)
+
+# Store-brand names -> store (used when a link can't be followed).
+HOUSE_BRANDS = (
+    ("Walmart", ("athletic works", "ozark trail", "mainstays", "no boundaries", "wonder nation", "garanimals", "time and tru",
+                 "better homes & gardens", "better homes and gardens", "george ", "terra & sky", "great value", "equate",
+                 "parent's choice", "hyper tough", "onn.", "onn ", "pen + gear", "allswell", "gap home", "sofia jeans",
+                 "scoop ", "free assembly", "avia ", "my texas house")),
+    ("Target", ("cat & jack", "goodfellow", "threshold", "room essentials", "a new day", "wild fable", "universal thread",
+                "all in motion", "hearth & hand", "pillowfort", "up&up", "brightroom", "opalhouse", "art class")),
+    ("HSN", ("curtis stone", "joy mangano", "colleen lopez", "hsn ")),
+    ("QVC", ("denim & co", "isaac mizrahi live", "cook's essentials")),
+    ("Kohl's", ("sonoma goods for life", "so juniors", "tek gear", "food network ", "lc lauren conrad", "simply vera")),
+    ("Macy's", ("charter club", "style & co", "inc international", "alfani", "club room", "hotel collection")),
+    ("Amazon", ("amazon essentials", "amazon basics", "amazonbasics")),
+)
+
+
+def merchant_from_title(title):
+    t = " " + (title or "").lower() + " "
+    for store, brands in HOUSE_BRANDS:
+        if any(b in t for b in brands):
+            return store
+    return None
+
+
+def _open(url):
+    req = urllib.request.Request(url, headers={"User-Agent": UA_MOBILE, "Accept": "text/html,*/*"})
+    return urllib.request.urlopen(req, timeout=10)
+
+
 def resolve_merchant(url, cache, budget):
-    """Follow an affiliate short link once to learn the real store. Cached per link."""
+    """Follow an affiliate short link (and up to 3 JS/meta-refresh hops) to learn the real store. Cached per link."""
     if not url:
         return None
     direct = merchant_for(urlparse(url).netloc)
@@ -74,17 +111,30 @@ def resolve_merchant(url, cache, budget):
     if budget[0] <= 0 or not any(k in url for k in SHORTENERS):
         return None
     budget[0] -= 1
-    found = ""
+    found, nxt = "", url
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"})
-        with urllib.request.urlopen(req, timeout=10) as r:
-            found = merchant_for(urlparse(r.geturl()).netloc) or ""
-            if not found:  # some shorteners use a JS/meta redirect: look for a store URL in the page
-                body = r.read(200000).decode("utf-8", "ignore")
-                for m in re.finditer(r"https?://(?:www\.)?([a-z0-9.-]+\.[a-z]{2,})", body):
+        for _ in range(4):
+            with _open(nxt) as r:
+                found = merchant_for(urlparse(r.geturl()).netloc) or ""
+                if found:
+                    break
+                body = html.unescape(unquote(r.read(300000).decode("utf-8", "ignore")))
+            hop = NEXT_HOP.search(body)
+            if hop and hop.group(1) != nxt:
+                nxt = hop.group(1)
+                found = merchant_for(urlparse(nxt).netloc) or ""
+                for m in ([] if found else ANY_URL.finditer(nxt[8:])):  # store URL embedded in the hop's query string
                     found = merchant_for(m.group(1)) or ""
                     if found:
                         break
+                if found:
+                    break
+                continue
+            for m in ANY_URL.finditer(body):  # last resort: any store URL mentioned in the page
+                found = merchant_for(m.group(1)) or ""
+                if found:
+                    break
+            break
     except Exception as e:
         print("resolve failed:", url, e)
         return None  # don't cache failures; try again next run
@@ -92,8 +142,8 @@ def resolve_merchant(url, cache, budget):
     return found or None
 
 
-def store_for(url, cats, cache=None, budget=None):
-    m = resolve_merchant(url, cache if cache is not None else {}, budget or [0])
+def store_for(url, cats, cache=None, budget=None, title=""):
+    m = resolve_merchant(url, cache if cache is not None else {}, budget or [0]) or merchant_from_title(title)
     if m:
         return m
     return cats[0] if cats else "Deal"
@@ -129,7 +179,7 @@ def build():
         posted = dates.get(p["id"])
         offers.append({
             "id": f"bbd-{p['id']}",
-            "store": store_for(buy, cats, cache, budget),
+            "store": store_for(buy, cats, cache, budget, html.unescape(p.get("name") or "")),
             "title": html.unescape(p.get("name") or "").strip(),
             "price": money(price, unit),
             "was": money(reg, unit) if disc else None,

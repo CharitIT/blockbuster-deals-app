@@ -1,6 +1,6 @@
 // Pages (index.html) and deals.json: network-first, so the newest version always wins when online.
 // The saved copy is only used when offline. Icons and the manifest are cache-first.
-const CACHE = "bb-deals-v10";
+const CACHE = "bb-deals-v11";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest",
   "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon.png"];
 
