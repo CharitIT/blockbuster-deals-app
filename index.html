@@ -62,6 +62,16 @@ button:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(-
 .chips.scroll{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;padding-bottom:2px;min-width:0}
 .chips.scroll::-webkit-scrollbar{display:none}
 .chips.scroll .chip{flex:0 0 auto}
+.offHead{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.offVal{font:600 14px/1 var(--body);color:var(--accent);font-variant-numeric:tabular-nums}
+#offRange{--p:0%;-webkit-appearance:none;appearance:none;width:100%;height:28px;background:transparent;margin:0;cursor:pointer}
+#offRange::-webkit-slider-runnable-track{height:6px;border-radius:999px;background:linear-gradient(to right,var(--accent) var(--p),var(--line) var(--p))}
+#offRange::-moz-range-track{height:6px;border-radius:999px;background:var(--line)}
+#offRange::-moz-range-progress{height:6px;border-radius:999px;background:var(--accent)}
+#offRange::-webkit-slider-thumb{-webkit-appearance:none;width:24px;height:24px;margin-top:-9px;border-radius:50%;background:var(--surface);border:3px solid var(--accent);box-shadow:0 1px 3px rgba(0,0,0,.25)}
+#offRange::-moz-range-thumb{width:18px;height:18px;border-radius:50%;background:var(--surface);border:3px solid var(--accent)}
+#offRange:focus-visible{outline:2px solid var(--accent);outline-offset:4px;border-radius:999px}
+.offTicks{display:flex;justify-content:space-between;font-size:11px;color:var(--muted);margin-top:-4px}
 .catTag{font:600 11px/1 var(--body);color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:3px 8px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
 .card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:grid;gap:10px;align-content:start}
@@ -134,8 +144,12 @@ footer{font-size:12px;color:var(--muted)}
 
   <div class="filters">
     <div class="frow">
-      <span class="flabel" id="lblOff">Discount</span>
-      <div class="chips scroll" role="group" aria-labelledby="lblOff" id="offChips"></div>
+      <div class="offHead">
+        <label class="flabel" for="offRange">Discount</label>
+        <span class="offVal" id="offVal" aria-live="polite">Any</span>
+      </div>
+      <input type="range" id="offRange" min="0" max="90" step="5" value="0" aria-describedby="offVal">
+      <div class="offTicks" aria-hidden="true"><span>Any</span><span>30%</span><span>60%</span><span>90%</span></div>
     </div>
     <div class="frow">
       <span class="flabel" id="lblCat">Category</span>
@@ -206,7 +220,6 @@ footer{font-size:12px;color:var(--muted)}
     return "Other";
   }
   const CAT_ORDER = ["All","Electronics","Home & Kitchen","Bed & Bath","Women","Men","Kids & Toys","Beauty & Health","Clothing & Shoes","Other"];
-  const OFF_STEPS = [0,20,40,60,80];
   const pctOff = o => { const m = String(o.discount||"").match(/(\d+)%/); return m ? +m[1] : 0; };
   let cat = "All", minOff = 0;
   try { cat = localStorage.getItem("bd-cat") || "All"; minOff = +(localStorage.getItem("bd-off") || 0); } catch(e){}
@@ -219,9 +232,11 @@ footer{font-size:12px;color:var(--muted)}
   function renderFilters(base){
     // Discount chips: counts reflect the current category.
     const inCat = base.filter(o => cat==="All" || category(o)===cat);
-    $("#offChips").replaceChildren(...OFF_STEPS.map(n => chip(n ? n+"%+" : "Any", minOff===n,
-      () => { minOff=n; try{localStorage.setItem("bd-off",n);}catch(e){} render(); },
-      inCat.filter(o => pctOff(o) >= n).length)));
+    const rng = $("#offRange"), nOff = inCat.filter(o => pctOff(o) >= minOff).length;
+    if (+rng.value !== minOff) rng.value = minOff;
+    rng.style.setProperty("--p", (minOff / 90 * 100) + "%");
+    rng.setAttribute("aria-valuetext", minOff ? minOff + "% off or more" : "Any discount");
+    $("#offVal").textContent = (minOff ? minOff + "%+ off" : "Any discount") + " · " + nOff + " deal" + (nOff === 1 ? "" : "s");
     // Category chips: counts reflect the current discount; hide empty categories.
     const inOff = base.filter(o => pctOff(o) >= minOff);
     const counts = {}; inOff.forEach(o => { const c = category(o); counts[c] = (counts[c]||0)+1; });
@@ -229,7 +244,7 @@ footer{font-size:12px;color:var(--muted)}
       () => { cat=c; try{localStorage.setItem("bd-cat",c);}catch(e){} render(); },
       c==="All" ? inOff.length : (counts[c]||0))));
     // Keep the selected chips visible in their scrolling rows.
-    for (const row of ["#offChips","#catChips"]) {
+    for (const row of ["#catChips"]) {
       const on = document.querySelector(row + ' .chip[aria-pressed="true"]');
       if (on) { const r = on.parentElement; r.scrollLeft = Math.max(0, on.offsetLeft - r.offsetLeft - 16); }
     }
@@ -364,6 +379,8 @@ footer{font-size:12px;color:var(--muted)}
   function tick(){ if (lastFetch) $("#checked").textContent = ago(lastFetch); }
 
   document.querySelectorAll(".chip[data-f]").forEach(b=>b.addEventListener("click",()=>{ filter=b.dataset.f; try{localStorage.setItem("bd-filter",filter);}catch(e){} render(); }));
+  $("#offRange").addEventListener("input", e => { minOff = +e.target.value; render(); });
+  $("#offRange").addEventListener("change", e => { try{ localStorage.setItem("bd-off", e.target.value); }catch(err){} });
   $("#q").addEventListener("input",e=>{ q=e.target.value; render(); });
   $("#refresh").addEventListener("click", load);
 
