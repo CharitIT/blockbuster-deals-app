@@ -1,9 +1,199 @@
 {
   "channel": "BlockbusterDeals 19",
   "source": "https://blockbusterdeals.net",
-  "lastScan": "2026-10-14T00:49:32Z",
+  "lastScan": "2026-10-14T02:22:45Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "bbd-56238",
+      "store": "Amazon",
+      "title": "Zinus Kai Platform Bed Frame, Four",
+      "price": "$72",
+      "was": "$199",
+      "discount": "64% off",
+      "code": null,
+      "notes": "Your bedroom should work as hard as the rest of your home. The Kai platform bed frame brings four underbed drawers, a two-tier storage headboard, RGB LED light…",
+      "link": "https://mavely.app.link/kc9vIFard7b",
+      "page": "https://blockbusterdeals.net/product/zinus-kai-platform-bed-frame-four/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261014_074027_0000-300x300.png",
+      "category": "Furniture",
+      "postedAt": "2026-10-14T02:20:42Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Amazon"
+    },
+    {
+      "id": "bbd-56236",
+      "store": "Walmart",
+      "title": "No Boundaries Super Soft Core Ankle Leggings, 27.5” Inseam, Women’s and Women’s Plus XXS-4X",
+      "price": "$2",
+      "was": "$7",
+      "discount": "71% off",
+      "code": null,
+      "notes": "Feels Buttery Soft",
+      "link": "https://mavely.app.link/KZuM31bnd7b",
+      "page": "https://blockbusterdeals.net/product/no-boundaries-super-soft-core-ankle-leggings-27-5-inseam-womens-and-womens-plus-xxs-4x-3/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261014_073731_0000-300x300.png",
+      "category": "Clothing",
+      "postedAt": "2026-10-14T02:08:57Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "bbd-56234",
+      "store": "Apple",
+      "title": "Victoria’s secret pink all sale",
+      "price": "$0",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Victoria’s Secret 40% off an item + Free Shipping Even works on clearance!",
+      "link": "https://mavely.app.link/iLGsfN8xd7b",
+      "page": "https://blockbusterdeals.net/product/victorias-secret-pink-all-sale/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/68_20261014_071805_0000-300x300.png",
+      "category": "Branded Deals",
+      "postedAt": "2026-10-14T01:51:50Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Apple"
+    },
+    {
+      "id": "bbd-56232",
+      "store": "Apple",
+      "title": "PINK Quarter-Zip Sweatshirt",
+      "price": "$17",
+      "was": "$59",
+      "discount": "71% off",
+      "code": null,
+      "notes": "The Takeaway: Quarter-zip, max vibesISO the perfect Sweatshirt? Congrats—you found it! Our perfectly weighted terry and a comfy fit means you’ll always be juuu…",
+      "link": "https://mavely.app.link/k7TfpjQyd7b",
+      "page": "https://blockbusterdeals.net/product/pink-quarter-zip-sweatshirt/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261014_071617_0000-300x300.png",
+      "category": null,
+      "postedAt": "2026-10-14T01:49:23Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Apple"
+    },
+    {
+      "id": "bbd-56230",
+      "store": "Walmart",
+      "title": "Degree Clinical Strength Antiperspirant Deodorant 96-Hour Sweat and Odor Protection Cool Rush Dry Spray 5x Types of Sweat, 3.8 oz",
+      "price": "$9",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Degree Clinical 5X isn’t just another antiperspirant—it’s the overachiever of the deodorant aisle, the one product that shows up early, stays late, and still s…",
+      "link": "https://mavely.app.link/fORZjsIud7b",
+      "page": "https://blockbusterdeals.net/product/degree-clinical-strength-antiperspirant-deodorant-96-hour-sweat-and-odor-protection-cool-rush-dry-spray-5x-types-of-sweat-3-8-oz/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Untitled-design_20261014_063142_0000-300x300.png",
+      "category": null,
+      "postedAt": "2026-10-14T01:05:34Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "bbd-56228",
+      "store": "Walmart",
+      "title": "Ozark Trail Men’s and Big Men’s Hike Pants, Sizes 30-46",
+      "price": "$6",
+      "was": "$24",
+      "discount": "75% off",
+      "code": null,
+      "notes": "It’s official: you’re ready for a day in the great outdoors. These Hike Pants from Ozark Trail are crafted with stretch fabric to move with you throughout any …",
+      "link": "https://mavely.app.link/8VWCyUvqd7b",
+      "page": "https://blockbusterdeals.net/product/ozark-trail-mens-and-big-mens-hike-pants-sizes-30-46/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261014_063123_0000-300x300.png",
+      "category": null,
+      "postedAt": "2026-10-14T01:03:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "bbd-56226",
+      "store": "Amazon",
+      "title": "Lysol Disinfecting Wipes, Multi-Surface Cleaner, Lemon, 80 ct. (4 Pack)",
+      "price": "$10",
+      "was": "$14",
+      "discount": "29% off",
+      "code": null,
+      "notes": "",
+      "link": "https://amzn.to/4sniGf7",
+      "page": "https://blockbusterdeals.net/product/lysol-disinfecting-wipes-multi-surface-cleaner-lemon-80-ct-4-pack/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/68_20261014_063002_0000-300x300.png",
+      "category": "Amazon Deals",
+      "postedAt": "2026-10-14T01:01:05Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Amazon"
+    },
+    {
+      "id": "bbd-56224",
+      "store": "Michael Kors",
+      "title": "Michael Kors  Marilyn Medium Signature Logo Tote Bag",
+      "price": "$80",
+      "was": "$358",
+      "discount": "78% off",
+      "code": null,
+      "notes": "Tote bag",
+      "link": "https://mavely.app.link/V0UD6Crsd7b",
+      "page": "https://blockbusterdeals.net/product/michael-kors-marilyn-medium-signature-logo-tote-bag-7/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/68_20261014_062810_0000-300x300.png",
+      "category": "Branded Deals",
+      "postedAt": "2026-10-14T00:59:22Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Michael Kors"
+    },
+    {
+      "id": "bbd-56222",
+      "store": "Walmart",
+      "title": "Avia Men’s 02 Air Trainer Sneakers",
+      "price": "$12",
+      "was": "$27",
+      "discount": "56% off",
+      "code": null,
+      "notes": "Perfect for a day at the gym, or just a day around town, the new Avia O2 Air sneakers deliver a performance athletic shoe with all the comfort features you’re …",
+      "link": "https://mavely.app.link/NIVEn0nnd7b",
+      "page": "https://blockbusterdeals.net/product/avia-mens-02-air-trainer-sneakers/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/68_20261014_062315_0000-300x300.png",
+      "category": "Shoes",
+      "postedAt": "2026-10-14T00:54:32Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "bbd-56220",
+      "store": "Walmart",
+      "title": "Weekend Academy Girls Clearance",
+      "price": "$0",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Shop adorable girls’ styles at clearance prices! Find cute, comfortable, and stylish outfits perfect for everyday wear, school, and weekend fun.",
+      "link": "https://mavely.app.link/IVcA4Wvmd7b",
+      "page": "https://blockbusterdeals.net/product/weekend-academy-girls-clearance/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/68_20261014_061853_0000-300x300.png",
+      "category": "Clothing",
+      "postedAt": "2026-10-14T00:50:14Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Walmart"
+    },
     {
       "id": "bbd-56216",
       "store": "Amazon",
@@ -20,7 +210,8 @@
       "postedAt": "2026-10-14T00:27:34Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56217",
@@ -38,7 +229,8 @@
       "postedAt": "2026-10-14T00:18:04Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56214",
@@ -56,7 +248,8 @@
       "postedAt": "2026-10-13T23:54:44Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56212",
@@ -74,7 +267,8 @@
       "postedAt": "2026-10-13T23:48:18Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56209",
@@ -92,7 +286,8 @@
       "postedAt": "2026-10-13T23:28:31Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56207",
@@ -110,7 +305,8 @@
       "postedAt": "2026-10-13T23:26:51Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56205",
@@ -128,7 +324,8 @@
       "postedAt": "2026-10-13T23:19:21Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56203",
@@ -146,11 +343,12 @@
       "postedAt": "2026-10-13T21:18:51Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56200",
-      "store": "Clothing",
+      "store": "Walmart",
       "title": "Grinch – Cindy Lou Toddler Long Sleeve Sleep Top and Sleep Pants, 2-Piece, Sizes 12M-5T",
       "price": "$12",
       "was": null,
@@ -164,7 +362,8 @@
       "postedAt": "2026-10-13T21:05:57Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56198",
@@ -186,7 +385,7 @@
     },
     {
       "id": "bbd-56195",
-      "store": "Deal",
+      "store": "Michael Kors",
       "title": "Michael Kors   Jet Set Large Signature Logo Tote Bag",
       "price": "$80",
       "was": "$358",
@@ -200,11 +399,12 @@
       "postedAt": "2026-10-13T20:50:56Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Michael Kors"
     },
     {
       "id": "bbd-56192",
-      "store": "Deal",
+      "store": "Best Buy",
       "title": "Lenovo – IdeaPad Slim 3x – Copilot+ PC – 15.3″ 2k Touchscreen Laptop – Snapdragon X 2025 – 16GB Memory – 256GB SSD – Luna Grey",
       "price": "$549",
       "was": "$849",
@@ -218,11 +418,12 @@
       "postedAt": "2026-10-13T20:29:50Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Best Buy"
     },
     {
       "id": "bbd-56190",
-      "store": "Electronics",
+      "store": "Target",
       "title": "BISSELL PowerClean DualBrush Cordless Stick Vacuum 4196T Pet Hair Pick-Up Black",
       "price": "$359",
       "was": null,
@@ -236,11 +437,12 @@
       "postedAt": "2026-10-13T20:20:40Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Target"
     },
     {
       "id": "bbd-56188",
-      "store": "Household and Kitchen",
+      "store": "Michael Kors",
       "title": "Ashton Small Messenger Bag",
       "price": "$89",
       "was": "$358",
@@ -254,7 +456,8 @@
       "postedAt": "2026-10-13T20:17:22Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Michael Kors"
     },
     {
       "id": "bbd-56185",
@@ -272,7 +475,8 @@
       "postedAt": "2026-10-13T20:13:08Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56183",
@@ -290,11 +494,12 @@
       "postedAt": "2026-10-13T20:00:23Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56180",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "Rialto 3975L Men s Chronograph Watch",
       "price": "$99",
       "was": "$495",
@@ -308,7 +513,8 @@
       "postedAt": "2026-10-13T19:58:40Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-56177",
@@ -326,11 +532,12 @@
       "postedAt": "2026-10-13T19:48:59Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56174",
-      "store": "Deal",
+      "store": "Michael Kors",
       "title": "Michael Kors Reversible Signature Logo and Leather Belt",
       "price": "$26",
       "was": "$198",
@@ -344,11 +551,12 @@
       "postedAt": "2026-10-13T18:18:53Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Michael Kors"
     },
     {
       "id": "bbd-56172",
-      "store": "Deal",
+      "store": "Amazon",
       "title": "Sleeplux Durable Inflatable Air Mattress Pump",
       "price": "$29",
       "was": "$69",
@@ -362,11 +570,12 @@
       "postedAt": "2026-10-13T18:14:19Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56170",
-      "store": "Deal",
+      "store": "Walmart",
       "title": "Joyfy 8.5 inch Halloween Decorations Ceramic Gnome Tree Decorations with Build-in LEDs,Light Up Pumpkin Table Decor Bedroom Indoor Centerpieces for Tables",
       "price": "$25",
       "was": "$47",
@@ -380,7 +589,8 @@
       "postedAt": "2026-10-13T18:12:17Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56168",
@@ -416,7 +626,8 @@
       "postedAt": "2026-10-13T17:44:50Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56162",
@@ -434,11 +645,12 @@
       "postedAt": "2026-10-13T17:42:55Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56161",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "Calvin Klein Women’s Short Zip Front Puffer Jacket",
       "price": "$39",
       "was": "$265",
@@ -452,11 +664,12 @@
       "postedAt": "2026-10-13T17:42:01Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-56159",
-      "store": "Deal",
+      "store": "Walmart",
       "title": "No Boundaries Straight Leg Jeans, 31.5” Inseam, Women’s 00-20",
       "price": "$16",
       "was": null,
@@ -470,7 +683,8 @@
       "postedAt": "2026-10-13T17:11:11Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56157",
@@ -488,7 +702,8 @@
       "postedAt": "2026-10-13T17:05:43Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56154",
@@ -506,11 +721,12 @@
       "postedAt": "2026-10-13T16:35:29Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56149",
-      "store": "Deal",
+      "store": "Walmart",
       "title": "Athletic Works Men’s Water Shoes",
       "price": "$3",
       "was": null,
@@ -524,11 +740,12 @@
       "postedAt": "2026-10-13T16:34:12Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56147",
-      "store": "Deal",
+      "store": "Amazon",
       "title": "Amazon Essentials Women Heavyweight Puffer Jacket",
       "price": "$11",
       "was": "$54",
@@ -542,11 +759,12 @@
       "postedAt": "2026-10-13T16:30:31Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56145",
-      "store": "Deal",
+      "store": "Walmart",
       "title": "Baby Trend Comet Quick-Fold Playard with Full-Size Hanging Bassinet and Travel Bag, Desert Grey",
       "price": "$39",
       "was": "$88",
@@ -560,11 +778,12 @@
       "postedAt": "2026-10-13T16:28:02Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56139",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "CoffeeShop Juniors’ Corduroy-Collar Barn Jacket",
       "price": "$39",
       "was": "$159",
@@ -578,7 +797,8 @@
       "postedAt": "2026-10-13T16:16:48Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-56138",
@@ -596,11 +816,12 @@
       "postedAt": "2026-10-13T16:16:21Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56136",
-      "store": "Clothing",
+      "store": "Walmart",
       "title": "Character Toddler Halloween Short Sleeve Top and Pant Pajama Set, 2-Piece, Sizes 12M-5T",
       "price": "$3",
       "was": "$9",
@@ -614,11 +835,12 @@
       "postedAt": "2026-10-13T16:13:27Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56134",
-      "store": "Deal",
+      "store": "Walmart",
       "title": "Avenco CozyNest 6″ Twin Size Medium Supportive Innerspring Mattress",
       "price": "$61",
       "was": "$149",
@@ -632,7 +854,8 @@
       "postedAt": "2026-10-13T15:41:08Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56132",
@@ -650,7 +873,8 @@
       "postedAt": "2026-10-13T15:22:30Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56121",
@@ -668,11 +892,12 @@
       "postedAt": "2026-10-13T15:18:28Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56128",
-      "store": "Clothing",
+      "store": "Walmart",
       "title": "Carter’s Child of Mine Baby Boy Outfit Set, 3-Piece, Sizes 0-24 Months",
       "price": "$6",
       "was": "$11",
@@ -686,7 +911,8 @@
       "postedAt": "2026-10-13T15:14:38Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56122",
@@ -704,7 +930,8 @@
       "postedAt": "2026-10-13T15:00:34Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56084",
@@ -740,7 +967,8 @@
       "postedAt": "2026-10-12T15:01:33Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56038",
@@ -758,11 +986,12 @@
       "postedAt": "2026-10-12T14:59:12Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56027",
-      "store": "Deal",
+      "store": "Walmart",
       "title": "DOKOTOO Jeans for Women High Waisted Wide Leg Jeans Trendy Stretchy Denim Pants with Slanted Pockets Comfort Baggy Straight Leg (Plus Sizes Available)",
       "price": "$29",
       "was": "$54",
@@ -776,11 +1005,12 @@
       "postedAt": "2026-10-12T02:00:11Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56024",
-      "store": "Deal",
+      "store": "Walmart",
       "title": "WAthletic Works Girl’s ButterCore Active Jacket and Capri Legging Set, 2-Piece, Sizes 4-18",
       "price": "$10",
       "was": "$23",
@@ -794,11 +1024,12 @@
       "postedAt": "2026-10-12T01:51:59Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56022",
-      "store": "Clothing",
+      "store": "Walmart",
       "title": "Celebrity Pink Women’s Signature Zip Up Fleece Hoodie Sweatshirt, Sizes XS-XXXL",
       "price": "$8",
       "was": "$18",
@@ -812,7 +1043,8 @@
       "postedAt": "2026-10-12T01:51:29Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56020",
@@ -830,11 +1062,12 @@
       "postedAt": "2026-10-12T01:41:08Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Amazon"
     },
     {
       "id": "bbd-56018",
-      "store": "Deal",
+      "store": "Walmart",
       "title": "Forever 21 Women’s Light Wash Y2K Low-Rise Baggy Jeans, Side Stripe & Bow Accent, for Everyday Casual Wear, Size 6",
       "price": "$11",
       "was": "$20",
@@ -848,11 +1081,12 @@
       "postedAt": "2026-10-12T01:31:51Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56016",
-      "store": "Clothing",
+      "store": "Walmart",
       "title": "U.S. Polo Assn. Men’s Cotton Crewneck Tee with Long Sleeves, Sizes XS-3XL",
       "price": "$9",
       "was": "$33",
@@ -866,11 +1100,12 @@
       "postedAt": "2026-10-12T01:24:39Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56014",
-      "store": "Deal",
+      "store": "Walmart",
       "title": "Chaps Men’s and Big Men’s Heritage Cotton Oxford Shirt, Sizes S–2XL",
       "price": "$9",
       "was": "$23",
@@ -884,11 +1119,12 @@
       "postedAt": "2026-10-12T01:23:32Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-56012",
-      "store": "Deal",
+      "store": "Walmart",
       "title": "Ozark Trail Men’s & Big Men’s Softshell Jacket, Sizes S-3XL",
       "price": "$12",
       "was": "$34",
@@ -902,187 +1138,8 @@
       "postedAt": "2026-10-12T01:21:29Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
-    },
-    {
-      "id": "bbd-56010",
-      "store": "Deal",
-      "title": "Barbie World Garden Playset with 12 Pieces Including Planter, & More [Walmart Exclusive]",
-      "price": "$3",
-      "was": "$10",
-      "discount": "70% off",
-      "code": null,
-      "notes": "Welcome to your Barbie World. Build your best Barbie life! Dig into fun with this Barbie World grow a garden playset! The garden plot has a sprouted vine where…",
-      "link": "https://go.sylikes.com/fa9l1ElViEVK",
-      "page": "https://blockbusterdeals.net/product/barbie-world-garden-playset-with-12-pieces-including-planter-more-walmart-exclusive/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261012_044914_0000-300x300.png",
-      "category": null,
-      "postedAt": "2026-10-12T01:20:01Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
-      "id": "bbd-56006",
-      "store": "Amazon",
-      "title": "Baderke 6 Sets Teacher Glass Tumblers Bulk Gifts Back to School Cups, 16 oz",
-      "price": "$16",
-      "was": "$35",
-      "discount": "54% off",
-      "code": null,
-      "notes": "",
-      "link": "https://amzn.to/4ymgdml",
-      "page": "https://blockbusterdeals.net/product/baderke-6-sets-teacher-glass-tumblers-bulk-gifts-back-to-school-cups-16-oz/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261012_064130_0000-300x300.png",
-      "category": null,
-      "postedAt": "2026-10-12T01:12:33Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
-      "id": "bbd-56004",
-      "store": "Amazon",
-      "title": "Aedavey Cordless UV Nail Lamp, Rechargeable UV Light for Gel Nails, LED Nail Lamp with 4 Timer Modes, Gel Nail UV Light Decorate with Sparkling Nail Rhinestones (Sparkly Blue Diamond)",
-      "price": "$29",
-      "was": "$79",
-      "discount": "63% off",
-      "code": null,
-      "notes": "",
-      "link": "https://amzn.to/4jREOvy",
-      "page": "https://blockbusterdeals.net/product/aedavey-cordless-uv-nail-lamp-rechargeable-uv-light-for-gel-nails-led-nail-lamp-with-4-timer-modes-gel-nail-uv-light-decorate-with-sparkling-nail-rhinestones-sparkly-blue-diamond/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/68_20261012_063735_0000-300x300.png",
-      "category": "Amazon Deals",
-      "postedAt": "2026-10-12T01:08:54Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
-      "id": "bbd-56001",
-      "store": "Deal",
-      "title": "Ecetana House Slippers for Men Memory Foam Fuzzy Slippers Non Slip House Shoes for Men Indoor/Outdoor",
-      "price": "$12",
-      "was": "$23",
-      "discount": "48% off",
-      "code": null,
-      "notes": "Cozy Foot Warmth",
-      "link": "https://go.sylikes.com/fa9l6V1KPUCp",
-      "page": "https://blockbusterdeals.net/product/ecetana-house-slippers-for-men-memory-foam-fuzzy-slippers-non-slip-house-shoes-for-men-indoor-outdoor/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261012_062013_0000-300x300.png",
-      "category": null,
-      "postedAt": "2026-10-12T00:58:18Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
-      "id": "bbd-55999",
-      "store": "Clothing",
-      "title": "Garanimals Newborn & Baby Boy 100% Cotton Pull-On Jogger Pants, Sizes 0–24M, Single & 4-Pack",
-      "price": "$3",
-      "was": "$15",
-      "discount": "80% off",
-      "code": null,
-      "notes": "Keep your little one comfortable from morning to bedtime with Garanimals Newborn & Baby Boy 100% Cotton Pull-On Jogger Pants, available as a single pair or con…",
-      "link": "https://go.sylikes.com/fa9l4jX5jZBj",
-      "page": "https://blockbusterdeals.net/product/garanimals-newborn-baby-boy-100-cotton-pull-on-jogger-pants-sizes-0-24m-single-4-pack-2/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261012_061605_0000-300x300.png",
-      "category": "Clothing",
-      "postedAt": "2026-10-12T00:47:17Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
-      "id": "bbd-55997",
-      "store": "Amazon",
-      "title": "Plant Stand for Patio, 3-Tier Metal Plant Shelf–Indoor/Outdoor Display Rack for Multiple Pots, Heavy Duty Plants, Garden Flower Organizer (White)",
-      "price": "$16",
-      "was": "$33",
-      "discount": "52% off",
-      "code": null,
-      "notes": "",
-      "link": "https://amzn.to/4hYIf13",
-      "page": "https://blockbusterdeals.net/product/plant-stand-for-patio-3-tier-metal-plant-shelf-indoor-outdoor-display-rack-for-multiple-pots-heavy-duty-plants-garden-flower-organizer-white/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261012_061347_0000-300x300.png",
-      "category": "Amazon Deals",
-      "postedAt": "2026-10-12T00:45:09Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
-      "id": "bbd-55995",
-      "store": "Deal",
-      "title": "Mainstays Shadow Plaid Green 3-Piece Comforter Set, Full/Queen",
-      "price": "$20",
-      "was": "$34",
-      "discount": "41% off",
-      "code": null,
-      "notes": "Refresh your bed with this Mainstays Shadow Plaid comforter set. The 3-piece Full/Queen set pairs a clean plaid pattern with a green color palette for a modern…",
-      "link": "https://go.sylikes.com/fa9l2RjIKI6H",
-      "page": "https://blockbusterdeals.net/product/mainstays-shadow-plaid-green-3-piece-comforter-set-full-queen/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261012_061119_0000-300x300.png",
-      "category": null,
-      "postedAt": "2026-10-12T00:42:48Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
-      "id": "bbd-55993",
-      "store": "Clothing",
-      "title": "Ozark Trail Men’s and Big Men’s Puffer Jacket, Sizes S-4XB",
-      "price": "$30",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Material: 100% Polyester",
-      "link": "https://go.sylikes.com/fa9l4tDj1OF9",
-      "page": "https://blockbusterdeals.net/product/ozark-trail-mens-and-big-mens-puffer-jacket-sizes-s-4xb/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/68_20261012_060401_0000-300x300.png",
-      "category": "Clothing",
-      "postedAt": "2026-10-12T00:35:43Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
-      "id": "bbd-55989",
-      "store": "Amazon",
-      "title": "DREAM BUS 3 Pack Baby Girls Shorts Toddler Summer Casual Shorts Cotton Toddler Girls Ruffled Shorts Newborn Infant Bloomers",
-      "price": "$6",
-      "was": "$10",
-      "discount": "40% off",
-      "code": null,
-      "notes": "",
-      "link": "https://amzn.to/4jd21Is",
-      "page": "https://blockbusterdeals.net/product/dream-bus-3-pack-baby-girls-shorts-toddler-summer-casual-shorts-cotton-toddler-girls-ruffled-shorts-newborn-infant-bloomers/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261012_055945_0000-300x300.png",
-      "category": null,
-      "postedAt": "2026-10-12T00:30:55Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
-      "id": "bbd-55987",
-      "store": "Clothing",
-      "title": "iXtreme Boys Colorblock Midweight Puffer,Sizes 8-18",
-      "price": "$13",
-      "was": "$28",
-      "discount": "54% off",
-      "code": null,
-      "notes": "Boys will be ready to hit the playground on a cool fall day in this Ixtreme hooded colorblock channel quilted midweight jacket. There is just enough polyester …",
-      "link": "https://go.sylikes.com/fa9l26BbfATx",
-      "page": "https://blockbusterdeals.net/product/ixtreme-boys-colorblock-midweight-puffersizes-8-18/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/68_20261012_055546_0000-1-300x300.png",
-      "category": "Clothing",
-      "postedAt": "2026-10-12T00:29:32Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "curology-free-box-20260926",
@@ -1131,6 +1188,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-10-14T02:22:45Z",
+      "text": "10 new offer(s): Zinus Kai Platform Bed Frame, Four, No Boundaries Super Soft Core Ankle Legg, Victoria’s secret pink all sale"
+    },
     {
       "at": "2026-10-14T00:49:32Z",
       "text": "7 new offer(s): Tytan Disney Princess Castle Magnetic Ti, adidas Women’s Athletic Cushioned Crew S, Ekouaer Women’s 2 Piece Set 2026 Ruched "
@@ -1206,10 +1267,6 @@
     {
       "at": "2026-10-08T19:29:11Z",
       "text": "20 new offer(s): Carter’s Child of Mine Baby Bodysuits, F, Cuisinart® Chef’s Classic 11-Piece Stain, Winnie the Pooh Baby Boys Fleece Sweatsh"
-    },
-    {
-      "at": "2026-10-06T06:58:12Z",
-      "text": "9 new offer(s): Carote Nonstick Detachable Pots and Pans, VTech Get Growing Tractor & Mower Intera, Michael Kors  Ashton Small Plaid Print W"
     }
   ]
 }
