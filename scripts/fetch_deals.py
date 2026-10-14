@@ -46,7 +46,14 @@ MERCHANTS = (("amazon.com", "Amazon"), ("amzn.to", "Amazon"), ("amzn.com", "Amaz
              ("chewy.com", "Chewy"), ("dell.com", "Dell"), ("lenovo.com", "Lenovo"), ("samsung.com", "Samsung"),
              ("michaelkors.com", "Michael Kors"), ("calvinklein.us", "Calvin Klein"), ("belk.com", "Belk"),
              ("dillards.com", "Dillard's"), ("saksoff5th.com", "Saks Off 5th"), ("tjmaxx.tjx.com", "TJ Maxx"),
-             ("marshalls.com", "Marshalls"), ("rossstores.com", "Ross"))
+             ("marshalls.com", "Marshalls"), ("rossstores.com", "Ross"), ("victoriassecret.com", "Victoria's Secret"),
+             ("ulta.com", "Ulta"), ("ae.com", "American Eagle"), ("abercrombie.com", "Abercrombie"), ("hollisterco.com", "Hollister"),
+             ("jcrew.com", "J.Crew"), ("loft.com", "LOFT"), ("lululemon.com", "Lululemon"), ("underarmour.com", "Under Armour"),
+             ("ikea.com", "IKEA"), ("crocs.com", "Crocs"), ("skechers.com", "Skechers"), ("coach.com", "Coach"),
+             ("coachoutlet.com", "Coach"), ("katespade.com", "Kate Spade"), ("katespadeoutlet.com", "Kate Spade"),
+             ("vera bradley.com".replace(" ", ""), "Vera Bradley"), ("newegg.com", "Newegg"), ("gamestop.com", "GameStop"),
+             ("staples.com", "Staples"), ("officedepot.com", "Office Depot"), ("petsmart.com", "PetSmart"), ("cvs.com", "CVS"),
+             ("walgreens.com", "Walgreens"), ("temu.com", "Temu"), ("shein.com", "SHEIN"), ("aliexpress.us", "AliExpress"))
 # apple.com is only a store when the link actually lands there (never from an App Store badge on a redirect page).
 KNOWN = {name for _, name in MERCHANTS}
 SHORTENERS = ("mavely", "sylikes", "magik.ly", "bit.ly", "tinyurl", "linksynergy", "sjv.io", "go.skimresources",
