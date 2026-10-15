@@ -1,9 +1,66 @@
 {
   "channel": "BlockbusterDeals 19",
   "source": "https://blockbusterdeals.net",
-  "lastScan": "2026-10-15T21:43:09Z",
+  "lastScan": "2026-10-15T23:52:56Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "bbd-56453",
+      "store": "Amazon",
+      "title": "Lysol Disinfecting Wipes, Multi-Surface Cleaner, Lemon, 80 ct. (4 Pack)",
+      "price": "$9",
+      "was": "$14",
+      "discount": "36% off",
+      "code": null,
+      "notes": "",
+      "link": "https://amzn.to/4ioqaLe",
+      "page": "https://blockbusterdeals.net/product/lysol-disinfecting-wipes-multi-surface-cleaner-lemon-80-ct-4-pack-3/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Untitled-design_20261016_051206_0000-300x300.png",
+      "category": "Amazon Deals",
+      "postedAt": "2026-10-15T23:43:43Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Amazon"
+    },
+    {
+      "id": "bbd-56451",
+      "store": "Amazon",
+      "title": "CAROTE 21pcs Pots and Pans Set Non Stick, Detachable Handle Cookware Sets",
+      "price": "$59",
+      "was": "$99",
+      "discount": "40% off",
+      "code": null,
+      "notes": "",
+      "link": "https://amzn.to/4jkOEWN",
+      "page": "https://blockbusterdeals.net/product/carote-21pcs-pots-and-pans-set-non-stick-detachable-handle-cookware-sets/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Untitled-design_20261016_050250_0000-300x300.png",
+      "category": null,
+      "postedAt": "2026-10-15T23:34:46Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Amazon"
+    },
+    {
+      "id": "bbd-56448",
+      "store": "Amazon",
+      "title": "Clear Glass Soap Dispenser Set with Tray, Transparent Dish and Hand Soap Dispenser Set, Refillable Reusable Apothecary Soap Pump Dispenser Bottles for Bathroom and Kitchen",
+      "price": "$9",
+      "was": "$19",
+      "discount": "53% off",
+      "code": null,
+      "notes": "",
+      "link": "https://amzn.to/4yXrESK",
+      "page": "https://blockbusterdeals.net/product/clear-glass-soap-dispenser-set-with-tray-transparent-dish-and-hand-soap-dispenser-set-refillable-reusable-apothecary-soap-pump-dispenser-bottles-for-bathroom-and-kitchen/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/68_20261016_044945_0000-300x300.png",
+      "category": null,
+      "postedAt": "2026-10-15T23:23:55Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Amazon"
+    },
     {
       "id": "bbd-56445",
       "store": "Deal",
@@ -1082,63 +1139,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "bbd-56316",
-      "store": "Amazon",
-      "title": "Nautica Boys’ 4-piece Formal Suit Set with Vest",
-      "price": "$14",
-      "was": "$38",
-      "discount": "63% off",
-      "code": null,
-      "notes": "",
-      "link": "https://amzn.to/3VPl2Hd",
-      "page": "https://blockbusterdeals.net/product/nautica-boys-4-piece-formal-suit-set-with-vest/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261015_020145_0000-300x300.png",
-      "category": null,
-      "postedAt": "2026-10-14T20:33:37Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Amazon"
-    },
-    {
-      "id": "bbd-56309",
-      "store": "Macy's",
-      "title": "Nautica Men’s Modern-Fit Bi-Stretch 2-Piece Suit",
-      "price": "$94",
-      "was": "$395",
-      "discount": "76% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/jdsdHdDre7b",
-      "page": "https://blockbusterdeals.net/product/nautica-mens-modern-fit-bi-stretch-2-piece-suit/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Untitled-design-75-300x300.png",
-      "category": "Clothing",
-      "postedAt": "2026-10-14T20:17:18Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "bbd-56305",
-      "store": "Amazon",
-      "title": "DUMOS 32 Inch Small Computer Desk, Home Office Desks for Bedroom, White Modern Study Writing Work Table, Craft PC Gaming Desk Simple Workstation with Reinforcement Structure",
-      "price": "$19",
-      "was": "$26",
-      "discount": "27% off",
-      "code": null,
-      "notes": "",
-      "link": "https://amzn.to/3TA1wxS",
-      "page": "https://blockbusterdeals.net/product/dumos-32-inch-small-computer-desk-home-office-desks-for-bedroom-white-modern-study-writing-work-table-craft-pc-gaming-desk-simple-workstation-with-reinforcement-structure/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Untitled-design-74-300x300.png",
-      "category": "Furniture",
-      "postedAt": "2026-10-14T20:14:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Amazon"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1185,6 +1185,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-10-15T23:52:56Z",
+      "text": "3 new offer(s): Lysol Disinfecting Wipes, Multi-Surface , CAROTE 21pcs Pots and Pans Set Non Stick, Clear Glass Soap Dispenser Set with Tray"
+    },
     {
       "at": "2026-10-15T21:43:09Z",
       "text": "12 new offer(s): Skechers® Relaxed Fit Women’s Slip-On Co, C&C California  Soft Microfiber Comforte, Michael kors Slater Medium Backpack"
@@ -1260,10 +1264,6 @@
     {
       "at": "2026-10-11T00:24:47Z",
       "text": "14 new offer(s): Reebok Men’s & Big Men’s Logo Graphic T-, Brother HC1850 Sewing and Quilting Machi, Melissa & Doug Barber Shop 16-Piece Shav"
-    },
-    {
-      "at": "2026-10-10T21:33:09Z",
-      "text": "17 new offer(s): U.S. Polo Assn. Men’s Poplin Long Sleeve, Michael Kors Signature Zadie Small East , Michael Kors Quinn Small East West Tote "
     }
   ]
 }
