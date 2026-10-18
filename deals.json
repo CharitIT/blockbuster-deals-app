@@ -1,9 +1,85 @@
 {
   "channel": "BlockbusterDeals 19",
   "source": "https://blockbusterdeals.net",
-  "lastScan": "2026-10-18T21:48:19Z",
+  "lastScan": "2026-10-18T23:42:30Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "bbd-56791",
+      "store": "Amazon",
+      "title": "3pk electric toothbrushes $16.xx",
+      "price": "$16",
+      "was": "$64",
+      "discount": "75% off",
+      "code": null,
+      "notes": "",
+      "link": "https://amzn.to/4i4fhNr",
+      "page": "https://blockbusterdeals.net/product/3pk-electric-toothbrushes-16-xx/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261019_050326_0000-300x300.png",
+      "category": null,
+      "postedAt": "2026-10-18T23:35:47Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Amazon"
+    },
+    {
+      "id": "bbd-56789",
+      "store": "Amazon",
+      "title": "BEDELITE Pink Fluffy Comforter Set Queen, Fuzzy Faux Fur Comforter",
+      "price": "$20",
+      "was": "$64",
+      "discount": "69% off",
+      "code": null,
+      "notes": "",
+      "link": "https://amzn.to/4i45lDt",
+      "page": "https://blockbusterdeals.net/product/bedelite-pink-fluffy-comforter-set-queen-fuzzy-faux-fur-comforter/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261019_050434_0000-300x300.png",
+      "category": "Amazon Deals",
+      "postedAt": "2026-10-18T23:34:02Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Amazon"
+    },
+    {
+      "id": "bbd-56787",
+      "store": "Amazon",
+      "title": "Tommee Tippee Natural Start PPSU Baby Bottles, 9oz, 2 Count",
+      "price": "$8",
+      "was": "$29",
+      "discount": "72% off",
+      "code": null,
+      "notes": "",
+      "link": "https://amzn.to/4yZMEZ0",
+      "page": "https://blockbusterdeals.net/product/tommee-tippee-natural-start-ppsu-baby-bottles-9oz-2-count/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Black_20261019_045345_0000-300x300.png",
+      "category": null,
+      "postedAt": "2026-10-18T23:25:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Amazon"
+    },
+    {
+      "id": "bbd-56785",
+      "store": "Amazon",
+      "title": "12 Pack Silicone Bags for Food Storage, Reusable Silicone Food Storage Bags,Freezer & Dishwasher Safe,Silicone Gallon Freezer Bags, Leakproof-4 Gallon 4 Snack 4 Sandwich Bags, Grey",
+      "price": "$5",
+      "was": "$10",
+      "discount": "50% off",
+      "code": null,
+      "notes": "",
+      "link": "https://amzn.to/4ymijm5",
+      "page": "https://blockbusterdeals.net/product/12-pack-silicone-bags-for-food-storage-reusable-silicone-food-storage-bagsfreezer-dishwasher-safesilicone-gallon-freezer-bags-leakproof-4-gallon-4-snack-4-sandwich-bags-grey/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261019_044100_0000-300x300.png",
+      "category": null,
+      "postedAt": "2026-10-18T23:13:14Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Amazon"
+    },
     {
       "id": "bbd-56783",
       "store": "Amazon",
@@ -1056,82 +1132,6 @@
       "merchant": "Amazon"
     },
     {
-      "id": "bbd-56643",
-      "store": "Amazon",
-      "title": "Energizer AA Batteries Alkaline Power",
-      "price": "$15",
-      "was": "$21",
-      "discount": "29% off",
-      "code": null,
-      "notes": "Deal selling fast!!",
-      "link": "https://amzn.to/4i3BOts",
-      "page": "https://blockbusterdeals.net/product/energizer-aa-batteries-alkaline-power/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261018_011517_0000-300x300.png",
-      "category": null,
-      "postedAt": "2026-10-17T19:48:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Amazon"
-    },
-    {
-      "id": "bbd-56642",
-      "store": "Walmart",
-      "title": "dELiA*s Girls Pajama Set Soft Cozy Button Down Sleepwear Pajamas for Girls with Spa Headband 2 Piece",
-      "price": "$9",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "",
-      "link": "https://mavely.app.link/qRsA573wj7b",
-      "page": "https://blockbusterdeals.net/product/delias-girls-pajama-set-soft-cozy-button-down-sleepwear-pajamas-for-girls-with-spa-headband-2-piece/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261018_011426_0000-300x300.png",
-      "category": null,
-      "postedAt": "2026-10-17T19:47:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "bbd-56635",
-      "store": "Amazon",
-      "title": "Aveeno Baby Healthy Start Nourishing Newborn Wash, 8 fl. oz",
-      "price": "$3",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Clip coupon",
-      "link": "https://amzn.to/3TXhqm1",
-      "page": "https://blockbusterdeals.net/product/aveeno-baby-healthy-start-nourishing-newborn-wash-8-fl-oz/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Untitled-design_20261018_011130_0000-300x300.png",
-      "category": "Amazon Deals",
-      "postedAt": "2026-10-17T19:41:54Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Amazon"
-    },
-    {
-      "id": "bbd-56633",
-      "store": "Amazon",
-      "title": "7 Piece airtight food storage containers with lids, Clear Plastic Suitable for pantry and cabinet dry-food organization, with BPA-free clear storage for pasta, grains, flour, and snacks",
-      "price": "$13",
-      "was": "$18",
-      "discount": "28% off",
-      "code": null,
-      "notes": "",
-      "link": "https://amzn.to/4in50x3",
-      "page": "https://blockbusterdeals.net/product/7-piece-airtight-food-storage-containers-with-lids-clear-plastic-suitable-for-pantry-and-cabinet-dry-food-organization-with-bpa-free-clear-storage-for-pasta-grains-flour-and-snacks-2/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Untitled-design_20261018_010905_0000-300x300.png",
-      "category": "Amazon Deals",
-      "postedAt": "2026-10-17T19:39:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Amazon"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1178,6 +1178,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-10-18T23:42:30Z",
+      "text": "4 new offer(s): 3pk electric toothbrushes $16.xx, BEDELITE Pink Fluffy Comforter Set Queen, Tommee Tippee Natural Start PPSU Baby Bo"
+    },
     {
       "at": "2026-10-18T21:48:19Z",
       "text": "10 new offer(s): HP Envy 6155 Wireless All-in-One Color I, ADIDAS D4T ESSENTIALS SHORTS, DREO Quiet Space Heater"
@@ -1253,10 +1257,6 @@
     {
       "at": "2026-10-15T18:36:31Z",
       "text": "19 new offer(s): Terra & Sky Women’s Plus Capri Legging, , 6FT Artificial Fiddle Leaf Fig Tree Faux, LEGO Minecraft The Baby Pig House Toy Fi"
-    },
-    {
-      "at": "2026-10-15T05:16:11Z",
-      "text": "15 new offer(s): Aleily 3 Piece Upholstered Bedroom Set, Macy’s 3-piece Comforter Sets Sale, Conair Velvet Touch oval cushion hair br"
     }
   ]
 }
