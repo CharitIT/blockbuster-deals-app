@@ -1,9 +1,45 @@
 {
   "channel": "BlockbusterDeals 19",
   "source": "https://blockbusterdeals.net",
-  "lastScan": "2026-10-18T17:34:46Z",
+  "lastScan": "2026-10-18T19:36:30Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "bbd-56757",
+      "store": "Household and Kitchen",
+      "title": "HOMBERKING 18pc Purple Glass Food Containers",
+      "price": "$15",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Woot is an Amazon company!!",
+      "link": "https://mavely.app.link/v66EZQrjl7b",
+      "page": "https://blockbusterdeals.net/product/homberking-18pc-purple-glass-food-containers/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Untitled-design-112-300x300.png",
+      "category": "Household and Kitchen",
+      "postedAt": "2026-10-18T17:55:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site"
+    },
+    {
+      "id": "bbd-56754",
+      "store": "Electronics",
+      "title": "Litheli 21″ Cordless Lawn Mower (Push)",
+      "price": "$179",
+      "was": "$439",
+      "discount": "59% off",
+      "code": null,
+      "notes": "Litheli 21″ Cordless Lawn Mower , 2 x 8.0Ah Battery Powered Lawn Mower",
+      "link": "https://mavely.app.link/xdpAhFfil7b",
+      "page": "https://blockbusterdeals.net/product/litheli-21-cordless-lawn-mower-push/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261018_231406_0000-300x300.png",
+      "category": "Electronics",
+      "postedAt": "2026-10-18T17:45:37Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site"
+    },
     {
       "id": "bbd-56752",
       "store": "Walmart",
@@ -1094,44 +1130,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "bbd-56603",
-      "store": "Amazon",
-      "title": "Shark FlexStyle, Air Multi-Styler & Drying System, Coanda, Copper, HD433CP No Heat Damage, One Twist between Dryer & Styler, 4 Heat/3 Airflow Settings, Cool Shot",
-      "price": "$199",
-      "was": "$314",
-      "discount": "37% off",
-      "code": null,
-      "notes": "",
-      "link": "https://amzn.to/4seMJ8G",
-      "page": "https://blockbusterdeals.net/product/shark-flexstyle-air-multi-styler-drying-system-coanda-copper-hd433cp-no-heat-damage-one-twist-between-dryer-styler-4-heat-3-airflow-settings-cool-shot-2/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Untitled-design-97-300x300.png",
-      "category": "Electronics",
-      "postedAt": "2026-10-17T15:22:28Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Amazon"
-    },
-    {
-      "id": "bbd-56601",
-      "store": "Amazon",
-      "title": "adidas Mens Dayready Open Hem Tracksuit Bottoms Casual – Black Regular Fit, Drawstring Waist, Front Pockets, 100% Recycled Materials, For Everyday Wear",
-      "price": "$16",
-      "was": "$45",
-      "discount": "64% off",
-      "code": null,
-      "notes": "",
-      "link": "https://amzn.to/4jr6Pdt",
-      "page": "https://blockbusterdeals.net/product/adidas-mens-dayready-open-hem-tracksuit-bottoms-casual-black-regular-fit-drawstring-waist-front-pockets-100-recycled-materials-for-everyday-wear/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Untitled-design-96-300x300.png",
-      "category": "Clothing",
-      "postedAt": "2026-10-17T15:13:16Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Amazon"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1178,6 +1176,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-10-18T19:36:30Z",
+      "text": "2 new offer(s): HOMBERKING 18pc Purple Glass Food Contai, Litheli 21″ Cordless Lawn Mower (Push)"
+    },
     {
       "at": "2026-10-18T17:34:46Z",
       "text": "16 new offer(s): Celebrity Pink Women’s Signature Zip Up , BESTEK 400W Car Power Inverter 12V to 11, 3 in 1 for iPhone and Watch Charging Sta"
@@ -1253,10 +1255,6 @@
     {
       "at": "2026-10-15T00:42:27Z",
       "text": "6 new offer(s): Handheld Vacuum Cordless – Car Vacuum Cl, Weekend Academy Girls Fleece Joggers, Si, Avia Men’s 02 Air Trainer Sneakers"
-    },
-    {
-      "at": "2026-10-14T22:28:14Z",
-      "text": "12 new offer(s): Canon PIXMA TS6520 Wireless Color Inkjet, Athletic Works Men’s and Big Men’s Zip U, Bass & Co. Men’s Canyon Pull On Pants, S"
     }
   ]
 }
