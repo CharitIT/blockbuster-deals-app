@@ -1,9 +1,28 @@
 {
   "channel": "BlockbusterDeals 19",
   "source": "https://blockbusterdeals.net",
-  "lastScan": "2026-10-18T06:32:13Z",
+  "lastScan": "2026-10-18T14:47:16Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "bbd-56716",
+      "store": "Amazon",
+      "title": "Red Light Therapy Mask for Face",
+      "price": "$39",
+      "was": "$129",
+      "discount": "70% off",
+      "code": null,
+      "notes": "",
+      "link": "https://amzn.to/4iqMvI6",
+      "page": "https://blockbusterdeals.net/product/red-light-therapy-mask-for-face/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261018_201223_0000-300x300.png",
+      "category": null,
+      "postedAt": "2026-10-18T14:45:38Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Amazon"
+    },
     {
       "id": "bbd-56709",
       "store": "Clothing",
@@ -1110,25 +1129,6 @@
       "merchant": "Amazon"
     },
     {
-      "id": "bbd-56564",
-      "store": "Amazon",
-      "title": "Women Button Down Shirts Casual Lantern Long Sleeve Blouses, S-XXL",
-      "price": "$9",
-      "was": "$24",
-      "discount": "62% off",
-      "code": null,
-      "notes": "",
-      "link": "https://amzn.to/4i2K1hL",
-      "page": "https://blockbusterdeals.net/product/women-button-down-shirts-casual-lantern-long-sleeve-blouses-s-xxl/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261017_054245_0000-300x300.png",
-      "category": null,
-      "postedAt": "2026-10-17T00:15:39Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Amazon"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1175,6 +1175,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-10-18T14:47:16Z",
+      "text": "1 new offer(s): Red Light Therapy Mask for Face"
+    },
     {
       "at": "2026-10-18T06:32:13Z",
       "text": "6 new offer(s): The Big One® Solid Bath Towel, Bath Shee, Magic Bullet Essential 9pc 250W Personal, Justice Girls Long Sleeve Zip Front Hood"
@@ -1250,10 +1254,6 @@
     {
       "at": "2026-10-14T19:27:59Z",
       "text": "15 new offer(s): CHI Original 1″ Ceramic Hair Straightene, Wavytalk Blown Away Ionic Hair Dryer wit, Lysol Disinfecting Wipes, Multi-Surface "
-    },
-    {
-      "at": "2026-10-14T15:18:55Z",
-      "text": "4 new offer(s): Signature Design by Ashley Onita 2-Drawe, 24 Pack Glass Spice Jars, Outdoor Misting Fan"
     }
   ]
 }
