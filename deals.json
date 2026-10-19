@@ -1,9 +1,47 @@
 {
   "channel": "BlockbusterDeals 19",
   "source": "https://blockbusterdeals.net",
-  "lastScan": "2026-10-19T01:45:13Z",
+  "lastScan": "2026-10-19T06:53:32Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "bbd-56822",
+      "store": "Macy's",
+      "title": "Puffer Coats at Macy’s",
+      "price": "$0",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "He’ll stay warm all winter with this heavy weight puffer jacket from Reebok. This hooded puffer jacket is lined and insulated to make sure your little one is u…",
+      "link": "https://mavely.app.link/DRqPZOnMl7b",
+      "page": "https://blockbusterdeals.net/product/puffer-coats-at-macys/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Black_20261019_071808_0000-300x300.png",
+      "category": "Clothing",
+      "postedAt": "2026-10-19T01:50:11Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "bbd-56820",
+      "store": "Amazon",
+      "title": "Standing Computer Gaming Office Desk – 48 x 24 Inches Adjustable Stand Up Electric Height Rising Table with Memory Presets for Home Study Writing Work, Stable Steel Frame, Easy Assembly, Dark Walnut",
+      "price": "$99",
+      "was": "$449",
+      "discount": "78% off",
+      "code": null,
+      "notes": "",
+      "link": "https://amzn.to/4sawYiO",
+      "page": "https://blockbusterdeals.net/product/standing-computer-gaming-office-desk-48-x-24-inches-adjustable-stand-up-electric-height-rising-table-with-memory-presets-for-home-study-writing-work-stable-steel-frame-easy-assembly-dark-walnut/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261019_071434_0000-300x300.png",
+      "category": null,
+      "postedAt": "2026-10-19T01:46:18Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Amazon"
+    },
     {
       "id": "bbd-56818",
       "store": "Amazon",
@@ -1096,43 +1134,6 @@
       "merchant": "Amazon"
     },
     {
-      "id": "bbd-56681",
-      "store": "Amazon",
-      "title": "National Tree Company 7.5ft Pre-Lit Winchester Pine Slim Christmas Tree",
-      "price": "$54",
-      "was": "$184",
-      "discount": "71% off",
-      "code": null,
-      "notes": "",
-      "link": "https://amzn.to/4sdkDKS",
-      "page": "https://blockbusterdeals.net/product/national-tree-company-7-5ft-pre-lit-winchester-pine-slim-christmas-tree/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/20261018_051008_0000-300x300.png",
-      "category": "Amazon Deals",
-      "postedAt": "2026-10-17T23:41:44Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Amazon"
-    },
-    {
-      "id": "bbd-56679",
-      "store": "Deal",
-      "title": "Avenco Queen Upholstered Bed Frame Beige",
-      "price": "$61",
-      "was": "$129",
-      "discount": "53% off",
-      "code": null,
-      "notes": "ADJUSTABLE HEADBOARD: This upholstered bed frame features an adjustable headboard that ranges from 37.8″–41.6″, fitting mattresses 8″–12″ thick. Choose your id…",
-      "link": "https://mavely.app.link/ZOwvVG90j7b",
-      "page": "https://blockbusterdeals.net/product/avenco-queen-upholstered-bed-frame-beige/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/IMG_20261018_043607_169-300x300.jpg",
-      "category": null,
-      "postedAt": "2026-10-17T23:37:45Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1179,6 +1180,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-10-19T06:53:32Z",
+      "text": "2 new offer(s): Puffer Coats at Macy’s, Standing Computer Gaming Office Desk – 4"
+    },
     {
       "at": "2026-10-19T01:45:13Z",
       "text": "12 new offer(s): FENNIO Vanity Mirror with Lights 22”x18”, Lovery 24-Pc. Perfume Advent Calendar Se, Big Chill Women’s Double Zip Front Hoode"
@@ -1254,10 +1259,6 @@
     {
       "at": "2026-10-15T23:52:56Z",
       "text": "3 new offer(s): Lysol Disinfecting Wipes, Multi-Surface , CAROTE 21pcs Pots and Pans Set Non Stick, Clear Glass Soap Dispenser Set with Tray"
-    },
-    {
-      "at": "2026-10-15T21:43:09Z",
-      "text": "12 new offer(s): Skechers® Relaxed Fit Women’s Slip-On Co, C&C California  Soft Microfiber Comforte, Michael kors Slater Medium Backpack"
     }
   ]
 }
