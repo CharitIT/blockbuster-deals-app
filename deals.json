@@ -1,9 +1,28 @@
 {
   "channel": "BlockbusterDeals 19",
   "source": "https://blockbusterdeals.net",
-  "lastScan": "2026-10-21T01:45:09Z",
+  "lastScan": "2026-10-21T06:35:53Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "bbd-57070",
+      "store": "Walmart",
+      "title": "Reebok Women’s and Women’s Plus Everyday High Rise Capri Leggings, 20″ Inseam, Sizes XS-4X",
+      "price": "$8",
+      "was": "$20",
+      "discount": "60% off",
+      "code": null,
+      "notes": "Reebok Women’s Everyday High-Rise Ankle Leggings are a must-have for your collection. Crafted from super-soft, moisture-wicking tech performance material, they…",
+      "link": "https://go.sylikes.com/fa91kQFZXXxh",
+      "page": "https://blockbusterdeals.net/product/reebok-womens-and-womens-plus-everyday-high-rise-capri-leggings-20-inseam-sizes-xs-4x/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Black_20261021_073552_0000-300x300.png",
+      "category": "Clothing",
+      "postedAt": "2026-10-21T02:07:34Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Walmart"
+    },
     {
       "id": "bbd-57066",
       "store": "Macy's",
@@ -1120,25 +1139,6 @@
       "merchant": "Amazon"
     },
     {
-      "id": "bbd-56926",
-      "store": "Under Armour",
-      "title": "Under Armour Lockdown 7 Low Unisex Basketball Shoes",
-      "price": "$36",
-      "was": "$65",
-      "discount": "45% off",
-      "code": null,
-      "notes": "Breathable mesh upper with leather & film overlays for added support & durability",
-      "link": "https://go.magik.ly/ml/4g49p/",
-      "page": "https://blockbusterdeals.net/product/under-armour-lockdown-7-low-unisex-basketball-shoes-2/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/10/Black_20261020_070826_0000-300x300.png",
-      "category": "Shoes",
-      "postedAt": "2026-10-20T01:40:31Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1185,6 +1185,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-10-21T06:35:53Z",
+      "text": "1 new offer(s): Reebok Women’s and Women’s Plus Everyday"
+    },
     {
       "at": "2026-10-21T01:45:09Z",
       "text": "23 new offer(s): Arch Studio Stainless Steel 3-Qt. Everyd, 12-Pk ETENWOLF Vacuum Storage Bags w/ US, 2 Set Round Stainless Steel Food Contain"
@@ -1260,10 +1264,6 @@
     {
       "at": "2026-10-17T17:57:32Z",
       "text": "7 new offer(s): Jetson Jupiter Mini 3-Wheel Light up Sco, Voyager Large Color-Block Signature Logo, Lifewit Medium Lunch Bag, Insulated Lunc"
-    },
-    {
-      "at": "2026-10-17T15:47:39Z",
-      "text": "7 new offer(s): U.S. Polo Assn. Girls Short Sleeve Polo , Shark FlexStyle, Air Multi-Styler & Dryi, adidas Mens Dayready Open Hem Tracksuit "
     }
   ]
 }
