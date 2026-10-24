@@ -16,8 +16,17 @@ SITE = "https://blockbusterdeals.net"
 COUNT = 60
 ROOT = Path(__file__).resolve().parent.parent
 OUT, MANUAL = ROOT / "deals.json", ROOT / "manual.json"
+LOG_FILE = ROOT / "fetch_log.txt"
 UA = {"User-Agent": "Mozilla/5.0 (BlockbusterDeals Board; +https://charitit.github.io/blockbuster-deals-app/)",
       "Accept": "application/json"}
+
+
+def log(msg):
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    line = f"[{timestamp}] {msg}\n"
+    print(msg)
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
+        f.write(line)
 
 
 def get(url):
@@ -126,6 +135,7 @@ def resolve_merchant(url, cache, budget):
         return None
     budget[0] -= 1
     found, nxt = "", url
+    seen = {url}
     try:
         for _ in range(4):
             with _open(nxt) as r:
@@ -135,8 +145,12 @@ def resolve_merchant(url, cache, budget):
                     break
                 body = html.unescape(unquote(r.read(300000).decode("utf-8", "ignore")))
             hop = NEXT_HOP.search(body)
-            if hop and hop.group(1) != nxt:
-                nxt = hop.group(1)
+            if hop:
+                hop_url = hop.group(1)
+                if hop_url in seen:
+                    break
+                nxt = hop_url
+                seen.add(nxt)
                 found = merchant_for(urlparse(nxt).netloc) or ""
                 for m in ([] if found else ANY_URL.finditer(nxt[8:])):  # store URL embedded in the hop's query string
                     found = merchant_for(m.group(1)) or ""
@@ -151,7 +165,7 @@ def resolve_merchant(url, cache, budget):
                     break
             break
     except Exception as e:
-        print("resolve failed:", url, e)
+        log(f"resolve failed: {url} - {e}")
         return None  # don't cache failures; try again next run
     cache[url] = found
     return found or None
@@ -213,25 +227,33 @@ def build():
     for o in offers:
         if o["store"] in KNOWN:
             o["merchant"] = o["store"]
-    keep = {o["link"] for o in offers}
-    STORES.write_text(json.dumps({k: v for k, v in cache.items() if k in keep}, indent=1, sort_keys=True) + "\n")
+    
+    # Merge manual offers before calculating which links to keep in cache
     if MANUAL.exists():
         offers += json.loads(MANUAL.read_text()).get("offers", [])
+    
+    keep = {o["link"] for o in offers if o.get("link")}
+    STORES.write_text(json.dumps({k: v for k, v in cache.items() if k in keep}, indent=1, sort_keys=True) + "\n")
+    
     offers.sort(key=lambda o: o.get("postedAt") or "", reverse=True)
     return offers
 
 
 def main():
+    log("Starting scan...")
     offers = build()
     if not offers:
+        log("No offers returned; leaving deals.json unchanged.")
         sys.exit("No offers returned; leaving deals.json unchanged.")
     old = json.loads(OUT.read_text()) if OUT.exists() else {}
     if old.get("offers") == offers:
-        print("No change.")
+        log("No changes detected since last scan.")
         return
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     old_ids = {o["id"] for o in old.get("offers", [])}
     added = [o for o in offers if o["id"] not in old_ids]
+    log(f"Found {len(added)} new offer(s).")
+    log("Updating deals.json...")
     log = ([{"at": now, "text": f"{len(added)} new offer(s): " + ", ".join(o['title'][:40] for o in added[:3])}] if added else []) + old.get("log", [])
     OUT.write_text(json.dumps({
         "channel": "BlockbusterDeals 19",
@@ -241,8 +263,9 @@ def main():
         "offers": offers,
         "log": log[:20],
     }, indent=2, ensure_ascii=False) + "\n")
-    print(f"Wrote {len(offers)} offers ({len(added)} new).")
+    log(f"Wrote {len(offers)} offers ({len(added)} new).")
     notify(added, now)
+    log("Scan complete.")
 
 
 # ---------- Phone notifications via ntfy (https://ntfy.sh) ----------
@@ -282,9 +305,9 @@ def notify(added, now):
                 if o.get("image"):
                     msg["attach"] = o["image"]
                 ntfy(topic, msg)
-        print(f"Notified {len(fresh)} deal(s).")
+        log(f"Notified {len(fresh)} deal(s).")
     except Exception as e:  # never fail the update because of a notification
-        print("Notification failed:", e)
+        log(f"Notification failed: {e}")
 
 
 if __name__ == "__main__":

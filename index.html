@@ -147,7 +147,7 @@ html,body{overscroll-behavior-y:contain}
   .drawer .chips.scroll{flex-wrap:wrap;overflow:visible}
   .dfoot{display:block;padding:12px 16px;border-top:1px solid var(--line)}
   .dshow{width:100%;font:700 15px var(--body);color:var(--bg);background:var(--ink);border:0;border-radius:10px;padding:13px;cursor:pointer}
-  .scrim{position:fixed;inset:0;z-index:29;background:rgba(0,0,0,.4)}
+  .scrim{position:fixed;inset:0;z-index:29;background:rgba(0,0,0,.4);cursor:pointer}
   body.drawer-open{overflow:hidden}
 }
 @media (max-width:767px) and (prefers-reduced-motion:reduce){.drawer{transition:none}}
@@ -613,7 +613,7 @@ footer{font-size:12px;color:var(--muted)}
   fbtn.addEventListener("click", () => drawer.classList.contains("open") ? closeDrawer() : openDrawer());
   $("#dclose").addEventListener("click", closeDrawer);
   $("#dshow").addEventListener("click", () => { closeDrawer(); $("#list").scrollIntoView({behavior:"smooth", block:"start"}); });
-  scrim.addEventListener("click", closeDrawer);
+  scrim.addEventListener("click", () => { console.log("Scrim clicked"); closeDrawer(); });
   addEventListener("keydown", e => { if (e.key === "Escape") closeDrawer(); });
   const mq = matchMedia("(max-width:767px)"); if (mq.addEventListener) mq.addEventListener("change", () => { if (!isPhone()) closeDrawer(); });
   (() => { let x0 = null; drawer.addEventListener("touchstart", e => { x0 = e.touches[0].clientX; }, {passive:true});
@@ -649,7 +649,14 @@ footer{font-size:12px;color:var(--muted)}
     addEventListener("touchend", async () => {
       if (y0 == null) return; y0 = null;
       if (dy > TH && !busy) { busy = true; ptr.classList.add("loading"); txt.textContent = "Refreshing…"; ptr.style.transform = "translateY(70px)";
-        try { await load(); } finally { busy = false; setTimeout(reset, 300); } }
+        try { await 
+  document.addEventListener('click', (e) => {
+    if (drawer.classList.contains('open') && !drawer.contains(e.target) && e.target !== fbtn) {
+      closeDrawer();
+    }
+  });
+
+  load(); } finally { busy = false; setTimeout(reset, 300); } }
       else reset();
     });
   })();
@@ -661,7 +668,14 @@ footer{font-size:12px;color:var(--muted)}
   // Refresh every 5 minutes while open, plus whenever the app comes back to the foreground after 5 minutes.
   setInterval(load, REFRESH_MS);
   setInterval(tick, 60000);
-  document.addEventListener("visibilitychange",()=>{ if (!document.hidden && Date.now()-lastFetch > REFRESH_MS) load(); });
+  document.addEventListener("visibilitychange",()=>{ if (!document.hidden && Date.now()-lastFetch > REFRESH_MS) 
+  document.addEventListener('click', (e) => {
+    if (drawer.classList.contains('open') && !drawer.contains(e.target) && e.target !== fbtn) {
+      closeDrawer();
+    }
+  });
+
+  load(); });
 
   // Install hint
   const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
@@ -675,6 +689,13 @@ footer{font-size:12px;color:var(--muted)}
     $("#installBtn").addEventListener("click", async()=>{ if(!deferred) return; deferred.prompt(); await deferred.userChoice; deferred=null; $("#install").hidden=true; });
   }
   if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(()=>{});
+
+  
+  document.addEventListener('click', (e) => {
+    if (drawer.classList.contains('open') && !drawer.contains(e.target) && e.target !== fbtn) {
+      closeDrawer();
+    }
+  });
 
   load();
 })();
