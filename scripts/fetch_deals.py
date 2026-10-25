@@ -7,7 +7,7 @@ Runs in GitHub Actions. Standard library only.
 deals.json is only rewritten when the offer list actually changes, so GitHub Pages
 doesn't redeploy for nothing.
 """
-import html, json, os, re, sys, urllib.request
+import html, json, os, re, sys, urllib.request, time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlparse, unquote
@@ -29,10 +29,17 @@ def log(msg):
         f.write(line)
 
 
-def get(url):
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read().decode("utf-8"))
+def get(url, retries=3):
+    for i in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=UA)
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return json.loads(r.read().decode("utf-8"))
+        except (urllib.error.URLError, TimeoutError) as e:
+            if i == retries - 1:
+                raise e
+            log(f"Timeout/Error fetching {url}. Retrying in 5s... ({i+1}/{retries})")
+            time.sleep(5)
 
 
 def money(minor, unit):
@@ -191,8 +198,13 @@ def text(s, limit=160):
 
 
 def build():
-    products = get(f"{SITE}/wp-json/wc/store/v1/products?per_page={COUNT}&orderby=date&order=desc")
-    dates = {p["id"]: p["date_gmt"] for p in get(f"{SITE}/wp-json/wp/v2/product?per_page={COUNT}&_fields=id,date_gmt")}
+    try:
+        products = get(f"{SITE}/wp-json/wc/store/v1/products?per_page={COUNT}&orderby=date&order=desc")
+        dates = {p["id"]: p["date_gmt"] for p in get(f"{SITE}/wp-json/wp/v2/product?per_page={COUNT}&_fields=id,date_gmt")}
+    except Exception as e:
+        log(f"CRITICAL: Site unreachable or API failure: {e}")
+        return None
+
     offers = []
     cache = load_store_cache()
     budget = [40]   # max new links to resolve per run
@@ -244,7 +256,8 @@ def main():
     offers = build()
     if not offers:
         log("No offers returned; leaving deals.json unchanged.")
-        sys.exit("No offers returned; leaving deals.json unchanged.")
+        # Exit with 0 so the GitHub Action doesn't show as "Failed" when the site is just down
+        sys.exit(0)
     old = json.loads(OUT.read_text()) if OUT.exists() else {}
     if old.get("offers") == offers:
         log("No changes detected since last scan.")
