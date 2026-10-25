@@ -254,14 +254,14 @@ def main():
     added = [o for o in offers if o["id"] not in old_ids]
     log(f"Found {len(added)} new offer(s).")
     log("Updating deals.json...")
-    log = ([{"at": now, "text": f"{len(added)} new offer(s): " + ", ".join(o['title'][:40] for o in added[:3])}] if added else []) + old.get("log", [])
+    log_entries = ([{"at": now, "text": f"{len(added)} new offer(s): " + ", ".join(o['title'][:40] for o in added[:3])}] if added else []) + old.get("log", [])
     OUT.write_text(json.dumps({
         "channel": "BlockbusterDeals 19",
         "source": SITE,
         "lastScan": now,
         "nextScan": None,
         "offers": offers,
-        "log": log[:20],
+        "log": log_entries[:20],
     }, indent=2, ensure_ascii=False) + "\n")
     log(f"Wrote {len(offers)} offers ({len(added)} new).")
     notify(added, now)
