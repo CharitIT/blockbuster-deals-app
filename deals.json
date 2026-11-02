@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T17:21:37Z",
+  "lastScan": "2026-11-02T17:32:08Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC7B6DD872FF44F438B4CDF728DA6DCB",
+      "store": "Amazon",
+      "title": "Mens Work Pants Tactical Cargo Stretch Casual Waterproof Outdoor Travel Hiking Pant With Multi Pockets(No Belt)",
+      "price": "$9",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://link.amazon/B0gKoskEu",
+      "page": null,
+      "image": "img/wa/AC7B6DD872FF44F438B4CDF728DA6DCB.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T17:29:29Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
+    {
+      "id": "wa-AC5A5D27F65672029EAAE77A35390668",
+      "store": "Wayfair",
+      "title": "3 piece bedroom sets on sale🔥At Wayfair",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/mEXEmu7Ow7b",
+      "page": null,
+      "image": "img/wa/AC5A5D27F65672029EAAE77A35390668.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T17:29:24Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
     {
       "id": "wa-AC9A19DD332DB1B3EF04B8D4EFAC3794",
       "store": "Amazon",
@@ -688,6 +726,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T17:32:08Z",
+      "text": "2 new offer(s): Mens Work Pants Tactical Cargo Stretch C, 3 piece bedroom sets on sale🔥At Wayfair"
+    },
+    {
       "at": "2026-11-02T17:21:37Z",
       "text": "1 new offer(s): Amazon Essentials Men's Standard-Fit Lon"
     },
@@ -762,10 +804,6 @@
     {
       "at": "2026-10-20T20:36:24Z",
       "text": "14 new offer(s): Jet Set Large Signature Logo Shoulder Ba, BAGSMART 6 Set Compression Packing Cubes, LANEIGE Lip Glowy Balm | Sheer Tinted Li"
-    },
-    {
-      "at": "2026-10-20T17:14:19Z",
-      "text": "15 new offer(s): Joseph Abboud Modern Fit Comfort Stretch, Awearness Kenneth Cole CHILLFLEX Perform, Astercook Knife Set 15 Piece German Stee"
     }
   ]
 }
