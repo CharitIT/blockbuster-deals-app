@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T18:30:43Z",
+  "lastScan": "2026-11-02T19:48:33Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC73F7F61EE0152B4E93F08E6A9A6D98",
+      "store": "Walmart",
+      "title": "Hello Kitty Toddler & Little Girls Comfort Slide",
+      "price": "$5",
+      "was": "$16",
+      "discount": "69% off",
+      "code": null,
+      "notes": null,
+      "link": "https://go.sylikes.com/fbf4BDSoZqUC",
+      "page": null,
+      "image": "img/wa/AC73F7F61EE0152B4E93F08E6A9A6D98.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T19:44:43Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC304904E62CDDDDD92795A2EAA526C1",
+      "store": "Amazon",
+      "title": "Entryway Bench with Shoe Storage, 3-Tier Shoe Rack Bench with Wooden Shelves and 3 Non-Woven Drawers, PU Padded Shoe Storage Bench for Entryway, Bedroom, Black HX07BB",
+      "price": "$39",
+      "was": "$69",
+      "discount": "43% off",
+      "code": null,
+      "notes": null,
+      "link": "https://link.amazon/B04zkZfr1",
+      "page": null,
+      "image": "img/wa/AC304904E62CDDDDD92795A2EAA526C1.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T19:43:18Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
     {
       "id": "wa-ACB4BC5443C025B9A0C9F260E132E6B5",
       "store": "Deal",
@@ -854,6 +892,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T19:48:33Z",
+      "text": "2 new offer(s): Hello Kitty Toddler & Little Girls Comfo, Entryway Bench with Shoe Storage, 3-Tier"
+    },
+    {
       "at": "2026-11-02T18:30:43Z",
       "text": "2 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital"
     },
@@ -928,10 +970,6 @@
     {
       "at": "2026-10-21T06:35:53Z",
       "text": "1 new offer(s): Reebok Women’s and Women’s Plus Everyday"
-    },
-    {
-      "at": "2026-10-21T01:45:09Z",
-      "text": "23 new offer(s): Arch Studio Stainless Steel 3-Qt. Everyd, 12-Pk ETENWOLF Vacuum Storage Bags w/ US, 2 Set Round Stainless Steel Food Contain"
     }
   ]
 }
