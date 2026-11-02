@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T15:27:13Z",
+  "lastScan": "2026-11-02T15:40:31Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC251E14D02E46275600A0E71FBFE79E",
+      "store": "Walmart",
+      "title": "Lots of Carote on sale now at Walmart🔥🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/KKZx57e1J7b",
+      "page": null,
+      "image": "img/wa/AC251E14D02E46275600A0E71FBFE79E.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T15:31:04Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACF44255FA6DDD0CDAE9D10070D8111E",
       "store": "Amazon",
@@ -465,6 +484,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T15:40:31Z",
+      "text": "1 new offer(s): Lots of Carote on sale now at Walmart🔥🔥"
+    },
+    {
       "at": "2026-11-02T15:27:13Z",
       "text": "2 new offer(s): 24 Pack Glass Spice Jars : 492 Lables & , Farberware 15-pc. Nonstick Stainless Ste"
     },
@@ -539,10 +562,6 @@
     {
       "at": "2026-10-18T21:48:19Z",
       "text": "10 new offer(s): HP Envy 6155 Wireless All-in-One Color I, ADIDAS D4T ESSENTIALS SHORTS, DREO Quiet Space Heater"
-    },
-    {
-      "at": "2026-10-18T19:36:30Z",
-      "text": "2 new offer(s): HOMBERKING 18pc Purple Glass Food Contai, Litheli 21″ Cordless Lawn Mower (Push)"
     }
   ]
 }
