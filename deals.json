@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T02:04:12Z",
+  "lastScan": "2026-11-02T15:05:19Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACFC5AFAEB07A9B49F17D540E95F21E5",
+      "store": "Walmart",
+      "title": "Satifur White Makeup Vanity with LED Mirror & Charging Station Modern Vanity Desk for Bedroom",
+      "price": "$89",
+      "was": "$102",
+      "discount": "13% off",
+      "code": null,
+      "notes": "Free Shipping",
+      "link": "https://mavely.app.link/CkJqfIC0J7b",
+      "page": null,
+      "image": "img/wa/ACFC5AFAEB07A9B49F17D540E95F21E5.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T15:05:03Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC6A1D7E178C321CE85510473D3909B9",
       "store": "Deal",
@@ -408,6 +427,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T15:05:19Z",
+      "text": "1 new offer(s): Satifur White Makeup Vanity with LED Mir"
+    },
+    {
       "at": "2026-11-02T02:04:12Z",
       "text": "4 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, ✅ 💳 Credit card required. Subscription c, Beautiful by drew Dining tables🔥🔥 At Wal"
     },
@@ -482,10 +505,6 @@
     {
       "at": "2026-10-18T17:34:46Z",
       "text": "16 new offer(s): Celebrity Pink Women’s Signature Zip Up , BESTEK 400W Car Power Inverter 12V to 11, 3 in 1 for iPhone and Watch Charging Sta"
-    },
-    {
-      "at": "2026-10-18T14:47:16Z",
-      "text": "1 new offer(s): Red Light Therapy Mask for Face"
     }
   ]
 }
