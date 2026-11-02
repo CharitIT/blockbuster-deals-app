@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T16:54:39Z",
+  "lastScan": "2026-11-02T17:07:35Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC6822FFE0615A6FF5BF6D137AAFED3F",
+      "store": "Walmart",
+      "title": "30 Pack Solid Wood Lotus Candle Holders, 5 Vibrant Colors, For Diwali Home Decor",
+      "price": "$61",
+      "was": "$67",
+      "discount": "9% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://go.sylikes.com/fbf4twKft9Dy",
+      "page": null,
+      "image": "img/wa/AC6822FFE0615A6FF5BF6D137AAFED3F.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T17:04:29Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC87048A8CDB34EDB66308D6924EDAF8",
+      "store": "Macy's",
+      "title": "Men's Stretch Insulated Hooded Puffer Jacket",
+      "price": "$43",
+      "was": "$125",
+      "discount": "66% off",
+      "code": "FRIEND",
+      "notes": "Hawke & Co. Use code FRIEND Free Shipping",
+      "link": "https://mavely.app.link/BpKPD203J7b",
+      "page": null,
+      "image": "img/wa/AC87048A8CDB34EDB66308D6924EDAF8.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T17:01:46Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-AC4259446B89919270A7789AA7514911",
       "store": "Deal",
@@ -631,6 +669,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T17:07:35Z",
+      "text": "2 new offer(s): 30 Pack Solid Wood Lotus Candle Holders,, Men's Stretch Insulated Hooded Puffer Ja"
+    },
+    {
       "at": "2026-11-02T16:54:39Z",
       "text": "1 new offer(s): Wooden Kids Cash Register Playset"
     },
@@ -705,10 +747,6 @@
     {
       "at": "2026-10-20T01:50:51Z",
       "text": "17 new offer(s): Under Armour Lockdown 7 Low Unisex Baske, Cetaphil Daily Facial Cleanser Gentle Fa, Avia Little & Big Kids Retro Air Bubble "
-    },
-    {
-      "at": "2026-10-19T23:11:21Z",
-      "text": "11 new offer(s): Lounge Sets for Women Cozy 2 Piece, Insulated Water Bottle with, BISSELL PowerClean DualBrush Cordless St"
     }
   ]
 }
