@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T17:07:35Z",
+  "lastScan": "2026-11-02T17:21:37Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC9A19DD332DB1B3EF04B8D4EFAC3794",
+      "store": "Amazon",
+      "title": "Amazon Essentials Men's Standard-Fit Long-Sleeve Two-Pocket Utility Shirt (Previously Goodthreads)",
+      "price": "$4",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://link.amazon/B0gpKg6b4",
+      "page": null,
+      "image": "img/wa/AC9A19DD332DB1B3EF04B8D4EFAC3794.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T17:11:36Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
     {
       "id": "wa-AC6822FFE0615A6FF5BF6D137AAFED3F",
       "store": "Walmart",
@@ -669,6 +688,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T17:21:37Z",
+      "text": "1 new offer(s): Amazon Essentials Men's Standard-Fit Lon"
+    },
+    {
       "at": "2026-11-02T17:07:35Z",
       "text": "2 new offer(s): 30 Pack Solid Wood Lotus Candle Holders,, Men's Stretch Insulated Hooded Puffer Ja"
     },
@@ -743,10 +766,6 @@
     {
       "at": "2026-10-20T17:14:19Z",
       "text": "15 new offer(s): Joseph Abboud Modern Fit Comfort Stretch, Awearness Kenneth Cole CHILLFLEX Perform, Astercook Knife Set 15 Piece German Stee"
-    },
-    {
-      "at": "2026-10-20T01:50:51Z",
-      "text": "17 new offer(s): Under Armour Lockdown 7 Low Unisex Baske, Cetaphil Daily Facial Cleanser Gentle Fa, Avia Little & Big Kids Retro Air Bubble "
     }
   ]
 }
