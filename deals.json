@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T15:40:31Z",
+  "lastScan": "2026-11-02T15:50:36Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC453B6CA94E1F76F22B5BBEB330F6EB",
+      "store": "Walmart",
+      "title": "CLOUDREST PRO Storage Bookcase for All Ages, White 6-Cube Organizer with Removable Panels",
+      "price": "$39",
+      "was": "$89",
+      "discount": "56% off",
+      "code": null,
+      "notes": "Free Shipping",
+      "link": "https://mavely.app.link/TD6l6YV1J7b",
+      "page": null,
+      "image": "img/wa/AC453B6CA94E1F76F22B5BBEB330F6EB.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T15:41:23Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC251E14D02E46275600A0E71FBFE79E",
       "store": "Walmart",
@@ -484,6 +503,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T15:50:36Z",
+      "text": "1 new offer(s): CLOUDREST PRO Storage Bookcase for All A"
+    },
+    {
       "at": "2026-11-02T15:40:31Z",
       "text": "1 new offer(s): Lots of Carote on sale now at Walmart🔥🔥"
     },
@@ -558,10 +581,6 @@
     {
       "at": "2026-10-18T23:42:30Z",
       "text": "4 new offer(s): 3pk electric toothbrushes $16.xx, BEDELITE Pink Fluffy Comforter Set Queen, Tommee Tippee Natural Start PPSU Baby Bo"
-    },
-    {
-      "at": "2026-10-18T21:48:19Z",
-      "text": "10 new offer(s): HP Envy 6155 Wireless All-in-One Color I, ADIDAS D4T ESSENTIALS SHORTS, DREO Quiet Space Heater"
     }
   ]
 }
