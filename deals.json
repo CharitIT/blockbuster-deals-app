@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T01:07:59Z",
+  "lastScan": "2026-11-02T01:28:12Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACE347D8E94030C0302ED237C57F4B6B",
+      "store": "Walmart",
+      "title": "Scenario Women's & Women's Plus Long Balloon Sleeve Mini Dress, Sizes XS-4X",
+      "price": "$9",
+      "was": "$19",
+      "discount": "53% off",
+      "code": null,
+      "notes": null,
+      "link": "https://go.sylikes.com/fbf0izqj1gPw",
+      "page": null,
+      "image": "img/wa/ACE347D8E94030C0302ED237C57F4B6B.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T01:23:39Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC2FC81D3EDC66C567F2C4B274DC48F2",
+      "store": "Amazon",
+      "title": "Hykolity 28 Inch Pre-Lit Botanical Christmas Wreath with 50 Warm White LEDs and Timer, Battery Operated Artificial PE & PVC Wreath with Ornaments, Pinecones and Layered Gold Leaves for Front Door",
+      "price": "$29",
+      "was": "$67",
+      "discount": "57% off",
+      "code": null,
+      "notes": null,
+      "link": "https://link.amazon/B0br3VRRt",
+      "page": null,
+      "image": "img/wa/AC2FC81D3EDC66C567F2C4B274DC48F2.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T01:23:35Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
     {
       "id": "wa-AC75BFADAD069A0E13B3D6473B8DFD91",
       "store": "Amazon",
@@ -259,6 +297,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T01:28:12Z",
+      "text": "2 new offer(s): Scenario Women's & Women's Plus Long Bal, Hykolity 28 Inch Pre-Lit Botanical Chris"
+    },
+    {
       "at": "2026-11-02T01:07:59Z",
       "text": "2 new offer(s): Michael Kors Women’s Laila Extra Small C, Scenario Women's Denim Skirt, Sizes 0-20"
     },
@@ -333,10 +375,6 @@
     {
       "at": "2026-10-18T01:30:48Z",
       "text": "13 new offer(s): NutriBullet® 1200 Watt Blender Combo wit, Retro Gold Wire-Frame Aviators, Soothfeel Men’s Workout Joggers with Zip"
-    },
-    {
-      "at": "2026-10-17T21:56:41Z",
-      "text": "7 new offer(s): Wonder Nation Girls Sleeveless Cargo Jum, Phomemo D30 Label Maker Machine with Tap, Shea Moisture Strong Hold Styling Gel wi"
     }
   ]
 }
