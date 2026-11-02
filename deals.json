@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T01:28:12Z",
+  "lastScan": "2026-11-02T01:49:03Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACD6952B0FAEB2284226DF13C101CCF0",
+      "store": "Deal",
+      "title": "New Balances on sale 🔥🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Get Upto 70% off",
+      "link": "https://mavely.app.link/fjjzS6CZI7b",
+      "page": null,
+      "image": "img/wa/ACD6952B0FAEB2284226DF13C101CCF0.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T01:41:16Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACBDEF0B13B598B2BD713F3678B0E42E",
+      "store": "Amazon",
+      "title": "Curtain Rods for windows 32-48 inch, 5/8 inch Decorative Curtain Rod Set, Matte Black Splicing Heavy Duty Metal Curtain Rod with Brackets",
+      "price": "$7",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://link.amazon/B0aQ0Sjim",
+      "page": null,
+      "image": "img/wa/ACBDEF0B13B598B2BD713F3678B0E42E.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T01:41:10Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
     {
       "id": "wa-ACE347D8E94030C0302ED237C57F4B6B",
       "store": "Walmart",
@@ -297,6 +334,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T01:49:03Z",
+      "text": "2 new offer(s): New Balances on sale 🔥🔥, Curtain Rods for windows 32-48 inch, 5/8"
+    },
+    {
       "at": "2026-11-02T01:28:12Z",
       "text": "2 new offer(s): Scenario Women's & Women's Plus Long Bal, Hykolity 28 Inch Pre-Lit Botanical Chris"
     },
@@ -371,10 +412,6 @@
     {
       "at": "2026-10-18T06:32:13Z",
       "text": "6 new offer(s): The Big One® Solid Bath Towel, Bath Shee, Magic Bullet Essential 9pc 250W Personal, Justice Girls Long Sleeve Zip Front Hood"
-    },
-    {
-      "at": "2026-10-18T01:30:48Z",
-      "text": "13 new offer(s): NutriBullet® 1200 Watt Blender Combo wit, Retro Gold Wire-Frame Aviators, Soothfeel Men’s Workout Joggers with Zip"
     }
   ]
 }
