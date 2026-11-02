@@ -1,9 +1,101 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T17:32:08Z",
+  "lastScan": "2026-11-02T18:11:54Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC6DAC33B7B835974C900E250B20B440",
+      "store": "Nordstrom",
+      "title": "🚨 Login to an account & use promo code: THANKS20 for extra 20% Off!",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": "THANKS20",
+      "notes": "RUN ❗ UGG sale 🔥 At Nordstromrack Get upto 60%off",
+      "link": "https://mavely.app.link/4pdE1mGLG7b",
+      "page": null,
+      "image": "img/wa/AC6DAC33B7B835974C900E250B20B440.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T18:08:48Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Nordstrom"
+    },
+    {
+      "id": "wa-ACFB4DE050C0C82D60ADB70476F16667",
+      "store": "Deal",
+      "title": "Adidas Essentials 3-Stripes Fleece Pants",
+      "price": "$21",
+      "was": "$50",
+      "discount": "58% off",
+      "code": "SD15",
+      "notes": "Use Code: SD15",
+      "link": "https://mavely.app.link/D4NALXEbK7b",
+      "page": null,
+      "image": "img/wa/ACFB4DE050C0C82D60ADB70476F16667.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T18:08:42Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACCCA5424401A38C151F767680A900D4",
+      "store": "Deal",
+      "title": "Adidas Terrex Anylander Hiking Shoes",
+      "price": "$38",
+      "was": "$75",
+      "discount": "49% off",
+      "code": "SD15",
+      "notes": "Use code : SD15",
+      "link": "https://mavely.app.link/C2BYYhlbK7b",
+      "page": null,
+      "image": "img/wa/ACCCA5424401A38C151F767680A900D4.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T17:49:21Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACFA738C8C47AB146EB9672E94C91AF5",
+      "store": "Woot",
+      "title": "(NEW) Samsung Galaxy S25 Ultra - 512GB (Unlocked)",
+      "price": "$899",
+      "was": "$1,418",
+      "discount": "37% off",
+      "code": null,
+      "notes": "Sign in with your Amazon account at checkout for free shipping.",
+      "link": "https://mavely.app.link/UtqtO20aK7b",
+      "page": null,
+      "image": "img/wa/ACFA738C8C47AB146EB9672E94C91AF5.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T17:43:53Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC1048BB3DC13A5521C34469AE7FC5D9",
+      "store": "Walmart",
+      "title": "Time and Tru Women's Tiered Midi Dress with Flutter Sleeves, Sizes XS-XXXL",
+      "price": "$6",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://go.sylikes.com/fbf4tNnLmD54",
+      "page": null,
+      "image": "img/wa/AC1048BB3DC13A5521C34469AE7FC5D9.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T17:38:05Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC7B6DD872FF44F438B4CDF728DA6DCB",
       "store": "Amazon",
@@ -726,6 +818,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T18:11:54Z",
+      "text": "5 new offer(s): 🚨 Login to an account & use promo code: , Adidas Essentials 3-Stripes Fleece Pants, Adidas Terrex Anylander Hiking Shoes"
+    },
+    {
       "at": "2026-11-02T17:32:08Z",
       "text": "2 new offer(s): Mens Work Pants Tactical Cargo Stretch C, 3 piece bedroom sets on sale🔥At Wayfair"
     },
@@ -800,10 +896,6 @@
     {
       "at": "2026-10-20T23:21:19Z",
       "text": "7 new offer(s): 150-Pc LEGO Classic Creative Food Friend, Creed Men’s Aventus 3.3oz EDP Spray, Dyson Supersonic Travel Hair Dryer"
-    },
-    {
-      "at": "2026-10-20T20:36:24Z",
-      "text": "14 new offer(s): Jet Set Large Signature Logo Shoulder Ba, BAGSMART 6 Set Compression Packing Cubes, LANEIGE Lip Glowy Balm | Sheer Tinted Li"
     }
   ]
 }
