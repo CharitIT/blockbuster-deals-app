@@ -1,9 +1,83 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T01:49:03Z",
+  "lastScan": "2026-11-02T02:04:12Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC6A1D7E178C321CE85510473D3909B9",
+      "store": "Deal",
+      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
+      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
+      "page": null,
+      "image": "img/wa/AC6A1D7E178C321CE85510473D3909B9.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T02:02:10Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACA4465B5B94B9812377BCE5CEFB9AC4",
+      "store": "Deal",
+      "title": "✅ 💳 Credit card required. Subscription charges apply after trial unless canceled.",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "✅ 🎉 Get 3 Months of SiriusXM FREE! ✅ 🎵 Enjoy ad-free music, live sports & entertainment! ✅ 🚗 Choose Car + App OR App Only. ✅ 📱 Listen anytime, anywhere on suppo",
+      "link": "https://theblogcm.com/566/eI6C",
+      "page": null,
+      "image": "img/wa/ACA4465B5B94B9812377BCE5CEFB9AC4.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T02:02:03Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC9D4CB9F76A1F95E4D8DF5328411806",
+      "store": "Walmart",
+      "title": "Beautiful by drew Dining tables🔥🔥 At Walmart",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://go.sylikes.com/fbf0fA0p1Iry",
+      "page": null,
+      "image": "img/wa/AC9D4CB9F76A1F95E4D8DF5328411806.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T01:56:22Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC6D008D04F13B7447AF4AC859DC7D92",
+      "store": "Amazon",
+      "title": "Ekouaer 3/4 Sleeve Tops Women V Neck T Shirts Dressy Casual Blouses",
+      "price": "$13",
+      "was": "$19",
+      "discount": "32% off",
+      "code": null,
+      "notes": null,
+      "link": "https://link.amazon/B04y6ZKKd",
+      "page": null,
+      "image": "img/wa/AC6D008D04F13B7447AF4AC859DC7D92.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T01:50:05Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
     {
       "id": "wa-ACD6952B0FAEB2284226DF13C101CCF0",
       "store": "Deal",
@@ -334,6 +408,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T02:04:12Z",
+      "text": "4 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, ✅ 💳 Credit card required. Subscription c, Beautiful by drew Dining tables🔥🔥 At Wal"
+    },
+    {
       "at": "2026-11-02T01:49:03Z",
       "text": "2 new offer(s): New Balances on sale 🔥🔥, Curtain Rods for windows 32-48 inch, 5/8"
     },
@@ -408,10 +486,6 @@
     {
       "at": "2026-10-18T14:47:16Z",
       "text": "1 new offer(s): Red Light Therapy Mask for Face"
-    },
-    {
-      "at": "2026-10-18T06:32:13Z",
-      "text": "6 new offer(s): The Big One® Solid Bath Towel, Bath Shee, Magic Bullet Essential 9pc 250W Personal, Justice Girls Long Sleeve Zip Front Hood"
     }
   ]
 }
