@@ -152,7 +152,8 @@ def main():
     manual = json.loads(MANUAL.read_text()).get("offers", []) if MANUAL.exists() else []
     manual_ids = {o["id"] for o in manual}
     # Keep earlier offers (WhatsApp Desktop only holds recent posts); a post's newest parse wins.
-    merged = {o["id"]: o for o in old.get("offers", []) if o["id"] not in manual_ids}
+    # Website offers (blockbusterdeals.net, down since 2026-10-21) are dropped: their prices are stale.
+    merged = {o["id"]: o for o in old.get("offers", []) if o["id"] not in manual_ids and o.get("source") != "site"}
     merged.update({o["id"]: o for o in fresh})
     offers = sorted(merged.values(), key=lambda o: o.get("postedAt") or "", reverse=True)[:COUNT] + manual
     offers.sort(key=lambda o: o.get("postedAt") or "", reverse=True)
@@ -184,10 +185,12 @@ def main():
 
     if os.environ.get("WA_NO_PUSH"):
         return
-    git("add", "-A", "deals.json", "stores.json", "img/wa")
-    if git("diff", "--cached", "--quiet").returncode == 0:
+    paths = ("deals.json", "stores.json", "img/wa")
+    git("add", "-A", *paths)
+    if git("diff", "--cached", "--quiet", "--", *paths).returncode == 0:
         return
-    git("commit", "-q", "-m", f"Update deals {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC (WhatsApp)")
+    # Commit only these paths, never anything else that happens to be staged.
+    git("commit", "-q", "-m", f"Update deals {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC (WhatsApp)", "--", *paths)
     push = git("push", "-q")
     log("Pushed." if push.returncode == 0 else f"git push failed: {push.stderr.strip()}")
 
