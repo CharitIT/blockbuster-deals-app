@@ -188,6 +188,7 @@ html,body{overscroll-behavior-y:contain}
 .log li{display:flex;gap:12px}
 .log time{font:500 12px var(--mono);color:var(--ink);white-space:nowrap}
 footer{font-size:12px;color:var(--muted)}
+[hidden]{display:none!important}
 .install{background:var(--accent-soft);color:var(--ink);border-radius:10px;padding:12px 14px;font-size:14px;display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap}
 .install button{font:600 13px var(--body);border:0;background:var(--accent);color:var(--bg);padding:8px 12px;border-radius:6px;cursor:pointer}
 .install .installX{background:none;color:var(--muted);padding:4px 6px;font-size:14px;margin-left:auto}
@@ -613,7 +614,7 @@ footer{font-size:12px;color:var(--muted)}
   fbtn.addEventListener("click", () => drawer.classList.contains("open") ? closeDrawer() : openDrawer());
   $("#dclose").addEventListener("click", closeDrawer);
   $("#dshow").addEventListener("click", () => { closeDrawer(); $("#list").scrollIntoView({behavior:"smooth", block:"start"}); });
-  scrim.addEventListener("click", () => { console.log("Scrim clicked"); closeDrawer(); });
+  scrim.addEventListener("click", closeDrawer);
   addEventListener("keydown", e => { if (e.key === "Escape") closeDrawer(); });
   const mq = matchMedia("(max-width:767px)"); if (mq.addEventListener) mq.addEventListener("change", () => { if (!isPhone()) closeDrawer(); });
   (() => { let x0 = null; drawer.addEventListener("touchstart", e => { x0 = e.touches[0].clientX; }, {passive:true});
@@ -649,14 +650,7 @@ footer{font-size:12px;color:var(--muted)}
     addEventListener("touchend", async () => {
       if (y0 == null) return; y0 = null;
       if (dy > TH && !busy) { busy = true; ptr.classList.add("loading"); txt.textContent = "Refreshing…"; ptr.style.transform = "translateY(70px)";
-        try { await 
-  document.addEventListener('click', (e) => {
-    if (drawer.classList.contains('open') && !drawer.contains(e.target) && e.target !== fbtn) {
-      closeDrawer();
-    }
-  });
-
-  load(); } finally { busy = false; setTimeout(reset, 300); } }
+        try { await load(); } finally { busy = false; setTimeout(reset, 300); } }
       else reset();
     });
   })();
@@ -668,14 +662,7 @@ footer{font-size:12px;color:var(--muted)}
   // Refresh every 5 minutes while open, plus whenever the app comes back to the foreground after 5 minutes.
   setInterval(load, REFRESH_MS);
   setInterval(tick, 60000);
-  document.addEventListener("visibilitychange",()=>{ if (!document.hidden && Date.now()-lastFetch > REFRESH_MS) 
-  document.addEventListener('click', (e) => {
-    if (drawer.classList.contains('open') && !drawer.contains(e.target) && e.target !== fbtn) {
-      closeDrawer();
-    }
-  });
-
-  load(); });
+  document.addEventListener("visibilitychange",()=>{ if (!document.hidden && Date.now()-lastFetch > REFRESH_MS) load(); });
 
   // Install hint
   const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
@@ -689,13 +676,6 @@ footer{font-size:12px;color:var(--muted)}
     $("#installBtn").addEventListener("click", async()=>{ if(!deferred) return; deferred.prompt(); await deferred.userChoice; deferred=null; $("#install").hidden=true; });
   }
   if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(()=>{});
-
-  
-  document.addEventListener('click', (e) => {
-    if (drawer.classList.contains('open') && !drawer.contains(e.target) && e.target !== fbtn) {
-      closeDrawer();
-    }
-  });
 
   load();
 })();
