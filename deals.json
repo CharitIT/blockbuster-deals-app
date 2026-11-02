@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T16:44:11Z",
+  "lastScan": "2026-11-02T16:54:39Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC4259446B89919270A7789AA7514911",
+      "store": "Deal",
+      "title": "Wooden Kids Cash Register Playset",
+      "price": "$59",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/tzrWyvf6J7b",
+      "page": null,
+      "image": "img/wa/AC4259446B89919270A7789AA7514911.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T16:50:59Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACD7CCA7F4ECE7114DBC6ECE61C7221C",
       "store": "Deal",
@@ -613,6 +631,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T16:54:39Z",
+      "text": "1 new offer(s): Wooden Kids Cash Register Playset"
+    },
+    {
       "at": "2026-11-02T16:44:11Z",
       "text": "3 new offer(s): Janod Wooden Pasta Kids Playset, Wonder & Wise by Asweets Wooden Toddler , Avia Men's Running Shoes 02 Air, Medium "
     },
@@ -687,10 +709,6 @@
     {
       "at": "2026-10-19T23:11:21Z",
       "text": "11 new offer(s): Lounge Sets for Women Cozy 2 Piece, Insulated Water Bottle with, BISSELL PowerClean DualBrush Cordless St"
-    },
-    {
-      "at": "2026-10-19T19:50:56Z",
-      "text": "15 new offer(s): KitchenAid® 7-Speed Hand Mixer & Oven Mi, Dove Whipped Shower Foam Oat Milk & Berr, Tommy Hilfiger Men’s Wind Resistant Golf"
     }
   ]
 }
