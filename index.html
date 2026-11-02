@@ -215,7 +215,7 @@ footer{font-size:12px;color:var(--muted)}
 <div class="wrap">
   <header>
     <div class="top">
-      <div class="eyebrow">Live deals · blockbusterdeals.net</div>
+      <div class="eyebrow">Live deals · Blockbuster Deals WhatsApp</div>
       <button class="refresh" id="refresh" type="button" aria-label="Refresh deals" title="Refresh">
         <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M20 12a8 8 0 1 1-2.34-5.66" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M20 4v5h-5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </button>
@@ -465,7 +465,7 @@ footer{font-size:12px;color:var(--muted)}
     const top = el("div","row");
     top.append(el("div","store",o.store||"Deal"));
     if (o.discount) top.append(el("div","off",o.discount));
-    if (o.image && /^https:\/\//.test(o.image)){ const im=el("img","thumb"); im.src=o.image; im.alt=""; im.loading="lazy"; im.decoding="async"; im.onerror=()=>im.remove(); c.append(im); }
+    if (o.image && /^(https:\/\/|img\/wa\/)/.test(o.image)){ const im=el("img","thumb"); im.src=o.image; im.alt=""; im.loading="lazy"; im.decoding="async"; im.onerror=()=>im.remove(); c.append(im); }
     c.append(top, el("h3","title",o.title||"Untitled offer"));
     if (o.price || o.was){
       const p = el("div","price");

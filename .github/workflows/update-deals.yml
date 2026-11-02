@@ -1,8 +1,10 @@
 name: Update deals
 
+# blockbusterdeals.net has been down since 2026-10-21; deals now come from the WhatsApp community
+# via scripts/whatsapp_deals.py on a Mac. Schedule is off so this can't overwrite those deals.
 on:
-  schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes (GitHub may run it a few minutes late)
+  # schedule:
+  #   - cron: "*/10 * * * *"   # every 10 minutes (GitHub may run it a few minutes late)
   workflow_dispatch: {}      # "Run workflow" button on the Actions tab
 
 permissions:

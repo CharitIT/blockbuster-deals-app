@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Runs scripts/whatsapp_deals.py every 10 minutes. Install:
+     cp scripts/com.blockbuster.deals.plist ~/Library/LaunchAgents/ && launchctl load ~/Library/LaunchAgents/com.blockbuster.deals.plist
+     Log: ~/Library/Logs/blockbuster-deals.log -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.blockbuster.deals</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/opt/homebrew/bin/python3</string>
+    <string>/Users/mcihub/OwnSpace/Apps/GitHubs/blockbuster-deals-app/scripts/whatsapp_deals.py</string>
+  </array>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key><string>/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+  </dict>
+  <key>StartInterval</key><integer>600</integer>
+  <key>RunAtLoad</key><true/>
+  <key>StandardOutPath</key><string>/Users/mcihub/Library/Logs/blockbuster-deals.log</string>
+  <key>StandardErrorPath</key><string>/Users/mcihub/Library/Logs/blockbuster-deals.log</string>
+</dict>
+</plist>
