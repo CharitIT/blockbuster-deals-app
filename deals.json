@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T15:50:36Z",
+  "lastScan": "2026-11-02T16:01:07Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB9AFD06B3B74099F3438DD87084C65",
+      "store": "Deal",
+      "title": "A limited-edition advent calendar with 24 customer-favorite skincare formulas.",
+      "price": "$150",
+      "was": "$319",
+      "discount": "53% off",
+      "code": null,
+      "notes": "Free Shipping",
+      "link": "https://mavely.app.link/1IGfwp81J7b",
+      "page": null,
+      "image": "img/wa/ACB9AFD06B3B74099F3438DD87084C65.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T15:51:40Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC453B6CA94E1F76F22B5BBEB330F6EB",
       "store": "Walmart",
@@ -503,6 +521,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T16:01:07Z",
+      "text": "1 new offer(s): A limited-edition advent calendar with 2"
+    },
+    {
       "at": "2026-11-02T15:50:36Z",
       "text": "1 new offer(s): CLOUDREST PRO Storage Bookcase for All A"
     },
@@ -577,10 +599,6 @@
     {
       "at": "2026-10-19T01:45:13Z",
       "text": "12 new offer(s): FENNIO Vanity Mirror with Lights 22”x18”, Lovery 24-Pc. Perfume Advent Calendar Se, Big Chill Women’s Double Zip Front Hoode"
-    },
-    {
-      "at": "2026-10-18T23:42:30Z",
-      "text": "4 new offer(s): 3pk electric toothbrushes $16.xx, BEDELITE Pink Fluffy Comforter Set Queen, Tommee Tippee Natural Start PPSU Baby Bo"
     }
   ]
 }
