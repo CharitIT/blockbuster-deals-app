@@ -1,9 +1,64 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T16:17:50Z",
+  "lastScan": "2026-11-02T16:44:11Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACD7CCA7F4ECE7114DBC6ECE61C7221C",
+      "store": "Deal",
+      "title": "Janod Wooden Pasta Kids Playset",
+      "price": "$39",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/Fprc6l1DF7b",
+      "page": null,
+      "image": "img/wa/ACD7CCA7F4ECE7114DBC6ECE61C7221C.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T16:41:06Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC19B82E257504F9CFD78CCA8D0A5748",
+      "store": "Deal",
+      "title": "Wonder & Wise by Asweets Wooden Toddler Pizza Oven Toy",
+      "price": "$64",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/ofOlFkkDF7b",
+      "page": null,
+      "image": "img/wa/AC19B82E257504F9CFD78CCA8D0A5748.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T16:32:09Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACA7D9D620D057E96AF30FDA9A2EDEB1",
+      "store": "Walmart",
+      "title": "Avia Men's Running Shoes 02 Air, Medium Width",
+      "price": "$12",
+      "was": "$27",
+      "discount": "56% off",
+      "code": null,
+      "notes": null,
+      "link": "https://go.sylikes.com/fbf4q6cscnI3",
+      "page": null,
+      "image": "img/wa/ACA7D9D620D057E96AF30FDA9A2EDEB1.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T16:20:30Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACA49C1746D77F60E88598D75C94FD3E",
       "store": "Amazon",
@@ -558,6 +613,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T16:44:11Z",
+      "text": "3 new offer(s): Janod Wooden Pasta Kids Playset, Wonder & Wise by Asweets Wooden Toddler , Avia Men's Running Shoes 02 Air, Medium "
+    },
+    {
       "at": "2026-11-02T16:17:50Z",
       "text": "2 new offer(s): Men's Flannel Shirt Plaid Hoodie Stylish, 11 Products with 7 full-size favorites"
     },
@@ -632,10 +691,6 @@
     {
       "at": "2026-10-19T19:50:56Z",
       "text": "15 new offer(s): KitchenAid® 7-Speed Hand Mixer & Oven Mi, Dove Whipped Shower Foam Oat Milk & Berr, Tommy Hilfiger Men’s Wind Resistant Golf"
-    },
-    {
-      "at": "2026-10-19T06:53:32Z",
-      "text": "2 new offer(s): Puffer Coats at Macy’s, Standing Computer Gaming Office Desk – 4"
     }
   ]
 }
