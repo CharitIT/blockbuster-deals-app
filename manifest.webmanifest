@@ -1,7 +1,7 @@
 {
-  "name": "BlockbusterDeals Board",
+  "name": "BlockbusterDealsIT",
   "short_name": "BB Deals",
-  "description": "Offers from the BlockbusterDeals 19 WhatsApp community, updated live.",
+  "description": "Offers from the Blockbuster Deals WhatsApp community, updated live.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
