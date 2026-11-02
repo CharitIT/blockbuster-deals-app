@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-02T18:11:54Z",
+  "lastScan": "2026-11-02T18:30:43Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB4BC5443C025B9A0C9F260E132E6B5",
+      "store": "Deal",
+      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Link:",
+      "link": "https://theblogcm.com/566/eJi8",
+      "page": null,
+      "image": "img/wa/ACB4BC5443C025B9A0C9F260E132E6B5.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T18:18:08Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC6BE50157293044D7A2791F48952EB9",
+      "store": "Deal",
+      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
+      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
+      "page": null,
+      "image": "img/wa/AC6BE50157293044D7A2791F48952EB9.jpg",
+      "category": null,
+      "postedAt": "2026-11-02T18:13:16Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC6DAC33B7B835974C900E250B20B440",
       "store": "Nordstrom",
@@ -818,6 +854,10 @@
   ],
   "log": [
     {
+      "at": "2026-11-02T18:30:43Z",
+      "text": "2 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital"
+    },
+    {
       "at": "2026-11-02T18:11:54Z",
       "text": "5 new offer(s): 🚨 Login to an account & use promo code: , Adidas Essentials 3-Stripes Fleece Pants, Adidas Terrex Anylander Hiking Shoes"
     },
@@ -892,10 +932,6 @@
     {
       "at": "2026-10-21T01:45:09Z",
       "text": "23 new offer(s): Arch Studio Stainless Steel 3-Qt. Everyd, 12-Pk ETENWOLF Vacuum Storage Bags w/ US, 2 Set Round Stainless Steel Food Contain"
-    },
-    {
-      "at": "2026-10-20T23:21:19Z",
-      "text": "7 new offer(s): 150-Pc LEGO Classic Creative Food Friend, Creed Men’s Aventus 3.3oz EDP Spray, Dyson Supersonic Travel Hair Dryer"
     }
   ]
 }
