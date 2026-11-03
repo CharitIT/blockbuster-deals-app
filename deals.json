@@ -1,9 +1,81 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-03T14:42:19Z",
+  "lastScan": "2026-11-03T15:44:36Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACEDF405C5AC0F110B233C64D2A26D27",
+      "store": "Deal",
+      "title": "FREE STANDARD SHIPPING WITH ADICLUB",
+      "price": "$30",
+      "was": "$60",
+      "discount": "50% off",
+      "code": "SD15",
+      "notes": "Adidas Terrex Hikster LT Hiking Shoes Use code SD15",
+      "link": "https://mavely.app.link/PaPUW8pHL7b",
+      "page": null,
+      "image": "img/wa/ACEDF405C5AC0F110B233C64D2A26D27.jpg",
+      "category": null,
+      "postedAt": "2026-11-03T15:33:38Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC216BC527D96602385B0B8FCB0A5835",
+      "store": "Deal",
+      "title": "FREE STANDARD SHIPPING WITH ADICLUB",
+      "price": "$63",
+      "was": "$150",
+      "discount": "58% off",
+      "code": "SD15",
+      "notes": "Adidas ADISTAR XLG 2.0 SHOES Use code SD15",
+      "link": "https://mavely.app.link/Ic7bTqYGL7b",
+      "page": null,
+      "image": "img/wa/AC216BC527D96602385B0B8FCB0A5835.jpg",
+      "category": null,
+      "postedAt": "2026-11-03T15:22:14Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACEEC81D8B9BA2CF9A9350B57A13BC2C",
+      "store": "Deal",
+      "title": "SUPERNOVA RISE 3 ADAPTIVE RUNNING SHOES",
+      "price": "$56",
+      "was": "$140",
+      "discount": "60% off",
+      "code": null,
+      "notes": "Adidas FREE STANDARD SHIPPING WITH ADICLUB",
+      "link": "https://mavely.app.link/1H5O7o5FL7b",
+      "page": null,
+      "image": "img/wa/ACEEC81D8B9BA2CF9A9350B57A13BC2C.jpg",
+      "category": null,
+      "postedAt": "2026-11-03T15:12:30Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC6A16386C4B94EA062EE9E5CF2766FD",
+      "store": "Woot",
+      "title": "Use code CARE20 at checkout for an extra 20% off items in this sale! New customers get 30% off! Limit one use per customer, maximum $40 discount.",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": "CARE20",
+      "notes": "Personal care items🔥 Sign in with your Amazon account at checkout for free shipping.",
+      "link": "https://mavely.app.link/8hd4NyLFL7b",
+      "page": null,
+      "image": "img/wa/AC6A16386C4B94EA062EE9E5CF2766FD.jpg",
+      "category": null,
+      "postedAt": "2026-11-03T15:08:59Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC7AA5AEE888F1F82AE8C1E59EAAEE12",
       "store": "Deal",
@@ -269,7 +341,7 @@
     },
     {
       "id": "wa-AC835AD600203480432210F811237549",
-      "store": "Deal",
+      "store": "Walmart",
       "title": "Chaps Men's Performance Dress Shirt",
       "price": "$5",
       "was": "$25",
@@ -283,7 +355,8 @@
       "postedAt": "2026-11-03T00:11:38Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Walmart"
     },
     {
       "id": "wa-AC514F600A3CD6F78D5BFFBC7F510DF7",
@@ -1048,82 +1121,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC453B6CA94E1F76F22B5BBEB330F6EB",
-      "store": "Walmart",
-      "title": "CLOUDREST PRO Storage Bookcase for All Ages, White 6-Cube Organizer with Removable Panels",
-      "price": "$39",
-      "was": "$89",
-      "discount": "56% off",
-      "code": null,
-      "notes": "Free Shipping",
-      "link": "https://mavely.app.link/TD6l6YV1J7b",
-      "page": null,
-      "image": "img/wa/AC453B6CA94E1F76F22B5BBEB330F6EB.jpg",
-      "category": null,
-      "postedAt": "2026-11-02T15:41:23Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC251E14D02E46275600A0E71FBFE79E",
-      "store": "Walmart",
-      "title": "Lots of Carote on sale now at Walmart🔥🔥",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/KKZx57e1J7b",
-      "page": null,
-      "image": "img/wa/AC251E14D02E46275600A0E71FBFE79E.jpg",
-      "category": null,
-      "postedAt": "2026-11-02T15:31:04Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACF44255FA6DDD0CDAE9D10070D8111E",
-      "store": "Amazon",
-      "title": "24 Pack Glass Spice Jars : 492 Lables & Pepper Grinder & Bamboo Lids",
-      "price": "$15",
-      "was": "$65",
-      "discount": "77% off",
-      "code": "PZBVFSA0",
-      "notes": "Use code PZBVFSA0",
-      "link": "https://link.amazon/B09wxgQN5",
-      "page": null,
-      "image": "img/wa/ACF44255FA6DDD0CDAE9D10070D8111E.jpg",
-      "category": null,
-      "postedAt": "2026-11-02T15:21:41Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Amazon"
-    },
-    {
-      "id": "wa-AC4FA6426CE5482D01C57B4ABA406F54",
-      "store": "Kohl's",
-      "title": "Farberware 15-pc. Nonstick Stainless Steel Cookware Set",
-      "price": "$255",
-      "was": "$319",
-      "discount": "20% off",
-      "code": "SHOPNOW",
-      "notes": "Clip coupon OR Use code: SHOPNOW at checkout Get $30 Kohl’s Cash®️ to use November 2 - 8 Free Shipping",
-      "link": "https://mavely.app.link/cgp16b4ZJ7b",
-      "page": null,
-      "image": "img/wa/AC4FA6426CE5482D01C57B4ABA406F54.jpg",
-      "category": null,
-      "postedAt": "2026-11-02T15:18:06Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Kohl's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1170,6 +1167,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-03T15:44:36Z",
+      "text": "4 new offer(s): FREE STANDARD SHIPPING WITH ADICLUB, FREE STANDARD SHIPPING WITH ADICLUB, SUPERNOVA RISE 3 ADAPTIVE RUNNING SHOES"
+    },
     {
       "at": "2026-11-03T14:42:19Z",
       "text": "35 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, ✅ 💳 Credit card required. Subscription c, 20000mAh Laptop Power Bank with Built-in"
@@ -1245,10 +1246,6 @@
     {
       "at": "2026-11-02T01:07:59Z",
       "text": "2 new offer(s): Michael Kors Women’s Laila Extra Small C, Scenario Women's Denim Skirt, Sizes 0-20"
-    },
-    {
-      "at": "2026-11-02T01:00:12Z",
-      "text": "9 new offer(s): Lissome Women's Ultra Soft Stretchy Knit, Glad Plastic Forks, Spoons and Knives, H, My Texas House Fall Rattan Decorative Va"
     }
   ]
 }
