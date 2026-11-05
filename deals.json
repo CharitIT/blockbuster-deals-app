@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T16:58:13Z",
+  "lastScan": "2026-11-05T17:09:01Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC9FF324DC75CDF66AD761979EBC8D25",
+      "store": "Deal",
+      "title": "Calvin Klein Women's Short Zip Front Puffer Jacket",
+      "price": "$39",
+      "was": "$265",
+      "discount": "85% off",
+      "code": null,
+      "notes": "Final Sale 🚨 Free shipping",
+      "link": "https://mavely.app.link/fCfifq67O7b",
+      "page": null,
+      "image": "img/wa/AC9FF324DC75CDF66AD761979EBC8D25.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T17:02:16Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC475928E3272DC1E9A3DA6C9FF68CB3",
+      "store": "Deal",
+      "title": "Tramontina Signature Tri-Ply Clad Stainless Steel 12-Inch Large Frying Pan",
+      "price": "$34",
+      "was": "$49",
+      "discount": "31% off",
+      "code": null,
+      "notes": "Induction-Ready Skillet, Dishwasher",
+      "link": "https://blockbusterdeals.net/product/tramontina-signature-tri-ply-clad-stainless-steel-12-inch-large-frying-pan-induction-ready-skillet-dishwasher/",
+      "page": null,
+      "image": "img/wa/AC475928E3272DC1E9A3DA6C9FF68CB3.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T16:59:51Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACBF3F4B60A1CC3B8F0722845B754666",
       "store": "Macy's",
@@ -1064,42 +1100,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC1C94575D15FCE20C4231686D740831",
-      "store": "Deal",
-      "title": "Ekouaer Thermal Underwear for Women Long Johns Set Fleece Lined Base Layer",
-      "price": "$7",
-      "was": "$19",
-      "discount": "63% off",
-      "code": "DV18O25A",
-      "notes": "Use code DV18O25A",
-      "link": "https://blockbusterdeals.net/product/ekouaer-thermal-underwear-for-women-long-johns-set-fleece-lined-base-layer/",
-      "page": null,
-      "image": "img/wa/AC1C94575D15FCE20C4231686D740831.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T17:59:10Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC495095360745049BAB7C68BD892769",
-      "store": "Deal",
-      "title": "10.1 Inch Tri-Ply Skillet, Nonstick Fry Pan with Removable Silicone Grip",
-      "price": "$9",
-      "was": "$29",
-      "discount": "69% off",
-      "code": "Y0TOZ7P3",
-      "notes": "Use Code:Y0TOZ7P3",
-      "link": "https://blockbusterdeals.net/product/10-1-inch-tri-ply-skillet-nonstick-fry-pan-with-removable-silicone-grip/",
-      "page": null,
-      "image": "img/wa/AC495095360745049BAB7C68BD892769.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T17:50:56Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1146,6 +1146,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T17:09:01Z",
+      "text": "2 new offer(s): Calvin Klein Women's Short Zip Front Puf, Tramontina Signature Tri-Ply Clad Stainl"
+    },
     {
       "at": "2026-11-05T16:58:13Z",
       "text": "3 new offer(s): Microfiber Down Alternative Comforter, F, Kenneth Cole Reaction Men's Slim-Fit 2-P, Essential Unisex 6-Pack No-Show Socks"
@@ -1221,10 +1225,6 @@
     {
       "at": "2026-11-02T17:32:08Z",
       "text": "2 new offer(s): Mens Work Pants Tactical Cargo Stretch C, 3 piece bedroom sets on sale🔥At Wayfair"
-    },
-    {
-      "at": "2026-11-02T17:21:37Z",
-      "text": "1 new offer(s): Amazon Essentials Men's Standard-Fit Lon"
     }
   ]
 }
