@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T21:00:24Z",
+  "lastScan": "2026-11-05T21:10:41Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8FBF58C921993B7463AF43558DA39E",
+      "store": "Deal",
+      "title": "Baby Dove Derma Care Soothing Wash Skin Care with Colloidal Oatmeal Suitable for eczema prone skin 13 oz,(Pack of 2)",
+      "price": "$12",
+      "was": "$19",
+      "discount": "37% off",
+      "code": null,
+      "notes": "Subscribe & Save",
+      "link": "https://blockbusterdeals.net/product/baby-dove-derma-care-soothing-wash-skin-care-with-colloidal-oatmeal-suitable-for-eczema-prone-skin-13-ozpack-of-2/",
+      "page": null,
+      "image": "img/wa/AC8FBF58C921993B7463AF43558DA39E.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T21:07:09Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC2F3E3971ACDCFC8780C075B1848CCF",
+      "store": "Deal",
+      "title": "DUDE Wipes Unscented Adult Flushable Wet Wipes, Sensitive Skin, 576 Count",
+      "price": "$23",
+      "was": "$47",
+      "discount": "51% off",
+      "code": null,
+      "notes": "As low as Subscribe and save",
+      "link": "https://blockbusterdeals.net/product/dude-wipes-unscented-adult-flushable-wet-wipes-sensitive-skin-576-count/",
+      "page": null,
+      "image": "img/wa/AC2F3E3971ACDCFC8780C075B1848CCF.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T21:07:01Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC32CE1F1BA6C209B38139E0CB9A1CBA",
       "store": "Macy's",
@@ -1083,42 +1119,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-AC87088AAD3A798F5B239DCEE016A374",
-      "store": "Deal",
-      "title": "Magnetic Shelf for Fridge With Wood Lid,Fruit Vegetable Potato & Onion Organizers Storage Basket Bins For Refrigerator Kitchen Countertop Container",
-      "price": "$10",
-      "was": "$15",
-      "discount": "33% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/magnetic-shelf-for-fridge-with-wood-lidfruit-vegetable-potato-onion-organizers-storage-basket-bins-for-refrigerator-kitchen-countertop-container/",
-      "page": null,
-      "image": "img/wa/AC87088AAD3A798F5B239DCEE016A374.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T23:17:00Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC14D27B0F5334CED4AC5961E96D63E0",
-      "store": "Deal",
-      "title": "Shark Cordless Pet Vacuum with XL Dust Cup & LED Headlights (IY143H)",
-      "price": "$159",
-      "was": "$299",
-      "discount": "47% off",
-      "code": null,
-      "notes": "🎁 Earn 5% Kohl's Rewards Free shipping",
-      "link": "https://mavely.app.link/3mJHUfuhY6b",
-      "page": null,
-      "image": "img/wa/AC14D27B0F5334CED4AC5961E96D63E0.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T23:12:50Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1165,6 +1165,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T21:10:41Z",
+      "text": "2 new offer(s): Baby Dove Derma Care Soothing Wash Skin , DUDE Wipes Unscented Adult Flushable Wet"
+    },
     {
       "at": "2026-11-05T21:00:24Z",
       "text": "3 new offer(s): Reebok Puffer Jackets, Scenario Women's and Women's Plus Chore , Marc Jacobs The Camo Jacquard Medium Tot"
@@ -1240,10 +1244,6 @@
     {
       "at": "2026-11-05T15:21:28Z",
       "text": "2 new offer(s): 🚨 Clip 1 Time purchase Coupon & switch t, Minnie Mouse Ride-On 15\" Fly Wheels Crui"
-    },
-    {
-      "at": "2026-11-05T15:10:47Z",
-      "text": "1 new offer(s): Magic Bullet 4 Piece Personal Blender MB"
     }
   ]
 }
