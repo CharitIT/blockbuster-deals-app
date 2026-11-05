@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T15:32:14Z",
+  "lastScan": "2026-11-05T15:43:00Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC75A20257110E7E2A16105FD143DB3F",
+      "store": "Deal",
+      "title": "Jet Set Large Signature Logo Shoulder Bag",
+      "price": "$63",
+      "was": "$398",
+      "discount": "84% off",
+      "code": null,
+      "notes": "Michael kors BUY 2+ ITEMS, GET 20% OFF APPLIED IN CART",
+      "link": "https://mavely.app.link/QQnx4IA2O7b",
+      "page": null,
+      "image": "img/wa/AC75A20257110E7E2A16105FD143DB3F.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T15:41:50Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACE71222215D53C687F2136D8976A327",
+      "store": "Deal",
+      "title": "Brooks Women’s Ghost Max 3 Running Shoe",
+      "price": "$91",
+      "was": "$159",
+      "discount": "43% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/brooks-womens-ghost-max-3-running-shoe/",
+      "page": null,
+      "image": "img/wa/ACE71222215D53C687F2136D8976A327.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T15:37:59Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACBB0EE7CFD5F3D2D2EBFD10B0910A2D",
       "store": "Deal",
@@ -1062,42 +1098,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACFED6391E87F431D85B85A5D5D105B5",
-      "store": "Deal",
-      "title": "FREE STANDARD SHIPPING WITH ADICLUB",
-      "price": "$28",
-      "was": "$85",
-      "discount": "67% off",
-      "code": "SD15",
-      "notes": "Adidas Puremotion Jacket Use Code SD15 at checkout",
-      "link": "https://mavely.app.link/FtOA2blrN7b",
-      "page": null,
-      "image": "img/wa/ACFED6391E87F431D85B85A5D5D105B5.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T16:39:14Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACA3CD70AB72F31FD19F823179E1B24A",
-      "store": "Deal",
-      "title": "Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle video, up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Speckled Gray",
-      "price": "$39",
-      "was": "$99",
-      "discount": "61% off",
-      "code": null,
-      "notes": "Limited Prime Deal!",
-      "link": "https://blockbusterdeals.net/product/ring-battery-doorbell-2k-newest-model-retinal-2k-with-wide-angle-video-up-to-6x-enhanced-zoom-two-way-talk-and-built-in-battery-speckled-gray-2/",
-      "page": null,
-      "image": "img/wa/ACA3CD70AB72F31FD19F823179E1B24A.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T16:31:08Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1144,6 +1144,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T15:43:00Z",
+      "text": "2 new offer(s): Jet Set Large Signature Logo Shoulder Ba, Brooks Women’s Ghost Max 3 Running Shoe"
+    },
     {
       "at": "2026-11-05T15:32:14Z",
       "text": "1 new offer(s): Dr.Melaxin Peel Shot Black Rice Exfoliat"
@@ -1219,10 +1223,6 @@
     {
       "at": "2026-11-02T15:50:36Z",
       "text": "1 new offer(s): CLOUDREST PRO Storage Bookcase for All A"
-    },
-    {
-      "at": "2026-11-02T15:40:31Z",
-      "text": "1 new offer(s): Lots of Carote on sale now at Walmart🔥🔥"
     }
   ]
 }
