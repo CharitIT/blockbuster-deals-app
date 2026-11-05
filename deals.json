@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T18:01:56Z",
+  "lastScan": "2026-11-05T19:42:23Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC03EE0408D6AD1B0A327AF478EA2831",
+      "store": "Walmart",
+      "title": "CAROTE 12-Piece Kitchen Knife Set, Stainless Steel Knife Set with Nonstick Creamic Coating, Taupe",
+      "price": "$14",
+      "was": "$21",
+      "discount": "33% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/Cro3QWAiP7b",
+      "page": null,
+      "image": "img/wa/AC03EE0408D6AD1B0A327AF478EA2831.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T19:31:49Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACE00BAF64CA96DE1612D5F70B596805",
       "store": "Deal",
@@ -1092,24 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC3E5775C1EEF343377A010C08F45A3C",
-      "store": "Deal",
-      "title": "Vanity Desk with mirror and lights, 3 Color Lights Stepless Dimming",
-      "price": "$149",
-      "was": "$249",
-      "discount": "40% off",
-      "code": "VQY8YCHN",
-      "notes": "Use Code VQY8YCHN",
-      "link": "https://blockbusterdeals.net/product/vanity-desk-with-mirror-and-lights/",
-      "page": null,
-      "image": "img/wa/AC3E5775C1EEF343377A010C08F45A3C.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T20:17:13Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T19:42:23Z",
+      "text": "1 new offer(s): CAROTE 12-Piece Kitchen Knife Set, Stain"
+    },
     {
       "at": "2026-11-05T18:01:56Z",
       "text": "4 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Amazon Essentials Men's Regular Fit Shor, SHEWIN Womens Hooded Puffer Jacket Full "
@@ -1231,10 +1236,6 @@
     {
       "at": "2026-11-03T15:44:36Z",
       "text": "4 new offer(s): FREE STANDARD SHIPPING WITH ADICLUB, FREE STANDARD SHIPPING WITH ADICLUB, SUPERNOVA RISE 3 ADAPTIVE RUNNING SHOES"
-    },
-    {
-      "at": "2026-11-03T14:42:19Z",
-      "text": "35 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, ✅ 💳 Credit card required. Subscription c, 20000mAh Laptop Power Bank with Built-in"
     }
   ]
 }
