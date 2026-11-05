@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T15:53:44Z",
+  "lastScan": "2026-11-05T16:15:12Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC665A0211F4D7CA832C0731171FB74E",
+      "store": "Deal",
+      "title": "Brooks Men’s Revel 8 Running Shoe",
+      "price": "$65",
+      "was": "$99",
+      "discount": "34% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/brooks-mens-revel-8-running-shoe/",
+      "page": null,
+      "image": "img/wa/AC665A0211F4D7CA832C0731171FB74E.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T16:04:01Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC807FC5843373A73902756EDD44ABEA",
       "store": "Kohl's",
@@ -1080,25 +1098,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC2E77860830D191834E7BF3C4EEEEF1",
-      "store": "Walmart",
-      "title": "Calvin Klein Eternity, Eau de Parfum, Perfume for Women, 3.4 Oz",
-      "price": "$31",
-      "was": "$114",
-      "discount": "73% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/AhVfOJatN7b",
-      "page": null,
-      "image": "img/wa/AC2E77860830D191834E7BF3C4EEEEF1.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T16:57:44Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1145,6 +1144,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T16:15:12Z",
+      "text": "1 new offer(s): Brooks Men’s Revel 8 Running Shoe"
+    },
     {
       "at": "2026-11-05T15:53:44Z",
       "text": "2 new offer(s): Roomba Plus 415 Combo Robot Vacuum & Mop, Michael Kors Designer Clearance🔥🔥"
@@ -1220,10 +1223,6 @@
     {
       "at": "2026-11-02T16:17:50Z",
       "text": "2 new offer(s): Men's Flannel Shirt Plaid Hoodie Stylish, 11 Products with 7 full-size favorites"
-    },
-    {
-      "at": "2026-11-02T16:01:07Z",
-      "text": "1 new offer(s): A limited-edition advent calendar with 2"
     }
   ]
 }
