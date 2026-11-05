@@ -1,9 +1,84 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T17:41:03Z",
+  "lastScan": "2026-11-05T18:01:56Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACE00BAF64CA96DE1612D5F70B596805",
+      "store": "Deal",
+      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
+      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
+      "page": null,
+      "image": "img/wa/ACE00BAF64CA96DE1612D5F70B596805.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T17:59:17Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC7D16264A311514EAB0D7D31D446ADF",
+      "store": "Amazon",
+      "title": "Amazon Essentials Men's Regular Fit Short Sleeve Linen Shirt",
+      "price": "$5",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/amazon-essentials-mens-regular-fit-short-sleeve-linen-shirt/",
+      "page": null,
+      "image": "img/wa/AC7D16264A311514EAB0D7D31D446ADF.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T17:59:10Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
+    {
+      "id": "wa-AC7A7415D4C5A477B47A5D1D368D4446",
+      "store": "Walmart",
+      "title": "SHEWIN Womens Hooded Puffer Jacket Full Zipper Short Coat with Pockets Winter Warm Outerwear Petite",
+      "price": "$34",
+      "was": "$56",
+      "discount": "39% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/jSV5wnH8O7b",
+      "page": null,
+      "image": "img/wa/AC7A7415D4C5A477B47A5D1D368D4446.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T17:52:24Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACCDEEA6412B33235E612711025F6D55",
+      "store": "Walmart",
+      "title": "Fleece Joggers",
+      "price": "$4",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "$3🔥 At Walmart Sweatshirts",
+      "link": "https://mavely.app.link/Sr8Fxvy7O7b",
+      "page": null,
+      "image": "img/wa/ACCDEEA6412B33235E612711025F6D55.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T17:52:21Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC23C1C7377BAD4C669CA8F2004BF0DE",
       "store": "Deal",
@@ -1035,81 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC22E6106E081454D8A9B72BF6884B2E",
-      "store": "Kohl's",
-      "title": "Juniors' WallFlower Belted Ruffle Neck Hi-Low Maxi Dress",
-      "price": "$21",
-      "was": "$44",
-      "discount": "52% off",
-      "code": "GOSAVE20",
-      "notes": "Use code GOSAVE20 or Clip coupon Free Shipping with $49 purchase",
-      "link": "https://mavely.app.link/hUX4pkVEN7b",
-      "page": null,
-      "image": "img/wa/AC22E6106E081454D8A9B72BF6884B2E.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T20:13:01Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Kohl's"
-    },
-    {
-      "id": "wa-ACE9D5EAE430D0F7F26AC068667A0637",
-      "store": "QVC",
-      "title": "Use code HOLIDAY20 at checkout!",
-      "price": "$21",
-      "was": null,
-      "discount": null,
-      "code": "HOLIDAY20",
-      "notes": "As low As Birkenstocks clearance",
-      "link": "https://mavely.app.link/dbxhrCnEN7b",
-      "page": null,
-      "image": "img/wa/ACE9D5EAE430D0F7F26AC068667A0637.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T20:12:54Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "QVC"
-    },
-    {
-      "id": "wa-ACE68C8603A01EB04119761AF95127A7",
-      "store": "Michael Kors",
-      "title": "Michael Kors Designer Bags Clearance🔥🔥",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "BUY 2+ ITEMS, GET 20% OFF",
-      "link": "https://mavely.app.link/js5eo9WDN7b",
-      "page": null,
-      "image": "img/wa/ACE68C8603A01EB04119761AF95127A7.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T20:02:09Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-AC1F380DDAAB84E99FCDBD86B70130A7",
-      "store": "Deal",
-      "title": "Adidas Men's Tracefinder Trail Running Shoes",
-      "price": "$35",
-      "was": "$70",
-      "discount": "50% off",
-      "code": "SD15",
-      "notes": "Use Code SD15 FREE STANDARD SHIPPING WITH ADICLUB",
-      "link": "https://mavely.app.link/BmJ3YWrDN7b",
-      "page": null,
-      "image": "img/wa/AC1F380DDAAB84E99FCDBD86B70130A7.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T19:53:43Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T18:01:56Z",
+      "text": "4 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Amazon Essentials Men's Regular Fit Shor, SHEWIN Womens Hooded Puffer Jacket Full "
+    },
     {
       "at": "2026-11-05T17:41:03Z",
       "text": "2 new offer(s): Knee Pillow for Side Sleepers,Leg Pillow, Clarks Collection Women's Laurieann Bell"
@@ -1231,10 +1235,6 @@
     {
       "at": "2026-11-03T14:42:19Z",
       "text": "35 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, ✅ 💳 Credit card required. Subscription c, 20000mAh Laptop Power Bank with Built-in"
-    },
-    {
-      "at": "2026-11-02T19:48:33Z",
-      "text": "2 new offer(s): Hello Kitty Toddler & Little Girls Comfo, Entryway Bench with Shoe Storage, 3-Tier"
     }
   ]
 }
