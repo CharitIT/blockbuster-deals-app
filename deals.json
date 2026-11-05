@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T17:30:38Z",
+  "lastScan": "2026-11-05T17:41:03Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC23C1C7377BAD4C669CA8F2004BF0DE",
+      "store": "Deal",
+      "title": "Knee Pillow for Side Sleepers,Leg Pillows for Sciatica,Knees,Hips,Joints Between Legs,Back Pain Relief When Side Sleeping Spine Alignment Support for Knee Surgery Recovery",
+      "price": "$18",
+      "was": "$38",
+      "discount": "53% off",
+      "code": "7TOG012F",
+      "notes": "Use Code:7TOG012F",
+      "link": "https://blockbusterdeals.net/product/knee-pillow-for-side-sleepersleg-pillows-for-sciaticakneeshipsjoints-between-legsback-pain-relief-when-side-sleeping-spine-alignment-support-for-knee-surgery-recovery/",
+      "page": null,
+      "image": "img/wa/AC23C1C7377BAD4C669CA8F2004BF0DE.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T17:36:02Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC1566A47467DAAC466D95BB1E0FD4A6",
+      "store": "Macy's",
+      "title": "Clarks Collection Women's Laurieann Bell Round Toe Flat Sandals",
+      "price": "$50",
+      "was": "$100",
+      "discount": "50% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/ynWdfet8O7b",
+      "page": null,
+      "image": "img/wa/AC1566A47467DAAC466D95BB1E0FD4A6.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T17:30:01Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-ACFC5C4091059169116B9A1D6CCA0CC8",
       "store": "Walmart",
@@ -1073,43 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC2E552B80900AB44F9D7C5E695128C0",
-      "store": "Deal",
-      "title": "FREE STANDARD SHIPPING WITH ADICLUB",
-      "price": "$63",
-      "was": "$150",
-      "discount": "58% off",
-      "code": "SD15",
-      "notes": "Adidas ADISTAR XLG 2.0 SHOES Use code SD15",
-      "link": "https://mavely.app.link/gXhCqsRDN7b",
-      "page": null,
-      "image": "img/wa/AC2E552B80900AB44F9D7C5E695128C0.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T19:49:44Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACC632DA04B7E48A9B64EFAAC53A964B",
-      "store": "Walmart",
-      "title": "Hair Dryer, NEXPURE 1800W Professional Ionic Blow Dryer for Hair Care, Powerful Wind for Hair Drying, 2 Attachments, Grey",
-      "price": "$29",
-      "was": "$69",
-      "discount": "58% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/zMuXUxEDN7b",
-      "page": null,
-      "image": "img/wa/ACC632DA04B7E48A9B64EFAAC53A964B.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T19:47:08Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T17:41:03Z",
+      "text": "2 new offer(s): Knee Pillow for Side Sleepers,Leg Pillow, Clarks Collection Women's Laurieann Bell"
+    },
     {
       "at": "2026-11-05T17:30:38Z",
       "text": "1 new offer(s): 7.5 QT Air Fryer, 95% Less Oil, 360°Air "
@@ -1231,10 +1235,6 @@
     {
       "at": "2026-11-02T19:48:33Z",
       "text": "2 new offer(s): Hello Kitty Toddler & Little Girls Comfo, Entryway Bench with Shoe Storage, 3-Tier"
-    },
-    {
-      "at": "2026-11-02T18:30:43Z",
-      "text": "2 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital"
     }
   ]
 }
