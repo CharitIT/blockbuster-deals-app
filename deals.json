@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T20:19:03Z",
+  "lastScan": "2026-11-05T20:29:27Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB224E07F487FD1186D63113D32C14B",
+      "store": "Under Armour",
+      "title": "Extra 40% Off with code WARMUP and extra 10%off with code EXTRA",
+      "price": "$7",
+      "was": null,
+      "discount": null,
+      "code": "WARMUP",
+      "notes": "As low As Under Armour Deals",
+      "link": "https://go.magik.ly/ml/4lurj/",
+      "page": null,
+      "image": "img/wa/ACB224E07F487FD1186D63113D32C14B.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T20:22:31Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
+    {
+      "id": "wa-AC0A1D9A597813D5F1D9912A66C4DF99",
+      "store": "Under Armour",
+      "title": "Under Armour Men's UA Edge Leather Training Shoes",
+      "price": "$28",
+      "was": "$70",
+      "discount": "60% off",
+      "code": null,
+      "notes": "Use codes WARMUP and EXTRA at checkout",
+      "link": "https://go.magik.ly/ml/4lvzd/",
+      "page": null,
+      "image": "img/wa/AC0A1D9A597813D5F1D9912A66C4DF99.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T20:20:06Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
     {
       "id": "wa-ACB628E59D61315C3573698C7F158A21",
       "store": "Under Armour",
@@ -1079,42 +1117,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC7F4057BB2A1F5A0AE6412C3524688C",
-      "store": "Deal",
-      "title": "Free shipping on orders $100+",
-      "price": "$89",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Holiday Beauty Box 2026",
-      "link": "https://mavely.app.link/oaxBouwJN7b",
-      "page": null,
-      "image": "img/wa/AC7F4057BB2A1F5A0AE6412C3524688C.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T20:59:59Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC78603F60CED9B37B8D4898D5B800A0",
-      "store": "Deal",
-      "title": "20 Piece Silverware Set - Stainless Steel Silverware Set Service for 4 People, Mirror Polished Flatware Set for Daily Use in Home kitchens and Restaurants, Dishwasher Safe",
-      "price": "$8",
-      "was": "$13",
-      "discount": "38% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/20-piece-silverware-set-stainless-steel-silverware-set-service-for-4-people-mirror-polished-flatware-set-for-daily-use-in-home-kitchens-and-restaurants-dishwasher-safe/",
-      "page": null,
-      "image": "img/wa/AC78603F60CED9B37B8D4898D5B800A0.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T20:53:05Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1161,6 +1163,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T20:29:27Z",
+      "text": "2 new offer(s): Extra 40% Off with code WARMUP and extra, Under Armour Men's UA Edge Leather Train"
+    },
     {
       "at": "2026-11-05T20:19:03Z",
       "text": "4 new offer(s): Use Code WARMUP and EXTRA  at checkout!, Use codes WARMUP and EXTRA at checkout, Use Code WARMUP and  EXTRA at checkout"
@@ -1236,10 +1242,6 @@
     {
       "at": "2026-11-04T01:34:52Z",
       "text": "31 new offer(s): TUCCI Italy Travola 3-Piece Hardside Spi, Drone with Camera - 1080P Drones for Adu, Men's Crew Long Sleeve"
-    },
-    {
-      "at": "2026-11-03T18:19:56Z",
-      "text": "23 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, Apple AirPods 4"
     }
   ]
 }
