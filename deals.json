@@ -1,9 +1,65 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T20:39:45Z",
+  "lastScan": "2026-11-05T21:00:24Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC32CE1F1BA6C209B38139E0CB9A1CBA",
+      "store": "Macy's",
+      "title": "Reebok Puffer Jackets",
+      "price": "$21",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "As low As",
+      "link": "https://mavely.app.link/vD2MZ6IoP7b",
+      "page": null,
+      "image": "img/wa/AC32CE1F1BA6C209B38139E0CB9A1CBA.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T20:53:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-AC70692696FD98CA9447DFCEC3A3D5E6",
+      "store": "Walmart",
+      "title": "Scenario Women's and Women's Plus Chore Jacket with Long Puff Sleeves, Sizes XS-4X",
+      "price": "$12",
+      "was": "$29",
+      "discount": "59% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/4Y0Ib0fnP7b",
+      "page": null,
+      "image": "img/wa/AC70692696FD98CA9447DFCEC3A3D5E6.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T20:53:15Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC2E7BE275C0850BE3D2A798A2E27EB2",
+      "store": "Deal",
+      "title": "Marc Jacobs The Camo Jacquard Medium Tote Bag",
+      "price": "$162",
+      "was": "$325",
+      "discount": "50% off",
+      "code": null,
+      "notes": "Free Shipping",
+      "link": "https://mavely.app.link/WOQyStYmP7b",
+      "page": null,
+      "image": "img/wa/AC2E7BE275C0850BE3D2A798A2E27EB2.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T20:53:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACE4B4344A1C9000B1C98C2284459C30",
       "store": "Deal",
@@ -1063,60 +1119,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACABF26BBB9AD2E1D92DBB5C798AEC59",
-      "store": "Deal",
-      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Link:",
-      "link": "https://theblogcm.com/566/eJi8",
-      "page": null,
-      "image": "img/wa/ACABF26BBB9AD2E1D92DBB5C798AEC59.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T21:29:53Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACD6E71FE378595E1594996FA9150838",
-      "store": "Deal",
-      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
-      "price": "$20",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
-      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
-      "page": null,
-      "image": "img/wa/ACD6E71FE378595E1594996FA9150838.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T21:29:02Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACC7A3C82A7EA829282506D20AD10E7A",
-      "store": "Deal",
-      "title": "LOVEVOOK Insulated Lunch Bag Women with Triple Compartments & Bottle Holder",
-      "price": "$12",
-      "was": "$23",
-      "discount": "48% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/lovevook-insulated-lunch-bag-women-with-triple-compartments-bottle-holder/",
-      "page": null,
-      "image": "img/wa/ACC7A3C82A7EA829282506D20AD10E7A.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T21:21:03Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1163,6 +1165,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T21:00:24Z",
+      "text": "3 new offer(s): Reebok Puffer Jackets, Scenario Women's and Women's Plus Chore , Marc Jacobs The Camo Jacquard Medium Tot"
+    },
     {
       "at": "2026-11-05T20:39:45Z",
       "text": "2 new offer(s): Ninja Air Fryer XL with MaxCrisp, 6.5 Qt, Use codes WARMUP and EXTRA at checkout"
@@ -1238,10 +1244,6 @@
     {
       "at": "2026-11-05T15:10:47Z",
       "text": "1 new offer(s): Magic Bullet 4 Piece Personal Blender MB"
-    },
-    {
-      "at": "2026-11-05T03:16:44Z",
-      "text": "59 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, Amazon Essentials Men's Standard-Fit Lon"
     }
   ]
 }
