@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T17:19:47Z",
+  "lastScan": "2026-11-05T17:30:38Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACFC5C4091059169116B9A1D6CCA0CC8",
+      "store": "Walmart",
+      "title": "7.5 QT Air Fryer, 95% Less Oil, 360°Air Circulation, 8-in-1 Air Fryer Oven with Grill Plate, Digital LED Touch Screen, Visible Window & Light, Large Capacity Air Fryer with 8 Presets, Nonstick Black",
+      "price": "$59",
+      "was": "$459",
+      "discount": "87% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/zWB6lna9O7b",
+      "page": null,
+      "image": "img/wa/ACFC5C4091059169116B9A1D6CCA0CC8.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T17:23:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACDD0B505316390BA858021DB7A80AA0",
       "store": "Deal",
@@ -24,7 +43,7 @@
     },
     {
       "id": "wa-AC5B0E96D41B58D87C644B0E316FC636",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "Tommy Hilfiger Women's Chevron-Quilted Puffer Coat",
       "price": "$99",
       "was": "$285",
@@ -38,11 +57,12 @@
       "postedAt": "2026-11-05T17:08:47Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Macy's"
     },
     {
       "id": "wa-AC9FF324DC75CDF66AD761979EBC8D25",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "Calvin Klein Women's Short Zip Front Puffer Jacket",
       "price": "$39",
       "was": "$265",
@@ -56,7 +76,8 @@
       "postedAt": "2026-11-05T17:02:16Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Macy's"
     },
     {
       "id": "wa-AC475928E3272DC1E9A3DA6C9FF68CB3",
@@ -154,7 +175,7 @@
     },
     {
       "id": "wa-AC4B4E86A1F19B9E4D8CDD251368C3CE",
-      "store": "Deal",
+      "store": "Michael Kors",
       "title": "Free Shipping With KORSVIP or orders of $100+",
       "price": "$31",
       "was": "$225",
@@ -168,7 +189,8 @@
       "postedAt": "2026-11-05T16:38:10Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
     },
     {
       "id": "wa-AC146193F81C07B4BC2CA955D29FE464",
@@ -265,7 +287,7 @@
     },
     {
       "id": "wa-AC8C76693E2EF42E630DD0224EFBBE28",
-      "store": "Deal",
+      "store": "Michael Kors",
       "title": "Michael Kors Designer Clearance🔥🔥",
       "price": null,
       "was": null,
@@ -279,11 +301,12 @@
       "postedAt": "2026-11-05T15:45:47Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
     },
     {
       "id": "wa-AC75A20257110E7E2A16105FD143DB3F",
-      "store": "Deal",
+      "store": "Michael Kors",
       "title": "Jet Set Large Signature Logo Shoulder Bag",
       "price": "$63",
       "was": "$398",
@@ -297,7 +320,8 @@
       "postedAt": "2026-11-05T15:41:50Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
     },
     {
       "id": "wa-ACE71222215D53C687F2136D8976A327",
@@ -448,7 +472,7 @@
     },
     {
       "id": "wa-ACF8B6C4C8BF4D9F5EEE5F821CBA8453",
-      "store": "Deal",
+      "store": "Michael Kors",
       "title": "Marlowe Medium Pebbled Leather Pocket Tote Bag",
       "price": "$63",
       "was": "$229",
@@ -462,7 +486,8 @@
       "postedAt": "2026-11-05T01:53:25Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
     },
     {
       "id": "wa-AC41BF7CB6DB6FC8258EB4E1B528E763",
@@ -574,7 +599,7 @@
     },
     {
       "id": "wa-AC2A595CC901D3E181FB1B67152FED0E",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "Michael Kors Scarlett Large East West Top Zip Tote Bag",
       "price": "$117",
       "was": "$299",
@@ -588,7 +613,8 @@
       "postedAt": "2026-11-05T00:42:13Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Macy's"
     },
     {
       "id": "wa-ACE8C5783239D3E378CB4BEF5ED8199E",
@@ -701,7 +727,7 @@
     },
     {
       "id": "wa-ACD864A5DBA478A190ADA4E85D49B5E2",
-      "store": "Deal",
+      "store": "Michael Kors",
       "title": "BUY 2+ ITEMS, GET 20% OFF APPLIED IN CART",
       "price": "$39",
       "was": "$258",
@@ -715,7 +741,8 @@
       "postedAt": "2026-11-04T23:21:30Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
     },
     {
       "id": "wa-AC87088AAD3A798F5B239DCEE016A374",
@@ -1083,24 +1110,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC0C849BBD5C7A16F7C92F0A973D1CBF",
-      "store": "Deal",
-      "title": "Adidas Runfalcon 5 TR Running Shoes",
-      "price": "$35",
-      "was": "$70",
-      "discount": "50% off",
-      "code": "SD15",
-      "notes": "Use code SD15 FREE STANDARD SHIPPING WITH ADICLUB",
-      "link": "https://mavely.app.link/zCF1NhfDN7b",
-      "page": null,
-      "image": "img/wa/AC0C849BBD5C7A16F7C92F0A973D1CBF.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T19:36:26Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1147,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T17:30:38Z",
+      "text": "1 new offer(s): 7.5 QT Air Fryer, 95% Less Oil, 360°Air "
+    },
     {
       "at": "2026-11-05T17:19:47Z",
       "text": "2 new offer(s): NINJA FEATURED DEALS🔥🔥, Tommy Hilfiger Women's Chevron-Quilted P"
@@ -1222,10 +1235,6 @@
     {
       "at": "2026-11-02T18:30:43Z",
       "text": "2 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital"
-    },
-    {
-      "at": "2026-11-02T18:11:54Z",
-      "text": "5 new offer(s): 🚨 Login to an account & use promo code: , Adidas Essentials 3-Stripes Fleece Pants, Adidas Terrex Anylander Hiking Shoes"
     }
   ]
 }
