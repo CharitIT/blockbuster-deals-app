@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T16:15:12Z",
+  "lastScan": "2026-11-05T16:25:56Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC0AC0BEDB919FC343935C372499E45C",
+      "store": "Target",
+      "title": "KitchenAid 5.5qt Bowl-Lift Stand Mixer KSM55 Agave",
+      "price": "$299",
+      "was": "$500",
+      "discount": "40% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/2wVdVrx4O7b",
+      "page": null,
+      "image": "img/wa/AC0AC0BEDB919FC343935C372499E45C.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T16:20:38Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Target"
+    },
+    {
+      "id": "wa-AC64A0FEDBA2F3E127AA413AFFD8FA53",
+      "store": "Deal",
+      "title": "Brooks Women’s Hyperion 3 Neutral Running Shoe",
+      "price": "$110",
+      "was": "$139",
+      "discount": "21% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/brooks-womens-hyperion-3-neutral-running-shoe/",
+      "page": null,
+      "image": "img/wa/AC64A0FEDBA2F3E127AA413AFFD8FA53.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T16:15:23Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC665A0211F4D7CA832C0731171FB74E",
       "store": "Deal",
@@ -1062,42 +1099,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACF9494D5B5C006D877AF369C8B485D8",
-      "store": "Deal",
-      "title": "4-Piece Patio Furniture Set",
-      "price": "$250",
-      "was": "$999",
-      "discount": "75% off",
-      "code": null,
-      "notes": "🎁 Earn 5% Kohl's Rewards Free shipping",
-      "link": "https://mavely.app.link/y1u1kOBpN7b",
-      "page": null,
-      "image": "img/wa/ACF9494D5B5C006D877AF369C8B485D8.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T17:09:45Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC12A9DFB1F1935823DA6ED476ABD347",
-      "store": "Deal",
-      "title": "Black Winter Coats for Men with Hood Waterproof Puffer Jacket Mens | Cold Weather Thicken Parka Jackets Mens Full Zip Casual Windproof Sherpa Fleece Lined Jacket Black 2XL",
-      "price": "$49",
-      "was": "$139",
-      "discount": "65% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/black-winter-coats-for-men-with-hood-waterproof-puffer-jacket-mens/",
-      "page": null,
-      "image": "img/wa/AC12A9DFB1F1935823DA6ED476ABD347.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T17:01:09Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1144,6 +1145,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T16:25:56Z",
+      "text": "2 new offer(s): KitchenAid 5.5qt Bowl-Lift Stand Mixer K, Brooks Women’s Hyperion 3 Neutral Runnin"
+    },
     {
       "at": "2026-11-05T16:15:12Z",
       "text": "1 new offer(s): Brooks Men’s Revel 8 Running Shoe"
@@ -1219,10 +1224,6 @@
     {
       "at": "2026-11-02T16:44:11Z",
       "text": "3 new offer(s): Janod Wooden Pasta Kids Playset, Wonder & Wise by Asweets Wooden Toddler , Avia Men's Running Shoes 02 Air, Medium "
-    },
-    {
-      "at": "2026-11-02T16:17:50Z",
-      "text": "2 new offer(s): Men's Flannel Shirt Plaid Hoodie Stylish, 11 Products with 7 full-size favorites"
     }
   ]
 }
