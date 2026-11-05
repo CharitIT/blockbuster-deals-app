@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T15:10:47Z",
+  "lastScan": "2026-11-05T15:21:28Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACA802D3F4827D4A2FBC049DE6A56129",
+      "store": "Amazon",
+      "title": "🚨 Clip 1 Time purchase Coupon & switch to Subscribe & Save + Clip 50% Off Coupon",
+      "price": "$2",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "RUN!! Cat Food Bags Variety 1 👇 Variety 2 👇 Variety 3 👇",
+      "link": "https://link.amazon/B01vP0Pnf",
+      "page": null,
+      "image": "img/wa/ACA802D3F4827D4A2FBC049DE6A56129.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T15:19:52Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
+    {
+      "id": "wa-ACAB678FCC77CBA882AB4A652C72BD03",
+      "store": "Deal",
+      "title": "Minnie Mouse Ride-On 15\" Fly Wheels Cruiser Tricycle Bike, Wide Front Wheel Designed to Provide Stability and Control, Ages 3-7, for Kids 41”-44” Tall - 70 lbs. Weight Limit",
+      "price": "$30",
+      "was": "$64",
+      "discount": "53% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/minnie-mouse-ride-on-15-fly-wheels-cruiser-tricycle-bike/",
+      "page": null,
+      "image": "img/wa/ACAB678FCC77CBA882AB4A652C72BD03.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T15:12:07Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC38B28925FFE82D50C8CA9CDD939B0C",
       "store": "Walmart",
@@ -1061,43 +1098,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC3FFE72A9136BB0C9A3C16AFDDE6B25",
-      "store": "Kohl's",
-      "title": "American Tourister DuoWave 2-Piece Hardside Spinner Luggage Set (Rainforest Green)",
-      "price": "$223",
-      "was": "$279",
-      "discount": "20% off",
-      "code": "GOSAVE20",
-      "notes": "Use code: GOSAVE20  or Clip coupon Earn 5% Kohl's Rewards®️ on this item today. Free Shipping",
-      "link": "https://mavely.app.link/GYMLjTonN7b",
-      "page": null,
-      "image": "img/wa/AC3FFE72A9136BB0C9A3C16AFDDE6B25.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T16:17:38Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Kohl's"
-    },
-    {
-      "id": "wa-AC0B0520EFF41AB587AD326BE5DDFA69",
-      "store": "Deal",
-      "title": "90L Large Storage Bags, 6 Pack Clothes Storage Bins Closet Organizers | Foldable Storage Containers, with Reinforced Handle, for Clothing, Blanket, Comforters, Bed Sheets, Pillows and Toys, Gray",
-      "price": "$17",
-      "was": "$32",
-      "discount": "47% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/90l-large-storage-bags-6-pack-clothes-storage-bins-closet-organizers-3/",
-      "page": null,
-      "image": "img/wa/AC0B0520EFF41AB587AD326BE5DDFA69.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T16:17:35Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1144,6 +1144,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T15:21:28Z",
+      "text": "2 new offer(s): 🚨 Clip 1 Time purchase Coupon & switch t, Minnie Mouse Ride-On 15\" Fly Wheels Crui"
+    },
     {
       "at": "2026-11-05T15:10:47Z",
       "text": "1 new offer(s): Magic Bullet 4 Piece Personal Blender MB"
@@ -1219,10 +1223,6 @@
     {
       "at": "2026-11-02T15:27:13Z",
       "text": "2 new offer(s): 24 Pack Glass Spice Jars : 492 Lables & , Farberware 15-pc. Nonstick Stainless Ste"
-    },
-    {
-      "at": "2026-11-02T15:05:19Z",
-      "text": "1 new offer(s): Satifur White Makeup Vanity with LED Mir"
     }
   ]
 }
