@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T16:36:38Z",
+  "lastScan": "2026-11-05T16:47:27Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACC9F8A9DEFC7E9259FB583F7ACE4A37",
+      "store": "Kohl's",
+      "title": "Instant Pot Duo Plus 6-qt. Multi-Use Pressure Cooker",
+      "price": "$89",
+      "was": "$139",
+      "discount": "36% off",
+      "code": null,
+      "notes": "Earn 5% Kohl's Rewards®️ on this item today.",
+      "link": "https://mavely.app.link/1QeyAWK6O7b",
+      "page": null,
+      "image": "img/wa/ACC9F8A9DEFC7E9259FB583F7ACE4A37.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T16:44:27Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Kohl's"
+    },
+    {
+      "id": "wa-AC4B4E86A1F19B9E4D8CDD251368C3CE",
+      "store": "Deal",
+      "title": "Free Shipping With KORSVIP or orders of $100+",
+      "price": "$31",
+      "was": "$225",
+      "discount": "86% off",
+      "code": null,
+      "notes": "Michael Kors Essex Suede Trainer BUY 2+ ITEMS, GET 20% OFF APPLIED IN CART",
+      "link": "https://mavely.app.link/B62tnWD5O7b",
+      "page": null,
+      "image": "img/wa/AC4B4E86A1F19B9E4D8CDD251368C3CE.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T16:38:10Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC146193F81C07B4BC2CA955D29FE464",
       "store": "Macy's",
@@ -1062,43 +1099,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACEE7B35CF24795BF1A8443A20D42C04",
-      "store": "Walmart",
-      "title": "Way to Celebrate Halloween Candy Corn Glass Can Sipper Tumblers, 20 oz, 2-Pack",
-      "price": "$3",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/le4VBC0uN7b",
-      "page": null,
-      "image": "img/wa/ACEE7B35CF24795BF1A8443A20D42C04.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T17:29:32Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC1DA33693E0E7FA7CD59191255189E1",
-      "store": "Deal",
-      "title": "Ninja MultiPot™️ XL 12-in-1 Multicooker",
-      "price": "$179",
-      "was": "$249",
-      "discount": "28% off",
-      "code": null,
-      "notes": "🎁 Earn 5% Kohl's Rewards Free shipping",
-      "link": "https://mavely.app.link/qPrW0tilN7b",
-      "page": null,
-      "image": "img/wa/AC1DA33693E0E7FA7CD59191255189E1.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T17:16:56Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1145,6 +1145,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T16:47:27Z",
+      "text": "2 new offer(s): Instant Pot Duo Plus 6-qt. Multi-Use Pre, Free Shipping With KORSVIP or orders of "
+    },
     {
       "at": "2026-11-05T16:36:38Z",
       "text": "1 new offer(s): Women's Hooded Puffer Coat"
@@ -1220,10 +1224,6 @@
     {
       "at": "2026-11-02T17:07:35Z",
       "text": "2 new offer(s): 30 Pack Solid Wood Lotus Candle Holders,, Men's Stretch Insulated Hooded Puffer Ja"
-    },
-    {
-      "at": "2026-11-02T16:54:39Z",
-      "text": "1 new offer(s): Wooden Kids Cash Register Playset"
     }
   ]
 }
