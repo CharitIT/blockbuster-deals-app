@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T23:28:37Z",
+  "lastScan": "2026-11-05T23:49:02Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC956C75910A776B9C2F74B90DD4242F",
+      "store": "Deal",
+      "title": "Lunch Box Kids Girls Boys, Bento Box Adult, Toddler Lunch Containers for School, Leakproof Snack Containers with 6 Compartments ,Sauce Container,10 Food Picks and 4 Muffin Cups (Pink)",
+      "price": "$4",
+      "was": "$9",
+      "discount": "56% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/lunch-box-kids-girls-boysbento-box-adulttoddler-lunch-containers-for-school/",
+      "page": null,
+      "image": "img/wa/AC956C75910A776B9C2F74B90DD4242F.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T23:42:28Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC8547220453AAE5A27470968C05251E",
+      "store": "Amazon",
+      "title": "Amazon Essentials Men's Standard-Fit Long-Sleeve Two-Pocket Utility Shirt (Previously Goodthreads)",
+      "price": "$3",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/amazon-essentials-mens-standard-fit-long-sleeve-two-pocket-utility-shirt-previously-goodthreads-2/",
+      "page": null,
+      "image": "img/wa/AC8547220453AAE5A27470968C05251E.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T23:42:22Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
     {
       "id": "wa-AC820C2B836A0CD7FAA5EE46FC2DEA76",
       "store": "Under Armour",
@@ -1082,42 +1119,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACBD81D1CF96542D4347226A3C1DF7FD",
-      "store": "Deal",
-      "title": "Hot Wheels RC Barbie Ford Bronco, Remote-Control Toy Car",
-      "price": "$27",
-      "was": "$44",
-      "discount": "39% off",
-      "code": null,
-      "notes": "clip coupon",
-      "link": "https://blockbusterdeals.net/product/hot-wheels-rc-barbie-ford-bronco-remote-control-toy-car-includes-puppy-accessory/",
-      "page": null,
-      "image": "img/wa/ACBD81D1CF96542D4347226A3C1DF7FD.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T01:01:59Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC99D0F99D1185C6789C077626F2C26F",
-      "store": "Deal",
-      "title": "Wrapped in Radiance Gift Set",
-      "price": "$82",
-      "was": "$124",
-      "discount": "34% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/vfdDaLs0N7b",
-      "page": null,
-      "image": "img/wa/AC99D0F99D1185C6789C077626F2C26F.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T00:54:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1164,6 +1165,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T23:49:02Z",
+      "text": "2 new offer(s): Lunch Box Kids Girls Boys, Bento Box Adu, Amazon Essentials Men's Standard-Fit Lon"
+    },
     {
       "at": "2026-11-05T23:28:37Z",
       "text": "2 new offer(s): 🚨Login & apply both promo codes: WARMUP , NEW) Samsung Galaxy S25 Ultra - 512GB (U"
@@ -1239,10 +1244,6 @@
     {
       "at": "2026-11-05T16:15:12Z",
       "text": "1 new offer(s): Brooks Men’s Revel 8 Running Shoe"
-    },
-    {
-      "at": "2026-11-05T15:53:44Z",
-      "text": "2 new offer(s): Roomba Plus 415 Combo Robot Vacuum & Mop, Michael Kors Designer Clearance🔥🔥"
     }
   ]
 }
