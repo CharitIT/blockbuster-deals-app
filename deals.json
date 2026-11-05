@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T17:09:01Z",
+  "lastScan": "2026-11-05T17:19:47Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACDD0B505316390BA858021DB7A80AA0",
+      "store": "Deal",
+      "title": "NINJA FEATURED DEALS🔥🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/ninja-featured-deals/",
+      "page": null,
+      "image": "img/wa/ACDD0B505316390BA858021DB7A80AA0.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T17:15:24Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC5B0E96D41B58D87C644B0E316FC636",
+      "store": "Deal",
+      "title": "Tommy Hilfiger Women's Chevron-Quilted Puffer Coat",
+      "price": "$99",
+      "was": "$285",
+      "discount": "65% off",
+      "code": null,
+      "notes": "TODAY ONLY ❗ ENDS IN FEW HOURS 🚨 Free shipping",
+      "link": "https://mavely.app.link/vS9wGiE4O7b",
+      "page": null,
+      "image": "img/wa/AC5B0E96D41B58D87C644B0E316FC636.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T17:08:47Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC9FF324DC75CDF66AD761979EBC8D25",
       "store": "Deal",
@@ -974,7 +1010,7 @@
     },
     {
       "id": "wa-ACE68C8603A01EB04119761AF95127A7",
-      "store": "Deal",
+      "store": "Michael Kors",
       "title": "Michael Kors Designer Bags Clearance🔥🔥",
       "price": null,
       "was": null,
@@ -988,7 +1024,8 @@
       "postedAt": "2026-11-04T20:02:09Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
     },
     {
       "id": "wa-AC1F380DDAAB84E99FCDBD86B70130A7",
@@ -1064,42 +1101,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACC7CB632048E6EAC058B7A8D9E918D7",
-      "store": "Deal",
-      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Link:",
-      "link": "https://theblogcm.com/566/eJi8",
-      "page": null,
-      "image": "img/wa/ACC7CB632048E6EAC058B7A8D9E918D7.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T17:59:24Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC63A9B60226023FFFBB39344B191C30",
-      "store": "Deal",
-      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
-      "price": "$20",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
-      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
-      "page": null,
-      "image": "img/wa/AC63A9B60226023FFFBB39344B191C30.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T17:59:16Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1146,6 +1147,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T17:19:47Z",
+      "text": "2 new offer(s): NINJA FEATURED DEALS🔥🔥, Tommy Hilfiger Women's Chevron-Quilted P"
+    },
     {
       "at": "2026-11-05T17:09:01Z",
       "text": "2 new offer(s): Calvin Klein Women's Short Zip Front Puf, Tramontina Signature Tri-Ply Clad Stainl"
@@ -1221,10 +1226,6 @@
     {
       "at": "2026-11-02T18:11:54Z",
       "text": "5 new offer(s): 🚨 Login to an account & use promo code: , Adidas Essentials 3-Stripes Fleece Pants, Adidas Terrex Anylander Hiking Shoes"
-    },
-    {
-      "at": "2026-11-02T17:32:08Z",
-      "text": "2 new offer(s): Mens Work Pants Tactical Cargo Stretch C, 3 piece bedroom sets on sale🔥At Wayfair"
     }
   ]
 }
