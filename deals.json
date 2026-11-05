@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T21:31:13Z",
+  "lastScan": "2026-11-05T23:28:37Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC820C2B836A0CD7FAA5EE46FC2DEA76",
+      "store": "Under Armour",
+      "title": "🚨Login & apply both promo codes: WARMUP & EXTRA",
+      "price": "$19",
+      "was": "$50",
+      "discount": "62% off",
+      "code": null,
+      "notes": "Under Armour Tech™️ Women's Hoodie - Keeps You Cool",
+      "link": "https://go.magik.ly/ml/4m92r/",
+      "page": null,
+      "image": "img/wa/AC820C2B836A0CD7FAA5EE46FC2DEA76.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T23:22:50Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
+    {
+      "id": "wa-ACBC16472F44DF91867A86ABD930B032",
+      "store": "Woot",
+      "title": "NEW) Samsung Galaxy S25 Ultra - 512GB (Unlocked)",
+      "price": "$899",
+      "was": "$1,419",
+      "discount": "37% off",
+      "code": null,
+      "notes": "Sign in with your Amazon account at checkout for free shipping.",
+      "link": "https://mavely.app.link/UGpFGrbBe7b",
+      "page": null,
+      "image": "img/wa/ACBC16472F44DF91867A86ABD930B032.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T23:03:06Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC268A3B806443937C0ED291D1876E2C",
       "store": "Deal",
@@ -1081,44 +1118,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC2A595CC901D3E181FB1B67152FED0E",
-      "store": "Macy's",
-      "title": "Michael Kors Scarlett Large East West Top Zip Tote Bag",
-      "price": "$117",
-      "was": "$299",
-      "discount": "61% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/QFdAqufGN7b",
-      "page": null,
-      "image": "img/wa/AC2A595CC901D3E181FB1B67152FED0E.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T00:42:13Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-ACE8C5783239D3E378CB4BEF5ED8199E",
-      "store": "Amazon",
-      "title": "Amazon essentials clothing",
-      "price": "As low as $2",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Check all",
-      "link": "https://blockbusterdeals.net/product/essentials-clothing/",
-      "page": null,
-      "image": "img/wa/ACE8C5783239D3E378CB4BEF5ED8199E.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T00:31:46Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Amazon"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1165,6 +1164,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T23:28:37Z",
+      "text": "2 new offer(s): 🚨Login & apply both promo codes: WARMUP , NEW) Samsung Galaxy S25 Ultra - 512GB (U"
+    },
     {
       "at": "2026-11-05T21:31:13Z",
       "text": "3 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, Just Play furReal Snuggles the Smiling S"
@@ -1240,10 +1243,6 @@
     {
       "at": "2026-11-05T15:53:44Z",
       "text": "2 new offer(s): Roomba Plus 415 Combo Robot Vacuum & Mop, Michael Kors Designer Clearance🔥🔥"
-    },
-    {
-      "at": "2026-11-05T15:43:00Z",
-      "text": "2 new offer(s): Jet Set Large Signature Logo Shoulder Ba, Brooks Women’s Ghost Max 3 Running Shoe"
     }
   ]
 }
