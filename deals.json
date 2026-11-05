@@ -1,9 +1,85 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T19:42:23Z",
+  "lastScan": "2026-11-05T20:19:03Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB628E59D61315C3573698C7F158A21",
+      "store": "Under Armour",
+      "title": "Use Code WARMUP and EXTRA  at checkout!",
+      "price": "$71",
+      "was": "$125",
+      "discount": "43% off",
+      "code": "WARMUP",
+      "notes": "Under Armour Arc 96 Unisex Shoes - Ventilated",
+      "link": "https://go.magik.ly/ml/4lvm7/",
+      "page": null,
+      "image": "img/wa/ACB628E59D61315C3573698C7F158A21.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T20:11:47Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
+    {
+      "id": "wa-AC561936957D42400917B23BFAE10CDE",
+      "store": "Under Armour",
+      "title": "Use codes WARMUP and EXTRA at checkout",
+      "price": "$13",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Under Armour Left Chest Lockup Men's T-Shirt - Fast-Drying",
+      "link": "https://go.magik.ly/ml/4lvex/",
+      "page": null,
+      "image": "img/wa/AC561936957D42400917B23BFAE10CDE.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T20:03:04Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
+    {
+      "id": "wa-AC66CE3C819AB07DF46A4CE2F1351B2A",
+      "store": "Under Armour",
+      "title": "Use Code WARMUP and  EXTRA at checkout",
+      "price": "$40",
+      "was": "$110",
+      "discount": "64% off",
+      "code": "WARMUP",
+      "notes": "Under Armour Charged Gemini Men's Running Shoes",
+      "link": "https://mavely.app.link/qDWa4YLjP7b",
+      "page": null,
+      "image": "img/wa/AC66CE3C819AB07DF46A4CE2F1351B2A.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T19:48:27Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
+    {
+      "id": "wa-ACA25143FEB1F904D051C9D7E18AC5BC",
+      "store": "Under Armour",
+      "title": "Rival Core Women's Short Sleeve - Fast-Drying",
+      "price": "$12",
+      "was": "$33",
+      "discount": "64% off",
+      "code": "WARMUP",
+      "notes": "Under Armour Use code WARMUP and EXTRA at checkout",
+      "link": "https://go.magik.ly/ml/4lu7c/",
+      "page": null,
+      "image": "img/wa/ACA25143FEB1F904D051C9D7E18AC5BC.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T19:48:25Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
     {
       "id": "wa-AC03EE0408D6AD1B0A327AF478EA2831",
       "store": "Walmart",
@@ -1039,78 +1115,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACB40D0CB0BF55CB076D62E4BEED7B56",
-      "store": "Deal",
-      "title": "Scott ComfortPlus Toilet Paper, 36 Triple Rolls, 231 Sheets per Roll",
-      "price": "$11",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Subscribe and save",
-      "link": "https://blockbusterdeals.net/product/scott-comfortplus-toilet-paper-36-triple-rolls-231-sheets-per-roll/",
-      "page": null,
-      "image": "img/wa/ACB40D0CB0BF55CB076D62E4BEED7B56.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T20:46:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACE44EE1F1EA95D80668F4BCC186FD10",
-      "store": "Deal",
-      "title": "Best Friend Bestie Birthday Friendship Gifts for Women",
-      "price": "$9",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/best-friend-bestie-birthday-friendship-gifts-for-women/",
-      "page": null,
-      "image": "img/wa/ACE44EE1F1EA95D80668F4BCC186FD10.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T20:38:07Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACBE59D6B0DD593DA69413FFC9FBC27D",
-      "store": "Deal",
-      "title": "Astercook 21 Pcs Pots and Pans Set Non Stick, Ceramic Cookware Set Detachable Handle, RV Kitchen Cooking Set Removable Handles, Oven Safe, Induction Ready, Stackable, Pink, Fathers Day Gift for Men",
-      "price": "$59",
-      "was": "$99",
-      "discount": "40% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/astercook-21-pcs-pots-and-pans-set-non-stick-ceramic-cookware-set-detachable-handle-rv-kitchen-cooking-set-removable-handles-oven-safe-induction-ready-stackable-pink-fathers-day-gift-for-men/",
-      "page": null,
-      "image": "img/wa/ACBE59D6B0DD593DA69413FFC9FBC27D.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T20:33:14Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACB12375B1B5190A11E015C1FF85F11D",
-      "store": "Deal",
-      "title": "Gucci Guilty Men Eau-de-toilette Spray by Gucci, 1.6 Ounce",
-      "price": "$48",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Subscribe and save",
-      "link": "https://blockbusterdeals.net/product/gucci-guilty-men-eau-de-toilette-spray-by-gucci-1-6-ounce-2/",
-      "page": null,
-      "image": "img/wa/ACB12375B1B5190A11E015C1FF85F11D.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T20:22:52Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1161,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T20:19:03Z",
+      "text": "4 new offer(s): Use Code WARMUP and EXTRA  at checkout!, Use codes WARMUP and EXTRA at checkout, Use Code WARMUP and  EXTRA at checkout"
+    },
     {
       "at": "2026-11-05T19:42:23Z",
       "text": "1 new offer(s): CAROTE 12-Piece Kitchen Knife Set, Stain"
@@ -1232,10 +1240,6 @@
     {
       "at": "2026-11-03T18:19:56Z",
       "text": "23 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, Apple AirPods 4"
-    },
-    {
-      "at": "2026-11-03T15:44:36Z",
-      "text": "4 new offer(s): FREE STANDARD SHIPPING WITH ADICLUB, FREE STANDARD SHIPPING WITH ADICLUB, SUPERNOVA RISE 3 ADAPTIVE RUNNING SHOES"
     }
   ]
 }
