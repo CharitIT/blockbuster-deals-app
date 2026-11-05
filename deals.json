@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T15:21:28Z",
+  "lastScan": "2026-11-05T15:32:14Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACBB0EE7CFD5F3D2D2EBFD10B0910A2D",
+      "store": "Deal",
+      "title": "Dr.Melaxin Peel Shot Black Rice Exfoliating Ampoule, Face Exfoliator with AHA BHA Niacinamide Rice Bran Water, Blackhead Remover, Pore Minimizer, Glass Skin Serum, Korean Skin Care, 2.7 oz",
+      "price": "$17",
+      "was": "$39",
+      "discount": "56% off",
+      "code": null,
+      "notes": "Subscribe and save",
+      "link": "https://blockbusterdeals.net/product/dr-melaxin-peel-shot-black-rice-exfoliating-ampoule-face-exfoliator-with/",
+      "page": null,
+      "image": "img/wa/ACBB0EE7CFD5F3D2D2EBFD10B0910A2D.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T15:27:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACA802D3F4827D4A2FBC049DE6A56129",
       "store": "Amazon",
@@ -1080,24 +1098,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC151C05A94E305170559AC49172218F",
-      "store": "Deal",
-      "title": "Terrex Multi Essentials Half Zip Fleece Jacket",
-      "price": "$22",
-      "was": "$45",
-      "discount": "51% off",
-      "code": "SD15",
-      "notes": "Adidas Use Code SD15 at checkout FREE STANDARD SHIPPING WITH ADICLUB",
-      "link": "https://mavely.app.link/IubgEA6pN7b",
-      "page": null,
-      "image": "img/wa/AC151C05A94E305170559AC49172218F.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T16:17:42Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1144,6 +1144,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T15:32:14Z",
+      "text": "1 new offer(s): Dr.Melaxin Peel Shot Black Rice Exfoliat"
+    },
     {
       "at": "2026-11-05T15:21:28Z",
       "text": "2 new offer(s): 🚨 Clip 1 Time purchase Coupon & switch t, Minnie Mouse Ride-On 15\" Fly Wheels Crui"
@@ -1219,10 +1223,6 @@
     {
       "at": "2026-11-02T15:40:31Z",
       "text": "1 new offer(s): Lots of Carote on sale now at Walmart🔥🔥"
-    },
-    {
-      "at": "2026-11-02T15:27:13Z",
-      "text": "2 new offer(s): 24 Pack Glass Spice Jars : 492 Lables & , Farberware 15-pc. Nonstick Stainless Ste"
     }
   ]
 }
