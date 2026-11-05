@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T15:43:00Z",
+  "lastScan": "2026-11-05T15:53:44Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC807FC5843373A73902756EDD44ABEA",
+      "store": "Kohl's",
+      "title": "Roomba Plus 415 Combo Robot Vacuum & Mop With AutoWash Dock",
+      "price": "$379",
+      "was": "$599",
+      "discount": "37% off",
+      "code": null,
+      "notes": "Earn 5% Kohl's Rewards®️ on this item today Free Shipping",
+      "link": "https://mavely.app.link/h4wQ2Ih3O7b",
+      "page": null,
+      "image": "img/wa/AC807FC5843373A73902756EDD44ABEA.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T15:49:04Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Kohl's"
+    },
+    {
+      "id": "wa-AC8C76693E2EF42E630DD0224EFBBE28",
+      "store": "Deal",
+      "title": "Michael Kors Designer Clearance🔥🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "BUY 2+ ITEMS, GET 20% OFF",
+      "link": "https://mavely.app.link/O5TfNPR2O7b",
+      "page": null,
+      "image": "img/wa/AC8C76693E2EF42E630DD0224EFBBE28.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T15:45:47Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC75A20257110E7E2A16105FD143DB3F",
       "store": "Deal",
@@ -1062,42 +1099,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACA3E50422DAA2CCB3D865E9BDB90119",
-      "store": "Deal",
-      "title": "Adidas Adilette Shower Manchester United Slides",
-      "price": "$17",
-      "was": "$35",
-      "discount": "51% off",
-      "code": "SD15",
-      "notes": "Use Code SD15 at checkout FREE STANDARD SHIPPING WITH ADICLUB",
-      "link": "https://mavely.app.link/oL6h9v2rN7b",
-      "page": null,
-      "image": "img/wa/ACA3E50422DAA2CCB3D865E9BDB90119.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T16:56:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC000D56838E03749D6BE27788A798AD",
-      "store": "Deal",
-      "title": "Eufy Permanent Outdoor Lights E22, 100ft with 60 Triple-LED Lights",
-      "price": "$169",
-      "was": "$329",
-      "discount": "49% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/eufy-permanent-outdoor-lights-e22-100ft-with-60-triple-led-lights/",
-      "page": null,
-      "image": "img/wa/AC000D56838E03749D6BE27788A798AD.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T16:46:08Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1144,6 +1145,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T15:53:44Z",
+      "text": "2 new offer(s): Roomba Plus 415 Combo Robot Vacuum & Mop, Michael Kors Designer Clearance🔥🔥"
+    },
     {
       "at": "2026-11-05T15:43:00Z",
       "text": "2 new offer(s): Jet Set Large Signature Logo Shoulder Ba, Brooks Women’s Ghost Max 3 Running Shoe"
@@ -1219,10 +1224,6 @@
     {
       "at": "2026-11-02T16:01:07Z",
       "text": "1 new offer(s): A limited-edition advent calendar with 2"
-    },
-    {
-      "at": "2026-11-02T15:50:36Z",
-      "text": "1 new offer(s): CLOUDREST PRO Storage Bookcase for All A"
     }
   ]
 }
