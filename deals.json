@@ -1,9 +1,63 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T21:20:57Z",
+  "lastScan": "2026-11-05T21:31:13Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC268A3B806443937C0ED291D1876E2C",
+      "store": "Deal",
+      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Link:",
+      "link": "https://theblogcm.com/566/eJi8",
+      "page": null,
+      "image": "img/wa/AC268A3B806443937C0ED291D1876E2C.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T21:29:35Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC4B892684A888C561F4105F70280EFD",
+      "store": "Deal",
+      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
+      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
+      "page": null,
+      "image": "img/wa/AC4B892684A888C561F4105F70280EFD.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T21:25:30Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACC19AD45BC5E73C129543D659D56266",
+      "store": "Deal",
+      "title": "Just Play furReal Snuggles the Smiling Sloth Interactive Plush Toy",
+      "price": "$26",
+      "was": "$44",
+      "discount": "41% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/just-play-furreal-snuggles-the-smiling-sloth-interactive-plush-toy/",
+      "page": null,
+      "image": "img/wa/ACC19AD45BC5E73C129543D659D56266.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T21:24:01Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC626D3F7443E6E35A46B133BA0DB4F3",
       "store": "Deal",
@@ -1065,60 +1119,6 @@
       "merchant": "Amazon"
     },
     {
-      "id": "wa-AC15F0AAD1521242A97904A8BCCB2AAA",
-      "store": "Deal",
-      "title": "Juniors' SO®️ Foldover Fleece Jogger Pants",
-      "price": "$11",
-      "was": "$29",
-      "discount": "62% off",
-      "code": "GOSAVE20",
-      "notes": "Use Code GOSAVE20 🎁 Earn 5% Kohl's Rewards Free shipping",
-      "link": "https://mavely.app.link/nbl6JU5VN7b",
-      "page": null,
-      "image": "img/wa/AC15F0AAD1521242A97904A8BCCB2AAA.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T00:21:39Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC52E4225502EA0691E5BDC1E05B58C8",
-      "store": "Deal",
-      "title": "PRAKI Airtight Food Storage Containers Set with Lids - 24 PCS, BPA Free",
-      "price": "$29",
-      "was": "$37",
-      "discount": "22% off",
-      "code": null,
-      "notes": "Clip coupon",
-      "link": "https://blockbusterdeals.net/product/praki-airtight-food-storage-containers-set-with-lids-24-pcs-bpa-free/",
-      "page": null,
-      "image": "img/wa/AC52E4225502EA0691E5BDC1E05B58C8.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T00:13:11Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC68D4A87A9B28588788F7C081B62D96",
-      "store": "Deal",
-      "title": "Women's Croft & Barrow®️ Essential Long-Sleeve Classic Crewneck Tee",
-      "price": "$7",
-      "was": "$14",
-      "discount": "50% off",
-      "code": "GOSAVE20",
-      "notes": "Use Code:GOSAVE20 🎁 Earn 5% Kohl's Rewards Free shipping",
-      "link": "https://mavely.app.link/PLkRJKBVN7b",
-      "page": null,
-      "image": "img/wa/AC68D4A87A9B28588788F7C081B62D96.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T00:08:55Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1165,6 +1165,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T21:31:13Z",
+      "text": "3 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, Just Play furReal Snuggles the Smiling S"
+    },
     {
       "at": "2026-11-05T21:20:57Z",
       "text": "3 new offer(s): Women's 3 Pack Square Neck Tank Top Ruch, Undershirts T-Shirt Pack, 3-Pack, X-Temp, Gyroor KS2 Electric Scooter for Kids, 5 "
@@ -1240,10 +1244,6 @@
     {
       "at": "2026-11-05T15:43:00Z",
       "text": "2 new offer(s): Jet Set Large Signature Logo Shoulder Ba, Brooks Women’s Ghost Max 3 Running Shoe"
-    },
-    {
-      "at": "2026-11-05T15:32:14Z",
-      "text": "1 new offer(s): Dr.Melaxin Peel Shot Black Rice Exfoliat"
     }
   ]
 }
