@@ -1,9 +1,64 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T21:10:41Z",
+  "lastScan": "2026-11-05T21:20:57Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC626D3F7443E6E35A46B133BA0DB4F3",
+      "store": "Deal",
+      "title": "Women's 3 Pack Square Neck Tank Top Ruched Sleeveless Fitted Tops",
+      "price": "$14",
+      "was": "$25",
+      "discount": "44% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/womens-3-pack-square-neck-tank-top-ruched-sleeveless-fitted-tops/",
+      "page": null,
+      "image": "img/wa/AC626D3F7443E6E35A46B133BA0DB4F3.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T21:18:09Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC73F93018B362ECC818554DD9B7EC50",
+      "store": "Walmart",
+      "title": "Undershirts T-Shirt Pack, 3-Pack, X-Temp Moisture-Wicking Tees for Men, White T-Shirt",
+      "price": "$6",
+      "was": "$18",
+      "discount": "67% off",
+      "code": null,
+      "notes": "RUN!!",
+      "link": "https://mavely.app.link/8ifQrKJqP7b",
+      "page": null,
+      "image": "img/wa/AC73F93018B362ECC818554DD9B7EC50.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T21:14:53Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC379AC2B70F9930536265A64BF3B554",
+      "store": "Deal",
+      "title": "Gyroor KS2 Electric Scooter for Kids, 5 MPH, LED Light-Up Wheels, Ages 3-8",
+      "price": "$49",
+      "was": "$166",
+      "discount": "70% off",
+      "code": "CFT2Q44B",
+      "notes": "Use code CFT2Q44B",
+      "link": "https://blockbusterdeals.net/product/gyroor-ks2-electric-scooter-for-kids/",
+      "page": null,
+      "image": "img/wa/AC379AC2B70F9930536265A64BF3B554.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T21:14:46Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC8FBF58C921993B7463AF43558DA39E",
       "store": "Deal",
@@ -1064,61 +1119,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACAF4A5D59F1663E399A3071BC36B8AF",
-      "store": "Deal",
-      "title": "Ekouaer 2 Pack Pajama Sets for Women,Long Sleeve Top Jogger Pant Loungewear",
-      "price": "$18",
-      "was": "$34",
-      "discount": "47% off",
-      "code": "FTCHQZ43",
-      "notes": "Use Code:FTCHQZ43",
-      "link": "https://blockbusterdeals.net/product/ekouaer-2-pack-pajama-sets-for-womenlong-sleeve-top-jogger-pant-loungewear/",
-      "page": null,
-      "image": "img/wa/ACAF4A5D59F1663E399A3071BC36B8AF.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T23:42:22Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACD623AB99C1ADA5D486D005D80F5AC9",
-      "store": "Deal",
-      "title": "Espresso Machine With Grinder & Frother",
-      "price": "$959",
-      "was": "$1,199",
-      "discount": "20% off",
-      "code": "GOSAVE20",
-      "notes": "Kenmore Elite Automatic-Tamp Use code: GOSAVE20 at checkout 🎁 Earn 5% Kohl's Rewards Free shipping",
-      "link": "https://mavely.app.link/SMBWkYv4J7b",
-      "page": null,
-      "image": "img/wa/ACD623AB99C1ADA5D486D005D80F5AC9.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T23:42:15Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACD864A5DBA478A190ADA4E85D49B5E2",
-      "store": "Michael Kors",
-      "title": "BUY 2+ ITEMS, GET 20% OFF APPLIED IN CART",
-      "price": "$39",
-      "was": "$258",
-      "discount": "85% off",
-      "code": null,
-      "notes": "Michael Kors Matilda Small Cinched Crossbody Bag FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
-      "link": "https://mavely.app.link/izhFRYSUN7b",
-      "page": null,
-      "image": "img/wa/ACD864A5DBA478A190ADA4E85D49B5E2.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T23:21:30Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1165,6 +1165,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T21:20:57Z",
+      "text": "3 new offer(s): Women's 3 Pack Square Neck Tank Top Ruch, Undershirts T-Shirt Pack, 3-Pack, X-Temp, Gyroor KS2 Electric Scooter for Kids, 5 "
+    },
     {
       "at": "2026-11-05T21:10:41Z",
       "text": "2 new offer(s): Baby Dove Derma Care Soothing Wash Skin , DUDE Wipes Unscented Adult Flushable Wet"
@@ -1240,10 +1244,6 @@
     {
       "at": "2026-11-05T15:32:14Z",
       "text": "1 new offer(s): Dr.Melaxin Peel Shot Black Rice Exfoliat"
-    },
-    {
-      "at": "2026-11-05T15:21:28Z",
-      "text": "2 new offer(s): 🚨 Clip 1 Time purchase Coupon & switch t, Minnie Mouse Ride-On 15\" Fly Wheels Crui"
     }
   ]
 }
