@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T20:29:27Z",
+  "lastScan": "2026-11-05T20:39:45Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACE4B4344A1C9000B1C98C2284459C30",
+      "store": "Deal",
+      "title": "Ninja Air Fryer XL with MaxCrisp, 6.5 Qt, 6-in-1, Grey, AF181",
+      "price": "$99",
+      "was": "$179",
+      "discount": "45% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/ninja-air-fryer-xl-with-maxcrisp/",
+      "page": null,
+      "image": "img/wa/ACE4B4344A1C9000B1C98C2284459C30.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T20:36:40Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC27C5764F0A07BA998969E427624161",
+      "store": "Under Armour",
+      "title": "Use codes WARMUP and EXTRA at checkout",
+      "price": "$31",
+      "was": "$75",
+      "discount": "59% off",
+      "code": null,
+      "notes": "Under Armour A Charged Assert 10 Men's Running Shoes - Ventilate",
+      "link": "https://go.magik.ly/ml/4lwcf/",
+      "page": null,
+      "image": "img/wa/AC27C5764F0A07BA998969E427624161.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T20:36:34Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
     {
       "id": "wa-ACB224E07F487FD1186D63113D32C14B",
       "store": "Under Armour",
@@ -1080,43 +1117,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACE4D1249CC2CE3E2672DC3CD412C40D",
-      "store": "Deal",
-      "title": "High Waisted Leggings for Women, Full Length & Capri Pants",
-      "price": "$5",
-      "was": null,
-      "discount": null,
-      "code": "9UT41TR9",
-      "notes": "Use code 9UT41TR9",
-      "link": "https://blockbusterdeals.net/product/high-waisted-leggings-for-women-full-length-capri-pants/",
-      "page": null,
-      "image": "img/wa/ACE4D1249CC2CE3E2672DC3CD412C40D.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T21:12:21Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACD80036E8DDFD891BFD20A5155FBE33",
-      "store": "Walmart",
-      "title": "No Boundaries Women's Bootcut Jeans with Extended Tab, Medium Wash, Size 00",
-      "price": "$7",
-      "was": "$19",
-      "discount": "63% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/77sexs8IN7b",
-      "page": null,
-      "image": "img/wa/ACD80036E8DDFD891BFD20A5155FBE33.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T21:06:40Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1163,6 +1163,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T20:39:45Z",
+      "text": "2 new offer(s): Ninja Air Fryer XL with MaxCrisp, 6.5 Qt, Use codes WARMUP and EXTRA at checkout"
+    },
     {
       "at": "2026-11-05T20:29:27Z",
       "text": "2 new offer(s): Extra 40% Off with code WARMUP and extra, Under Armour Men's UA Edge Leather Train"
@@ -1238,10 +1242,6 @@
     {
       "at": "2026-11-05T03:16:44Z",
       "text": "59 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, Amazon Essentials Men's Standard-Fit Lon"
-    },
-    {
-      "at": "2026-11-04T01:34:52Z",
-      "text": "31 new offer(s): TUCCI Italy Travola 3-Piece Hardside Spi, Drone with Camera - 1080P Drones for Adu, Men's Crew Long Sleeve"
     }
   ]
 }
