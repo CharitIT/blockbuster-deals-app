@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T03:16:44Z",
+  "lastScan": "2026-11-05T15:10:47Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC38B28925FFE82D50C8CA9CDD939B0C",
+      "store": "Walmart",
+      "title": "Magic Bullet 4 Piece Personal Blender MBR-0401WM, Black",
+      "price": "$19",
+      "was": "$35",
+      "discount": "46% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/mLuJYL1ZO7b",
+      "page": null,
+      "image": "img/wa/AC38B28925FFE82D50C8CA9CDD939B0C.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T15:03:32Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC60A2037D95E19B9F2B39C7E91085B4",
       "store": "Deal",
@@ -1079,24 +1098,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC8B2975F0D86BF315A1474D9E62EE46",
-      "store": "Deal",
-      "title": "TUCCI Italy Travola 3-Piece Hardside Spinner Luggage Set",
-      "price": "$319",
-      "was": "$399",
-      "discount": "20% off",
-      "code": "GOSAVE20",
-      "notes": "Use Code :GOSAVE20 🎁 Earn 5% Kohl's Rewards",
-      "link": "https://mavely.app.link/uY3ai9BjM7b",
-      "page": null,
-      "image": "img/wa/AC8B2975F0D86BF315A1474D9E62EE46.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T01:01:59Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1143,6 +1144,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T15:10:47Z",
+      "text": "1 new offer(s): Magic Bullet 4 Piece Personal Blender MB"
+    },
     {
       "at": "2026-11-05T03:16:44Z",
       "text": "59 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, Amazon Essentials Men's Standard-Fit Lon"
@@ -1218,10 +1223,6 @@
     {
       "at": "2026-11-02T15:05:19Z",
       "text": "1 new offer(s): Satifur White Makeup Vanity with LED Mir"
-    },
-    {
-      "at": "2026-11-02T02:04:12Z",
-      "text": "4 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, ✅ 💳 Credit card required. Subscription c, Beautiful by drew Dining tables🔥🔥 At Wal"
     }
   ]
 }
