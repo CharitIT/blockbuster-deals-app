@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T16:25:56Z",
+  "lastScan": "2026-11-05T16:36:38Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC146193F81C07B4BC2CA955D29FE464",
+      "store": "Macy's",
+      "title": "Women's Hooded Puffer Coat",
+      "price": "$39",
+      "was": "$285",
+      "discount": "86% off",
+      "code": null,
+      "notes": "Calvin Klein",
+      "link": "https://mavely.app.link/haaThXa5O7b",
+      "page": null,
+      "image": "img/wa/AC146193F81C07B4BC2CA955D29FE464.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T16:27:15Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-AC0AC0BEDB919FC343935C372499E45C",
       "store": "Target",
@@ -1080,25 +1099,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACD8D2013044F75F115DE859E507B8F0",
-      "store": "Walmart",
-      "title": "NULAS Knife Set, 14Piece Knife Sets for Kitchen with Block, Dishwasher Safe, Built in Sharpener Block, Black",
-      "price": "$19",
-      "was": "$59",
-      "discount": "68% off",
-      "code": null,
-      "notes": "RUN❗ Clip coupon",
-      "link": "https://mavely.app.link/7YTpI3muN7b",
-      "page": null,
-      "image": "img/wa/ACD8D2013044F75F115DE859E507B8F0.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T17:10:03Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1145,6 +1145,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T16:36:38Z",
+      "text": "1 new offer(s): Women's Hooded Puffer Coat"
+    },
     {
       "at": "2026-11-05T16:25:56Z",
       "text": "2 new offer(s): KitchenAid 5.5qt Bowl-Lift Stand Mixer K, Brooks Women’s Hyperion 3 Neutral Runnin"
@@ -1220,10 +1224,6 @@
     {
       "at": "2026-11-02T16:54:39Z",
       "text": "1 new offer(s): Wooden Kids Cash Register Playset"
-    },
-    {
-      "at": "2026-11-02T16:44:11Z",
-      "text": "3 new offer(s): Janod Wooden Pasta Kids Playset, Wonder & Wise by Asweets Wooden Toddler , Avia Men's Running Shoes 02 Air, Medium "
     }
   ]
 }
