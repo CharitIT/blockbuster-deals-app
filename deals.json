@@ -1,9 +1,66 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T16:47:27Z",
+  "lastScan": "2026-11-05T16:58:13Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACBF3F4B60A1CC3B8F0722845B754666",
+      "store": "Macy's",
+      "title": "Microfiber Down Alternative Comforter, Full/Queen",
+      "price": "$19",
+      "was": "$100",
+      "discount": "81% off",
+      "code": null,
+      "notes": "Arch Studio",
+      "link": "https://mavely.app.link/hPvkGgG7O7b",
+      "page": null,
+      "image": "img/wa/ACBF3F4B60A1CC3B8F0722845B754666.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T16:56:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-AC1BB33D3E46FB7AF78039F18ACA58C4",
+      "store": "Macy's",
+      "title": "Kenneth Cole Reaction Men's Slim-Fit 2-Piece Suit",
+      "price": "$79",
+      "was": "$395",
+      "discount": "80% off",
+      "code": null,
+      "notes": "RUN!",
+      "link": "https://mavely.app.link/qnkXQLv7O7b",
+      "page": null,
+      "image": "img/wa/AC1BB33D3E46FB7AF78039F18ACA58C4.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T16:50:47Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-AC081165E59FFB0A5D6E06EA21694D7D",
+      "store": "Under Armour",
+      "title": "Essential Unisex 6-Pack No-Show Socks",
+      "price": "$10",
+      "was": "$22",
+      "discount": "55% off",
+      "code": "WARMUP",
+      "notes": "Under Armour Use code: WARMUP + EXTRA at checkout",
+      "link": "https://mavely.app.link/5DP95T16O7b",
+      "page": null,
+      "image": "img/wa/AC081165E59FFB0A5D6E06EA21694D7D.jpg",
+      "category": null,
+      "postedAt": "2026-11-05T16:47:27Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
     {
       "id": "wa-ACC9F8A9DEFC7E9259FB583F7ACE4A37",
       "store": "Kohl's",
@@ -1043,62 +1100,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC58E3A1936C7478BA5D9FE19F59E874",
-      "store": "Woot",
-      "title": "NEW) Samsung Galaxy S25 Ultra - 512GB (Unlocked)",
-      "price": "$899",
-      "was": "$1,419",
-      "discount": "37% off",
-      "code": null,
-      "notes": "Sign in with your Amazon account at checkout for free shipping.",
-      "link": "https://mavely.app.link/UGpFGrbBe7b",
-      "page": null,
-      "image": "img/wa/AC58E3A1936C7478BA5D9FE19F59E874.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T17:50:50Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC5D40B15E33703988AC7387485879F6",
-      "store": "Walmart",
-      "title": "Giorgio Armani Acqua Di Gio Profondo , 3.3 oz EDP Spray",
-      "price": "$74",
-      "was": "$155",
-      "discount": "52% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/St5PGRQtN7b",
-      "page": null,
-      "image": "img/wa/AC5D40B15E33703988AC7387485879F6.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T17:37:45Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC513D73D0B5489AFCABD42CFB47BD87",
-      "store": "Walmart",
-      "title": "Mountain Bikes at Walmart",
-      "price": "$98",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/81KDX8uvN7b",
-      "page": null,
-      "image": "img/wa/AC513D73D0B5489AFCABD42CFB47BD87.jpg",
-      "category": null,
-      "postedAt": "2026-11-04T17:29:39Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1145,6 +1146,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-05T16:58:13Z",
+      "text": "3 new offer(s): Microfiber Down Alternative Comforter, F, Kenneth Cole Reaction Men's Slim-Fit 2-P, Essential Unisex 6-Pack No-Show Socks"
+    },
     {
       "at": "2026-11-05T16:47:27Z",
       "text": "2 new offer(s): Instant Pot Duo Plus 6-qt. Multi-Use Pre, Free Shipping With KORSVIP or orders of "
@@ -1220,10 +1225,6 @@
     {
       "at": "2026-11-02T17:21:37Z",
       "text": "1 new offer(s): Amazon Essentials Men's Standard-Fit Lon"
-    },
-    {
-      "at": "2026-11-02T17:07:35Z",
-      "text": "2 new offer(s): 30 Pack Solid Wood Lotus Candle Holders,, Men's Stretch Insulated Hooded Puffer Ja"
     }
   ]
 }
