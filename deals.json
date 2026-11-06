@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T23:21:55Z",
+  "lastScan": "2026-11-06T23:32:17Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8ACA26054C01952230F370D8B2777B",
+      "store": "Deal",
+      "title": "🚨Plus Earn $15Kohl's Cash For Every $50 Spent",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Kohl’s Early Black Friday LEGO Deals🔥 Get Upto 40% Off",
+      "link": "https://mavely.app.link/PdQv7dQcR7b",
+      "page": null,
+      "image": "img/wa/AC8ACA26054C01952230F370D8B2777B.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T23:23:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC8D7C557442AEC31E5F3DFA3462A801",
       "store": "Walmart",
@@ -1092,24 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACA1C27C16FD5F2DA49FC8D89CECBC02",
-      "store": "Deal",
-      "title": "Wavytalk Blown Away Ionic Hair Dryer with Diffuser for Curly Hair",
-      "price": "As low as $19",
-      "was": "$49",
-      "discount": "61% off",
-      "code": "DA6KX1SN",
-      "notes": "Use Code: DA6KX1SN",
-      "link": "https://blockbusterdeals.net/product/wavytalk-blown-away-ionic-hair-dryer-with-diffuser-for-curly-hair-3/",
-      "page": null,
-      "image": "img/wa/ACA1C27C16FD5F2DA49FC8D89CECBC02.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T01:24:21Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T23:32:17Z",
+      "text": "1 new offer(s): 🚨Plus Earn $15Kohl's Cash For Every $50 "
+    },
     {
       "at": "2026-11-06T23:21:55Z",
       "text": "2 new offer(s): Tec-One Men’s Colorblock Ski Snowboard H, Nanobebe Flexy Silicone Baby Bottle, Ant"
@@ -1231,10 +1235,6 @@
     {
       "at": "2026-11-06T16:47:03Z",
       "text": "2 new offer(s): Ninja Blast Portable Blender, Cordless,1, TMY Smart Projector with Google TV Built"
-    },
-    {
-      "at": "2026-11-06T16:36:48Z",
-      "text": "1 new offer(s): Rubbermaid EasyStore Special Edition Nes"
     }
   ]
 }
