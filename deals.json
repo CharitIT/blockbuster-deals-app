@@ -1,9 +1,83 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T02:01:13Z",
+  "lastScan": "2026-11-06T15:24:56Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACD13CAE87571CF49A5F3E7E1CA9550B",
+      "store": "Macy's",
+      "title": "Men's Guilty Love Edition Pour Homme, 3 oz.",
+      "price": "$127",
+      "was": "$170",
+      "discount": "25% off",
+      "code": null,
+      "notes": "Gucci",
+      "link": "https://mavely.app.link/df2QAAKDQ7b",
+      "page": null,
+      "image": "img/wa/ACD13CAE87571CF49A5F3E7E1CA9550B.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T15:24:22Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-ACFE78A740928A24788A3BAB48FA892D",
+      "store": "Deal",
+      "title": "200 LED Christmas Tree Lights Voice Control, 66FT Connectable String Lights",
+      "price": "$8",
+      "was": "$19",
+      "discount": "58% off",
+      "code": "R3GLEH8B",
+      "notes": "Use Code R3GLEH8B",
+      "link": "https://blockbusterdeals.net/product/200-led-christmas-tree-lights-voice-control-66ft-connectable-string-lights/",
+      "page": null,
+      "image": "img/wa/ACFE78A740928A24788A3BAB48FA892D.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T15:22:34Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC1CA9C5AF977B430B3A385D4776BE02",
+      "store": "Deal",
+      "title": "Shark Rocket Corded Stick Vacuum, Carpet & Hard Floors, Gray/Orange, HV301",
+      "price": "$99",
+      "was": "$199",
+      "discount": "50% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/shark-rocket-corded-stick-vacuum-carpet-hard-floors-gray-orange-hv301/",
+      "page": null,
+      "image": "img/wa/AC1CA9C5AF977B430B3A385D4776BE02.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T15:21:09Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACA337C086BE337D41FD632ADD65EEF6",
+      "store": "Walmart",
+      "title": "Beautiful 2-Speed Immersion Blender with Chopper & Measuring Cup, Lavender by Drew Barrymore",
+      "price": "$16",
+      "was": "$32",
+      "discount": "50% off",
+      "code": null,
+      "notes": "RUN!",
+      "link": "https://mavely.app.link/B9NIIiSDQ7b",
+      "page": null,
+      "image": "img/wa/ACA337C086BE337D41FD632ADD65EEF6.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T15:20:31Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC67C75FF3FB1933919EA531AABC2B95",
       "store": "Deal",
@@ -1043,80 +1117,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-AC0AC0BEDB919FC343935C372499E45C",
-      "store": "Target",
-      "title": "KitchenAid 5.5qt Bowl-Lift Stand Mixer KSM55 Agave",
-      "price": "$299",
-      "was": "$500",
-      "discount": "40% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/2wVdVrx4O7b",
-      "page": null,
-      "image": "img/wa/AC0AC0BEDB919FC343935C372499E45C.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T16:20:38Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Target"
-    },
-    {
-      "id": "wa-AC64A0FEDBA2F3E127AA413AFFD8FA53",
-      "store": "Deal",
-      "title": "Brooks Women’s Hyperion 3 Neutral Running Shoe",
-      "price": "$110",
-      "was": "$139",
-      "discount": "21% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/brooks-womens-hyperion-3-neutral-running-shoe/",
-      "page": null,
-      "image": "img/wa/AC64A0FEDBA2F3E127AA413AFFD8FA53.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T16:15:23Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC665A0211F4D7CA832C0731171FB74E",
-      "store": "Deal",
-      "title": "Brooks Men’s Revel 8 Running Shoe",
-      "price": "$65",
-      "was": "$99",
-      "discount": "34% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/brooks-mens-revel-8-running-shoe/",
-      "page": null,
-      "image": "img/wa/AC665A0211F4D7CA832C0731171FB74E.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T16:04:01Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC807FC5843373A73902756EDD44ABEA",
-      "store": "Kohl's",
-      "title": "Roomba Plus 415 Combo Robot Vacuum & Mop With AutoWash Dock",
-      "price": "$379",
-      "was": "$599",
-      "discount": "37% off",
-      "code": null,
-      "notes": "Earn 5% Kohl's Rewards®️ on this item today Free Shipping",
-      "link": "https://mavely.app.link/h4wQ2Ih3O7b",
-      "page": null,
-      "image": "img/wa/AC807FC5843373A73902756EDD44ABEA.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T15:49:04Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Kohl's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1163,6 +1163,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T15:24:56Z",
+      "text": "4 new offer(s): Men's Guilty Love Edition Pour Homme, 3 , 200 LED Christmas Tree Lights Voice Cont, Shark Rocket Corded Stick Vacuum, Carpet"
+    },
     {
       "at": "2026-11-06T02:01:13Z",
       "text": "3 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, PAW Patrol 10th Anniversary All Paws On "
@@ -1238,10 +1242,6 @@
     {
       "at": "2026-11-05T20:29:27Z",
       "text": "2 new offer(s): Extra 40% Off with code WARMUP and extra, Under Armour Men's UA Edge Leather Train"
-    },
-    {
-      "at": "2026-11-05T20:19:03Z",
-      "text": "4 new offer(s): Use Code WARMUP and EXTRA  at checkout!, Use codes WARMUP and EXTRA at checkout, Use Code WARMUP and  EXTRA at checkout"
     }
   ]
 }
