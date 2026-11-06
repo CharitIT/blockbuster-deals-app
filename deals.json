@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T20:56:38Z",
+  "lastScan": "2026-11-06T21:17:27Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACFD18614CC9BFB8699D5D5DF68849EF",
+      "store": "Deal",
+      "title": "Calvin Klein Obsession Eau de Parfum – Ambery Women's Perfume – With Notes of Mandarin, Bergamot, Jasmine & Patchouli – Long Lasting Fragrance",
+      "price": "$53",
+      "was": "$95",
+      "discount": "44% off",
+      "code": null,
+      "notes": "Subscribe and save",
+      "link": "https://blockbusterdeals.net/product/calvin-klein-obsession-eau-de-parfum-ambery-womens-perfume-with-notes-of-mandarin-bergamot-jasmine-patchouli-long-lasting-fragrance/",
+      "page": null,
+      "image": "img/wa/ACFD18614CC9BFB8699D5D5DF68849EF.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T21:11:57Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC7E1A84B0B654E50B3F8873353629AE",
+      "store": "Deal",
+      "title": "Use code SAVINGS at checkout",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": "SAVINGS",
+      "notes": "All Kohl's deals🔥 Shop for the family!",
+      "link": "https://mavely.app.link/bKbAhRh1Q7b",
+      "page": null,
+      "image": "img/wa/AC7E1A84B0B654E50B3F8873353629AE.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T21:07:46Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC5FB9558A1BFECAA00543217F96F7D9",
       "store": "Deal",
@@ -1074,43 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACB57DDBEA34D92B7D66A22EC705F534",
-      "store": "Macy's",
-      "title": "Lauren Ralph Lauren Women's Hooded Quilted Coat",
-      "price": "$109",
-      "was": "$245",
-      "discount": "56% off",
-      "code": null,
-      "notes": "ENDS IN FEW HOURS 🚨 Free shipping",
-      "link": "https://mavely.app.link/YCHbX1m8O7b",
-      "page": null,
-      "image": "img/wa/ACB57DDBEA34D92B7D66A22EC705F534.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T00:01:56Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-AC956C75910A776B9C2F74B90DD4242F",
-      "store": "Deal",
-      "title": "Lunch Box Kids Girls Boys, Bento Box Adult, Toddler Lunch Containers for School, Leakproof Snack Containers with 6 Compartments ,Sauce Container,10 Food Picks and 4 Muffin Cups (Pink)",
-      "price": "$4",
-      "was": "$9",
-      "discount": "56% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/lunch-box-kids-girls-boysbento-box-adulttoddler-lunch-containers-for-school/",
-      "page": null,
-      "image": "img/wa/AC956C75910A776B9C2F74B90DD4242F.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T23:42:28Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T21:17:27Z",
+      "text": "2 new offer(s): Calvin Klein Obsession Eau de Parfum – A, Use code SAVINGS at checkout"
+    },
     {
       "at": "2026-11-06T20:56:38Z",
       "text": "2 new offer(s): Apple iPhone 18 Pro Silicone Case with M, Dolce&Gabbana Q Eau de Parfum Intense wi"
@@ -1232,10 +1235,6 @@
     {
       "at": "2026-11-06T15:55:42Z",
       "text": "1 new offer(s): Bella Medium Leather Shoulder Bag"
-    },
-    {
-      "at": "2026-11-06T15:45:26Z",
-      "text": "2 new offer(s): 50% off + 20% off with coupon, Wavytalk 1875W Blown Away Ionic Hair Dry"
     }
   ]
 }
