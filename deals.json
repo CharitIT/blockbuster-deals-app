@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T00:39:51Z",
+  "lastScan": "2026-11-06T00:49:58Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC62DE4F4BA3A9678D36357408CC670A",
+      "store": "Deal",
+      "title": "Air Purifier For Home Bedroom Large Room Up To 1092 ft² in 1hr, Ivory",
+      "price": "$39",
+      "was": "$79",
+      "discount": "51% off",
+      "code": "4G23PK58",
+      "notes": "Use code:4G23PK58",
+      "link": "https://blockbusterdeals.net/product/air-purifier-for-home-bedroom-large-room-up-to-1092-ft%c2%b2-in-1hr-ivory/",
+      "page": null,
+      "image": "img/wa/AC62DE4F4BA3A9678D36357408CC670A.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T00:41:41Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC1E75BBD88880B8AA09E636188D2B90",
       "store": "Walmart",
@@ -1101,25 +1119,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC6ECD8C7671FAA82CCECA7B0D12D69A",
-      "store": "Amazon",
-      "title": "Amazon Essentials Men's Standard-Fit Long-Sleeve Two-Pocket Utility Shirt (Previously Goodthreads)",
-      "price": "$3",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/amazon-essentials-mens-standard-fit-long-sleeve-two-pocket-utility-shirt-previously-goodthreads/",
-      "page": null,
-      "image": "img/wa/AC6ECD8C7671FAA82CCECA7B0D12D69A.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T01:53:32Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Amazon"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1166,6 +1165,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T00:49:58Z",
+      "text": "1 new offer(s): Air Purifier For Home Bedroom Large Room"
+    },
     {
       "at": "2026-11-06T00:39:51Z",
       "text": "1 new offer(s): Mainstays 48,000 BTU Freestanding Metal "
@@ -1241,10 +1244,6 @@
     {
       "at": "2026-11-05T17:09:01Z",
       "text": "2 new offer(s): Calvin Klein Women's Short Zip Front Puf, Tramontina Signature Tri-Ply Clad Stainl"
-    },
-    {
-      "at": "2026-11-05T16:58:13Z",
-      "text": "3 new offer(s): Microfiber Down Alternative Comforter, F, Kenneth Cole Reaction Men's Slim-Fit 2-P, Essential Unisex 6-Pack No-Show Socks"
     }
   ]
 }
