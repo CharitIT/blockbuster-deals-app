@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T23:42:42Z",
+  "lastScan": "2026-11-06T23:53:04Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8EBE975FCD1F1E6A01838B8D68E19F",
+      "store": "Macy's",
+      "title": "Club Room Men's Solid Turtleneck Shirt",
+      "price": "$12",
+      "was": "$40",
+      "discount": "70% off",
+      "code": null,
+      "notes": "BLACK FRIDAY DEAL 🚨 Free shipping",
+      "link": "https://mavely.app.link/DeiERNO1Q7b",
+      "page": null,
+      "image": "img/wa/AC8EBE975FCD1F1E6A01838B8D68E19F.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T23:51:59Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-AC56894646DF79E789099845978EB0E3",
+      "store": "Amazon",
+      "title": "Amazon Essentials Men's Standard-Fit Long-Sleeve Two-Pocket Utility Shirt (Previously Goodthreads)",
+      "price": "$3",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/amazon-essentials-mens-standard-fit-long-sleeve-two-pocket-utility-shirt-previously-goodthreads-3/",
+      "page": null,
+      "image": "img/wa/AC56894646DF79E789099845978EB0E3.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T23:51:56Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
     {
       "id": "wa-ACA8DD9A04759666A5752C9F21F65735",
       "store": "Target",
@@ -1075,42 +1113,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC4407A7BE24DDE5C232191D5F7AA707",
-      "store": "Deal",
-      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
-      "price": "$20",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
-      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
-      "page": null,
-      "image": "img/wa/AC4407A7BE24DDE5C232191D5F7AA707.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T01:59:44Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACC39F5563F18022E218DAC37C532C51",
-      "store": "Deal",
-      "title": "PAW Patrol 10th Anniversary All Paws On Deck 10 Figure Gift Pack",
-      "price": "$14",
-      "was": "$24",
-      "discount": "42% off",
-      "code": null,
-      "notes": "Clip coupon",
-      "link": "https://blockbusterdeals.net/product/paw-patrol-10th-anniversary-all-paws-on-deck-10-figure-gift-pack/",
-      "page": null,
-      "image": "img/wa/ACC39F5563F18022E218DAC37C532C51.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T01:59:36Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1159,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T23:53:04Z",
+      "text": "2 new offer(s): Club Room Men's Solid Turtleneck Shirt, Amazon Essentials Men's Standard-Fit Lon"
+    },
     {
       "at": "2026-11-06T23:42:42Z",
       "text": "2 new offer(s): Disney and Pixar Toy Story 5 Ultimate Ac, GRACE KARIN Women Long Sleeve Tops Fall "
@@ -1232,10 +1238,6 @@
     {
       "at": "2026-11-06T17:07:45Z",
       "text": "2 new offer(s): 🚨 Plus for every $50 spent earn back $15, Luggage & Suitcases at Kohl's🔥"
-    },
-    {
-      "at": "2026-11-06T16:57:22Z",
-      "text": "2 new offer(s): 💡 Protip: If you buy 21 total can mix & , Baby Delight Go with Me Venture Portable"
     }
   ]
 }
