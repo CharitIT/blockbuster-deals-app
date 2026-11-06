@@ -1,9 +1,63 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T01:51:01Z",
+  "lastScan": "2026-11-06T02:01:13Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC67C75FF3FB1933919EA531AABC2B95",
+      "store": "Deal",
+      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Link:",
+      "link": "https://theblogcm.com/566/eJi8",
+      "page": null,
+      "image": "img/wa/AC67C75FF3FB1933919EA531AABC2B95.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T01:59:50Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC4407A7BE24DDE5C232191D5F7AA707",
+      "store": "Deal",
+      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
+      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
+      "page": null,
+      "image": "img/wa/AC4407A7BE24DDE5C232191D5F7AA707.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T01:59:44Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACC39F5563F18022E218DAC37C532C51",
+      "store": "Deal",
+      "title": "PAW Patrol 10th Anniversary All Paws On Deck 10 Figure Gift Pack",
+      "price": "$14",
+      "was": "$24",
+      "discount": "42% off",
+      "code": null,
+      "notes": "Clip coupon",
+      "link": "https://blockbusterdeals.net/product/paw-patrol-10th-anniversary-all-paws-on-deck-10-figure-gift-pack/",
+      "page": null,
+      "image": "img/wa/ACC39F5563F18022E218DAC37C532C51.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T01:59:36Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC51293086D83D83584C78B5CE3820B5",
       "store": "Deal",
@@ -1063,62 +1117,6 @@
       "merchant": "Kohl's"
     },
     {
-      "id": "wa-AC8C76693E2EF42E630DD0224EFBBE28",
-      "store": "Michael Kors",
-      "title": "Michael Kors Designer Clearance🔥🔥",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "BUY 2+ ITEMS, GET 20% OFF",
-      "link": "https://mavely.app.link/O5TfNPR2O7b",
-      "page": null,
-      "image": "img/wa/AC8C76693E2EF42E630DD0224EFBBE28.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T15:45:47Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-AC75A20257110E7E2A16105FD143DB3F",
-      "store": "Michael Kors",
-      "title": "Jet Set Large Signature Logo Shoulder Bag",
-      "price": "$63",
-      "was": "$398",
-      "discount": "84% off",
-      "code": null,
-      "notes": "Michael kors BUY 2+ ITEMS, GET 20% OFF APPLIED IN CART",
-      "link": "https://mavely.app.link/QQnx4IA2O7b",
-      "page": null,
-      "image": "img/wa/AC75A20257110E7E2A16105FD143DB3F.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T15:41:50Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-ACE71222215D53C687F2136D8976A327",
-      "store": "Deal",
-      "title": "Brooks Women’s Ghost Max 3 Running Shoe",
-      "price": "$91",
-      "was": "$159",
-      "discount": "43% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/brooks-womens-ghost-max-3-running-shoe/",
-      "page": null,
-      "image": "img/wa/ACE71222215D53C687F2136D8976A327.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T15:37:59Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1165,6 +1163,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T02:01:13Z",
+      "text": "3 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, PAW Patrol 10th Anniversary All Paws On "
+    },
     {
       "at": "2026-11-06T01:51:01Z",
       "text": "1 new offer(s): CRAFTSMAN 3-Gallon 3 HP Corded Wet, Dry "
@@ -1240,10 +1242,6 @@
     {
       "at": "2026-11-05T20:19:03Z",
       "text": "4 new offer(s): Use Code WARMUP and EXTRA  at checkout!, Use codes WARMUP and EXTRA at checkout, Use Code WARMUP and  EXTRA at checkout"
-    },
-    {
-      "at": "2026-11-05T19:42:23Z",
-      "text": "1 new offer(s): CAROTE 12-Piece Kitchen Knife Set, Stain"
     }
   ]
 }
