@@ -1,9 +1,64 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T21:17:27Z",
+  "lastScan": "2026-11-06T21:27:51Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC287A4252753DD24EFD4A1D993312DE",
+      "store": "Deal",
+      "title": "L'Oreal Paris Revitalift Anti-Wrinkle and Firming Face and Neck Moisturizer, Pro Retinol 1.7 oz",
+      "price": "$12",
+      "was": "$20",
+      "discount": "40% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/loreal-paris-revitalift-anti-wrinkle-and-firming-face-and-neck-moisturizer-pro-retinol-1-7-oz/",
+      "page": null,
+      "image": "img/wa/AC287A4252753DD24EFD4A1D993312DE.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T21:24:37Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACFC3A5D94A67225339DE6539A46EAD0",
+      "store": "Deal",
+      "title": "5 Pcs Round Stainless Steel Food Storage Container, Metal Lunch Box",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/5-pcs-round-stainless-steel-food-storage-container/",
+      "page": null,
+      "image": "img/wa/ACFC3A5D94A67225339DE6539A46EAD0.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T21:21:36Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC8BEE5B66ECCC31CF56BD9484357A71",
+      "store": "Amazon",
+      "title": "Amazon Essentials Men's Vacation Cotton Button-Down Short Sleeves",
+      "price": "$2",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/amazon-essentials-mens-vacation-cotton-button-down-short-sleeve/",
+      "page": null,
+      "image": "img/wa/AC8BEE5B66ECCC31CF56BD9484357A71.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T21:17:24Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
     {
       "id": "wa-ACFD18614CC9BFB8699D5D5DF68849EF",
       "store": "Deal",
@@ -1056,60 +1111,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACBDA788C41F62E0AE88C54F67A067A0",
-      "store": "Deal",
-      "title": "Bedsure Christmas Throw Blanket for Couch - Christmas Decorations Gifts for Women, Warm Sherpa Deer Throw Blanket, Red 50\"x60\"",
-      "price": "$11",
-      "was": "$29",
-      "discount": "62% off",
-      "code": "SOZ4PXWG",
-      "notes": "Use Code:SOZ4PXWG",
-      "link": "https://blockbusterdeals.net/product/bedsure-christmas-throw-blanket-for-couch-christmas-decorations-gifts-for-women-warm-sherpa-deer-throw-blanket-red-50x60/",
-      "page": null,
-      "image": "img/wa/ACBDA788C41F62E0AE88C54F67A067A0.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T00:22:17Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACE2CCA678AE061EE68EBF6DB92054DE",
-      "store": "Deal",
-      "title": "tarte lights, camera, lashes 4pc mascara wardrobe",
-      "price": "$22",
-      "was": "$53",
-      "discount": "58% off",
-      "code": "HOLIDAY20",
-      "notes": "Black Friday sale 🚨 Use code: HOLIDAY20",
-      "link": "https://mavely.app.link/uefrtwlBP7b",
-      "page": null,
-      "image": "img/wa/ACE2CCA678AE061EE68EBF6DB92054DE.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T00:12:02Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC1794316B6F58309353B98DEAA692B3",
-      "store": "Deal",
-      "title": "Walking Pad Treadmill for Home, Compact Quite Under-Desk Treadmills",
-      "price": "$65",
-      "was": "$74",
-      "discount": "12% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/walking-pad-treadmill-for-home-compact-quite-under-desk-treadmills/",
-      "page": null,
-      "image": "img/wa/AC1794316B6F58309353B98DEAA692B3.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T00:02:04Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T21:27:51Z",
+      "text": "3 new offer(s): L'Oreal Paris Revitalift Anti-Wrinkle an, 5 Pcs Round Stainless Steel Food Storage, Amazon Essentials Men's Vacation Cotton "
+    },
     {
       "at": "2026-11-06T21:17:27Z",
       "text": "2 new offer(s): Calvin Klein Obsession Eau de Parfum – A, Use code SAVINGS at checkout"
@@ -1231,10 +1236,6 @@
     {
       "at": "2026-11-06T16:05:57Z",
       "text": "1 new offer(s): 50% off + 20% off with coupon"
-    },
-    {
-      "at": "2026-11-06T15:55:42Z",
-      "text": "1 new offer(s): Bella Medium Leather Shoulder Bag"
     }
   ]
 }
