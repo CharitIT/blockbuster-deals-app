@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T17:28:44Z",
+  "lastScan": "2026-11-06T17:39:13Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACD4822B3A4F19934D3742674293C76C",
+      "store": "Target",
+      "title": "Get upto 40% off Tonies Starter Sets🔥 at Target",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "TODAY ONLY 🚨",
+      "link": "https://mavely.app.link/XvW2Dx9PQ7b",
+      "page": null,
+      "image": "img/wa/ACD4822B3A4F19934D3742674293C76C.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:37:33Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Target"
+    },
+    {
+      "id": "wa-AC6C6AA9EDAC590A2ED3300DBC8A4C6B",
+      "store": "Deal",
+      "title": "Disney's Squish Factory Squishmaker Pro Kit 38-Piece Set",
+      "price": "$14",
+      "was": "$19",
+      "discount": "26% off",
+      "code": null,
+      "notes": "🎁Earn 5% Kohl's Rewards®️",
+      "link": "https://mavely.app.link/fPmEFKaPQ7b",
+      "page": null,
+      "image": "img/wa/AC6C6AA9EDAC590A2ED3300DBC8A4C6B.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:37:26Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC8D77AC0382105BADED74FF2A90FAD9",
       "store": "Deal",
@@ -1070,44 +1107,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-ACB628E59D61315C3573698C7F158A21",
-      "store": "Under Armour",
-      "title": "Use Code WARMUP and EXTRA  at checkout!",
-      "price": "$71",
-      "was": "$125",
-      "discount": "43% off",
-      "code": "WARMUP",
-      "notes": "Under Armour Arc 96 Unisex Shoes - Ventilated",
-      "link": "https://go.magik.ly/ml/4lvm7/",
-      "page": null,
-      "image": "img/wa/ACB628E59D61315C3573698C7F158A21.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T20:11:47Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-AC561936957D42400917B23BFAE10CDE",
-      "store": "Under Armour",
-      "title": "Use codes WARMUP and EXTRA at checkout",
-      "price": "$13",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Under Armour Left Chest Lockup Men's T-Shirt - Fast-Drying",
-      "link": "https://go.magik.ly/ml/4lvex/",
-      "page": null,
-      "image": "img/wa/AC561936957D42400917B23BFAE10CDE.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T20:03:04Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1154,6 +1153,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T17:39:13Z",
+      "text": "2 new offer(s): Get upto 40% off Tonies Starter Sets🔥 at, Disney's Squish Factory Squishmaker Pro "
+    },
     {
       "at": "2026-11-06T17:28:44Z",
       "text": "3 new offer(s): Dash MultiMaker™️ Mini System Holiday Wa, CAROTE 12-Piece Kitchen Knife Set with B, Women's Watch in Black Faux Leather with"
@@ -1229,10 +1232,6 @@
     {
       "at": "2026-11-06T01:00:14Z",
       "text": "1 new offer(s): Get upto 40% Off LEGO Sets🔥 at Macy’s"
-    },
-    {
-      "at": "2026-11-06T00:49:58Z",
-      "text": "1 new offer(s): Air Purifier For Home Bedroom Large Room"
     }
   ]
 }
