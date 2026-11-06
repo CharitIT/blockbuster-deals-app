@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T00:19:35Z",
+  "lastScan": "2026-11-06T00:29:41Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACBDA788C41F62E0AE88C54F67A067A0",
+      "store": "Deal",
+      "title": "Bedsure Christmas Throw Blanket for Couch - Christmas Decorations Gifts for Women, Warm Sherpa Deer Throw Blanket, Red 50\"x60\"",
+      "price": "$11",
+      "was": "$29",
+      "discount": "62% off",
+      "code": "SOZ4PXWG",
+      "notes": "Use Code:SOZ4PXWG",
+      "link": "https://blockbusterdeals.net/product/bedsure-christmas-throw-blanket-for-couch-christmas-decorations-gifts-for-women-warm-sherpa-deer-throw-blanket-red-50x60/",
+      "page": null,
+      "image": "img/wa/ACBDA788C41F62E0AE88C54F67A067A0.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T00:22:17Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACE2CCA678AE061EE68EBF6DB92054DE",
       "store": "Deal",
@@ -1102,24 +1120,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-AC41BF7CB6DB6FC8258EB4E1B528E763",
-      "store": "Deal",
-      "title": "La vie est belle Mini Dabber Collection 2026 Gift Set",
-      "price": "$45",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/SUwLhsGZN7b",
-      "page": null,
-      "image": "img/wa/AC41BF7CB6DB6FC8258EB4E1B528E763.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T01:42:45Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1166,6 +1166,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T00:29:41Z",
+      "text": "1 new offer(s): Bedsure Christmas Throw Blanket for Couc"
+    },
     {
       "at": "2026-11-06T00:19:35Z",
       "text": "1 new offer(s): tarte lights, camera, lashes 4pc mascara"
@@ -1241,10 +1245,6 @@
     {
       "at": "2026-11-05T16:47:27Z",
       "text": "2 new offer(s): Instant Pot Duo Plus 6-qt. Multi-Use Pre, Free Shipping With KORSVIP or orders of "
-    },
-    {
-      "at": "2026-11-05T16:36:38Z",
-      "text": "1 new offer(s): Women's Hooded Puffer Coat"
     }
   ]
 }
