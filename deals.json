@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T16:26:32Z",
+  "lastScan": "2026-11-06T16:36:48Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC03DE2CF326A95EAF4C62D9F55324C4",
+      "store": "Kohl's",
+      "title": "Rubbermaid EasyStore Special Edition Nesting 26-Piece Food Storage Container Set",
+      "price": "$9",
+      "was": "$24",
+      "discount": "62% off",
+      "code": "SAVINGS",
+      "notes": "RUN!!! 🚨 Login & Use Promo Code: SAVINGS or GOSAVE20",
+      "link": "https://mavely.app.link/rOFS9GEKQ7b",
+      "page": null,
+      "image": "img/wa/AC03DE2CF326A95EAF4C62D9F55324C4.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T16:28:07Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Kohl's"
+    },
     {
       "id": "wa-ACF2AD7C2586F5E99EE72C666437610D",
       "store": "Deal",
@@ -1094,25 +1113,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC5B0E96D41B58D87C644B0E316FC636",
-      "store": "Macy's",
-      "title": "Tommy Hilfiger Women's Chevron-Quilted Puffer Coat",
-      "price": "$99",
-      "was": "$285",
-      "discount": "65% off",
-      "code": null,
-      "notes": "TODAY ONLY ❗ ENDS IN FEW HOURS 🚨 Free shipping",
-      "link": "https://mavely.app.link/vS9wGiE4O7b",
-      "page": null,
-      "image": "img/wa/AC5B0E96D41B58D87C644B0E316FC636.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T17:08:47Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1159,6 +1159,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T16:36:48Z",
+      "text": "1 new offer(s): Rubbermaid EasyStore Special Edition Nes"
+    },
     {
       "at": "2026-11-06T16:26:32Z",
       "text": "2 new offer(s): TCL S55H 2.1 Sound Bar with Wireless Sub, Mattel Disney and Pixar Toy Story 5 Ulti"
@@ -1234,10 +1238,6 @@
     {
       "at": "2026-11-05T23:49:02Z",
       "text": "2 new offer(s): Lunch Box Kids Girls Boys, Bento Box Adu, Amazon Essentials Men's Standard-Fit Lon"
-    },
-    {
-      "at": "2026-11-05T23:28:37Z",
-      "text": "2 new offer(s): 🚨Login & apply both promo codes: WARMUP , NEW) Samsung Galaxy S25 Ultra - 512GB (U"
     }
   ]
 }
