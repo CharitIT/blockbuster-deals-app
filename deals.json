@@ -1,9 +1,82 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T17:49:42Z",
+  "lastScan": "2026-11-06T18:00:07Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC31264F75A573BF5A4494C026B4FC59",
+      "store": "Deal",
+      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Link:",
+      "link": "https://theblogcm.com/566/eJi8",
+      "page": null,
+      "image": "img/wa/AC31264F75A573BF5A4494C026B4FC59.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:59:21Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC2D2FF4029CD41FC649719200ED684F",
+      "store": "Deal",
+      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
+      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
+      "page": null,
+      "image": "img/wa/AC2D2FF4029CD41FC649719200ED684F.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:59:15Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC5784C529C6E83AF6089F078FEBC48D",
+      "store": "Deal",
+      "title": "1/24 Remote Control Car Cyber RC Truck, RC Cars with Colorful Lights",
+      "price": "$12",
+      "was": "$25",
+      "discount": "52% off",
+      "code": "J4CF1VQ4",
+      "notes": "Use code:J4CF1VQ4",
+      "link": "https://blockbusterdeals.net/product/1-24-remote-control-car-cyber-rc-truck-rc-cars-with-colorful-lights/",
+      "page": null,
+      "image": "img/wa/AC5784C529C6E83AF6089F078FEBC48D.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:59:08Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC744EE8803D558C09C9990DA7D7C061",
+      "store": "Walmart",
+      "title": "Gaming Chair, Seenda Video Game Chair with Footrest and Lumbar Support, Ergonomic Computer Chair Height Adjustable with Swivel Seat and Headrest, Red",
+      "price": "$79",
+      "was": "$129",
+      "discount": "39% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/EtB3uuAPQ7b",
+      "page": null,
+      "image": "img/wa/AC744EE8803D558C09C9990DA7D7C061.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:50:40Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC09B36C90747BBA09A8343609C857F8",
       "store": "Walmart",
@@ -1032,80 +1105,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-AC70692696FD98CA9447DFCEC3A3D5E6",
-      "store": "Walmart",
-      "title": "Scenario Women's and Women's Plus Chore Jacket with Long Puff Sleeves, Sizes XS-4X",
-      "price": "$12",
-      "was": "$29",
-      "discount": "59% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/4Y0Ib0fnP7b",
-      "page": null,
-      "image": "img/wa/AC70692696FD98CA9447DFCEC3A3D5E6.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T20:53:15Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC2E7BE275C0850BE3D2A798A2E27EB2",
-      "store": "Deal",
-      "title": "Marc Jacobs The Camo Jacquard Medium Tote Bag",
-      "price": "$162",
-      "was": "$325",
-      "discount": "50% off",
-      "code": null,
-      "notes": "Free Shipping",
-      "link": "https://mavely.app.link/WOQyStYmP7b",
-      "page": null,
-      "image": "img/wa/AC2E7BE275C0850BE3D2A798A2E27EB2.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T20:53:00Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACE4B4344A1C9000B1C98C2284459C30",
-      "store": "Deal",
-      "title": "Ninja Air Fryer XL with MaxCrisp, 6.5 Qt, 6-in-1, Grey, AF181",
-      "price": "$99",
-      "was": "$179",
-      "discount": "45% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/ninja-air-fryer-xl-with-maxcrisp/",
-      "page": null,
-      "image": "img/wa/ACE4B4344A1C9000B1C98C2284459C30.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T20:36:40Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC27C5764F0A07BA998969E427624161",
-      "store": "Under Armour",
-      "title": "Use codes WARMUP and EXTRA at checkout",
-      "price": "$31",
-      "was": "$75",
-      "discount": "59% off",
-      "code": null,
-      "notes": "Under Armour A Charged Assert 10 Men's Running Shoes - Ventilate",
-      "link": "https://go.magik.ly/ml/4lwcf/",
-      "page": null,
-      "image": "img/wa/AC27C5764F0A07BA998969E427624161.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T20:36:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1152,6 +1151,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T18:00:07Z",
+      "text": "4 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, 1/24 Remote Control Car Cyber RC Truck, "
+    },
     {
       "at": "2026-11-06T17:49:42Z",
       "text": "2 new offer(s): Shark StainForce Cordless Spot, Stain, &, Lunch Box Kids Girls Boys, Bento Box Adu"
@@ -1227,10 +1230,6 @@
     {
       "at": "2026-11-06T01:20:34Z",
       "text": "1 new offer(s): Scenario Women’s and Women’s Plus Sleeve"
-    },
-    {
-      "at": "2026-11-06T01:10:23Z",
-      "text": "1 new offer(s): Womens Long Sleeve Shirts V Neck Soft Li"
     }
   ]
 }
