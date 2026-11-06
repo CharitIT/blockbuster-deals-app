@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T20:14:58Z",
+  "lastScan": "2026-11-06T20:25:21Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB4C26981B1E396A33AB7DFCF93DA24",
+      "store": "Wayfair",
+      "title": "Machine Washable Non-Slip Kitchen Mat (Set of 3)",
+      "price": "$15",
+      "was": "$51",
+      "discount": "71% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/DU8weTLYQ7b",
+      "page": null,
+      "image": "img/wa/ACB4C26981B1E396A33AB7DFCF93DA24.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T20:15:18Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
     {
       "id": "wa-AC85AC320AC95CE899B6473220248724",
       "store": "Under Armour",
@@ -1091,24 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACC19AD45BC5E73C129543D659D56266",
-      "store": "Deal",
-      "title": "Just Play furReal Snuggles the Smiling Sloth Interactive Plush Toy",
-      "price": "$26",
-      "was": "$44",
-      "discount": "41% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/just-play-furreal-snuggles-the-smiling-sloth-interactive-plush-toy/",
-      "page": null,
-      "image": "img/wa/ACC19AD45BC5E73C129543D659D56266.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T21:24:01Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T20:25:21Z",
+      "text": "1 new offer(s): Machine Washable Non-Slip Kitchen Mat (S"
+    },
     {
       "at": "2026-11-06T20:14:58Z",
       "text": "1 new offer(s): Use codes WARMUP and EXTRA at checkout"
@@ -1230,10 +1235,6 @@
     {
       "at": "2026-11-06T02:01:13Z",
       "text": "3 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, PAW Patrol 10th Anniversary All Paws On "
-    },
-    {
-      "at": "2026-11-06T01:51:01Z",
-      "text": "1 new offer(s): CRAFTSMAN 3-Gallon 3 HP Corded Wet, Dry "
     }
   ]
 }
