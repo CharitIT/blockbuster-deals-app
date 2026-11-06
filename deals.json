@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T01:30:42Z",
+  "lastScan": "2026-11-06T01:51:01Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC51293086D83D83584C78B5CE3820B5",
+      "store": "Deal",
+      "title": "CRAFTSMAN 3-Gallon 3 HP Corded Wet, Dry Shop Vacuum with Accessories Included",
+      "price": "$29",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/VB2gSaaCP7b",
+      "page": null,
+      "image": "img/wa/AC51293086D83D83584C78B5CE3820B5.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T01:41:14Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC467807294D34F8006CD054A420ABE0",
       "store": "Deal",
@@ -1101,24 +1119,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACBB0EE7CFD5F3D2D2EBFD10B0910A2D",
-      "store": "Deal",
-      "title": "Dr.Melaxin Peel Shot Black Rice Exfoliating Ampoule, Face Exfoliator with AHA BHA Niacinamide Rice Bran Water, Blackhead Remover, Pore Minimizer, Glass Skin Serum, Korean Skin Care, 2.7 oz",
-      "price": "$17",
-      "was": "$39",
-      "discount": "56% off",
-      "code": null,
-      "notes": "Subscribe and save",
-      "link": "https://blockbusterdeals.net/product/dr-melaxin-peel-shot-black-rice-exfoliating-ampoule-face-exfoliator-with/",
-      "page": null,
-      "image": "img/wa/ACBB0EE7CFD5F3D2D2EBFD10B0910A2D.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T15:27:58Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1165,6 +1165,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T01:51:01Z",
+      "text": "1 new offer(s): CRAFTSMAN 3-Gallon 3 HP Corded Wet, Dry "
+    },
     {
       "at": "2026-11-06T01:30:42Z",
       "text": "2 new offer(s): The Big One 4 Nesting Bowls & Lids, Wavytalk Blown Away Ionic Hair Dryer wit"
@@ -1240,10 +1244,6 @@
     {
       "at": "2026-11-05T19:42:23Z",
       "text": "1 new offer(s): CAROTE 12-Piece Kitchen Knife Set, Stain"
-    },
-    {
-      "at": "2026-11-05T18:01:56Z",
-      "text": "4 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Amazon Essentials Men's Regular Fit Shor, SHEWIN Womens Hooded Puffer Jacket Full "
     }
   ]
 }
