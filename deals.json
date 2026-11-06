@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T15:55:42Z",
+  "lastScan": "2026-11-06T16:05:57Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC48106D14C818E3E6136C34AE8E1A35",
+      "store": "Deal",
+      "title": "50% off + 20% off with coupon",
+      "price": "$25",
+      "was": null,
+      "discount": null,
+      "code": "SAVINGS",
+      "notes": "Cookware sets at Kohl's🔥 Use code SAVINGS",
+      "link": "https://mavely.app.link/jKQJBeFEQ7b",
+      "page": null,
+      "image": "img/wa/AC48106D14C818E3E6136C34AE8E1A35.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T15:56:54Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACFD88A0A937E5DA74AEB80B86CF1B1B",
       "store": "Macy's",
@@ -1096,25 +1114,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-AC1BB33D3E46FB7AF78039F18ACA58C4",
-      "store": "Macy's",
-      "title": "Kenneth Cole Reaction Men's Slim-Fit 2-Piece Suit",
-      "price": "$79",
-      "was": "$395",
-      "discount": "80% off",
-      "code": null,
-      "notes": "RUN!",
-      "link": "https://mavely.app.link/qnkXQLv7O7b",
-      "page": null,
-      "image": "img/wa/AC1BB33D3E46FB7AF78039F18ACA58C4.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T16:50:47Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1161,6 +1160,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T16:05:57Z",
+      "text": "1 new offer(s): 50% off + 20% off with coupon"
+    },
     {
       "at": "2026-11-06T15:55:42Z",
       "text": "1 new offer(s): Bella Medium Leather Shoulder Bag"
@@ -1236,10 +1239,6 @@
     {
       "at": "2026-11-05T21:20:57Z",
       "text": "3 new offer(s): Women's 3 Pack Square Neck Tank Top Ruch, Undershirts T-Shirt Pack, 3-Pack, X-Temp, Gyroor KS2 Electric Scooter for Kids, 5 "
-    },
-    {
-      "at": "2026-11-05T21:10:41Z",
-      "text": "2 new offer(s): Baby Dove Derma Care Soothing Wash Skin , DUDE Wipes Unscented Adult Flushable Wet"
     }
   ]
 }
