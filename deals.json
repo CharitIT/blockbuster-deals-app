@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T16:57:22Z",
+  "lastScan": "2026-11-06T17:07:45Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACA574A5483DA9E42FB92796DB42760B",
+      "store": "Deal",
+      "title": "🚨 Plus for every $50 spent earn back $15 In Rewards",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Kohl's Black Friday Deals On Toys🔥🔥 GetUpto 50%off Toys & 40%off Logo sets",
+      "link": "https://mavely.app.link/JZp77NbEQ7b",
+      "page": null,
+      "image": "img/wa/ACA574A5483DA9E42FB92796DB42760B.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:07:18Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACB376FA6D9F71603FF31FAE7047F875",
+      "store": "Deal",
+      "title": "Luggage & Suitcases at Kohl's🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": "SAVINGS",
+      "notes": "65% off + 20% off witg coupon Use code SAVINGS",
+      "link": "https://mavely.app.link/GCU8VAbJQ7b",
+      "page": null,
+      "image": "img/wa/ACB376FA6D9F71603FF31FAE7047F875.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:00:35Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACF26522AB8B58829A5C236ABA0D39FE",
       "store": "Deal",
@@ -1073,44 +1109,6 @@
       "merchant": "Amazon"
     },
     {
-      "id": "wa-AC7A7415D4C5A477B47A5D1D368D4446",
-      "store": "Walmart",
-      "title": "SHEWIN Womens Hooded Puffer Jacket Full Zipper Short Coat with Pockets Winter Warm Outerwear Petite",
-      "price": "$34",
-      "was": "$56",
-      "discount": "39% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/jSV5wnH8O7b",
-      "page": null,
-      "image": "img/wa/AC7A7415D4C5A477B47A5D1D368D4446.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T17:52:24Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACCDEEA6412B33235E612711025F6D55",
-      "store": "Walmart",
-      "title": "Fleece Joggers",
-      "price": "$4",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "$3🔥 At Walmart Sweatshirts",
-      "link": "https://mavely.app.link/Sr8Fxvy7O7b",
-      "page": null,
-      "image": "img/wa/ACCDEEA6412B33235E612711025F6D55.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T17:52:21Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T17:07:45Z",
+      "text": "2 new offer(s): 🚨 Plus for every $50 spent earn back $15, Luggage & Suitcases at Kohl's🔥"
+    },
     {
       "at": "2026-11-06T16:57:22Z",
       "text": "2 new offer(s): 💡 Protip: If you buy 21 total can mix & , Baby Delight Go with Me Venture Portable"
@@ -1232,10 +1234,6 @@
     {
       "at": "2026-11-06T00:29:41Z",
       "text": "1 new offer(s): Bedsure Christmas Throw Blanket for Couc"
-    },
-    {
-      "at": "2026-11-06T00:19:35Z",
-      "text": "1 new offer(s): tarte lights, camera, lashes 4pc mascara"
     }
   ]
 }
