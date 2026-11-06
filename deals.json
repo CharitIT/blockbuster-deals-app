@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T20:25:21Z",
+  "lastScan": "2026-11-06T20:35:49Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACE24CB68424EE8FCD59666D04395886",
+      "store": "Walmart",
+      "title": "Clothing, Shoes and Accessories",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "RUN! Weekend Academy Clearance🔥",
+      "link": "https://mavely.app.link/r8tQKbh0Q7b",
+      "page": null,
+      "image": "img/wa/ACE24CB68424EE8FCD59666D04395886.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T20:33:46Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC0128F1CAF8382E5D00FB521C4C8D8B",
+      "store": "Deal",
+      "title": "Owala FreeSip Kids Stainless Steel Water Bottle 16 oz Blue Citrus",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/owala-freesip-kids-stainless-steel-water-bottle-16-oz-blue-citrus/",
+      "page": null,
+      "image": "img/wa/AC0128F1CAF8382E5D00FB521C4C8D8B.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T20:31:46Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACB4C26981B1E396A33AB7DFCF93DA24",
       "store": "Wayfair",
@@ -1074,42 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC268A3B806443937C0ED291D1876E2C",
-      "store": "Deal",
-      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Link:",
-      "link": "https://theblogcm.com/566/eJi8",
-      "page": null,
-      "image": "img/wa/AC268A3B806443937C0ED291D1876E2C.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T21:29:35Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC4B892684A888C561F4105F70280EFD",
-      "store": "Deal",
-      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
-      "price": "$20",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
-      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
-      "page": null,
-      "image": "img/wa/AC4B892684A888C561F4105F70280EFD.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T21:25:30Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T20:35:49Z",
+      "text": "2 new offer(s): Clothing, Shoes and Accessories, Owala FreeSip Kids Stainless Steel Water"
+    },
     {
       "at": "2026-11-06T20:25:21Z",
       "text": "1 new offer(s): Machine Washable Non-Slip Kitchen Mat (S"
@@ -1231,10 +1236,6 @@
     {
       "at": "2026-11-06T15:24:56Z",
       "text": "4 new offer(s): Men's Guilty Love Edition Pour Homme, 3 , 200 LED Christmas Tree Lights Voice Cont, Shark Rocket Corded Stick Vacuum, Carpet"
-    },
-    {
-      "at": "2026-11-06T02:01:13Z",
-      "text": "3 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, PAW Patrol 10th Anniversary All Paws On "
     }
   ]
 }
