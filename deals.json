@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T15:24:56Z",
+  "lastScan": "2026-11-06T15:35:10Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACE235C295EA2BB5960D4DE9A753363A",
+      "store": "Macy's",
+      "title": "Men's Prosper Wool-Blend Slim Fit Overcoat",
+      "price": "$99",
+      "was": "$425",
+      "discount": "77% off",
+      "code": null,
+      "notes": "Calvin Klein",
+      "link": "https://mavely.app.link/Rku6b5aEQ7b",
+      "page": null,
+      "image": "img/wa/ACE235C295EA2BB5960D4DE9A753363A.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T15:29:41Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-ACD13CAE87571CF49A5F3E7E1CA9550B",
       "store": "Macy's",
@@ -1098,25 +1117,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-AC146193F81C07B4BC2CA955D29FE464",
-      "store": "Macy's",
-      "title": "Women's Hooded Puffer Coat",
-      "price": "$39",
-      "was": "$285",
-      "discount": "86% off",
-      "code": null,
-      "notes": "Calvin Klein",
-      "link": "https://mavely.app.link/haaThXa5O7b",
-      "page": null,
-      "image": "img/wa/AC146193F81C07B4BC2CA955D29FE464.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T16:27:15Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1163,6 +1163,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T15:35:10Z",
+      "text": "1 new offer(s): Men's Prosper Wool-Blend Slim Fit Overco"
+    },
     {
       "at": "2026-11-06T15:24:56Z",
       "text": "4 new offer(s): Men's Guilty Love Edition Pour Homme, 3 , 200 LED Christmas Tree Lights Voice Cont, Shark Rocket Corded Stick Vacuum, Carpet"
@@ -1238,10 +1242,6 @@
     {
       "at": "2026-11-05T20:39:45Z",
       "text": "2 new offer(s): Ninja Air Fryer XL with MaxCrisp, 6.5 Qt, Use codes WARMUP and EXTRA at checkout"
-    },
-    {
-      "at": "2026-11-05T20:29:27Z",
-      "text": "2 new offer(s): Extra 40% Off with code WARMUP and extra, Under Armour Men's UA Edge Leather Train"
     }
   ]
 }
