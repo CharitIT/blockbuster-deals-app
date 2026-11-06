@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-05T23:49:02Z",
+  "lastScan": "2026-11-06T00:09:24Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC1794316B6F58309353B98DEAA692B3",
+      "store": "Deal",
+      "title": "Walking Pad Treadmill for Home, Compact Quite Under-Desk Treadmills",
+      "price": "$65",
+      "was": "$74",
+      "discount": "12% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/walking-pad-treadmill-for-home-compact-quite-under-desk-treadmills/",
+      "page": null,
+      "image": "img/wa/AC1794316B6F58309353B98DEAA692B3.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T00:02:04Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACB57DDBEA34D92B7D66A22EC705F534",
+      "store": "Macy's",
+      "title": "Lauren Ralph Lauren Women's Hooded Quilted Coat",
+      "price": "$109",
+      "was": "$245",
+      "discount": "56% off",
+      "code": null,
+      "notes": "ENDS IN FEW HOURS 🚨 Free shipping",
+      "link": "https://mavely.app.link/YCHbX1m8O7b",
+      "page": null,
+      "image": "img/wa/ACB57DDBEA34D92B7D66A22EC705F534.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T00:01:56Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-AC956C75910A776B9C2F74B90DD4242F",
       "store": "Deal",
@@ -1083,42 +1120,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACA15E972F73A2A356D77982B136EFDC",
-      "store": "Deal",
-      "title": "La vie est belle Holiday Collection 2026 Gift Set",
-      "price": "$197",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/7mT7H4cZN7b",
-      "page": null,
-      "image": "img/wa/ACA15E972F73A2A356D77982B136EFDC.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T01:31:57Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACC8599599F7277B93C4A97DEF2DF46F",
-      "store": "Deal",
-      "title": "24 Luxurious Surprises with 8 full-size favorites",
-      "price": "$230",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Advent Calendar Holiday 2026 Free shipping",
-      "link": "https://mavely.app.link/oNkDx0CYN7b",
-      "page": null,
-      "image": "img/wa/ACC8599599F7277B93C4A97DEF2DF46F.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T01:11:27Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1165,6 +1166,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T00:09:24Z",
+      "text": "2 new offer(s): Walking Pad Treadmill for Home, Compact , Lauren Ralph Lauren Women's Hooded Quilt"
+    },
     {
       "at": "2026-11-05T23:49:02Z",
       "text": "2 new offer(s): Lunch Box Kids Girls Boys, Bento Box Adu, Amazon Essentials Men's Standard-Fit Lon"
@@ -1240,10 +1245,6 @@
     {
       "at": "2026-11-05T16:25:56Z",
       "text": "2 new offer(s): KitchenAid 5.5qt Bowl-Lift Stand Mixer K, Brooks Women’s Hyperion 3 Neutral Runnin"
-    },
-    {
-      "at": "2026-11-05T16:15:12Z",
-      "text": "1 new offer(s): Brooks Men’s Revel 8 Running Shoe"
     }
   ]
 }
