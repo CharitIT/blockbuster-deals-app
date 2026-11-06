@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T00:29:41Z",
+  "lastScan": "2026-11-06T00:39:51Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC1E75BBD88880B8AA09E636188D2B90",
+      "store": "Walmart",
+      "title": "Mainstays 48,000 BTU Freestanding Metal Propane Patio Heater, Black",
+      "price": "$98",
+      "was": "$197",
+      "discount": "50% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/bwb1hViCP7b",
+      "page": null,
+      "image": "img/wa/AC1E75BBD88880B8AA09E636188D2B90.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T00:31:05Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACBDA788C41F62E0AE88C54F67A067A0",
       "store": "Deal",
@@ -1101,25 +1120,6 @@
       "merchant": "Amazon"
     },
     {
-      "id": "wa-ACF8B6C4C8BF4D9F5EEE5F821CBA8453",
-      "store": "Michael Kors",
-      "title": "Marlowe Medium Pebbled Leather Pocket Tote Bag",
-      "price": "$63",
-      "was": "$229",
-      "discount": "72% off",
-      "code": null,
-      "notes": "MICHAEL KORS 🚨EXTRA 20% OFF APPLIED IN CART FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
-      "link": "https://mavely.app.link/bnSQ8fl0N7b",
-      "page": null,
-      "image": "img/wa/ACF8B6C4C8BF4D9F5EEE5F821CBA8453.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T01:53:25Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1166,6 +1166,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T00:39:51Z",
+      "text": "1 new offer(s): Mainstays 48,000 BTU Freestanding Metal "
+    },
     {
       "at": "2026-11-06T00:29:41Z",
       "text": "1 new offer(s): Bedsure Christmas Throw Blanket for Couc"
@@ -1241,10 +1245,6 @@
     {
       "at": "2026-11-05T16:58:13Z",
       "text": "3 new offer(s): Microfiber Down Alternative Comforter, F, Kenneth Cole Reaction Men's Slim-Fit 2-P, Essential Unisex 6-Pack No-Show Socks"
-    },
-    {
-      "at": "2026-11-05T16:47:27Z",
-      "text": "2 new offer(s): Instant Pot Duo Plus 6-qt. Multi-Use Pre, Free Shipping With KORSVIP or orders of "
     }
   ]
 }
