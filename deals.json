@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T01:20:34Z",
+  "lastScan": "2026-11-06T01:30:42Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC467807294D34F8006CD054A420ABE0",
+      "store": "Deal",
+      "title": "The Big One 4 Nesting Bowls & Lids",
+      "price": "$18",
+      "was": "$22",
+      "discount": "18% off",
+      "code": "GOSAVE20",
+      "notes": "Use Code:GOSAVE20 🎁5% Kohl's Rewards®️",
+      "link": "https://mavely.app.link/oXr8wWLyP7b",
+      "page": null,
+      "image": "img/wa/AC467807294D34F8006CD054A420ABE0.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T01:30:31Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACA1C27C16FD5F2DA49FC8D89CECBC02",
+      "store": "Deal",
+      "title": "Wavytalk Blown Away Ionic Hair Dryer with Diffuser for Curly Hair",
+      "price": "As low as $19",
+      "was": "$49",
+      "discount": "61% off",
+      "code": "DA6KX1SN",
+      "notes": "Use Code: DA6KX1SN",
+      "link": "https://blockbusterdeals.net/product/wavytalk-blown-away-ionic-hair-dryer-with-diffuser-for-curly-hair-3/",
+      "page": null,
+      "image": "img/wa/ACA1C27C16FD5F2DA49FC8D89CECBC02.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T01:24:21Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACDE2C6EDAD53870FEA35E4E77312AB9",
       "store": "Walmart",
@@ -1083,43 +1119,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACA802D3F4827D4A2FBC049DE6A56129",
-      "store": "Amazon",
-      "title": "🚨 Clip 1 Time purchase Coupon & switch to Subscribe & Save + Clip 50% Off Coupon",
-      "price": "$2",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "RUN!! Cat Food Bags Variety 1 👇 Variety 2 👇 Variety 3 👇",
-      "link": "https://link.amazon/B01vP0Pnf",
-      "page": null,
-      "image": "img/wa/ACA802D3F4827D4A2FBC049DE6A56129.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T15:19:52Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Amazon"
-    },
-    {
-      "id": "wa-ACAB678FCC77CBA882AB4A652C72BD03",
-      "store": "Deal",
-      "title": "Minnie Mouse Ride-On 15\" Fly Wheels Cruiser Tricycle Bike, Wide Front Wheel Designed to Provide Stability and Control, Ages 3-7, for Kids 41”-44” Tall - 70 lbs. Weight Limit",
-      "price": "$30",
-      "was": "$64",
-      "discount": "53% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/minnie-mouse-ride-on-15-fly-wheels-cruiser-tricycle-bike/",
-      "page": null,
-      "image": "img/wa/ACAB678FCC77CBA882AB4A652C72BD03.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T15:12:07Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1166,6 +1165,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T01:30:42Z",
+      "text": "2 new offer(s): The Big One 4 Nesting Bowls & Lids, Wavytalk Blown Away Ionic Hair Dryer wit"
+    },
     {
       "at": "2026-11-06T01:20:34Z",
       "text": "1 new offer(s): Scenario Women’s and Women’s Plus Sleeve"
@@ -1241,10 +1244,6 @@
     {
       "at": "2026-11-05T18:01:56Z",
       "text": "4 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Amazon Essentials Men's Regular Fit Shor, SHEWIN Womens Hooded Puffer Jacket Full "
-    },
-    {
-      "at": "2026-11-05T17:41:03Z",
-      "text": "2 new offer(s): Knee Pillow for Side Sleepers,Leg Pillow, Clarks Collection Women's Laurieann Bell"
     }
   ]
 }
