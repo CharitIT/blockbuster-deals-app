@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T23:11:30Z",
+  "lastScan": "2026-11-06T23:21:55Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8D7C557442AEC31E5F3DFA3462A801",
+      "store": "Walmart",
+      "title": "Tec-One Men’s Colorblock Ski Snowboard Hooded Jacket, Heavyweight, Sizes S-2XL",
+      "price": "$17",
+      "was": "$64",
+      "discount": "73% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/GYpUoUdcR7b",
+      "page": null,
+      "image": "img/wa/AC8D7C557442AEC31E5F3DFA3462A801.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T23:15:13Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC0346D361D9413832BA9F52CFFF624F",
+      "store": "Deal",
+      "title": "Nanobebe Flexy Silicone Baby Bottle, Anti-Colic, Natural Feel, Non-Collapsing Nipple, Non-Tip Stable Base, Easy to Clean 2-Pack, 9oz",
+      "price": "$9",
+      "was": "$18",
+      "discount": "50% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/nanobebe-flexy-silicone-baby-bottles-anti-colic-natural-feel-non-collapsing-nipple-non-tip-stable-base-easy-to-clean-2-pack-9oz-in-pink/",
+      "page": null,
+      "image": "img/wa/AC0346D361D9413832BA9F52CFFF624F.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T23:15:11Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACD47502A6A314D4083B0596B76B77E0",
       "store": "Michael Kors",
@@ -1073,43 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACDE2C6EDAD53870FEA35E4E77312AB9",
-      "store": "Walmart",
-      "title": "Scenario Women’s and Women’s Plus Sleeveless Tie Neck Tiered Midi Dress, Sizes XS-4X",
-      "price": "$8",
-      "was": "$24",
-      "discount": "67% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/sIXJTgY3O7b",
-      "page": null,
-      "image": "img/wa/ACDE2C6EDAD53870FEA35E4E77312AB9.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T01:12:25Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC87C97FAAA8336B48A8F8B6E32534AE",
-      "store": "Deal",
-      "title": "Womens Long Sleeve Shirts V Neck Soft Lightweight Sweater Pullover Tunic Tops for Business Casual Work",
-      "price": "$5",
-      "was": "$19",
-      "discount": "74% off",
-      "code": "A2JSDP1H",
-      "notes": "Lowest price in 30 days ❗ Use Code:A2JSDP1H",
-      "link": "https://blockbusterdeals.net/product/womens-long-sleeve-shirts-v-neck-soft-lightweight-sweater-pullover-tunic-tops-for-business-casual-work-2/",
-      "page": null,
-      "image": "img/wa/AC87C97FAAA8336B48A8F8B6E32534AE.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T01:01:05Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T23:21:55Z",
+      "text": "2 new offer(s): Tec-One Men’s Colorblock Ski Snowboard H, Nanobebe Flexy Silicone Baby Bottle, Ant"
+    },
     {
       "at": "2026-11-06T23:11:30Z",
       "text": "1 new offer(s): Michael Kors Designer Clearance🔥🔥"
@@ -1231,10 +1235,6 @@
     {
       "at": "2026-11-06T16:36:48Z",
       "text": "1 new offer(s): Rubbermaid EasyStore Special Edition Nes"
-    },
-    {
-      "at": "2026-11-06T16:26:32Z",
-      "text": "2 new offer(s): TCL S55H 2.1 Sound Bar with Wireless Sub, Mattel Disney and Pixar Toy Story 5 Ulti"
     }
   ]
 }
