@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T00:09:24Z",
+  "lastScan": "2026-11-06T00:19:35Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACE2CCA678AE061EE68EBF6DB92054DE",
+      "store": "Deal",
+      "title": "tarte lights, camera, lashes 4pc mascara wardrobe",
+      "price": "$22",
+      "was": "$53",
+      "discount": "58% off",
+      "code": "HOLIDAY20",
+      "notes": "Black Friday sale 🚨 Use code: HOLIDAY20",
+      "link": "https://mavely.app.link/uefrtwlBP7b",
+      "page": null,
+      "image": "img/wa/ACE2CCA678AE061EE68EBF6DB92054DE.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T00:12:02Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC1794316B6F58309353B98DEAA692B3",
       "store": "Deal",
@@ -1102,24 +1120,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC3E77D428778A55BA8C51002B8BC9DF",
-      "store": "Deal",
-      "title": "Fabric Storage Bins with Lid, Collapsible Extra Large Storage Boxes Bins Baskets with Divider for Home Organizing (37.5”x13”x16”, Pink)",
-      "price": "$12",
-      "was": "$24",
-      "discount": "50% off",
-      "code": "3UR1HSLW",
-      "notes": "Use Code: 3UR1HSLW",
-      "link": "https://blockbusterdeals.net/product/fabric-storage-bins-with-lid-collapsible-extra-large-storage-boxes-bins-baskets-with-divider-for-home-organizing-37-5x13x16-pink/",
-      "page": null,
-      "image": "img/wa/AC3E77D428778A55BA8C51002B8BC9DF.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T01:32:03Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1166,6 +1166,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T00:19:35Z",
+      "text": "1 new offer(s): tarte lights, camera, lashes 4pc mascara"
+    },
     {
       "at": "2026-11-06T00:09:24Z",
       "text": "2 new offer(s): Walking Pad Treadmill for Home, Compact , Lauren Ralph Lauren Women's Hooded Quilt"
@@ -1241,10 +1245,6 @@
     {
       "at": "2026-11-05T16:36:38Z",
       "text": "1 new offer(s): Women's Hooded Puffer Coat"
-    },
-    {
-      "at": "2026-11-05T16:25:56Z",
-      "text": "2 new offer(s): KitchenAid 5.5qt Bowl-Lift Stand Mixer K, Brooks Women’s Hyperion 3 Neutral Runnin"
     }
   ]
 }
