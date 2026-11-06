@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T15:45:26Z",
+  "lastScan": "2026-11-06T15:55:42Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACFD88A0A937E5DA74AEB80B86CF1B1B",
+      "store": "Macy's",
+      "title": "Bella Medium Leather Shoulder Bag",
+      "price": "$270",
+      "was": "$450",
+      "discount": "40% off",
+      "code": null,
+      "notes": "COACH",
+      "link": "https://mavely.app.link/Qds3zU1EQ7b",
+      "page": null,
+      "image": "img/wa/ACFD88A0A937E5DA74AEB80B86CF1B1B.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T15:48:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-ACD2E79BFA6F26155EB013FBD5C134B3",
       "store": "Deal",
@@ -1096,25 +1115,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-AC081165E59FFB0A5D6E06EA21694D7D",
-      "store": "Under Armour",
-      "title": "Essential Unisex 6-Pack No-Show Socks",
-      "price": "$10",
-      "was": "$22",
-      "discount": "55% off",
-      "code": "WARMUP",
-      "notes": "Under Armour Use code: WARMUP + EXTRA at checkout",
-      "link": "https://mavely.app.link/5DP95T16O7b",
-      "page": null,
-      "image": "img/wa/AC081165E59FFB0A5D6E06EA21694D7D.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T16:47:27Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1161,6 +1161,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T15:55:42Z",
+      "text": "1 new offer(s): Bella Medium Leather Shoulder Bag"
+    },
     {
       "at": "2026-11-06T15:45:26Z",
       "text": "2 new offer(s): 50% off + 20% off with coupon, Wavytalk 1875W Blown Away Ionic Hair Dry"
@@ -1236,10 +1240,6 @@
     {
       "at": "2026-11-05T21:10:41Z",
       "text": "2 new offer(s): Baby Dove Derma Care Soothing Wash Skin , DUDE Wipes Unscented Adult Flushable Wet"
-    },
-    {
-      "at": "2026-11-05T21:00:24Z",
-      "text": "3 new offer(s): Reebok Puffer Jackets, Scenario Women's and Women's Plus Chore , Marc Jacobs The Camo Jacquard Medium Tot"
     }
   ]
 }
