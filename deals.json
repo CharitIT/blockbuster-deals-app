@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T17:07:45Z",
+  "lastScan": "2026-11-06T17:18:09Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC9DF6C74E639F73F0FD8F7F14D7E8F7",
+      "store": "Deal",
+      "title": "Get Upto 65% off Hoodies, Sweaters, Jackets & Coats🔥 At Macy's",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "TODAY ONLY 🚨 The North Face, Nike, Michael Kors and more",
+      "link": "https://mavely.app.link/b4j4gghOQ7b",
+      "page": null,
+      "image": "img/wa/AC9DF6C74E639F73F0FD8F7F14D7E8F7.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:17:44Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC0CDB1C9507D74A5927066893903AAB",
+      "store": "Deal",
+      "title": "Keurig®️ K-Duo Gen 2 Hot & Iced Single Serve & Carafe Coffee Maker",
+      "price": "$103",
+      "was": "$259",
+      "discount": "60% off",
+      "code": "SAVINGS",
+      "notes": "Use Code: SAVINGS Free shipping",
+      "link": "https://mavely.app.link/q4QJrarNQ7b",
+      "page": null,
+      "image": "img/wa/AC0CDB1C9507D74A5927066893903AAB.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:08:02Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACA574A5483DA9E42FB92796DB42760B",
       "store": "Deal",
@@ -1072,43 +1108,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACE00BAF64CA96DE1612D5F70B596805",
-      "store": "Deal",
-      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
-      "price": "$20",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
-      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
-      "page": null,
-      "image": "img/wa/ACE00BAF64CA96DE1612D5F70B596805.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T17:59:17Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC7D16264A311514EAB0D7D31D446ADF",
-      "store": "Amazon",
-      "title": "Amazon Essentials Men's Regular Fit Short Sleeve Linen Shirt",
-      "price": "$5",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/amazon-essentials-mens-regular-fit-short-sleeve-linen-shirt/",
-      "page": null,
-      "image": "img/wa/AC7D16264A311514EAB0D7D31D446ADF.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T17:59:10Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Amazon"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1154,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T17:18:09Z",
+      "text": "2 new offer(s): Get Upto 65% off Hoodies, Sweaters, Jack, Keurig®️ K-Duo Gen 2 Hot & Iced Single S"
+    },
     {
       "at": "2026-11-06T17:07:45Z",
       "text": "2 new offer(s): 🚨 Plus for every $50 spent earn back $15, Luggage & Suitcases at Kohl's🔥"
@@ -1230,10 +1233,6 @@
     {
       "at": "2026-11-06T00:39:51Z",
       "text": "1 new offer(s): Mainstays 48,000 BTU Freestanding Metal "
-    },
-    {
-      "at": "2026-11-06T00:29:41Z",
-      "text": "1 new offer(s): Bedsure Christmas Throw Blanket for Couc"
     }
   ]
 }
