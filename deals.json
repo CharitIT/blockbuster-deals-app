@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T16:47:03Z",
+  "lastScan": "2026-11-06T16:57:22Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACF26522AB8B58829A5C236ABA0D39FE",
+      "store": "Deal",
+      "title": "💡 Protip: If you buy 21 total can mix & match you will earn a $15 Reward back Making it $35 for 21 towels or pillows! That's $1.xx Each!!!",
+      "price": "As low as $1",
+      "was": null,
+      "discount": null,
+      "code": "SAVINGS",
+      "notes": "RUN! Pillows & Bath Towels 🚨 Apply Promo Code: SAVINGS (Must login or create free account to use) 1️⃣ $2 Bath Towels 👇 2️⃣ $2 Pillows 🔗👇",
+      "link": "https://mavely.app.link/fTjeceSMQ7b",
+      "page": null,
+      "image": "img/wa/ACF26522AB8B58829A5C236ABA0D39FE.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T16:54:47Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC87B4A96C932B8C7D8D113B50025028",
+      "store": "Deal",
+      "title": "Baby Delight Go with Me Venture Portable Chair | Indoor and Outdoor | Sun Canopy | 3 Child Growth Stages | Elephant Grey",
+      "price": "$42",
+      "was": "$69",
+      "discount": "39% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/baby-delight-go-with-me-venture-portable-chair-indoor-and-outdoor-sun-canopy-3-child-growth-stages-elephant-grey/",
+      "page": null,
+      "image": "img/wa/AC87B4A96C932B8C7D8D113B50025028.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T16:52:59Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC5BB3E94746B35D18A88FE9A28544C0",
       "store": "Deal",
@@ -1075,43 +1111,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC23C1C7377BAD4C669CA8F2004BF0DE",
-      "store": "Deal",
-      "title": "Knee Pillow for Side Sleepers,Leg Pillows for Sciatica,Knees,Hips,Joints Between Legs,Back Pain Relief When Side Sleeping Spine Alignment Support for Knee Surgery Recovery",
-      "price": "$18",
-      "was": "$38",
-      "discount": "53% off",
-      "code": "7TOG012F",
-      "notes": "Use Code:7TOG012F",
-      "link": "https://blockbusterdeals.net/product/knee-pillow-for-side-sleepersleg-pillows-for-sciaticakneeshipsjoints-between-legsback-pain-relief-when-side-sleeping-spine-alignment-support-for-knee-surgery-recovery/",
-      "page": null,
-      "image": "img/wa/AC23C1C7377BAD4C669CA8F2004BF0DE.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T17:36:02Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC1566A47467DAAC466D95BB1E0FD4A6",
-      "store": "Macy's",
-      "title": "Clarks Collection Women's Laurieann Bell Round Toe Flat Sandals",
-      "price": "$50",
-      "was": "$100",
-      "discount": "50% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/ynWdfet8O7b",
-      "page": null,
-      "image": "img/wa/AC1566A47467DAAC466D95BB1E0FD4A6.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T17:30:01Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T16:57:22Z",
+      "text": "2 new offer(s): 💡 Protip: If you buy 21 total can mix & , Baby Delight Go with Me Venture Portable"
+    },
     {
       "at": "2026-11-06T16:47:03Z",
       "text": "2 new offer(s): Ninja Blast Portable Blender, Cordless,1, TMY Smart Projector with Google TV Built"
@@ -1233,10 +1236,6 @@
     {
       "at": "2026-11-06T00:19:35Z",
       "text": "1 new offer(s): tarte lights, camera, lashes 4pc mascara"
-    },
-    {
-      "at": "2026-11-06T00:09:24Z",
-      "text": "2 new offer(s): Walking Pad Treadmill for Home, Compact , Lauren Ralph Lauren Women's Hooded Quilt"
     }
   ]
 }
