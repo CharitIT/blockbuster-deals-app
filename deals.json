@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T23:32:17Z",
+  "lastScan": "2026-11-06T23:42:42Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACA8DD9A04759666A5752C9F21F65735",
+      "store": "Target",
+      "title": "Disney and Pixar Toy Story 5 Ultimate Action Woody Figure, Simple & Animated Mode, 16\" Posable",
+      "price": "$39",
+      "was": "$79",
+      "discount": "51% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/lwFsXLFLQ7b",
+      "page": null,
+      "image": "img/wa/ACA8DD9A04759666A5752C9F21F65735.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T23:37:15Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Target"
+    },
+    {
+      "id": "wa-ACCA64B13AF6DB7E0BABCBF55B0C60D6",
+      "store": "Deal",
+      "title": "GRACE KARIN Women Long Sleeve Tops Fall Work Dressy Casual",
+      "price": "$10",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/grace-karin-women-long-sleeve-tops-fall-work-dressy-casual/",
+      "page": null,
+      "image": "img/wa/ACCA64B13AF6DB7E0BABCBF55B0C60D6.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T23:37:11Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC8ACA26054C01952230F370D8B2777B",
       "store": "Deal",
@@ -1074,42 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC51293086D83D83584C78B5CE3820B5",
-      "store": "Deal",
-      "title": "CRAFTSMAN 3-Gallon 3 HP Corded Wet, Dry Shop Vacuum with Accessories Included",
-      "price": "$29",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/VB2gSaaCP7b",
-      "page": null,
-      "image": "img/wa/AC51293086D83D83584C78B5CE3820B5.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T01:41:14Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC467807294D34F8006CD054A420ABE0",
-      "store": "Deal",
-      "title": "The Big One 4 Nesting Bowls & Lids",
-      "price": "$18",
-      "was": "$22",
-      "discount": "18% off",
-      "code": "GOSAVE20",
-      "notes": "Use Code:GOSAVE20 🎁5% Kohl's Rewards®️",
-      "link": "https://mavely.app.link/oXr8wWLyP7b",
-      "page": null,
-      "image": "img/wa/AC467807294D34F8006CD054A420ABE0.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T01:30:31Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T23:42:42Z",
+      "text": "2 new offer(s): Disney and Pixar Toy Story 5 Ultimate Ac, GRACE KARIN Women Long Sleeve Tops Fall "
+    },
     {
       "at": "2026-11-06T23:32:17Z",
       "text": "1 new offer(s): 🚨Plus Earn $15Kohl's Cash For Every $50 "
@@ -1231,10 +1236,6 @@
     {
       "at": "2026-11-06T16:57:22Z",
       "text": "2 new offer(s): 💡 Protip: If you buy 21 total can mix & , Baby Delight Go with Me Venture Portable"
-    },
-    {
-      "at": "2026-11-06T16:47:03Z",
-      "text": "2 new offer(s): Ninja Blast Portable Blender, Cordless,1, TMY Smart Projector with Google TV Built"
     }
   ]
 }
