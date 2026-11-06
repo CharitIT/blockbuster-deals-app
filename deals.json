@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T16:16:12Z",
+  "lastScan": "2026-11-06T16:26:32Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACF2AD7C2586F5E99EE72C666437610D",
+      "store": "Deal",
+      "title": "TCL S55H 2.1 Sound Bar with Wireless Subwoofer for Smart TV | Dolby Atmos DTS:X Auto Room Calibration| 220W Power Wireless Bluetooth Home Theater Audio | App Control & Remote Control | Latest Model",
+      "price": "$99",
+      "was": "$159",
+      "discount": "38% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/tcl-s55h-2-1-sound-bar-with-wireless-subwoofer-for-smart-tv/",
+      "page": null,
+      "image": "img/wa/ACF2AD7C2586F5E99EE72C666437610D.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T16:21:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC39B4A8D9F667BD9523569752E93297",
+      "store": "Deal",
+      "title": "Mattel Disney and Pixar Toy Story 5 Ultimate Action Buzz Lightyear",
+      "price": "$47",
+      "was": "$99",
+      "discount": "53% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/mattel-disney-and-pixar-toy-story-5-ultimate-action-buzz-lightyear/",
+      "page": null,
+      "image": "img/wa/AC39B4A8D9F667BD9523569752E93297.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T16:16:09Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC79215A0FF5EE6C23B23C35893A4E45",
       "store": "Walmart",
@@ -1077,43 +1113,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-AC9FF324DC75CDF66AD761979EBC8D25",
-      "store": "Macy's",
-      "title": "Calvin Klein Women's Short Zip Front Puffer Jacket",
-      "price": "$39",
-      "was": "$265",
-      "discount": "85% off",
-      "code": null,
-      "notes": "Final Sale 🚨 Free shipping",
-      "link": "https://mavely.app.link/fCfifq67O7b",
-      "page": null,
-      "image": "img/wa/AC9FF324DC75CDF66AD761979EBC8D25.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T17:02:16Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-AC475928E3272DC1E9A3DA6C9FF68CB3",
-      "store": "Deal",
-      "title": "Tramontina Signature Tri-Ply Clad Stainless Steel 12-Inch Large Frying Pan",
-      "price": "$34",
-      "was": "$49",
-      "discount": "31% off",
-      "code": null,
-      "notes": "Induction-Ready Skillet, Dishwasher",
-      "link": "https://blockbusterdeals.net/product/tramontina-signature-tri-ply-clad-stainless-steel-12-inch-large-frying-pan-induction-ready-skillet-dishwasher/",
-      "page": null,
-      "image": "img/wa/AC475928E3272DC1E9A3DA6C9FF68CB3.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T16:59:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1160,6 +1159,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T16:26:32Z",
+      "text": "2 new offer(s): TCL S55H 2.1 Sound Bar with Wireless Sub, Mattel Disney and Pixar Toy Story 5 Ulti"
+    },
     {
       "at": "2026-11-06T16:16:12Z",
       "text": "1 new offer(s): Crock-Pot 7 Quart Manual Slow Cooker wit"
@@ -1235,10 +1238,6 @@
     {
       "at": "2026-11-05T23:28:37Z",
       "text": "2 new offer(s): 🚨Login & apply both promo codes: WARMUP , NEW) Samsung Galaxy S25 Ultra - 512GB (U"
-    },
-    {
-      "at": "2026-11-05T21:31:13Z",
-      "text": "3 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, Just Play furReal Snuggles the Smiling S"
     }
   ]
 }
