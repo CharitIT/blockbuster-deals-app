@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T00:49:58Z",
+  "lastScan": "2026-11-06T01:00:14Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC41403C57910F74D0C8853B86D4F65F",
+      "store": "Macy's",
+      "title": "Get upto 40% Off LEGO Sets🔥 at Macy’s",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "TODAY ONLY 🚨",
+      "link": "https://mavely.app.link/bbOSJ5MBP7b",
+      "page": null,
+      "image": "img/wa/AC41403C57910F74D0C8853B86D4F65F.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T00:50:36Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-AC62DE4F4BA3A9678D36357408CC670A",
       "store": "Deal",
@@ -1101,24 +1120,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACFA781D6B63250C30A282889AEBEACD",
-      "store": "Deal",
-      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
-      "price": "$20",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
-      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
-      "page": null,
-      "image": "img/wa/ACFA781D6B63250C30A282889AEBEACD.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T01:57:48Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1165,6 +1166,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T01:00:14Z",
+      "text": "1 new offer(s): Get upto 40% Off LEGO Sets🔥 at Macy’s"
+    },
     {
       "at": "2026-11-06T00:49:58Z",
       "text": "1 new offer(s): Air Purifier For Home Bedroom Large Room"
@@ -1240,10 +1245,6 @@
     {
       "at": "2026-11-05T17:19:47Z",
       "text": "2 new offer(s): NINJA FEATURED DEALS🔥🔥, Tommy Hilfiger Women's Chevron-Quilted P"
-    },
-    {
-      "at": "2026-11-05T17:09:01Z",
-      "text": "2 new offer(s): Calvin Klein Women's Short Zip Front Puf, Tramontina Signature Tri-Ply Clad Stainl"
     }
   ]
 }
