@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T21:38:13Z",
+  "lastScan": "2026-11-06T23:11:30Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACD47502A6A314D4083B0596B76B77E0",
+      "store": "Michael Kors",
+      "title": "Michael Kors Designer Clearance🔥🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "BUY 2+ ITEMS, GET 20% OFF",
+      "link": "https://mavely.app.link/RsKsdrhQL7b",
+      "page": null,
+      "image": "img/wa/ACD47502A6A314D4083B0596B76B77E0.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T23:03:30Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
     {
       "id": "wa-AC8C004EF0C155614EB970AE26D2D176",
       "store": "Deal",
@@ -1091,25 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC41403C57910F74D0C8853B86D4F65F",
-      "store": "Macy's",
-      "title": "Get upto 40% Off LEGO Sets🔥 at Macy’s",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "TODAY ONLY 🚨",
-      "link": "https://mavely.app.link/bbOSJ5MBP7b",
-      "page": null,
-      "image": "img/wa/AC41403C57910F74D0C8853B86D4F65F.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T00:50:36Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T23:11:30Z",
+      "text": "1 new offer(s): Michael Kors Designer Clearance🔥🔥"
+    },
     {
       "at": "2026-11-06T21:38:13Z",
       "text": "2 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more "
@@ -1231,10 +1235,6 @@
     {
       "at": "2026-11-06T16:26:32Z",
       "text": "2 new offer(s): TCL S55H 2.1 Sound Bar with Wireless Sub, Mattel Disney and Pixar Toy Story 5 Ulti"
-    },
-    {
-      "at": "2026-11-06T16:16:12Z",
-      "text": "1 new offer(s): Crock-Pot 7 Quart Manual Slow Cooker wit"
     }
   ]
 }
