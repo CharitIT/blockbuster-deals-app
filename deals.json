@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T17:39:13Z",
+  "lastScan": "2026-11-06T17:49:42Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC09B36C90747BBA09A8343609C857F8",
+      "store": "Walmart",
+      "title": "Shark StainForce Cordless Spot, Stain, & Odor Portable Cleaning System, for Carpets, Area Rugs, Upholstery, Stairs, with Storage Caddy, Accessories, and Full-Size Cleaning Solution, HX100 White",
+      "price": "$108",
+      "was": "$159",
+      "discount": "32% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/VQwWckPOQ7b",
+      "page": null,
+      "image": "img/wa/AC09B36C90747BBA09A8343609C857F8.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:47:06Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC95F6D4F6B8DD381482B9319B38F22E",
+      "store": "Deal",
+      "title": "Lunch Box Kids Girls Boys, Bento Box Adult, Toddler Lunch Containers for School, Leakproof Snack Containers with 6 Compartments ,Sauce Container,10 Food Picks and 4 Muffin Cups (Pink)",
+      "price": "$4",
+      "was": "$9",
+      "discount": "56% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/lunch-box-kids-girls-boys-bento-box-adult-toddler-lunch-containers-for-school-leakproof-snack-containers-with-6-compartments-sauce-container10-food-picks-and-4-muffin-cups-pink/",
+      "page": null,
+      "image": "img/wa/AC95F6D4F6B8DD381482B9319B38F22E.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:47:01Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACD4822B3A4F19934D3742674293C76C",
       "store": "Target",
@@ -1069,44 +1106,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-ACB224E07F487FD1186D63113D32C14B",
-      "store": "Under Armour",
-      "title": "Extra 40% Off with code WARMUP and extra 10%off with code EXTRA",
-      "price": "$7",
-      "was": null,
-      "discount": null,
-      "code": "WARMUP",
-      "notes": "As low As Under Armour Deals",
-      "link": "https://go.magik.ly/ml/4lurj/",
-      "page": null,
-      "image": "img/wa/ACB224E07F487FD1186D63113D32C14B.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T20:22:31Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-AC0A1D9A597813D5F1D9912A66C4DF99",
-      "store": "Under Armour",
-      "title": "Under Armour Men's UA Edge Leather Training Shoes",
-      "price": "$28",
-      "was": "$70",
-      "discount": "60% off",
-      "code": null,
-      "notes": "Use codes WARMUP and EXTRA at checkout",
-      "link": "https://go.magik.ly/ml/4lvzd/",
-      "page": null,
-      "image": "img/wa/AC0A1D9A597813D5F1D9912A66C4DF99.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T20:20:06Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1153,6 +1152,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T17:49:42Z",
+      "text": "2 new offer(s): Shark StainForce Cordless Spot, Stain, &, Lunch Box Kids Girls Boys, Bento Box Adu"
+    },
     {
       "at": "2026-11-06T17:39:13Z",
       "text": "2 new offer(s): Get upto 40% off Tonies Starter Sets🔥 at, Disney's Squish Factory Squishmaker Pro "
@@ -1228,10 +1231,6 @@
     {
       "at": "2026-11-06T01:10:23Z",
       "text": "1 new offer(s): Womens Long Sleeve Shirts V Neck Soft Li"
-    },
-    {
-      "at": "2026-11-06T01:00:14Z",
-      "text": "1 new offer(s): Get upto 40% Off LEGO Sets🔥 at Macy’s"
     }
   ]
 }
