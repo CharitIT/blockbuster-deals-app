@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T15:35:10Z",
+  "lastScan": "2026-11-06T15:45:26Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACD2E79BFA6F26155EB013FBD5C134B3",
+      "store": "Deal",
+      "title": "50% off + 20% off with coupon",
+      "price": "$25",
+      "was": null,
+      "discount": null,
+      "code": "SAVINGS",
+      "notes": "Christmas trees at Kohl's🔥 Use code SAVINGS",
+      "link": "https://mavely.app.link/ktss9sTEQ7b",
+      "page": null,
+      "image": "img/wa/ACD2E79BFA6F26155EB013FBD5C134B3.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T15:42:40Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC33D2A70B5CCA868C8EA6423DCAEF83",
+      "store": "Deal",
+      "title": "Wavytalk 1875W Blown Away Ionic Hair Dryer",
+      "price": "$19",
+      "was": "$49",
+      "discount": "61% off",
+      "code": "DA6KX1SN",
+      "notes": "Use Code DA6KX1SN",
+      "link": "https://blockbusterdeals.net/product/wavytalk-1875w-blown-away-ionic-hair-dryer/",
+      "page": null,
+      "image": "img/wa/AC33D2A70B5CCA868C8EA6423DCAEF83.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T15:38:13Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACE235C295EA2BB5960D4DE9A753363A",
       "store": "Macy's",
@@ -1079,44 +1115,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-ACC9F8A9DEFC7E9259FB583F7ACE4A37",
-      "store": "Kohl's",
-      "title": "Instant Pot Duo Plus 6-qt. Multi-Use Pressure Cooker",
-      "price": "$89",
-      "was": "$139",
-      "discount": "36% off",
-      "code": null,
-      "notes": "Earn 5% Kohl's Rewards®️ on this item today.",
-      "link": "https://mavely.app.link/1QeyAWK6O7b",
-      "page": null,
-      "image": "img/wa/ACC9F8A9DEFC7E9259FB583F7ACE4A37.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T16:44:27Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Kohl's"
-    },
-    {
-      "id": "wa-AC4B4E86A1F19B9E4D8CDD251368C3CE",
-      "store": "Michael Kors",
-      "title": "Free Shipping With KORSVIP or orders of $100+",
-      "price": "$31",
-      "was": "$225",
-      "discount": "86% off",
-      "code": null,
-      "notes": "Michael Kors Essex Suede Trainer BUY 2+ ITEMS, GET 20% OFF APPLIED IN CART",
-      "link": "https://mavely.app.link/B62tnWD5O7b",
-      "page": null,
-      "image": "img/wa/AC4B4E86A1F19B9E4D8CDD251368C3CE.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T16:38:10Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1163,6 +1161,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T15:45:26Z",
+      "text": "2 new offer(s): 50% off + 20% off with coupon, Wavytalk 1875W Blown Away Ionic Hair Dry"
+    },
     {
       "at": "2026-11-06T15:35:10Z",
       "text": "1 new offer(s): Men's Prosper Wool-Blend Slim Fit Overco"
@@ -1238,10 +1240,6 @@
     {
       "at": "2026-11-05T21:00:24Z",
       "text": "3 new offer(s): Reebok Puffer Jackets, Scenario Women's and Women's Plus Chore , Marc Jacobs The Camo Jacquard Medium Tot"
-    },
-    {
-      "at": "2026-11-05T20:39:45Z",
-      "text": "2 new offer(s): Ninja Air Fryer XL with MaxCrisp, 6.5 Qt, Use codes WARMUP and EXTRA at checkout"
     }
   ]
 }
