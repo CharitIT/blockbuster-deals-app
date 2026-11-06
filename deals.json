@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T20:46:14Z",
+  "lastScan": "2026-11-06T20:56:38Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC5FB9558A1BFECAA00543217F96F7D9",
+      "store": "Deal",
+      "title": "Apple iPhone 18 Pro Silicone Case with MagSafe - Olive | Lightweight Phone Case, Wireless Charging Compatible, Smooth Matte Finish",
+      "price": "$29",
+      "was": "$49",
+      "discount": "41% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/apple-iphone-18-pro-silicone-case-with-magsafe-olive/",
+      "page": null,
+      "image": "img/wa/AC5FB9558A1BFECAA00543217F96F7D9.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T20:51:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC76F862B8D4CA2E5BA8F9032EE82B01",
+      "store": "Kohl's",
+      "title": "Dolce&Gabbana Q Eau de Parfum Intense with Dark Cherry & Amber",
+      "price": "$128",
+      "was": "$184",
+      "discount": "30% off",
+      "code": null,
+      "notes": "Sephora",
+      "link": "https://mavely.app.link/y2gyjFD1Q7b",
+      "page": null,
+      "image": "img/wa/AC76F862B8D4CA2E5BA8F9032EE82B01.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T20:45:55Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Kohl's"
+    },
     {
       "id": "wa-AC645DE6DE0E59A9B47B55CDC6843811",
       "store": "Macy's",
@@ -1074,44 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC8547220453AAE5A27470968C05251E",
-      "store": "Amazon",
-      "title": "Amazon Essentials Men's Standard-Fit Long-Sleeve Two-Pocket Utility Shirt (Previously Goodthreads)",
-      "price": "$3",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/amazon-essentials-mens-standard-fit-long-sleeve-two-pocket-utility-shirt-previously-goodthreads-2/",
-      "page": null,
-      "image": "img/wa/AC8547220453AAE5A27470968C05251E.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T23:42:22Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Amazon"
-    },
-    {
-      "id": "wa-AC820C2B836A0CD7FAA5EE46FC2DEA76",
-      "store": "Under Armour",
-      "title": "🚨Login & apply both promo codes: WARMUP & EXTRA",
-      "price": "$19",
-      "was": "$50",
-      "discount": "62% off",
-      "code": null,
-      "notes": "Under Armour Tech™️ Women's Hoodie - Keeps You Cool",
-      "link": "https://go.magik.ly/ml/4m92r/",
-      "page": null,
-      "image": "img/wa/AC820C2B836A0CD7FAA5EE46FC2DEA76.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T23:22:50Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T20:56:38Z",
+      "text": "2 new offer(s): Apple iPhone 18 Pro Silicone Case with M, Dolce&Gabbana Q Eau de Parfum Intense wi"
+    },
     {
       "at": "2026-11-06T20:46:14Z",
       "text": "1 new offer(s): Girls' Coats & Jackets (4-16) at Macy's"
@@ -1233,10 +1236,6 @@
     {
       "at": "2026-11-06T15:45:26Z",
       "text": "2 new offer(s): 50% off + 20% off with coupon, Wavytalk 1875W Blown Away Ionic Hair Dry"
-    },
-    {
-      "at": "2026-11-06T15:35:10Z",
-      "text": "1 new offer(s): Men's Prosper Wool-Blend Slim Fit Overco"
     }
   ]
 }
