@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T20:35:49Z",
+  "lastScan": "2026-11-06T20:46:14Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC645DE6DE0E59A9B47B55CDC6843811",
+      "store": "Macy's",
+      "title": "Girls' Coats & Jackets (4-16) at Macy's",
+      "price": "$19",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "As low As",
+      "link": "https://mavely.app.link/KTmmgEQ0Q7b",
+      "page": null,
+      "image": "img/wa/AC645DE6DE0E59A9B47B55CDC6843811.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T20:38:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-ACE24CB68424EE8FCD59666D04395886",
       "store": "Walmart",
@@ -1093,24 +1112,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-ACBC16472F44DF91867A86ABD930B032",
-      "store": "Woot",
-      "title": "NEW) Samsung Galaxy S25 Ultra - 512GB (Unlocked)",
-      "price": "$899",
-      "was": "$1,419",
-      "discount": "37% off",
-      "code": null,
-      "notes": "Sign in with your Amazon account at checkout for free shipping.",
-      "link": "https://mavely.app.link/UGpFGrbBe7b",
-      "page": null,
-      "image": "img/wa/ACBC16472F44DF91867A86ABD930B032.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T23:03:06Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T20:46:14Z",
+      "text": "1 new offer(s): Girls' Coats & Jackets (4-16) at Macy's"
+    },
     {
       "at": "2026-11-06T20:35:49Z",
       "text": "2 new offer(s): Clothing, Shoes and Accessories, Owala FreeSip Kids Stainless Steel Water"
@@ -1232,10 +1237,6 @@
     {
       "at": "2026-11-06T15:35:10Z",
       "text": "1 new offer(s): Men's Prosper Wool-Blend Slim Fit Overco"
-    },
-    {
-      "at": "2026-11-06T15:24:56Z",
-      "text": "4 new offer(s): Men's Guilty Love Edition Pour Homme, 3 , 200 LED Christmas Tree Lights Voice Cont, Shark Rocket Corded Stick Vacuum, Carpet"
     }
   ]
 }
