@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T16:36:48Z",
+  "lastScan": "2026-11-06T16:47:03Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC5BB3E94746B35D18A88FE9A28544C0",
+      "store": "Deal",
+      "title": "Ninja Blast Portable Blender, Cordless,18oz Vessel, Lemon Meringue, BC151LB",
+      "price": "$39",
+      "was": "$70",
+      "discount": "44% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/ninja-blast-portable-blender/",
+      "page": null,
+      "image": "img/wa/AC5BB3E94746B35D18A88FE9A28544C0.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T16:44:38Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC676F389E0612C2F16BFAF655035949",
+      "store": "Deal",
+      "title": "TMY Smart Projector with Google TV Built-in, Native 1080P 4K Home Theater",
+      "price": "$98",
+      "was": "$199",
+      "discount": "51% off",
+      "code": "4P499NMY",
+      "notes": "Use code 4P499NMY",
+      "link": "https://blockbusterdeals.net/product/tmy-smart-projector-with-google-tv-built-in-native-1080p-4k-home-theater/",
+      "page": null,
+      "image": "img/wa/AC676F389E0612C2F16BFAF655035949.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T16:44:33Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC03DE2CF326A95EAF4C62D9F55324C4",
       "store": "Kohl's",
@@ -1076,43 +1112,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-ACFC5C4091059169116B9A1D6CCA0CC8",
-      "store": "Walmart",
-      "title": "7.5 QT Air Fryer, 95% Less Oil, 360°Air Circulation, 8-in-1 Air Fryer Oven with Grill Plate, Digital LED Touch Screen, Visible Window & Light, Large Capacity Air Fryer with 8 Presets, Nonstick Black",
-      "price": "$59",
-      "was": "$459",
-      "discount": "87% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/zWB6lna9O7b",
-      "page": null,
-      "image": "img/wa/ACFC5C4091059169116B9A1D6CCA0CC8.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T17:23:19Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACDD0B505316390BA858021DB7A80AA0",
-      "store": "Deal",
-      "title": "NINJA FEATURED DEALS🔥🔥",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/ninja-featured-deals/",
-      "page": null,
-      "image": "img/wa/ACDD0B505316390BA858021DB7A80AA0.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T17:15:24Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1159,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T16:47:03Z",
+      "text": "2 new offer(s): Ninja Blast Portable Blender, Cordless,1, TMY Smart Projector with Google TV Built"
+    },
     {
       "at": "2026-11-06T16:36:48Z",
       "text": "1 new offer(s): Rubbermaid EasyStore Special Edition Nes"
@@ -1234,10 +1237,6 @@
     {
       "at": "2026-11-06T00:09:24Z",
       "text": "2 new offer(s): Walking Pad Treadmill for Home, Compact , Lauren Ralph Lauren Women's Hooded Quilt"
-    },
-    {
-      "at": "2026-11-05T23:49:02Z",
-      "text": "2 new offer(s): Lunch Box Kids Girls Boys, Bento Box Adu, Amazon Essentials Men's Standard-Fit Lon"
     }
   ]
 }
