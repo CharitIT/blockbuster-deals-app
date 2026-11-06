@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T01:00:14Z",
+  "lastScan": "2026-11-06T01:10:23Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC87C97FAAA8336B48A8F8B6E32534AE",
+      "store": "Deal",
+      "title": "Womens Long Sleeve Shirts V Neck Soft Lightweight Sweater Pullover Tunic Tops for Business Casual Work",
+      "price": "$5",
+      "was": "$19",
+      "discount": "74% off",
+      "code": "A2JSDP1H",
+      "notes": "Lowest price in 30 days ❗ Use Code:A2JSDP1H",
+      "link": "https://blockbusterdeals.net/product/womens-long-sleeve-shirts-v-neck-soft-lightweight-sweater-pullover-tunic-tops-for-business-casual-work-2/",
+      "page": null,
+      "image": "img/wa/AC87C97FAAA8336B48A8F8B6E32534AE.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T01:01:05Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC41403C57910F74D0C8853B86D4F65F",
       "store": "Macy's",
@@ -1102,24 +1120,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC60A2037D95E19B9F2B39C7E91085B4",
-      "store": "Deal",
-      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Link:",
-      "link": "https://theblogcm.com/566/eJi8",
-      "page": null,
-      "image": "img/wa/AC60A2037D95E19B9F2B39C7E91085B4.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T01:57:57Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1166,6 +1166,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T01:10:23Z",
+      "text": "1 new offer(s): Womens Long Sleeve Shirts V Neck Soft Li"
+    },
     {
       "at": "2026-11-06T01:00:14Z",
       "text": "1 new offer(s): Get upto 40% Off LEGO Sets🔥 at Macy’s"
@@ -1241,10 +1245,6 @@
     {
       "at": "2026-11-05T17:30:38Z",
       "text": "1 new offer(s): 7.5 QT Air Fryer, 95% Less Oil, 360°Air "
-    },
-    {
-      "at": "2026-11-05T17:19:47Z",
-      "text": "2 new offer(s): NINJA FEATURED DEALS🔥🔥, Tommy Hilfiger Women's Chevron-Quilted P"
     }
   ]
 }
