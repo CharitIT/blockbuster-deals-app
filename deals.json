@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T16:05:57Z",
+  "lastScan": "2026-11-06T16:16:12Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC79215A0FF5EE6C23B23C35893A4E45",
+      "store": "Walmart",
+      "title": "Crock-Pot 7 Quart Manual Slow Cooker with 3 Heat Settings, Large Slow Cooker with Dishwasher Safe Stoneware Pot, Denim",
+      "price": "$34",
+      "was": "$79",
+      "discount": "57% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/OYIIqmyEQ7b",
+      "page": null,
+      "image": "img/wa/AC79215A0FF5EE6C23B23C35893A4E45.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T16:06:23Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC48106D14C818E3E6136C34AE8E1A35",
       "store": "Deal",
@@ -1095,25 +1114,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACBF3F4B60A1CC3B8F0722845B754666",
-      "store": "Macy's",
-      "title": "Microfiber Down Alternative Comforter, Full/Queen",
-      "price": "$19",
-      "was": "$100",
-      "discount": "81% off",
-      "code": null,
-      "notes": "Arch Studio",
-      "link": "https://mavely.app.link/hPvkGgG7O7b",
-      "page": null,
-      "image": "img/wa/ACBF3F4B60A1CC3B8F0722845B754666.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T16:56:00Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1160,6 +1160,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T16:16:12Z",
+      "text": "1 new offer(s): Crock-Pot 7 Quart Manual Slow Cooker wit"
+    },
     {
       "at": "2026-11-06T16:05:57Z",
       "text": "1 new offer(s): 50% off + 20% off with coupon"
@@ -1235,10 +1239,6 @@
     {
       "at": "2026-11-05T21:31:13Z",
       "text": "3 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, Just Play furReal Snuggles the Smiling S"
-    },
-    {
-      "at": "2026-11-05T21:20:57Z",
-      "text": "3 new offer(s): Women's 3 Pack Square Neck Tank Top Ruch, Undershirts T-Shirt Pack, 3-Pack, X-Temp, Gyroor KS2 Electric Scooter for Kids, 5 "
     }
   ]
 }
