@@ -1,12 +1,68 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T17:18:09Z",
+  "lastScan": "2026-11-06T17:28:44Z",
   "nextScan": null,
   "offers": [
     {
-      "id": "wa-AC9DF6C74E639F73F0FD8F7F14D7E8F7",
+      "id": "wa-AC8D77AC0382105BADED74FF2A90FAD9",
       "store": "Deal",
+      "title": "Dash MultiMaker™️ Mini System Holiday Waffle Maker with Removable Plates",
+      "price": "$20",
+      "was": "$39",
+      "discount": "49% off",
+      "code": "SAVINGS",
+      "notes": "Use Code: SAVINGS Free shipping",
+      "link": "https://mavely.app.link/TRBt1jFNQ7b",
+      "page": null,
+      "image": "img/wa/AC8D77AC0382105BADED74FF2A90FAD9.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:27:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACA51FBA3F344416405DFC40411B84D7",
+      "store": "Walmart",
+      "title": "CAROTE 12-Piece Kitchen Knife Set with Blade Guards, White Granite Ceramic Knife, Stainless Steel",
+      "price": "$14",
+      "was": "$29",
+      "discount": "52% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/tDI4lS3rP7b",
+      "page": null,
+      "image": "img/wa/ACA51FBA3F344416405DFC40411B84D7.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:27:11Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC192CB7A55F27D3734FB299CB86A308",
+      "store": "Macy's",
+      "title": "Women's Watch in Black Faux Leather with Gold-Tone Lugs, 24x36.3mm",
+      "price": "$37",
+      "was": "$75",
+      "discount": "51% off",
+      "code": null,
+      "notes": "Anne Klein Free shipping",
+      "link": "https://mavely.app.link/lkxeNC3MQ7b",
+      "page": null,
+      "image": "img/wa/AC192CB7A55F27D3734FB299CB86A308.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T17:17:50Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-AC9DF6C74E639F73F0FD8F7F14D7E8F7",
+      "store": "Macy's",
       "title": "Get Upto 65% off Hoodies, Sweaters, Jackets & Coats🔥 At Macy's",
       "price": null,
       "was": null,
@@ -20,7 +76,8 @@
       "postedAt": "2026-11-06T17:17:44Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Macy's"
     },
     {
       "id": "wa-AC0CDB1C9507D74A5927066893903AAB",
@@ -1051,63 +1108,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-AC66CE3C819AB07DF46A4CE2F1351B2A",
-      "store": "Under Armour",
-      "title": "Use Code WARMUP and  EXTRA at checkout",
-      "price": "$40",
-      "was": "$110",
-      "discount": "64% off",
-      "code": "WARMUP",
-      "notes": "Under Armour Charged Gemini Men's Running Shoes",
-      "link": "https://mavely.app.link/qDWa4YLjP7b",
-      "page": null,
-      "image": "img/wa/AC66CE3C819AB07DF46A4CE2F1351B2A.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T19:48:27Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-ACA25143FEB1F904D051C9D7E18AC5BC",
-      "store": "Under Armour",
-      "title": "Rival Core Women's Short Sleeve - Fast-Drying",
-      "price": "$12",
-      "was": "$33",
-      "discount": "64% off",
-      "code": "WARMUP",
-      "notes": "Under Armour Use code WARMUP and EXTRA at checkout",
-      "link": "https://go.magik.ly/ml/4lu7c/",
-      "page": null,
-      "image": "img/wa/ACA25143FEB1F904D051C9D7E18AC5BC.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T19:48:25Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-AC03EE0408D6AD1B0A327AF478EA2831",
-      "store": "Walmart",
-      "title": "CAROTE 12-Piece Kitchen Knife Set, Stainless Steel Knife Set with Nonstick Creamic Coating, Taupe",
-      "price": "$14",
-      "was": "$21",
-      "discount": "33% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/Cro3QWAiP7b",
-      "page": null,
-      "image": "img/wa/AC03EE0408D6AD1B0A327AF478EA2831.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T19:31:49Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1154,6 +1154,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T17:28:44Z",
+      "text": "3 new offer(s): Dash MultiMaker™️ Mini System Holiday Wa, CAROTE 12-Piece Kitchen Knife Set with B, Women's Watch in Black Faux Leather with"
+    },
     {
       "at": "2026-11-06T17:18:09Z",
       "text": "2 new offer(s): Get Upto 65% off Hoodies, Sweaters, Jack, Keurig®️ K-Duo Gen 2 Hot & Iced Single S"
@@ -1229,10 +1233,6 @@
     {
       "at": "2026-11-06T00:49:58Z",
       "text": "1 new offer(s): Air Purifier For Home Bedroom Large Room"
-    },
-    {
-      "at": "2026-11-06T00:39:51Z",
-      "text": "1 new offer(s): Mainstays 48,000 BTU Freestanding Metal "
     }
   ]
 }
