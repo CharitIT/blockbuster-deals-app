@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T01:10:23Z",
+  "lastScan": "2026-11-06T01:20:34Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACDE2C6EDAD53870FEA35E4E77312AB9",
+      "store": "Walmart",
+      "title": "Scenario Women’s and Women’s Plus Sleeveless Tie Neck Tiered Midi Dress, Sizes XS-4X",
+      "price": "$8",
+      "was": "$24",
+      "discount": "67% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/sIXJTgY3O7b",
+      "page": null,
+      "image": "img/wa/ACDE2C6EDAD53870FEA35E4E77312AB9.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T01:12:25Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC87C97FAAA8336B48A8F8B6E32534AE",
       "store": "Deal",
@@ -1101,25 +1120,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC38B28925FFE82D50C8CA9CDD939B0C",
-      "store": "Walmart",
-      "title": "Magic Bullet 4 Piece Personal Blender MBR-0401WM, Black",
-      "price": "$19",
-      "was": "$35",
-      "discount": "46% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/mLuJYL1ZO7b",
-      "page": null,
-      "image": "img/wa/AC38B28925FFE82D50C8CA9CDD939B0C.jpg",
-      "category": null,
-      "postedAt": "2026-11-05T15:03:32Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1166,6 +1166,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T01:20:34Z",
+      "text": "1 new offer(s): Scenario Women’s and Women’s Plus Sleeve"
+    },
     {
       "at": "2026-11-06T01:10:23Z",
       "text": "1 new offer(s): Womens Long Sleeve Shirts V Neck Soft Li"
@@ -1241,10 +1245,6 @@
     {
       "at": "2026-11-05T17:41:03Z",
       "text": "2 new offer(s): Knee Pillow for Side Sleepers,Leg Pillow, Clarks Collection Women's Laurieann Bell"
-    },
-    {
-      "at": "2026-11-05T17:30:38Z",
-      "text": "1 new offer(s): 7.5 QT Air Fryer, 95% Less Oil, 360°Air "
     }
   ]
 }
