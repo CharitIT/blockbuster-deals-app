@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T21:27:51Z",
+  "lastScan": "2026-11-06T21:38:13Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8C004EF0C155614EB970AE26D2D176",
+      "store": "Deal",
+      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
+      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
+      "page": null,
+      "image": "img/wa/AC8C004EF0C155614EB970AE26D2D176.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T21:29:09Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACDE1A84235D16DDA39D8B4E952FF00A",
+      "store": "Deal",
+      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Link:",
+      "link": "https://theblogcm.com/566/eJi8",
+      "page": null,
+      "image": "img/wa/ACDE1A84235D16DDA39D8B4E952FF00A.jpg",
+      "category": null,
+      "postedAt": "2026-11-06T21:29:02Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC287A4252753DD24EFD4A1D993312DE",
       "store": "Deal",
@@ -1074,43 +1110,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-AC62DE4F4BA3A9678D36357408CC670A",
-      "store": "Deal",
-      "title": "Air Purifier For Home Bedroom Large Room Up To 1092 ft² in 1hr, Ivory",
-      "price": "$39",
-      "was": "$79",
-      "discount": "51% off",
-      "code": "4G23PK58",
-      "notes": "Use code:4G23PK58",
-      "link": "https://blockbusterdeals.net/product/air-purifier-for-home-bedroom-large-room-up-to-1092-ft%c2%b2-in-1hr-ivory/",
-      "page": null,
-      "image": "img/wa/AC62DE4F4BA3A9678D36357408CC670A.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T00:41:41Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC1E75BBD88880B8AA09E636188D2B90",
-      "store": "Walmart",
-      "title": "Mainstays 48,000 BTU Freestanding Metal Propane Patio Heater, Black",
-      "price": "$98",
-      "was": "$197",
-      "discount": "50% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/bwb1hViCP7b",
-      "page": null,
-      "image": "img/wa/AC1E75BBD88880B8AA09E636188D2B90.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T00:31:05Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-06T21:38:13Z",
+      "text": "2 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more "
+    },
     {
       "at": "2026-11-06T21:27:51Z",
       "text": "3 new offer(s): L'Oreal Paris Revitalift Anti-Wrinkle an, 5 Pcs Round Stainless Steel Food Storage, Amazon Essentials Men's Vacation Cotton "
@@ -1232,10 +1235,6 @@
     {
       "at": "2026-11-06T16:16:12Z",
       "text": "1 new offer(s): Crock-Pot 7 Quart Manual Slow Cooker wit"
-    },
-    {
-      "at": "2026-11-06T16:05:57Z",
-      "text": "1 new offer(s): 50% off + 20% off with coupon"
     }
   ]
 }
