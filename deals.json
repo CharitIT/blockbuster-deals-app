@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T15:56:59Z",
+  "lastScan": "2026-11-07T16:07:08Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC56EDB6DA13E80F9A94031CB435FE6A",
+      "store": "Macy's",
+      "title": "Women's Loven Low Profile Lace-Up Sneakers",
+      "price": "$35",
+      "was": "$65",
+      "discount": "46% off",
+      "code": null,
+      "notes": "GUESS",
+      "link": "https://mavely.app.link/GfmpkkriS7b",
+      "page": null,
+      "image": "img/wa/AC56EDB6DA13E80F9A94031CB435FE6A.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T16:03:54Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-AC0FB23AA80C0E8EF90DABE2164136F0",
       "store": "Deal",
@@ -1090,25 +1109,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC09B36C90747BBA09A8343609C857F8",
-      "store": "Walmart",
-      "title": "Shark StainForce Cordless Spot, Stain, & Odor Portable Cleaning System, for Carpets, Area Rugs, Upholstery, Stairs, with Storage Caddy, Accessories, and Full-Size Cleaning Solution, HX100 White",
-      "price": "$108",
-      "was": "$159",
-      "discount": "32% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/VQwWckPOQ7b",
-      "page": null,
-      "image": "img/wa/AC09B36C90747BBA09A8343609C857F8.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:47:06Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T16:07:08Z",
+      "text": "1 new offer(s): Women's Loven Low Profile Lace-Up Sneake"
+    },
     {
       "at": "2026-11-07T15:56:59Z",
       "text": "2 new offer(s): Samsung 65-Inch Class S85H Series, OLED,, U.S. Polo Assn. Boys Fleece Pullover Hoo"
@@ -1230,10 +1234,6 @@
     {
       "at": "2026-11-06T23:11:30Z",
       "text": "1 new offer(s): Michael Kors Designer Clearance🔥🔥"
-    },
-    {
-      "at": "2026-11-06T21:38:13Z",
-      "text": "2 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more "
     }
   ]
 }
