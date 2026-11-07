@@ -1,9 +1,64 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T00:13:49Z",
+  "lastScan": "2026-11-07T00:34:35Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8C21BB95D969CE246DA748128F2120",
+      "store": "Deal",
+      "title": "CHICME Womens Open Front Chunky Knit Cardigan Color Block Sweater",
+      "price": "$17",
+      "was": "$40",
+      "discount": "57% off",
+      "code": "S6S8Y70Q",
+      "notes": "Use code:S6S8Y70Q",
+      "link": "https://blockbusterdeals.net/product/chicme-womens-open-front-chunky-knit-cardigan-color-block-sweater/",
+      "page": null,
+      "image": "img/wa/AC8C21BB95D969CE246DA748128F2120.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T00:27:39Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACE18C352C1CF3C7264019E2CD5500E1",
+      "store": "Deal",
+      "title": "NutriBullet Personal Blender 700W with Travel Cup",
+      "price": "$55",
+      "was": "$79",
+      "discount": "30% off",
+      "code": "SAVINGS",
+      "notes": "Use Code : SAVINGS Free shipping 🎁 Earn 5% Kohl's Rewards",
+      "link": "https://mavely.app.link/3pO4p1CfR7b",
+      "page": null,
+      "image": "img/wa/ACE18C352C1CF3C7264019E2CD5500E1.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T00:27:35Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC537DF1B28D15F1C0171F5FBECFFFB1",
+      "store": "Walmart",
+      "title": "Weekend Academy Girls Lace Charm Boat Shoes",
+      "price": "$6",
+      "was": "$13",
+      "discount": "54% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/7P46SwKfR7b",
+      "page": null,
+      "image": "img/wa/AC537DF1B28D15F1C0171F5FBECFFFB1.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T00:27:29Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC6651C0909FB0DE65819E28552FEC2C",
       "store": "Deal",
@@ -1057,61 +1112,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-ACD13CAE87571CF49A5F3E7E1CA9550B",
-      "store": "Macy's",
-      "title": "Men's Guilty Love Edition Pour Homme, 3 oz.",
-      "price": "$127",
-      "was": "$170",
-      "discount": "25% off",
-      "code": null,
-      "notes": "Gucci",
-      "link": "https://mavely.app.link/df2QAAKDQ7b",
-      "page": null,
-      "image": "img/wa/ACD13CAE87571CF49A5F3E7E1CA9550B.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T15:24:22Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-ACFE78A740928A24788A3BAB48FA892D",
-      "store": "Deal",
-      "title": "200 LED Christmas Tree Lights Voice Control, 66FT Connectable String Lights",
-      "price": "$8",
-      "was": "$19",
-      "discount": "58% off",
-      "code": "R3GLEH8B",
-      "notes": "Use Code R3GLEH8B",
-      "link": "https://blockbusterdeals.net/product/200-led-christmas-tree-lights-voice-control-66ft-connectable-string-lights/",
-      "page": null,
-      "image": "img/wa/ACFE78A740928A24788A3BAB48FA892D.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T15:22:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC1CA9C5AF977B430B3A385D4776BE02",
-      "store": "Deal",
-      "title": "Shark Rocket Corded Stick Vacuum, Carpet & Hard Floors, Gray/Orange, HV301",
-      "price": "$99",
-      "was": "$199",
-      "discount": "50% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/shark-rocket-corded-stick-vacuum-carpet-hard-floors-gray-orange-hv301/",
-      "page": null,
-      "image": "img/wa/AC1CA9C5AF977B430B3A385D4776BE02.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T15:21:09Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T00:34:35Z",
+      "text": "3 new offer(s): CHICME Womens Open Front Chunky Knit Car, NutriBullet Personal Blender 700W with T, Weekend Academy Girls Lace Charm Boat Sh"
+    },
     {
       "at": "2026-11-07T00:13:49Z",
       "text": "2 new offer(s): Womens Sweaters Long Sleeve Quarter Zip , Authentic Royal Basmati White Rice, 15 l"
@@ -1233,10 +1237,6 @@
     {
       "at": "2026-11-06T17:28:44Z",
       "text": "3 new offer(s): Dash MultiMaker™️ Mini System Holiday Wa, CAROTE 12-Piece Kitchen Knife Set with B, Women's Watch in Black Faux Leather with"
-    },
-    {
-      "at": "2026-11-06T17:18:09Z",
-      "text": "2 new offer(s): Get Upto 65% off Hoodies, Sweaters, Jack, Keurig®️ K-Duo Gen 2 Hot & Iced Single S"
     }
   ]
 }
