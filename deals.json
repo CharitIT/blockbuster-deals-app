@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T00:55:22Z",
+  "lastScan": "2026-11-07T01:05:43Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC688B03232C879823DC10CD099FB1BD",
+      "store": "Sephora",
+      "title": "Sephora EVERYTHING Is on Sale🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": "ALLONSALE",
+      "notes": "Use code ALLONSALE",
+      "link": "https://go.magik.ly/ml/4od84/",
+      "page": null,
+      "image": "img/wa/AC688B03232C879823DC10CD099FB1BD.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T01:01:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Sephora"
+    },
+    {
+      "id": "wa-AC66A2F97BAF38AE8242E2529F2B99C5",
+      "store": "Deal",
+      "title": "GRACE KARIN Essential Solid Open Front Maxi Long Knitted Cardigan Sweater for Women",
+      "price": "$16",
+      "was": "$27",
+      "discount": "41% off",
+      "code": "7RMRU169",
+      "notes": "Use Code:7RMRU169",
+      "link": "https://blockbusterdeals.net/product/grace-karin-essential-solid-open-front-maxi-long-knitted-cardigan-sweater-for-women/",
+      "page": null,
+      "image": "img/wa/AC66A2F97BAF38AE8242E2529F2B99C5.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T01:01:14Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACACE0503012C57E2CCA83BFA1A79F8F",
       "store": "Wayfair",
@@ -1075,43 +1112,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC48106D14C818E3E6136C34AE8E1A35",
-      "store": "Deal",
-      "title": "50% off + 20% off with coupon",
-      "price": "$25",
-      "was": null,
-      "discount": null,
-      "code": "SAVINGS",
-      "notes": "Cookware sets at Kohl's🔥 Use code SAVINGS",
-      "link": "https://mavely.app.link/jKQJBeFEQ7b",
-      "page": null,
-      "image": "img/wa/AC48106D14C818E3E6136C34AE8E1A35.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T15:56:54Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACFD88A0A937E5DA74AEB80B86CF1B1B",
-      "store": "Macy's",
-      "title": "Bella Medium Leather Shoulder Bag",
-      "price": "$270",
-      "was": "$450",
-      "discount": "40% off",
-      "code": null,
-      "notes": "COACH",
-      "link": "https://mavely.app.link/Qds3zU1EQ7b",
-      "page": null,
-      "image": "img/wa/ACFD88A0A937E5DA74AEB80B86CF1B1B.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T15:48:58Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T01:05:43Z",
+      "text": "2 new offer(s): Sephora EVERYTHING Is on Sale🔥, GRACE KARIN Essential Solid Open Front M"
+    },
     {
       "at": "2026-11-07T00:55:22Z",
       "text": "3 new offer(s): Makeup Vanity With Lighted Mirror Chargi, 🚨 Login to an account & Apply promo code, ANRABESS Women 2 Piece Sets Oversized Fl"
@@ -1233,10 +1237,6 @@
     {
       "at": "2026-11-06T17:49:42Z",
       "text": "2 new offer(s): Shark StainForce Cordless Spot, Stain, &, Lunch Box Kids Girls Boys, Bento Box Adu"
-    },
-    {
-      "at": "2026-11-06T17:39:13Z",
-      "text": "2 new offer(s): Get upto 40% off Tonies Starter Sets🔥 at, Disney's Squish Factory Squishmaker Pro "
     }
   ]
 }
