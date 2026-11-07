@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T02:07:40Z",
+  "lastScan": "2026-11-07T15:05:57Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB66354EA80AD303505FAB4E7F2CAD0",
+      "store": "Woot",
+      "title": "🚨 Use Promo Code: FIREHD25 for extra 25% Off! Choose 32 gb model for $29 total!",
+      "price": "$29",
+      "was": null,
+      "discount": null,
+      "code": "FIREHD25",
+      "notes": "WILL SELL OUT! Amazon Fire HD 10 Tablet (2021 Release) Sign in with your Amazon account at checkout for free shipping.",
+      "link": "https://mavely.app.link/M4TiBAUiS7b",
+      "page": null,
+      "image": "img/wa/ACB66354EA80AD303505FAB4E7F2CAD0.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T15:04:17Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACF05704279CCB5B72A0AD8FE1FEE20E",
       "store": "Deal",
@@ -1093,24 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACA574A5483DA9E42FB92796DB42760B",
-      "store": "Deal",
-      "title": "🚨 Plus for every $50 spent earn back $15 In Rewards",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Kohl's Black Friday Deals On Toys🔥🔥 GetUpto 50%off Toys & 40%off Logo sets",
-      "link": "https://mavely.app.link/JZp77NbEQ7b",
-      "page": null,
-      "image": "img/wa/ACA574A5483DA9E42FB92796DB42760B.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:07:18Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T15:05:57Z",
+      "text": "1 new offer(s): 🚨 Use Promo Code: FIREHD25 for extra 25%"
+    },
     {
       "at": "2026-11-07T02:07:40Z",
       "text": "2 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital"
@@ -1232,10 +1236,6 @@
     {
       "at": "2026-11-06T20:35:49Z",
       "text": "2 new offer(s): Clothing, Shoes and Accessories, Owala FreeSip Kids Stainless Steel Water"
-    },
-    {
-      "at": "2026-11-06T20:25:21Z",
-      "text": "1 new offer(s): Machine Washable Non-Slip Kitchen Mat (S"
     }
   ]
 }
