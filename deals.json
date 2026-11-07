@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T01:47:02Z",
+  "lastScan": "2026-11-07T01:57:23Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC5E974EE0AE3D16C215DD87D5E5625B",
+      "store": "Deal",
+      "title": "BALENNZ Mens Athletic Shorts with Pockets Quick Dry Workout Shorts Men",
+      "price": "$19",
+      "was": "$43",
+      "discount": "56% off",
+      "code": null,
+      "notes": "ENDS IN FEW HOURS 🚨",
+      "link": "https://blockbusterdeals.net/product/balennz-mens-athletic-shorts-with-pockets-quick-dry-workout-shorts-men/",
+      "page": null,
+      "image": "img/wa/AC5E974EE0AE3D16C215DD87D5E5625B.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T01:55:35Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC4D90D1218F6C46C4C9574FAE4D13E9",
+      "store": "Target",
+      "title": "Auden Women’s Pajama Sets🔥 at Target",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "GetUpto 40%off",
+      "link": "https://mavely.app.link/BQofM1ooR7b",
+      "page": null,
+      "image": "img/wa/AC4D90D1218F6C46C4C9574FAE4D13E9.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T01:50:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Target"
+    },
     {
       "id": "wa-ACB09741D19495047343858D690176AF",
       "store": "Deal",
@@ -1074,42 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC87B4A96C932B8C7D8D113B50025028",
-      "store": "Deal",
-      "title": "Baby Delight Go with Me Venture Portable Chair | Indoor and Outdoor | Sun Canopy | 3 Child Growth Stages | Elephant Grey",
-      "price": "$42",
-      "was": "$69",
-      "discount": "39% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/baby-delight-go-with-me-venture-portable-chair-indoor-and-outdoor-sun-canopy-3-child-growth-stages-elephant-grey/",
-      "page": null,
-      "image": "img/wa/AC87B4A96C932B8C7D8D113B50025028.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T16:52:59Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC5BB3E94746B35D18A88FE9A28544C0",
-      "store": "Deal",
-      "title": "Ninja Blast Portable Blender, Cordless,18oz Vessel, Lemon Meringue, BC151LB",
-      "price": "$39",
-      "was": "$70",
-      "discount": "44% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/ninja-blast-portable-blender/",
-      "page": null,
-      "image": "img/wa/AC5BB3E94746B35D18A88FE9A28544C0.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T16:44:38Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T01:57:23Z",
+      "text": "2 new offer(s): BALENNZ Mens Athletic Shorts with Pocket, Auden Women’s Pajama Sets🔥 at Target"
+    },
     {
       "at": "2026-11-07T01:47:02Z",
       "text": "3 new offer(s): At home Black Friday Deals 🔥, Rubbermaid EasyStore Special Edition Nes, BTFBM Off The Shoulder Fall Sweaters, Ri"
@@ -1231,10 +1236,6 @@
     {
       "at": "2026-11-06T20:14:58Z",
       "text": "1 new offer(s): Use codes WARMUP and EXTRA at checkout"
-    },
-    {
-      "at": "2026-11-06T20:04:34Z",
-      "text": "5 new offer(s): Holiday Printed Microfiber 3-Pc. Sheet S, Women's Croft & Barrow®️ Tie-Front Blous, Samsung - 65” Class S84H Series OLED 4K "
     }
   ]
 }
