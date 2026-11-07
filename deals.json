@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T15:05:57Z",
+  "lastScan": "2026-11-07T15:16:12Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC49712E877B47B50D94D95DEF289B3A",
+      "store": "Deal",
+      "title": "LG 65 inch Class LG OLED AI B6 4K Smart TV 2026",
+      "price": "$999",
+      "was": "$1,999",
+      "discount": "50% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/lg-65-inch-class-lg-oled-ai-b6-4k-smart-tv-2026/",
+      "page": null,
+      "image": "img/wa/AC49712E877B47B50D94D95DEF289B3A.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T15:15:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACB44FC9F93FB3809A522DF3055F28E3",
+      "store": "Deal",
+      "title": "Play-Doh Rainbow Swirl Ice Cream Playset with 7 Pretend Play Kitchen Accessories, Arts and Crafts Toys for 3 Year Old Girls and Boys and Up",
+      "price": "$6",
+      "was": "$24",
+      "discount": "75% off",
+      "code": null,
+      "notes": "Clip coupon",
+      "link": "https://blockbusterdeals.net/product/play-doh-rainbow-swirl-ice-cream-playset-with-7-pretend-play-kitchen-accessories-arts-and-crafts-toys-for-3-year-old-girls-and-boys-and-up/",
+      "page": null,
+      "image": "img/wa/ACB44FC9F93FB3809A522DF3055F28E3.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T15:09:40Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACB66354EA80AD303505FAB4E7F2CAD0",
       "store": "Woot",
@@ -1074,43 +1110,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-AC9DF6C74E639F73F0FD8F7F14D7E8F7",
-      "store": "Macy's",
-      "title": "Get Upto 65% off Hoodies, Sweaters, Jackets & Coats🔥 At Macy's",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "TODAY ONLY 🚨 The North Face, Nike, Michael Kors and more",
-      "link": "https://mavely.app.link/b4j4gghOQ7b",
-      "page": null,
-      "image": "img/wa/AC9DF6C74E639F73F0FD8F7F14D7E8F7.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:17:44Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-AC0CDB1C9507D74A5927066893903AAB",
-      "store": "Deal",
-      "title": "Keurig®️ K-Duo Gen 2 Hot & Iced Single Serve & Carafe Coffee Maker",
-      "price": "$103",
-      "was": "$259",
-      "discount": "60% off",
-      "code": "SAVINGS",
-      "notes": "Use Code: SAVINGS Free shipping",
-      "link": "https://mavely.app.link/q4QJrarNQ7b",
-      "page": null,
-      "image": "img/wa/AC0CDB1C9507D74A5927066893903AAB.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:08:02Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T15:16:12Z",
+      "text": "2 new offer(s): LG 65 inch Class LG OLED AI B6 4K Smart , Play-Doh Rainbow Swirl Ice Cream Playset"
+    },
     {
       "at": "2026-11-07T15:05:57Z",
       "text": "1 new offer(s): 🚨 Use Promo Code: FIREHD25 for extra 25%"
@@ -1232,10 +1235,6 @@
     {
       "at": "2026-11-06T20:46:14Z",
       "text": "1 new offer(s): Girls' Coats & Jackets (4-16) at Macy's"
-    },
-    {
-      "at": "2026-11-06T20:35:49Z",
-      "text": "2 new offer(s): Clothing, Shoes and Accessories, Owala FreeSip Kids Stainless Steel Water"
     }
   ]
 }
