@@ -1,9 +1,64 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T00:34:35Z",
+  "lastScan": "2026-11-07T00:55:22Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACACE0503012C57E2CCA83BFA1A79F8F",
+      "store": "Wayfair",
+      "title": "Makeup Vanity With Lighted Mirror Charging Station & Storage Stool",
+      "price": "$122",
+      "was": "$169",
+      "discount": "28% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/JinkGQfkR7b",
+      "page": null,
+      "image": "img/wa/ACACE0503012C57E2CCA83BFA1A79F8F.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T00:46:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
+    {
+      "id": "wa-ACA10FA08F1C2251DFF8311CDA63BEA7",
+      "store": "Deal",
+      "title": "🚨 Login to an account & Apply promo code: SAVINGS & pay $160 & get back $45 Kohls Cash!",
+      "price": "$119",
+      "was": "$149",
+      "discount": "20% off",
+      "code": "SAVINGS",
+      "notes": "Cuisinart®️ Precision Master™️ 5.5-qt. Stand Mixer Use Code: SAVINGS",
+      "link": "https://mavely.app.link/q12vn5rcR7b",
+      "page": null,
+      "image": "img/wa/ACA10FA08F1C2251DFF8311CDA63BEA7.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T00:46:52Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACDADAC7AD46E2F8393DF8E66633F1FD",
+      "store": "Deal",
+      "title": "ANRABESS Women 2 Piece Sets Oversized Fleece Sweatsuits Fall Outfits",
+      "price": "$23",
+      "was": "$47",
+      "discount": "51% off",
+      "code": "18ULNGVB",
+      "notes": "Use Code:18ULNGVB",
+      "link": "https://blockbusterdeals.net/product/anrabess-women-2-piece-sets-oversized-fleece-sweatsuits-fall-outfits/",
+      "page": null,
+      "image": "img/wa/ACDADAC7AD46E2F8393DF8E66633F1FD.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T00:46:47Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC8C21BB95D969CE246DA748128F2120",
       "store": "Deal",
@@ -1057,61 +1112,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-ACD2E79BFA6F26155EB013FBD5C134B3",
-      "store": "Deal",
-      "title": "50% off + 20% off with coupon",
-      "price": "$25",
-      "was": null,
-      "discount": null,
-      "code": "SAVINGS",
-      "notes": "Christmas trees at Kohl's🔥 Use code SAVINGS",
-      "link": "https://mavely.app.link/ktss9sTEQ7b",
-      "page": null,
-      "image": "img/wa/ACD2E79BFA6F26155EB013FBD5C134B3.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T15:42:40Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC33D2A70B5CCA868C8EA6423DCAEF83",
-      "store": "Deal",
-      "title": "Wavytalk 1875W Blown Away Ionic Hair Dryer",
-      "price": "$19",
-      "was": "$49",
-      "discount": "61% off",
-      "code": "DA6KX1SN",
-      "notes": "Use Code DA6KX1SN",
-      "link": "https://blockbusterdeals.net/product/wavytalk-1875w-blown-away-ionic-hair-dryer/",
-      "page": null,
-      "image": "img/wa/AC33D2A70B5CCA868C8EA6423DCAEF83.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T15:38:13Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACE235C295EA2BB5960D4DE9A753363A",
-      "store": "Macy's",
-      "title": "Men's Prosper Wool-Blend Slim Fit Overcoat",
-      "price": "$99",
-      "was": "$425",
-      "discount": "77% off",
-      "code": null,
-      "notes": "Calvin Klein",
-      "link": "https://mavely.app.link/Rku6b5aEQ7b",
-      "page": null,
-      "image": "img/wa/ACE235C295EA2BB5960D4DE9A753363A.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T15:29:41Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T00:55:22Z",
+      "text": "3 new offer(s): Makeup Vanity With Lighted Mirror Chargi, 🚨 Login to an account & Apply promo code, ANRABESS Women 2 Piece Sets Oversized Fl"
+    },
     {
       "at": "2026-11-07T00:34:35Z",
       "text": "3 new offer(s): CHICME Womens Open Front Chunky Knit Car, NutriBullet Personal Blender 700W with T, Weekend Academy Girls Lace Charm Boat Sh"
@@ -1233,10 +1237,6 @@
     {
       "at": "2026-11-06T17:39:13Z",
       "text": "2 new offer(s): Get upto 40% off Tonies Starter Sets🔥 at, Disney's Squish Factory Squishmaker Pro "
-    },
-    {
-      "at": "2026-11-06T17:28:44Z",
-      "text": "3 new offer(s): Dash MultiMaker™️ Mini System Holiday Wa, CAROTE 12-Piece Kitchen Knife Set with B, Women's Watch in Black Faux Leather with"
     }
   ]
 }
