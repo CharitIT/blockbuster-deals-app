@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T15:46:49Z",
+  "lastScan": "2026-11-07T15:56:59Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC0FB23AA80C0E8EF90DABE2164136F0",
+      "store": "Deal",
+      "title": "Samsung 65-Inch Class S85H Series, OLED, 4K, Smart TV, 2026 Model | Samsung Vision AI, OLED HDR, NQ4 AI Gen2 Processor, 4K AI Upscaling, AI Sound Controller, Color Booster Pro, Alexa Built-in",
+      "price": "$899",
+      "was": "$1,597",
+      "discount": "44% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/samsung-65-inch-class-s85h-series-oled-4k-smart-tv-2026-model-samsung-vision-ai-oled-hdr-nq4-ai-gen2-processor-4k-ai-upscaling-ai-sound-controller-color-booster-pro-alexa-built-in/",
+      "page": null,
+      "image": "img/wa/AC0FB23AA80C0E8EF90DABE2164136F0.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T15:56:14Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACBAA01F9F8B854C45FF952BF3DBB8F0",
+      "store": "Walmart",
+      "title": "U.S. Polo Assn. Boys Fleece Pullover Hoodie, Sizes 4-18",
+      "price": "$4",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/nFhvQNmnS7b",
+      "page": null,
+      "image": "img/wa/ACBAA01F9F8B854C45FF952BF3DBB8F0.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T15:48:53Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC5B99818B49A84AB6634C8429D9D45B",
       "store": "Deal",
@@ -1072,43 +1109,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC95F6D4F6B8DD381482B9319B38F22E",
-      "store": "Deal",
-      "title": "Lunch Box Kids Girls Boys, Bento Box Adult, Toddler Lunch Containers for School, Leakproof Snack Containers with 6 Compartments ,Sauce Container,10 Food Picks and 4 Muffin Cups (Pink)",
-      "price": "$4",
-      "was": "$9",
-      "discount": "56% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/lunch-box-kids-girls-boys-bento-box-adult-toddler-lunch-containers-for-school-leakproof-snack-containers-with-6-compartments-sauce-container10-food-picks-and-4-muffin-cups-pink/",
-      "page": null,
-      "image": "img/wa/AC95F6D4F6B8DD381482B9319B38F22E.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:47:01Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACD4822B3A4F19934D3742674293C76C",
-      "store": "Target",
-      "title": "Get upto 40% off Tonies Starter Sets🔥 at Target",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "TODAY ONLY 🚨",
-      "link": "https://mavely.app.link/XvW2Dx9PQ7b",
-      "page": null,
-      "image": "img/wa/ACD4822B3A4F19934D3742674293C76C.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:37:33Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Target"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T15:56:59Z",
+      "text": "2 new offer(s): Samsung 65-Inch Class S85H Series, OLED,, U.S. Polo Assn. Boys Fleece Pullover Hoo"
+    },
     {
       "at": "2026-11-07T15:46:49Z",
       "text": "2 new offer(s): National Tree Company 3ft Pre-Lit Nordic, Warm White Christmas Lights Outdoor, 20F"
@@ -1230,10 +1234,6 @@
     {
       "at": "2026-11-06T21:38:13Z",
       "text": "2 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more "
-    },
-    {
-      "at": "2026-11-06T21:27:51Z",
-      "text": "3 new offer(s): L'Oreal Paris Revitalift Anti-Wrinkle an, 5 Pcs Round Stainless Steel Food Storage, Amazon Essentials Men's Vacation Cotton "
     }
   ]
 }
