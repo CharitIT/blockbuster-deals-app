@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T01:57:23Z",
+  "lastScan": "2026-11-07T02:07:40Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACF05704279CCB5B72A0AD8FE1FEE20E",
+      "store": "Deal",
+      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Link:",
+      "link": "https://theblogcm.com/566/eJi8",
+      "page": null,
+      "image": "img/wa/ACF05704279CCB5B72A0AD8FE1FEE20E.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T01:59:18Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACE653E30B6A7E4312E644CDA24A83A7",
+      "store": "Deal",
+      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
+      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
+      "page": null,
+      "image": "img/wa/ACE653E30B6A7E4312E644CDA24A83A7.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T01:59:12Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC5E974EE0AE3D16C215DD87D5E5625B",
       "store": "Deal",
@@ -1075,42 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACB376FA6D9F71603FF31FAE7047F875",
-      "store": "Deal",
-      "title": "Luggage & Suitcases at Kohl's🔥",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": "SAVINGS",
-      "notes": "65% off + 20% off witg coupon Use code SAVINGS",
-      "link": "https://mavely.app.link/GCU8VAbJQ7b",
-      "page": null,
-      "image": "img/wa/ACB376FA6D9F71603FF31FAE7047F875.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:00:35Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACF26522AB8B58829A5C236ABA0D39FE",
-      "store": "Deal",
-      "title": "💡 Protip: If you buy 21 total can mix & match you will earn a $15 Reward back Making it $35 for 21 towels or pillows! That's $1.xx Each!!!",
-      "price": "As low as $1",
-      "was": null,
-      "discount": null,
-      "code": "SAVINGS",
-      "notes": "RUN! Pillows & Bath Towels 🚨 Apply Promo Code: SAVINGS (Must login or create free account to use) 1️⃣ $2 Bath Towels 👇 2️⃣ $2 Pillows 🔗👇",
-      "link": "https://mavely.app.link/fTjeceSMQ7b",
-      "page": null,
-      "image": "img/wa/ACF26522AB8B58829A5C236ABA0D39FE.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T16:54:47Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T02:07:40Z",
+      "text": "2 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital"
+    },
     {
       "at": "2026-11-07T01:57:23Z",
       "text": "2 new offer(s): BALENNZ Mens Athletic Shorts with Pocket, Auden Women’s Pajama Sets🔥 at Target"
@@ -1232,10 +1236,6 @@
     {
       "at": "2026-11-06T20:25:21Z",
       "text": "1 new offer(s): Machine Washable Non-Slip Kitchen Mat (S"
-    },
-    {
-      "at": "2026-11-06T20:14:58Z",
-      "text": "1 new offer(s): Use codes WARMUP and EXTRA at checkout"
     }
   ]
 }
