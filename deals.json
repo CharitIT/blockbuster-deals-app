@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T15:26:28Z",
+  "lastScan": "2026-11-07T15:36:40Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC660CB95B23D3C6060CAFEEC5B31BE8",
+      "store": "Deal",
+      "title": "Bedsure Soft Cozy Fluffy Comfort Throw Blanket for Bed, White, 50\"x60\"",
+      "price": "$11",
+      "was": "$28",
+      "discount": "61% off",
+      "code": "413037TF",
+      "notes": "Use code 413037TF",
+      "link": "https://blockbusterdeals.net/product/bedsure-soft-cozy-fluffy-comfort-throw-blanket-for-bed-white-50x60/",
+      "page": null,
+      "image": "img/wa/AC660CB95B23D3C6060CAFEEC5B31BE8.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T15:29:56Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACA8D304B2A0FF3B122AF04CA4689F2C",
       "store": "Walmart",
@@ -1091,25 +1109,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACA51FBA3F344416405DFC40411B84D7",
-      "store": "Walmart",
-      "title": "CAROTE 12-Piece Kitchen Knife Set with Blade Guards, White Granite Ceramic Knife, Stainless Steel",
-      "price": "$14",
-      "was": "$29",
-      "discount": "52% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/tDI4lS3rP7b",
-      "page": null,
-      "image": "img/wa/ACA51FBA3F344416405DFC40411B84D7.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:27:11Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T15:36:40Z",
+      "text": "1 new offer(s): Bedsure Soft Cozy Fluffy Comfort Throw B"
+    },
     {
       "at": "2026-11-07T15:26:28Z",
       "text": "1 new offer(s): Prettycare Cordless Vacuum Cleaner,30Kpa"
@@ -1231,10 +1234,6 @@
     {
       "at": "2026-11-06T21:17:27Z",
       "text": "2 new offer(s): Calvin Klein Obsession Eau de Parfum – A, Use code SAVINGS at checkout"
-    },
-    {
-      "at": "2026-11-06T20:56:38Z",
-      "text": "2 new offer(s): Apple iPhone 18 Pro Silicone Case with M, Dolce&Gabbana Q Eau de Parfum Intense wi"
     }
   ]
 }
