@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T15:16:12Z",
+  "lastScan": "2026-11-07T15:26:28Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACA8D304B2A0FF3B122AF04CA4689F2C",
+      "store": "Walmart",
+      "title": "Prettycare Cordless Vacuum Cleaner,30Kpa 40min 6-in-1 Upright Stick Vacuum Cleaner for Pet Hair Carpets Floors with LED light",
+      "price": "$59",
+      "was": "$129",
+      "discount": "54% off",
+      "code": null,
+      "notes": "Free Shipping",
+      "link": "https://mavely.app.link/6fQQvfjhS7b",
+      "page": null,
+      "image": "img/wa/ACA8D304B2A0FF3B122AF04CA4689F2C.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T15:23:43Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC49712E877B47B50D94D95DEF289B3A",
       "store": "Deal",
@@ -1091,25 +1110,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC192CB7A55F27D3734FB299CB86A308",
-      "store": "Macy's",
-      "title": "Women's Watch in Black Faux Leather with Gold-Tone Lugs, 24x36.3mm",
-      "price": "$37",
-      "was": "$75",
-      "discount": "51% off",
-      "code": null,
-      "notes": "Anne Klein Free shipping",
-      "link": "https://mavely.app.link/lkxeNC3MQ7b",
-      "page": null,
-      "image": "img/wa/AC192CB7A55F27D3734FB299CB86A308.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:17:50Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T15:26:28Z",
+      "text": "1 new offer(s): Prettycare Cordless Vacuum Cleaner,30Kpa"
+    },
     {
       "at": "2026-11-07T15:16:12Z",
       "text": "2 new offer(s): LG 65 inch Class LG OLED AI B6 4K Smart , Play-Doh Rainbow Swirl Ice Cream Playset"
@@ -1231,10 +1235,6 @@
     {
       "at": "2026-11-06T20:56:38Z",
       "text": "2 new offer(s): Apple iPhone 18 Pro Silicone Case with M, Dolce&Gabbana Q Eau de Parfum Intense wi"
-    },
-    {
-      "at": "2026-11-06T20:46:14Z",
-      "text": "1 new offer(s): Girls' Coats & Jackets (4-16) at Macy's"
     }
   ]
 }
