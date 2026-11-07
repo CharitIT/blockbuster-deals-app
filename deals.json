@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T16:17:20Z",
+  "lastScan": "2026-11-07T16:27:34Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8E66AEBB49532351B37F39D88A8B56",
+      "store": "Macy's",
+      "title": "Teddi Extra Small Slouchy Adjustable Crossbody Handbag",
+      "price": "$99",
+      "was": "$199",
+      "discount": "50% off",
+      "code": null,
+      "notes": "MICHAEL KORS",
+      "link": "https://mavely.app.link/plgfGQwjS7b",
+      "page": null,
+      "image": "img/wa/AC8E66AEBB49532351B37F39D88A8B56.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T16:24:44Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-ACDF3D5FA7766745168F5BDB7FB4CE8C",
+      "store": "Deal",
+      "title": "Robot Vacuum,11500Pa Suction,LiDAR Navigation,Self-Emptying,Pet Hair",
+      "price": "$269",
+      "was": "$1,029",
+      "discount": "74% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/robot-vacuum/",
+      "page": null,
+      "image": "img/wa/ACDF3D5FA7766745168F5BDB7FB4CE8C.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T16:21:52Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACB0A686AB17B07AA3469664E5CFE80B",
       "store": "Walmart",
@@ -1073,42 +1110,6 @@
       "merchant": "Best Buy"
     },
     {
-      "id": "wa-AC31264F75A573BF5A4494C026B4FC59",
-      "store": "Deal",
-      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Link:",
-      "link": "https://theblogcm.com/566/eJi8",
-      "page": null,
-      "image": "img/wa/AC31264F75A573BF5A4494C026B4FC59.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:59:21Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC2D2FF4029CD41FC649719200ED684F",
-      "store": "Deal",
-      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
-      "price": "$20",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
-      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
-      "page": null,
-      "image": "img/wa/AC2D2FF4029CD41FC649719200ED684F.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:59:15Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T16:27:34Z",
+      "text": "2 new offer(s): Teddi Extra Small Slouchy Adjustable Cro, Robot Vacuum,11500Pa Suction,LiDAR Navig"
+    },
     {
       "at": "2026-11-07T16:17:20Z",
       "text": "2 new offer(s): Character Toddler Boy Rash Guard Swim Se, Keurig®️ K-Duo Gen 2 Hot & Iced Single S"
@@ -1230,10 +1235,6 @@
     {
       "at": "2026-11-06T23:32:17Z",
       "text": "1 new offer(s): 🚨Plus Earn $15Kohl's Cash For Every $50 "
-    },
-    {
-      "at": "2026-11-06T23:21:55Z",
-      "text": "2 new offer(s): Tec-One Men’s Colorblock Ski Snowboard H, Nanobebe Flexy Silicone Baby Bottle, Ant"
     }
   ]
 }
