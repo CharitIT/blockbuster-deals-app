@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-06T23:53:04Z",
+  "lastScan": "2026-11-07T00:13:49Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC6651C0909FB0DE65819E28552FEC2C",
+      "store": "Deal",
+      "title": "Womens Sweaters Long Sleeve Quarter Zip Lightweight Sweatshirt",
+      "price": "$9",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/womens-sweaters-long-sleeve-quarter-zip-lightweight-sweatshirt/",
+      "page": null,
+      "image": "img/wa/AC6651C0909FB0DE65819E28552FEC2C.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T00:04:16Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACF270F64C23638BB52FF46128D9EDD8",
+      "store": "Deal",
+      "title": "Authentic Royal Basmati White Rice, 15 lbs (Pack of 2)",
+      "price": "$27",
+      "was": "$49",
+      "discount": "45% off",
+      "code": null,
+      "notes": "Subscribe and save",
+      "link": "https://blockbusterdeals.net/product/authentic-royal-basmati-white-rice-15-lbs-pack-of-2-6/",
+      "page": null,
+      "image": "img/wa/ACF270F64C23638BB52FF46128D9EDD8.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T00:04:10Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC8EBE975FCD1F1E6A01838B8D68E19F",
       "store": "Macy's",
@@ -1076,43 +1112,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACA337C086BE337D41FD632ADD65EEF6",
-      "store": "Walmart",
-      "title": "Beautiful 2-Speed Immersion Blender with Chopper & Measuring Cup, Lavender by Drew Barrymore",
-      "price": "$16",
-      "was": "$32",
-      "discount": "50% off",
-      "code": null,
-      "notes": "RUN!",
-      "link": "https://mavely.app.link/B9NIIiSDQ7b",
-      "page": null,
-      "image": "img/wa/ACA337C086BE337D41FD632ADD65EEF6.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T15:20:31Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC67C75FF3FB1933919EA531AABC2B95",
-      "store": "Deal",
-      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Link:",
-      "link": "https://theblogcm.com/566/eJi8",
-      "page": null,
-      "image": "img/wa/AC67C75FF3FB1933919EA531AABC2B95.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T01:59:50Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1159,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T00:13:49Z",
+      "text": "2 new offer(s): Womens Sweaters Long Sleeve Quarter Zip , Authentic Royal Basmati White Rice, 15 l"
+    },
     {
       "at": "2026-11-06T23:53:04Z",
       "text": "2 new offer(s): Club Room Men's Solid Turtleneck Shirt, Amazon Essentials Men's Standard-Fit Lon"
@@ -1234,10 +1237,6 @@
     {
       "at": "2026-11-06T17:18:09Z",
       "text": "2 new offer(s): Get Upto 65% off Hoodies, Sweaters, Jack, Keurig®️ K-Duo Gen 2 Hot & Iced Single S"
-    },
-    {
-      "at": "2026-11-06T17:07:45Z",
-      "text": "2 new offer(s): 🚨 Plus for every $50 spent earn back $15, Luggage & Suitcases at Kohl's🔥"
     }
   ]
 }
