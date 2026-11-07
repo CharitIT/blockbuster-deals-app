@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T16:07:08Z",
+  "lastScan": "2026-11-07T16:17:20Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB0A686AB17B07AA3469664E5CFE80B",
+      "store": "Walmart",
+      "title": "Character Toddler Boy Rash Guard Swim Set, 2- Pieces, Sizes 12M- 5T",
+      "price": "$5",
+      "was": "$19",
+      "discount": "74% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/eaiOUZkiS7b",
+      "page": null,
+      "image": "img/wa/ACB0A686AB17B07AA3469664E5CFE80B.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T16:14:54Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC9E342D9C4F07E808DD0CF9E973FEAB",
+      "store": "Deal",
+      "title": "Keurig®️ K-Duo Gen 2 Hot & Iced Single Serve & Carafe Coffee Maker",
+      "price": "$103",
+      "was": "$259",
+      "discount": "60% off",
+      "code": "SAVINGS",
+      "notes": "Use code SAVINGS at checkout or clip coupon",
+      "link": "https://mavely.app.link/jmur4YziS7b",
+      "page": null,
+      "image": "img/wa/AC9E342D9C4F07E808DD0CF9E973FEAB.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T16:10:22Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC56EDB6DA13E80F9A94031CB435FE6A",
       "store": "Macy's",
@@ -1072,43 +1109,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC5784C529C6E83AF6089F078FEBC48D",
-      "store": "Deal",
-      "title": "1/24 Remote Control Car Cyber RC Truck, RC Cars with Colorful Lights",
-      "price": "$12",
-      "was": "$25",
-      "discount": "52% off",
-      "code": "J4CF1VQ4",
-      "notes": "Use code:J4CF1VQ4",
-      "link": "https://blockbusterdeals.net/product/1-24-remote-control-car-cyber-rc-truck-rc-cars-with-colorful-lights/",
-      "page": null,
-      "image": "img/wa/AC5784C529C6E83AF6089F078FEBC48D.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:59:08Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC744EE8803D558C09C9990DA7D7C061",
-      "store": "Walmart",
-      "title": "Gaming Chair, Seenda Video Game Chair with Footrest and Lumbar Support, Ergonomic Computer Chair Height Adjustable with Swivel Seat and Headrest, Red",
-      "price": "$79",
-      "was": "$129",
-      "discount": "39% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/EtB3uuAPQ7b",
-      "page": null,
-      "image": "img/wa/AC744EE8803D558C09C9990DA7D7C061.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:50:40Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T16:17:20Z",
+      "text": "2 new offer(s): Character Toddler Boy Rash Guard Swim Se, Keurig®️ K-Duo Gen 2 Hot & Iced Single S"
+    },
     {
       "at": "2026-11-07T16:07:08Z",
       "text": "1 new offer(s): Women's Loven Low Profile Lace-Up Sneake"
@@ -1230,10 +1234,6 @@
     {
       "at": "2026-11-06T23:21:55Z",
       "text": "2 new offer(s): Tec-One Men’s Colorblock Ski Snowboard H, Nanobebe Flexy Silicone Baby Bottle, Ant"
-    },
-    {
-      "at": "2026-11-06T23:11:30Z",
-      "text": "1 new offer(s): Michael Kors Designer Clearance🔥🔥"
     }
   ]
 }
