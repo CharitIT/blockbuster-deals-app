@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T15:36:40Z",
+  "lastScan": "2026-11-07T15:46:49Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC5B99818B49A84AB6634C8429D9D45B",
+      "store": "Deal",
+      "title": "National Tree Company 3ft Pre-Lit Nordic Spruce Mini Christmas Tree",
+      "price": "$39",
+      "was": "$116",
+      "discount": "66% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/national-tree-company-3ft-pre-lit-nordic-spruce-mini-christmas-tree/",
+      "page": null,
+      "image": "img/wa/AC5B99818B49A84AB6634C8429D9D45B.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T15:45:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC19C28348AE7EEAD00670AC0AC8B3C9",
+      "store": "Deal",
+      "title": "Warm White Christmas Lights Outdoor, 20FT 100 Count Incandescent Christmas Light Indoor, Waterproof Christmas Tree String Lights for Xmas Decorations",
+      "price": "$8",
+      "was": "$39",
+      "discount": "79% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/warm-white-christmas-lights-outdoor-20ft-100-count-incandescent-christmas-light-indoor-waterproof-christmas-tree-string-lights-for-xmas-decorations/",
+      "page": null,
+      "image": "img/wa/AC19C28348AE7EEAD00670AC0AC8B3C9.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T15:39:53Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC660CB95B23D3C6060CAFEEC5B31BE8",
       "store": "Deal",
@@ -1073,42 +1109,6 @@
       "merchant": "Target"
     },
     {
-      "id": "wa-AC6C6AA9EDAC590A2ED3300DBC8A4C6B",
-      "store": "Deal",
-      "title": "Disney's Squish Factory Squishmaker Pro Kit 38-Piece Set",
-      "price": "$14",
-      "was": "$19",
-      "discount": "26% off",
-      "code": null,
-      "notes": "🎁Earn 5% Kohl's Rewards®️",
-      "link": "https://mavely.app.link/fPmEFKaPQ7b",
-      "page": null,
-      "image": "img/wa/AC6C6AA9EDAC590A2ED3300DBC8A4C6B.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:37:26Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC8D77AC0382105BADED74FF2A90FAD9",
-      "store": "Deal",
-      "title": "Dash MultiMaker™️ Mini System Holiday Waffle Maker with Removable Plates",
-      "price": "$20",
-      "was": "$39",
-      "discount": "49% off",
-      "code": "SAVINGS",
-      "notes": "Use Code: SAVINGS Free shipping",
-      "link": "https://mavely.app.link/TRBt1jFNQ7b",
-      "page": null,
-      "image": "img/wa/AC8D77AC0382105BADED74FF2A90FAD9.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T17:27:20Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T15:46:49Z",
+      "text": "2 new offer(s): National Tree Company 3ft Pre-Lit Nordic, Warm White Christmas Lights Outdoor, 20F"
+    },
     {
       "at": "2026-11-07T15:36:40Z",
       "text": "1 new offer(s): Bedsure Soft Cozy Fluffy Comfort Throw B"
@@ -1230,10 +1234,6 @@
     {
       "at": "2026-11-06T21:27:51Z",
       "text": "3 new offer(s): L'Oreal Paris Revitalift Anti-Wrinkle an, 5 Pcs Round Stainless Steel Food Storage, Amazon Essentials Men's Vacation Cotton "
-    },
-    {
-      "at": "2026-11-06T21:17:27Z",
-      "text": "2 new offer(s): Calvin Klein Obsession Eau de Parfum – A, Use code SAVINGS at checkout"
     }
   ]
 }
