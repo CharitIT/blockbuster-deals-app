@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-07T01:05:43Z",
+  "lastScan": "2026-11-07T01:26:25Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACC7A6F7BFBA77D1223E9AD5E78598BC",
+      "store": "Deal",
+      "title": "LeapFrog LeapMove Active Learning Video Game System",
+      "price": "$37",
+      "was": "$69",
+      "discount": "46% off",
+      "code": null,
+      "notes": "Clip coupon",
+      "link": "https://blockbusterdeals.net/product/leapfrog-leapmove-active-learning-video-game-system/",
+      "page": null,
+      "image": "img/wa/ACC7A6F7BFBA77D1223E9AD5E78598BC.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T01:17:39Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACE38CEC5D2C8336E30ED1D776309D2C",
+      "store": "Deal",
+      "title": "STANLEY IceFlow 2.0 Flip Straw Tumbler, 30 oz, Champagne",
+      "price": "$26",
+      "was": "$35",
+      "discount": "26% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/stanley-iceflow-2-0-flip-straw-tumbler-30-oz-champagne/",
+      "page": null,
+      "image": "img/wa/ACE38CEC5D2C8336E30ED1D776309D2C.jpg",
+      "category": null,
+      "postedAt": "2026-11-07T01:17:36Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC688B03232C879823DC10CD099FB1BD",
       "store": "Sephora",
@@ -1075,43 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC39B4A8D9F667BD9523569752E93297",
-      "store": "Deal",
-      "title": "Mattel Disney and Pixar Toy Story 5 Ultimate Action Buzz Lightyear",
-      "price": "$47",
-      "was": "$99",
-      "discount": "53% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/mattel-disney-and-pixar-toy-story-5-ultimate-action-buzz-lightyear/",
-      "page": null,
-      "image": "img/wa/AC39B4A8D9F667BD9523569752E93297.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T16:16:09Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC79215A0FF5EE6C23B23C35893A4E45",
-      "store": "Walmart",
-      "title": "Crock-Pot 7 Quart Manual Slow Cooker with 3 Heat Settings, Large Slow Cooker with Dishwasher Safe Stoneware Pot, Denim",
-      "price": "$34",
-      "was": "$79",
-      "discount": "57% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/OYIIqmyEQ7b",
-      "page": null,
-      "image": "img/wa/AC79215A0FF5EE6C23B23C35893A4E45.jpg",
-      "category": null,
-      "postedAt": "2026-11-06T16:06:23Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-07T01:26:25Z",
+      "text": "2 new offer(s): LeapFrog LeapMove Active Learning Video , STANLEY IceFlow 2.0 Flip Straw Tumbler, "
+    },
     {
       "at": "2026-11-07T01:05:43Z",
       "text": "2 new offer(s): Sephora EVERYTHING Is on Sale🔥, GRACE KARIN Essential Solid Open Front M"
@@ -1233,10 +1236,6 @@
     {
       "at": "2026-11-06T18:00:07Z",
       "text": "4 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital, 1/24 Remote Control Car Cyber RC Truck, "
-    },
-    {
-      "at": "2026-11-06T17:49:42Z",
-      "text": "2 new offer(s): Shark StainForce Cordless Spot, Stain, &, Lunch Box Kids Girls Boys, Bento Box Adu"
     }
   ]
 }
