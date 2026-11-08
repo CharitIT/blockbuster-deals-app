@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T15:08:25Z",
+  "lastScan": "2026-11-08T15:18:44Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC68387DEDE964C778AACB823A54FA81",
+      "store": "Kohl's",
+      "title": "Rubbermaid EasyStore Special Edition Nesting 26-Piece Food Storage Container Set",
+      "price": "$9",
+      "was": "$24",
+      "discount": "62% off",
+      "code": "SAVINGS",
+      "notes": "Use code SAVINGS at checkout Free Shipping with $25 purchase",
+      "link": "https://mavely.app.link/eyiQVKEXT7b",
+      "page": null,
+      "image": "img/wa/AC68387DEDE964C778AACB823A54FA81.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T15:16:53Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Kohl's"
+    },
+    {
+      "id": "wa-AC15FB6D4EBD1B4E6457930676EB970C",
+      "store": "Walmart",
+      "title": "Character Licensed Union Suit Pajamas with Pockets, Sizes XS-3X",
+      "price": "$11",
+      "was": "$22",
+      "discount": "50% off",
+      "code": null,
+      "notes": "Free Shipping with $25 purchase",
+      "link": "https://mavely.app.link/V1pLwcuXT7b",
+      "page": null,
+      "image": "img/wa/AC15FB6D4EBD1B4E6457930676EB970C.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T15:11:44Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC128823E9F89ED02E4CA7288FD580D3",
       "store": "Deal",
@@ -1070,42 +1108,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACBAC11C18FEBDDC9CA4F895DF446567",
-      "store": "Deal",
-      "title": "JBL Vibe Beam - True Wireless Earbuds - Black",
-      "price": "$29",
-      "was": "$49",
-      "discount": "41% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/jbl-vibe-beam-true-wireless-earbuds-black/",
-      "page": null,
-      "image": "img/wa/ACBAC11C18FEBDDC9CA4F895DF446567.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T16:59:15Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACBDF8C69DDD90B54BD72DC1B9A42800",
-      "store": "Deal",
-      "title": "ROYAL CRAFT WOOD Wooden Cutting Boards for Kitchen Meal Prep & Serving - Bamboo Wood Serving Board Set with Deep Juice Groove Side Handles - Charcuterie & Chopping Butcher Block for Meat",
-      "price": "$9",
-      "was": "$19",
-      "discount": "53% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/royal-craft-wood-wooden-cutting-boards-for-kitchen/",
-      "page": null,
-      "image": "img/wa/ACBDF8C69DDD90B54BD72DC1B9A42800.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T16:49:15Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1152,6 +1154,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T15:18:44Z",
+      "text": "2 new offer(s): Rubbermaid EasyStore Special Edition Nes, Character Licensed Union Suit Pajamas wi"
+    },
     {
       "at": "2026-11-08T15:08:25Z",
       "text": "1 new offer(s): Nike socks at Kohl's 🔥"
@@ -1227,10 +1233,6 @@
     {
       "at": "2026-11-07T01:57:23Z",
       "text": "2 new offer(s): BALENNZ Mens Athletic Shorts with Pocket, Auden Women’s Pajama Sets🔥 at Target"
-    },
-    {
-      "at": "2026-11-07T01:47:02Z",
-      "text": "3 new offer(s): At home Black Friday Deals 🔥, Rubbermaid EasyStore Special Edition Nes, BTFBM Off The Shoulder Fall Sweaters, Ri"
     }
   ]
 }
