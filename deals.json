@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T20:29:39Z",
+  "lastScan": "2026-11-08T21:00:55Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC4EFB7277DDB5803279C0CE52028B77",
+      "store": "Deal",
+      "title": "Cetaphil Gentle Cleanser, Hydrating Face Wash, Travel Size, 2oz, 12ct",
+      "price": "$15",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Subscribe and save",
+      "link": "https://blockbusterdeals.net/product/cetaphil-gentle-cleanser/",
+      "page": null,
+      "image": "img/wa/AC4EFB7277DDB5803279C0CE52028B77.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T20:52:48Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC556C82DC654F70E36A37835D2B325B",
       "store": "Deal",
@@ -1095,24 +1113,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC52DEDC59662E726ACC4D8AB6B73EBA",
-      "store": "Deal",
-      "title": "RUNBOX Genuine Leather Bifold Wallet for Men, Slim RFID Pop-Up Card Holder",
-      "price": "$35",
-      "was": "$43",
-      "discount": "19% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/runbox-genuine-leather-bifold-wallet-for-men-slim-rfid-pop-up-card-holder/",
-      "page": null,
-      "image": "img/wa/AC52DEDC59662E726ACC4D8AB6B73EBA.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T00:50:33Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1159,6 +1159,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T21:00:55Z",
+      "text": "1 new offer(s): Cetaphil Gentle Cleanser, Hydrating Face"
+    },
     {
       "at": "2026-11-08T20:29:39Z",
       "text": "2 new offer(s): FREE STANDARD SHIPPING WITH ADICLUB, Ring Indoor Cam 2K, Plug-In - Retinal 2K"
@@ -1234,10 +1238,6 @@
     {
       "at": "2026-11-08T15:39:22Z",
       "text": "2 new offer(s): U.S. Polo Assn. Men's Long Sleeve Oxford, U.S. Polo Assn. Men’s Modern Full-Zip Ja"
-    },
-    {
-      "at": "2026-11-08T15:29:03Z",
-      "text": "1 new offer(s): Reversible Extra-Large Tote Bag"
     }
   ]
 }
