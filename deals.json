@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T15:29:03Z",
+  "lastScan": "2026-11-08T15:39:22Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACA27F6816136C2CC3B1A4C009B979CD",
+      "store": "Walmart",
+      "title": "U.S. Polo Assn. Men's Long Sleeve Oxford Shirts",
+      "price": "$12",
+      "was": "$23",
+      "discount": "48% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/9wwLZ0RYT7b",
+      "page": null,
+      "image": "img/wa/ACA27F6816136C2CC3B1A4C009B979CD.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T15:38:07Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC9E79CF9FD65D75771BDD4FB37F8D33",
+      "store": "Walmart",
+      "title": "U.S. Polo Assn. Men’s Modern Full-Zip Jacket",
+      "price": "$13",
+      "was": "$30",
+      "discount": "57% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/KZiQTnKYT7b",
+      "page": null,
+      "image": "img/wa/AC9E79CF9FD65D75771BDD4FB37F8D33.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T15:30:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC84AEC5F68F51DBE904250AEB5C7437",
       "store": "Macy's",
@@ -1072,43 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC918D7E1AD75ED3EF6E002E8EFEF3E7",
-      "store": "Under Armour",
-      "title": "Under Armour Men's Charged Assert 10 Running Shoes",
-      "price": "$31",
-      "was": "$75",
-      "discount": "59% off",
-      "code": null,
-      "notes": "Use Codes: WARMUP & EXTRA",
-      "link": "https://go.magik.ly/ml/4oqa2/",
-      "page": null,
-      "image": "img/wa/AC918D7E1AD75ED3EF6E002E8EFEF3E7.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T17:16:04Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-AC1585A05A42B14658EDB439E2312064",
-      "store": "Deal",
-      "title": "Hot Wheels City Shark Chomp Beach Playset Just and 1:64 Scale Toy Car",
-      "price": "$13",
-      "was": "$32",
-      "discount": "59% off",
-      "code": null,
-      "notes": "Clip Coupon",
-      "link": "https://blockbusterdeals.net/product/hot-wheels-city-shark-chomp-beach-playset-just-and-164-scale-toy-car/",
-      "page": null,
-      "image": "img/wa/AC1585A05A42B14658EDB439E2312064.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T17:16:02Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T15:39:22Z",
+      "text": "2 new offer(s): U.S. Polo Assn. Men's Long Sleeve Oxford, U.S. Polo Assn. Men’s Modern Full-Zip Ja"
+    },
     {
       "at": "2026-11-08T15:29:03Z",
       "text": "1 new offer(s): Reversible Extra-Large Tote Bag"
@@ -1230,10 +1235,6 @@
     {
       "at": "2026-11-07T15:05:57Z",
       "text": "1 new offer(s): 🚨 Use Promo Code: FIREHD25 for extra 25%"
-    },
-    {
-      "at": "2026-11-07T02:07:40Z",
-      "text": "2 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital"
     }
   ]
 }
