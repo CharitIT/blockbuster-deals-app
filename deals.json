@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T16:10:28Z",
+  "lastScan": "2026-11-08T16:20:50Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACC2A9FF644290CB01C7F857D225C1A1",
+      "store": "Walmart",
+      "title": "Carters of Mine Clearance",
+      "price": "$1",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "As low As",
+      "link": "https://mavely.app.link/MrqsasJ1T7b",
+      "page": null,
+      "image": "img/wa/ACC2A9FF644290CB01C7F857D225C1A1.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T16:12:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC498BC3C99670FE3152408AA4C9B3BB",
       "store": "Deal",
@@ -1091,24 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACCD22DD3CE883D43E8DBE71AA581727",
-      "store": "Deal",
-      "title": "TOYOCO Ceramic Window Tint Kits& Tools, 30 in x 10 ft",
-      "price": "$12",
-      "was": "$30",
-      "discount": "60% off",
-      "code": "HN1OFJL5",
-      "notes": "Use code: HN1OFJL5",
-      "link": "https://blockbusterdeals.net/product/toyoco-ceramic-window-tint-kits-tools-30-in-x-10-ft/",
-      "page": null,
-      "image": "img/wa/ACCD22DD3CE883D43E8DBE71AA581727.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T17:50:08Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T16:20:50Z",
+      "text": "1 new offer(s): Carters of Mine Clearance"
+    },
     {
       "at": "2026-11-08T16:10:28Z",
       "text": "2 new offer(s): Glad Kitchen Utensils Set, 8pcs - Nonsti, Shark FlexStyle Air Multi-Styler & Dryin"
@@ -1230,10 +1235,6 @@
     {
       "at": "2026-11-07T15:46:49Z",
       "text": "2 new offer(s): National Tree Company 3ft Pre-Lit Nordic, Warm White Christmas Lights Outdoor, 20F"
-    },
-    {
-      "at": "2026-11-07T15:36:40Z",
-      "text": "1 new offer(s): Bedsure Soft Cozy Fluffy Comfort Throw B"
     }
   ]
 }
