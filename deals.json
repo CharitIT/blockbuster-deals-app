@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T16:00:05Z",
+  "lastScan": "2026-11-08T16:10:28Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC498BC3C99670FE3152408AA4C9B3BB",
+      "store": "Deal",
+      "title": "Glad Kitchen Utensils Set, 8pcs - Nonstick Cooking Tools with Stainless Steel Handles & Rotating Utensil Holder - Turners, Ladle, Spoon, Tongs, Spaghetti Server, and Skimmer - Dishwasher Safe, Grey",
+      "price": "$14",
+      "was": "$24",
+      "discount": "42% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/glad-kitchen-utensils-set-8pcs-nonstick-cooking-tools-with-stainless-steel-handles-rotating-utensil-holder-turners-ladle-spoon-tongs-spaghetti-server-and-skimmer-dishwasher-safe-grey/",
+      "page": null,
+      "image": "img/wa/AC498BC3C99670FE3152408AA4C9B3BB.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T16:05:43Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC930581EC0AF086B5F6F03D3B041C6D",
+      "store": "Deal",
+      "title": "Shark FlexStyle Air Multi-Styler & Drying System w/4 Heat Settings",
+      "price": "$199",
+      "was": "$314",
+      "discount": "37% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/shark-flexstyle-air-multi-styler-drying/",
+      "page": null,
+      "image": "img/wa/AC930581EC0AF086B5F6F03D3B041C6D.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T16:00:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC41D6B639D37F7557BEEFCF8B6B9EAF",
       "store": "Deal",
@@ -1073,43 +1109,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC0424DA6AEED356778AC89D788EEF9C",
-      "store": "Wayfair",
-      "title": "Christmas Lights 🔥At Wayfair",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/jKvSkyctS7b",
-      "page": null,
-      "image": "img/wa/AC0424DA6AEED356778AC89D788EEF9C.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T17:42:56Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Wayfair"
-    },
-    {
-      "id": "wa-ACFD09DF7F6406C2A848044F5A4021FA",
-      "store": "Deal",
-      "title": "PRETTYGARDEN Women's Henley Cozy Sweaters Button Up Pullover",
-      "price": "$18",
-      "was": "$37",
-      "discount": "51% off",
-      "code": "5IZG4FIS",
-      "notes": "Get 10% off at checkout automatically & Use Code: 5IZG4FIS",
-      "link": "https://blockbusterdeals.net/product/prettygarden-womens-henley-cozy-sweaters-button-up-pullover/",
-      "page": null,
-      "image": "img/wa/ACFD09DF7F6406C2A848044F5A4021FA.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T17:36:30Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T16:10:28Z",
+      "text": "2 new offer(s): Glad Kitchen Utensils Set, 8pcs - Nonsti, Shark FlexStyle Air Multi-Styler & Dryin"
+    },
     {
       "at": "2026-11-08T16:00:05Z",
       "text": "1 new offer(s): FREE STANDARD SHIPPING WITH ADICLUB"
@@ -1231,10 +1234,6 @@
     {
       "at": "2026-11-07T15:36:40Z",
       "text": "1 new offer(s): Bedsure Soft Cozy Fluffy Comfort Throw B"
-    },
-    {
-      "at": "2026-11-07T15:26:28Z",
-      "text": "1 new offer(s): Prettycare Cordless Vacuum Cleaner,30Kpa"
     }
   ]
 }
