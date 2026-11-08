@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T02:56:49Z",
+  "lastScan": "2026-11-08T03:07:08Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACA6B7D2870D89AE6FB1F43DFBA2BAA6",
+      "store": "Deal",
+      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
+      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
+      "page": null,
+      "image": "img/wa/ACA6B7D2870D89AE6FB1F43DFBA2BAA6.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T02:59:38Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC66C1A2A321EC1D0D0358EB54C963A8",
+      "store": "Deal",
+      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Link:",
+      "link": "https://theblogcm.com/566/eJi8",
+      "page": null,
+      "image": "img/wa/AC66C1A2A321EC1D0D0358EB54C963A8.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T02:57:52Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACFEF1A6017AEBBD7A1D4EF0E48D226D",
       "store": "Deal",
@@ -1070,44 +1106,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACD8E84833E7B993074A1874446746FA",
-      "store": "Kohl's",
-      "title": "Under Armour Charged+ Assert 11 Women's Running Shoes",
-      "price": "$56",
-      "was": "$75",
-      "discount": "25% off",
-      "code": null,
-      "notes": "Earn 5% Kohl's Rewards®️ on this item today.",
-      "link": "https://mavely.app.link/TejFRjMjS7b",
-      "page": null,
-      "image": "img/wa/ACD8E84833E7B993074A1874446746FA.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T16:37:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Kohl's"
-    },
-    {
-      "id": "wa-AC089A2A75BDA386CAE94201BBD89519",
-      "store": "Walmart",
-      "title": "ASUDESIRE 3 Pack Men's Sweatpants Straight Active Athletic Pants Running Workout Gym Pants with Pockets",
-      "price": "$29",
-      "was": "$49",
-      "discount": "41% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/RougdaEjS7b",
-      "page": null,
-      "image": "img/wa/AC089A2A75BDA386CAE94201BBD89519.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T16:31:04Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1154,6 +1152,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T03:07:08Z",
+      "text": "2 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more "
+    },
     {
       "at": "2026-11-08T02:56:49Z",
       "text": "2 new offer(s): HEBE Fall Kitchen Rugs Set of 3, Washabl, Hudson Baby Unisex Baby Flannel Burp Clo"
@@ -1229,10 +1231,6 @@
     {
       "at": "2026-11-07T01:26:25Z",
       "text": "2 new offer(s): LeapFrog LeapMove Active Learning Video , STANLEY IceFlow 2.0 Flip Straw Tumbler, "
-    },
-    {
-      "at": "2026-11-07T01:05:43Z",
-      "text": "2 new offer(s): Sephora EVERYTHING Is on Sale🔥, GRACE KARIN Essential Solid Open Front M"
     }
   ]
 }
