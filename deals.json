@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T02:25:46Z",
+  "lastScan": "2026-11-08T02:36:08Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC9A20997D492CB20F27241D3239C693",
+      "store": "Walmart",
+      "title": "Ozark Trail Folding Hard-Arm Camping Chair With Carry Bag and Cup Holder",
+      "price": "$9",
+      "was": "$19",
+      "discount": "53% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/IPOpOOE6S7b",
+      "page": null,
+      "image": "img/wa/AC9A20997D492CB20F27241D3239C693.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T02:31:30Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC51A600E53407FFE269B9D2DBDB2353",
       "store": "Deal",
@@ -1090,25 +1109,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC56EDB6DA13E80F9A94031CB435FE6A",
-      "store": "Macy's",
-      "title": "Women's Loven Low Profile Lace-Up Sneakers",
-      "price": "$35",
-      "was": "$65",
-      "discount": "46% off",
-      "code": null,
-      "notes": "GUESS",
-      "link": "https://mavely.app.link/GfmpkkriS7b",
-      "page": null,
-      "image": "img/wa/AC56EDB6DA13E80F9A94031CB435FE6A.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T16:03:54Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T02:36:08Z",
+      "text": "1 new offer(s): Ozark Trail Folding Hard-Arm Camping Cha"
+    },
     {
       "at": "2026-11-08T02:25:46Z",
       "text": "3 new offer(s): 20 Packs Christmas Tree Ornaments Mini B, U.S. Polo Assn. Men's Long Sleeve Oxford, Weekend Academy Girls Lace Charm Boat Sh"
@@ -1230,10 +1234,6 @@
     {
       "at": "2026-11-07T00:34:35Z",
       "text": "3 new offer(s): CHICME Womens Open Front Chunky Knit Car, NutriBullet Personal Blender 700W with T, Weekend Academy Girls Lace Charm Boat Sh"
-    },
-    {
-      "at": "2026-11-07T00:13:49Z",
-      "text": "2 new offer(s): Womens Sweaters Long Sleeve Quarter Zip , Authentic Royal Basmati White Rice, 15 l"
     }
   ]
 }
