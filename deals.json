@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T15:49:44Z",
+  "lastScan": "2026-11-08T16:00:05Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC41D6B639D37F7557BEEFCF8B6B9EAF",
+      "store": "Deal",
+      "title": "FREE STANDARD SHIPPING WITH ADICLUB",
+      "price": "$21",
+      "was": "$50",
+      "discount": "58% off",
+      "code": "COZY",
+      "notes": "Adidas Galaxy 8 Junior Shoes Use code COZY for 30%off Select colors and sizes",
+      "link": "https://mavely.app.link/hydMb5o0T7b",
+      "page": null,
+      "image": "img/wa/AC41D6B639D37F7557BEEFCF8B6B9EAF.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T15:53:32Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC7BA2A112D8BA61A6400A7528B2F525",
       "store": "Under Armour",
@@ -1092,25 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC07F86336618A1587D6B0A144FFABB4",
-      "store": "Wayfair",
-      "title": "Christmas tree sale 🔥 At Wayfair",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "ENDS IN FEW HOURS 🚨 Get upto 40%Off",
-      "link": "https://mavely.app.link/8gEI8xusS7b",
-      "page": null,
-      "image": "img/wa/AC07F86336618A1587D6B0A144FFABB4.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T17:29:16Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Wayfair"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T16:00:05Z",
+      "text": "1 new offer(s): FREE STANDARD SHIPPING WITH ADICLUB"
+    },
     {
       "at": "2026-11-08T15:49:44Z",
       "text": "1 new offer(s): Free Shipping on orders with $99+"
@@ -1232,10 +1235,6 @@
     {
       "at": "2026-11-07T15:26:28Z",
       "text": "1 new offer(s): Prettycare Cordless Vacuum Cleaner,30Kpa"
-    },
-    {
-      "at": "2026-11-07T15:16:12Z",
-      "text": "2 new offer(s): LG 65 inch Class LG OLED AI B6 4K Smart , Play-Doh Rainbow Swirl Ice Cream Playset"
     }
   ]
 }
