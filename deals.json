@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T17:33:26Z",
+  "lastScan": "2026-11-08T17:54:09Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB3E535BADFFFA9C8A0D0EFBD1BCE2F",
+      "store": "Deal",
+      "title": "Stainless Steel Bento Lunch Box Set For Adults, Kids - Insulated Bag And Ice Pack - Leak-Proof Metal Compartment Meal Prep Food & Snack Containers For Work Travel School Daycare, 36 Oz Navy Blue",
+      "price": "$12",
+      "was": "$32",
+      "discount": "62% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/stainless-steel-bento-lunch-box-set-for-adults-kids-insulated-bag-and-ice-pack-leak-proof-metal-compartment-meal-prep-food-snack-containers-for-work-travel-school-daycare-36-oz-navy-blue/",
+      "page": null,
+      "image": "img/wa/ACB3E535BADFFFA9C8A0D0EFBD1BCE2F.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T17:43:56Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC9B03C44BC51D825E82656EA98E2E8A",
+      "store": "Under Armour",
+      "title": "Under Armour Men's Charged Assert 10 Running Shoes",
+      "price": "$31",
+      "was": "$75",
+      "discount": "59% off",
+      "code": null,
+      "notes": "Use Codes: WARMUP & EXTRA",
+      "link": "https://go.magik.ly/ml/4oqa2/",
+      "page": null,
+      "image": "img/wa/AC9B03C44BC51D825E82656EA98E2E8A.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T17:43:52Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
     {
       "id": "wa-AC908B1CCE71D7284B0CD21AAE7F86E3",
       "store": "Walmart",
@@ -1076,42 +1113,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC6F2437B8672D9EBC47937D774DB7E1",
-      "store": "Deal",
-      "title": "Red Light Therapy for Face Body, 660nm and 850nm Near Infrared Therapy Lamp with 3 Modes, Red Light Panel with Adjustable Stand, 6 Adjustable Brightness and Timer, Home and Travel Use, Gift for Women",
-      "price": "$23",
-      "was": "$70",
-      "discount": "67% off",
-      "code": "67OIU9LK",
-      "notes": "Use code 67OIU9LK",
-      "link": "https://blockbusterdeals.net/product/red-light-therapy-for-face-body-660nm-and-850nm-near-infrared-therapy-lamp-with-3-modes-red-light-panel/",
-      "page": null,
-      "image": "img/wa/AC6F2437B8672D9EBC47937D774DB7E1.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T21:11:04Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC5632E43759F4FC7C915B4BBD7337D3",
-      "store": "Deal",
-      "title": "3 Tier Rolling Cart with Drawer, Craft Storage Cart Organizer, White",
-      "price": "$13",
-      "was": "$22",
-      "discount": "41% off",
-      "code": "7WCVZFAX",
-      "notes": "Use code:7WCVZFAX",
-      "link": "https://blockbusterdeals.net/product/3-tier-rolling-cart-with-drawer-craft-storage-cart-organizer-white/",
-      "page": null,
-      "image": "img/wa/AC5632E43759F4FC7C915B4BBD7337D3.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T21:06:13Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1159,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T17:54:09Z",
+      "text": "2 new offer(s): Stainless Steel Bento Lunch Box Set For , Under Armour Men's Charged Assert 10 Run"
+    },
     {
       "at": "2026-11-08T17:33:26Z",
       "text": "2 new offer(s): Way to Celebrate Girls Halloween Skeleto, Hot Wheels Mega Loop Garage Track Set wi"
@@ -1233,10 +1238,6 @@
     {
       "at": "2026-11-08T02:36:08Z",
       "text": "1 new offer(s): Ozark Trail Folding Hard-Arm Camping Cha"
-    },
-    {
-      "at": "2026-11-08T02:25:46Z",
-      "text": "3 new offer(s): 20 Packs Christmas Tree Ornaments Mini B, U.S. Polo Assn. Men's Long Sleeve Oxford, Weekend Academy Girls Lace Charm Boat Sh"
     }
   ]
 }
