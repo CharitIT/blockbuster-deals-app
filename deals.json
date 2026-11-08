@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T21:21:36Z",
+  "lastScan": "2026-11-08T21:31:46Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC73394320890531D706DAB3D25DE3B7",
+      "store": "Deal",
+      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
+      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
+      "page": null,
+      "image": "img/wa/AC73394320890531D706DAB3D25DE3B7.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T21:29:03Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACA69BD17449B5916E9D9109E70636FD",
+      "store": "Deal",
+      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Link:",
+      "link": "https://theblogcm.com/566/eJi8",
+      "page": null,
+      "image": "img/wa/ACA69BD17449B5916E9D9109E70636FD.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T21:28:56Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC9ED9360D13F1310792ED9763BCD466",
       "store": "Deal",
@@ -1073,43 +1109,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC1E4D46FF148FECAD6D59C06AE5DFDB",
-      "store": "Deal",
-      "title": "XBOX Wireless Gaming Headset | Forza Horizon 6 Limited Edition",
-      "price": "$70",
-      "was": "$132",
-      "discount": "47% off",
-      "code": null,
-      "notes": "Clip Coupon",
-      "link": "https://blockbusterdeals.net/product/xbox-wireless-gaming-headset-forza-horizon-6-limited-edition/",
-      "page": null,
-      "image": "img/wa/AC1E4D46FF148FECAD6D59C06AE5DFDB.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T01:59:52Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC77421BEB69B4149DA1098A96DC5D82",
-      "store": "Walmart",
-      "title": "Crock-Pot Manual 4-Quart Slow Cooker",
-      "price": "$19",
-      "was": "$38",
-      "discount": "50% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/I0zSX9s2S7b",
-      "page": null,
-      "image": "img/wa/AC77421BEB69B4149DA1098A96DC5D82.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T01:40:44Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T21:31:46Z",
+      "text": "2 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more "
+    },
     {
       "at": "2026-11-08T21:21:36Z",
       "text": "6 new offer(s): Windshield Sun Shade Universal Fit for C, Large Floral Makeup Bag for Women, Cute , SUNPRO 2 Pack Sonic Electric Toothbrush,"
@@ -1231,10 +1234,6 @@
     {
       "at": "2026-11-08T16:00:05Z",
       "text": "1 new offer(s): FREE STANDARD SHIPPING WITH ADICLUB"
-    },
-    {
-      "at": "2026-11-08T15:49:44Z",
-      "text": "1 new offer(s): Free Shipping on orders with $99+"
     }
   ]
 }
