@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T16:20:50Z",
+  "lastScan": "2026-11-08T16:31:10Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC6418BE6071BDCB6E0F25097D84D83C",
+      "store": "Macy's",
+      "title": "Classic UGGfluff Throw, 50\" x 70\"",
+      "price": "$25",
+      "was": "$48",
+      "discount": "48% off",
+      "code": null,
+      "notes": "UGG®️",
+      "link": "https://mavely.app.link/quDsR2O4T7b",
+      "page": null,
+      "image": "img/wa/AC6418BE6071BDCB6E0F25097D84D83C.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T16:25:51Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-AC5D1E62D548B42030FA91EC8C330081",
+      "store": "Deal",
+      "title": "Bruno Marc Men's Cushionix Stride Casual Sneakers",
+      "price": "$24",
+      "was": "$49",
+      "discount": "51% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/bruno-marc-mens-cushionix-stride-casual-sneakers/",
+      "page": null,
+      "image": "img/wa/AC5D1E62D548B42030FA91EC8C330081.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T16:21:32Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACC2A9FF644290CB01C7F857D225C1A1",
       "store": "Walmart",
@@ -1074,42 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC618F8C57563A95FE4C1CA9B4018910",
-      "store": "Deal",
-      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Link:",
-      "link": "https://theblogcm.com/566/eJi8",
-      "page": null,
-      "image": "img/wa/AC618F8C57563A95FE4C1CA9B4018910.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T17:57:54Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC5914D97E21FD3834CFBB38EAE2ACDE",
-      "store": "Deal",
-      "title": "COSLUS ADA Accepted C20 Water Dental Flosser Pick, Professional Set Black",
-      "price": "$7",
-      "was": "$42",
-      "discount": "83% off",
-      "code": "H5423RLV",
-      "notes": "Use code: H5423RLV",
-      "link": "https://blockbusterdeals.net/product/coslus-ada-accepted-c20-water-dental-flosser-pick-professional-set-black-2/",
-      "page": null,
-      "image": "img/wa/AC5914D97E21FD3834CFBB38EAE2ACDE.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T17:55:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T16:31:10Z",
+      "text": "2 new offer(s): Classic UGGfluff Throw, 50\" x 70\", Bruno Marc Men's Cushionix Stride Casual"
+    },
     {
       "at": "2026-11-08T16:20:50Z",
       "text": "1 new offer(s): Carters of Mine Clearance"
@@ -1231,10 +1236,6 @@
     {
       "at": "2026-11-07T15:56:59Z",
       "text": "2 new offer(s): Samsung 65-Inch Class S85H Series, OLED,, U.S. Polo Assn. Boys Fleece Pullover Hoo"
-    },
-    {
-      "at": "2026-11-07T15:46:49Z",
-      "text": "2 new offer(s): National Tree Company 3ft Pre-Lit Nordic, Warm White Christmas Lights Outdoor, 20F"
     }
   ]
 }
