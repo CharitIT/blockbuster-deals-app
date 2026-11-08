@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T16:51:52Z",
+  "lastScan": "2026-11-08T17:02:13Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC02A3DA0EEC082EC1DA7C118B71263C",
+      "store": "Deal",
+      "title": "ARM & HAMMER Liquid Laundry Detergent, Clean Burst Scent, 174 Fl Oz",
+      "price": "$13",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Subscribe and save",
+      "link": "https://blockbusterdeals.net/product/arm-hammer-liquid-laundry-detergent-clean-burst-scent-174-fl-oz/",
+      "page": null,
+      "image": "img/wa/AC02A3DA0EEC082EC1DA7C118B71263C.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T17:00:03Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC98AD425CFFAB11D425B7465AE4C3C2",
+      "store": "Deal",
+      "title": "Hanobe Round Wood Candle Holder Tray, Rustic Coffee Table Centerpiece Decor",
+      "price": "$14",
+      "was": "$25",
+      "discount": "44% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/hanobe-round-wood-candle-holder-tray-rustic-coffee-table-centerpiece-decor/",
+      "page": null,
+      "image": "img/wa/AC98AD425CFFAB11D425B7465AE4C3C2.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T16:57:16Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC00D53ED09AD2D0A98E3A9FC1C0A9E4",
       "store": "Deal",
@@ -1074,43 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC8C42D3D2D0F1B21971299A5AFE05D3",
-      "store": "Macy's",
-      "title": "BlendBOSS Tumbler Blender",
-      "price": "$69",
-      "was": "$119",
-      "discount": "42% off",
-      "code": null,
-      "notes": "Ninja",
-      "link": "https://mavely.app.link/Ta9KQfQDS7b",
-      "page": null,
-      "image": "img/wa/AC8C42D3D2D0F1B21971299A5AFE05D3.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T20:07:18Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-AC308241FE5CE33AD2E425F5D57D1D0C",
-      "store": "Deal",
-      "title": "Hot Wheels Mario Wheelie Motocross RC, Remote-Control Motorcycle",
-      "price": "$26",
-      "was": "$54",
-      "discount": "52% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/hot-wheels-mario-wheelie-motocross-rc/",
-      "page": null,
-      "image": "img/wa/AC308241FE5CE33AD2E425F5D57D1D0C.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T20:00:22Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T17:02:13Z",
+      "text": "2 new offer(s): ARM & HAMMER Liquid Laundry Detergent, C, Hanobe Round Wood Candle Holder Tray, Ru"
+    },
     {
       "at": "2026-11-08T16:51:52Z",
       "text": "2 new offer(s): AmazingSpark 40 Pack Small Thank You Gif, Schylling NeeDoh Nice Cube - Sensory Squ"
@@ -1232,10 +1235,6 @@
     {
       "at": "2026-11-07T16:27:34Z",
       "text": "2 new offer(s): Teddi Extra Small Slouchy Adjustable Cro, Robot Vacuum,11500Pa Suction,LiDAR Navig"
-    },
-    {
-      "at": "2026-11-07T16:17:20Z",
-      "text": "2 new offer(s): Character Toddler Boy Rash Guard Swim Se, Keurig®️ K-Duo Gen 2 Hot & Iced Single S"
     }
   ]
 }
