@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T15:18:44Z",
+  "lastScan": "2026-11-08T15:29:03Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC84AEC5F68F51DBE904250AEB5C7437",
+      "store": "Macy's",
+      "title": "Reversible Extra-Large Tote Bag",
+      "price": "$135",
+      "was": "$225",
+      "discount": "40% off",
+      "code": null,
+      "notes": "Lauren Ralph Lauren",
+      "link": "https://mavely.app.link/91uf6asYT7b",
+      "page": null,
+      "image": "img/wa/AC84AEC5F68F51DBE904250AEB5C7437.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T15:25:38Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-AC68387DEDE964C778AACB823A54FA81",
       "store": "Kohl's",
@@ -1090,24 +1109,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACC0F0ED659BDA65940B0AADCB9607AD",
-      "store": "Deal",
-      "title": "Toastmaster Small Kitchen Appliances",
-      "price": "$11",
-      "was": "$14",
-      "discount": "21% off",
-      "code": "SAVINGS",
-      "notes": "Today Only🚨 Kohl's Black Friday Deals with code: SAVINGS at checkout",
-      "link": "https://mavely.app.link/qtOsPgofS7b",
-      "page": null,
-      "image": "img/wa/ACC0F0ED659BDA65940B0AADCB9607AD.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T17:02:52Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1154,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T15:29:03Z",
+      "text": "1 new offer(s): Reversible Extra-Large Tote Bag"
+    },
     {
       "at": "2026-11-08T15:18:44Z",
       "text": "2 new offer(s): Rubbermaid EasyStore Special Edition Nes, Character Licensed Union Suit Pajamas wi"
@@ -1229,10 +1234,6 @@
     {
       "at": "2026-11-07T02:07:40Z",
       "text": "2 new offer(s): Includes Word, Excel, PowerPoint & more , 🎁 1-Year Costco Membership + $45 Digital"
-    },
-    {
-      "at": "2026-11-07T01:57:23Z",
-      "text": "2 new offer(s): BALENNZ Mens Athletic Shorts with Pocket, Auden Women’s Pajama Sets🔥 at Target"
     }
   ]
 }
