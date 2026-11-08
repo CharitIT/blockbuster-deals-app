@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T15:39:22Z",
+  "lastScan": "2026-11-08T15:49:44Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC7BA2A112D8BA61A6400A7528B2F525",
+      "store": "Under Armour",
+      "title": "Free Shipping on orders with $99+",
+      "price": "$19",
+      "was": "$40",
+      "discount": "52% off",
+      "code": null,
+      "notes": "Under Armour Velocity Men's Hoodie Use codes WARMUP & EXTRA10",
+      "link": "https://mavely.app.link/e98ouOsZT7b",
+      "page": null,
+      "image": "img/wa/AC7BA2A112D8BA61A6400A7528B2F525.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T15:46:34Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
     {
       "id": "wa-ACA27F6816136C2CC3B1A4C009B979CD",
       "store": "Walmart",
@@ -1092,24 +1111,6 @@
       "merchant": "Wayfair"
     },
     {
-      "id": "wa-ACC97D3AD9EB0F9DAB5324381EAE8643",
-      "store": "Deal",
-      "title": "Chefman Air Fryer – 6 QT Compact Airfryer for Quick & Easy Meals in Minutes, Features Hi-Fry Technology for Extra Crisp, Touchscreen Controls with 4 Presets, Nonstick & Dishwasher Safe Basket - Black",
-      "price": "$69",
-      "was": "$119",
-      "discount": "42% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/chefman-air-fryer-6-qt-compact-airfryer-for-quick-easy-meals-in-minutes-3/",
-      "page": null,
-      "image": "img/wa/ACC97D3AD9EB0F9DAB5324381EAE8643.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T17:22:22Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T15:49:44Z",
+      "text": "1 new offer(s): Free Shipping on orders with $99+"
+    },
     {
       "at": "2026-11-08T15:39:22Z",
       "text": "2 new offer(s): U.S. Polo Assn. Men's Long Sleeve Oxford, U.S. Polo Assn. Men’s Modern Full-Zip Ja"
@@ -1231,10 +1236,6 @@
     {
       "at": "2026-11-07T15:16:12Z",
       "text": "2 new offer(s): LG 65 inch Class LG OLED AI B6 4K Smart , Play-Doh Rainbow Swirl Ice Cream Playset"
-    },
-    {
-      "at": "2026-11-07T15:05:57Z",
-      "text": "1 new offer(s): 🚨 Use Promo Code: FIREHD25 for extra 25%"
     }
   ]
 }
