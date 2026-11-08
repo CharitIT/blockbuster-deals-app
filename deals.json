@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T03:07:08Z",
+  "lastScan": "2026-11-08T15:08:25Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC128823E9F89ED02E4CA7288FD580D3",
+      "store": "Deal",
+      "title": "Nike socks at Kohl's 🔥",
+      "price": "$25",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Get upto 40%off",
+      "link": "https://mavely.app.link/pnx9RDiXT7b",
+      "page": null,
+      "image": "img/wa/AC128823E9F89ED02E4CA7288FD580D3.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T15:04:21Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACA6B7D2870D89AE6FB1F43DFBA2BAA6",
       "store": "Deal",
@@ -1088,24 +1106,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACBF9E22B3C6336A53ABB91881A77449",
-      "store": "Deal",
-      "title": "LetsJoli Jelly Bras for Women No Underwire Water Drop Wireless Supportive",
-      "price": "$8",
-      "was": "$16",
-      "discount": "50% off",
-      "code": null,
-      "notes": "Add to Cart and 50%off discount automatically applied at checkout",
-      "link": "https://blockbusterdeals.net/product/letsjoli-jelly-bras-for-women-no-underwire-water-drop-wireless-supportive-add-to-cart-and-50off-discount-automatically-applied-at-checkout/",
-      "page": null,
-      "image": "img/wa/ACBF9E22B3C6336A53ABB91881A77449.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T16:43:11Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1152,6 +1152,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T15:08:25Z",
+      "text": "1 new offer(s): Nike socks at Kohl's 🔥"
+    },
     {
       "at": "2026-11-08T03:07:08Z",
       "text": "2 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more "
@@ -1227,10 +1231,6 @@
     {
       "at": "2026-11-07T01:47:02Z",
       "text": "3 new offer(s): At home Black Friday Deals 🔥, Rubbermaid EasyStore Special Edition Nes, BTFBM Off The Shoulder Fall Sweaters, Ri"
-    },
-    {
-      "at": "2026-11-07T01:26:25Z",
-      "text": "2 new offer(s): LeapFrog LeapMove Active Learning Video , STANLEY IceFlow 2.0 Flip Straw Tumbler, "
     }
   ]
 }
