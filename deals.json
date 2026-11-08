@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T20:19:15Z",
+  "lastScan": "2026-11-08T20:29:39Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC556C82DC654F70E36A37835D2B325B",
+      "store": "Deal",
+      "title": "FREE STANDARD SHIPPING WITH ADICLUB",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": "COZY",
+      "notes": "Extra 30% Off Adidas Sale🔥🔥 Use Code COZY Link to all Link to kids shoes",
+      "link": "https://mavely.app.link/e/7dyeOgTQqMb",
+      "page": null,
+      "image": "img/wa/AC556C82DC654F70E36A37835D2B325B.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T20:26:26Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC5F626F5F2523114F449A5DEFEE7BEE",
+      "store": "Lowe's",
+      "title": "Ring Indoor Cam 2K, Plug-In - Retinal 2K for enhanced video quality, 6x Enhanced Zoom for detail at a distance, Night Vision",
+      "price": "$24",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/rtveci0iU7b",
+      "page": null,
+      "image": "img/wa/AC5F626F5F2523114F449A5DEFEE7BEE.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T20:23:08Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Lowe's"
+    },
     {
       "id": "wa-AC88291C69BFCCB6D9B83BE5C4CD88A3",
       "store": "Deal",
@@ -1076,44 +1113,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC210381B2C35FA4FAEE370ADDD27C13",
-      "store": "Walmart",
-      "title": "The Pioneer Woman Vintage Speckle Cream 40-Piece Nonstick Cookware & Bakeware Set",
-      "price": "$149",
-      "was": "$179",
-      "discount": "17% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/nINEShpWS7b",
-      "page": null,
-      "image": "img/wa/AC210381B2C35FA4FAEE370ADDD27C13.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T00:50:30Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACE5A0F13F1502BBD289DEC9812C7052",
-      "store": "Walmart",
-      "title": "Sindcom Airtight Food Storage Containers Set, 14pcsPlastic Kitchen and Pantry Organization Canisters, Black",
-      "price": "$21",
-      "was": "$40",
-      "discount": "48% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/vCpgWsiW46b",
-      "page": null,
-      "image": "img/wa/ACE5A0F13F1502BBD289DEC9812C7052.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T00:36:50Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1160,6 +1159,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T20:29:39Z",
+      "text": "2 new offer(s): FREE STANDARD SHIPPING WITH ADICLUB, Ring Indoor Cam 2K, Plug-In - Retinal 2K"
+    },
     {
       "at": "2026-11-08T20:19:15Z",
       "text": "1 new offer(s): FREE STANDARD SHIPPING WITH ADICLUB"
@@ -1235,10 +1238,6 @@
     {
       "at": "2026-11-08T15:29:03Z",
       "text": "1 new offer(s): Reversible Extra-Large Tote Bag"
-    },
-    {
-      "at": "2026-11-08T15:18:44Z",
-      "text": "2 new offer(s): Rubbermaid EasyStore Special Edition Nes, Character Licensed Union Suit Pajamas wi"
     }
   ]
 }
