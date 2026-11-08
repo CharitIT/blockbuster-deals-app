@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T17:23:01Z",
+  "lastScan": "2026-11-08T17:33:26Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC908B1CCE71D7284B0CD21AAE7F86E3",
+      "store": "Walmart",
+      "title": "Way to Celebrate Girls Halloween Skeleton Graphic Fleece Top and Pant Set, Sizes 4-18",
+      "price": "$8",
+      "was": "$16",
+      "discount": "50% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/ym9rpCL5T7b",
+      "page": null,
+      "image": "img/wa/AC908B1CCE71D7284B0CD21AAE7F86E3.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T17:29:37Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC67FA42E56C2CC9598AC622E1919610",
+      "store": "Deal",
+      "title": "Hot Wheels Mega Loop Garage Track Set with Toy Car and Helicopter",
+      "price": "$34",
+      "was": "$54",
+      "discount": "37% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/hot-wheels-mega-loop-garage-track-set-with-toy-car-and-helicopter/",
+      "page": null,
+      "image": "img/wa/AC67FA42E56C2CC9598AC622E1919610.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T17:29:31Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC3A5176E29C91FE8D31C0C7ED1A203A",
       "store": "Walmart",
@@ -1075,43 +1112,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC6A769291A6E2BF96F729CD4BFE4C88",
-      "store": "Deal",
-      "title": "Barbie Mysteries: Beach Detectives Malibu Doll and Accessories",
-      "price": "$14",
-      "was": "$32",
-      "discount": "56% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/barbie-mysteries-beach-detectives-malibu-doll-and-accessories/",
-      "page": null,
-      "image": "img/wa/AC6A769291A6E2BF96F729CD4BFE4C88.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T20:54:12Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACBB4BBC49A905020CEC747F23FADC30",
-      "store": "Target",
-      "title": "Clixo Creator Pack: Flexible Magnetic Building Toy Colorful 40pc for Ages 4+",
-      "price": "$29",
-      "was": "$49",
-      "discount": "41% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/Kyu46IeDS7b",
-      "page": null,
-      "image": "img/wa/ACBB4BBC49A905020CEC747F23FADC30.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T20:47:37Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Target"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T17:33:26Z",
+      "text": "2 new offer(s): Way to Celebrate Girls Halloween Skeleto, Hot Wheels Mega Loop Garage Track Set wi"
+    },
     {
       "at": "2026-11-08T17:23:01Z",
       "text": "2 new offer(s): Weekend Academy Girls Baggy Straight Jea, PRETTYGARDEN Cowl Neck Tops for Women Lo"
@@ -1233,10 +1237,6 @@
     {
       "at": "2026-11-08T02:25:46Z",
       "text": "3 new offer(s): 20 Packs Christmas Tree Ornaments Mini B, U.S. Polo Assn. Men's Long Sleeve Oxford, Weekend Academy Girls Lace Charm Boat Sh"
-    },
-    {
-      "at": "2026-11-08T02:04:57Z",
-      "text": "22 new offer(s): GRACE KARIN Women Floral Maxi Dress Fall, Get upto 25% off Fragances like Dolce&Ga, XBOX Wireless Gaming Headset | Forza Hor"
     }
   ]
 }
