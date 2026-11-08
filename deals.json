@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T19:48:04Z",
+  "lastScan": "2026-11-08T19:58:26Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC0091EC572C595EC361AB67B1D50868",
+      "store": "Walmart",
+      "title": "Weekend Academy Girls Flare Denim Jeans, Sizes 5-18",
+      "price": "$5",
+      "was": "$16",
+      "discount": "69% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/0JPA8fWhU7b",
+      "page": null,
+      "image": "img/wa/AC0091EC572C595EC361AB67B1D50868.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T19:54:42Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC64A51A1CE1AB2740CA41D5B076922A",
+      "store": "Walmart",
+      "title": "Ozark Trail M.1 Timber Kids' Balance Bike, 12 in, Purple, Unisex",
+      "price": "$48",
+      "was": "$99",
+      "discount": "52% off",
+      "code": null,
+      "notes": "Free Shipping",
+      "link": "https://mavely.app.link/Si8pFKMhU7b",
+      "page": null,
+      "image": "img/wa/AC64A51A1CE1AB2740CA41D5B076922A.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T19:49:35Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC4A29EBA0ECFE3466A0EFF98E2A9760",
       "store": "Macy's",
@@ -1075,44 +1113,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC4435B5E93DA36022172F8C4D0F3EBA",
-      "store": "Walmart",
-      "title": "Scenario Women's and Women's Plus Smocked Waist Peasant Midi Dress with Puff Sleeves, Sizes XS-4X",
-      "price": "$8",
-      "was": "$27",
-      "discount": "70% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/Tp79wSeVS7b",
-      "page": null,
-      "image": "img/wa/AC4435B5E93DA36022172F8C4D0F3EBA.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T00:12:28Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC63D2B4E016C4000C44F6B6593B7CBB",
-      "store": "Walmart",
-      "title": "Ktaxon Large 7 Drawers Dresser Chests for Bedroom, Wood Chest of Drawers, Dressers Organizer for Bedroom, Living Room",
-      "price": "$134",
-      "was": "$201",
-      "discount": "33% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/94u07gTGS7b",
-      "page": null,
-      "image": "img/wa/AC63D2B4E016C4000C44F6B6593B7CBB.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T00:04:26Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1159,6 +1159,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T19:58:26Z",
+      "text": "2 new offer(s): Weekend Academy Girls Flare Denim Jeans,, Ozark Trail M.1 Timber Kids' Balance Bik"
+    },
     {
       "at": "2026-11-08T19:48:04Z",
       "text": "2 new offer(s): Women's Loven Low Profile Lace-Up Sneake, Keurig®️ K-Duo Gen 2 Hot & Iced Single S"
@@ -1234,10 +1238,6 @@
     {
       "at": "2026-11-08T03:07:08Z",
       "text": "2 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more "
-    },
-    {
-      "at": "2026-11-08T02:56:49Z",
-      "text": "2 new offer(s): HEBE Fall Kitchen Rugs Set of 3, Washabl, Hudson Baby Unisex Baby Flannel Burp Clo"
     }
   ]
 }
