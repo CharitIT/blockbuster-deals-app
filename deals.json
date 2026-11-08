@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T16:41:31Z",
+  "lastScan": "2026-11-08T16:51:52Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC00D53ED09AD2D0A98E3A9FC1C0A9E4",
+      "store": "Deal",
+      "title": "AmazingSpark 40 Pack Small Thank You Gift Bags with Handles 5.5 x 2.4 x 4.7 Inches Mini Gift Bags Bulk with Bow Ribbon Paper Marble for Party Favor Wedding Bridal Shower(Purple)",
+      "price": "$9",
+      "was": "$20",
+      "discount": "55% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/amazingspark-40-pack-small-thank-you-gift-bags/",
+      "page": null,
+      "image": "img/wa/AC00D53ED09AD2D0A98E3A9FC1C0A9E4.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T16:50:32Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACCC085D972174B99AEB52970DD018C8",
+      "store": "Deal",
+      "title": "Schylling NeeDoh Nice Cube - Sensory Squeeze Toy with Super Solid Squish - 2.25\" Cube - Color May Vary (Pack of 1)",
+      "price": "$9",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/chylling-needoh-nice-cube-sensory-squeeze-toy-with/",
+      "page": null,
+      "image": "img/wa/ACCC085D972174B99AEB52970DD018C8.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T16:45:22Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACBF3DE571F9891168769116F4CACCB2",
       "store": "Amazon",
@@ -1075,43 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACF064C4FEA3294EA93C7CB299531800",
-      "store": "Deal",
-      "title": "SAPPHERO Mens Watch for Men Quartz Waterproof Date Luminous Chronograph",
-      "price": "$29",
-      "was": "$169",
-      "discount": "83% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/sapphero-mens-watch-for-men-quartz-waterproof-date-luminous-chronograph/",
-      "page": null,
-      "image": "img/wa/ACF064C4FEA3294EA93C7CB299531800.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T20:00:17Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACC954B707AC040D40AA908D00A2DE36",
-      "store": "Walmart",
-      "title": "Hot Wheels City Mega Car Wash Playset with 1 Toy Color Shifters Car in 1:64 Scale, 7.01 in",
-      "price": "$33",
-      "was": "$47",
-      "discount": "30% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/kTust4lCS7b",
-      "page": null,
-      "image": "img/wa/ACC954B707AC040D40AA908D00A2DE36.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T19:49:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T16:51:52Z",
+      "text": "2 new offer(s): AmazingSpark 40 Pack Small Thank You Gif, Schylling NeeDoh Nice Cube - Sensory Squ"
+    },
     {
       "at": "2026-11-08T16:41:31Z",
       "text": "2 new offer(s): Amazon Essentials Men's Relaxed-Fit Shor, Pants clearance for the family"
@@ -1233,10 +1236,6 @@
     {
       "at": "2026-11-07T16:17:20Z",
       "text": "2 new offer(s): Character Toddler Boy Rash Guard Swim Se, Keurig®️ K-Duo Gen 2 Hot & Iced Single S"
-    },
-    {
-      "at": "2026-11-07T16:07:08Z",
-      "text": "1 new offer(s): Women's Loven Low Profile Lace-Up Sneake"
     }
   ]
 }
