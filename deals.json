@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T17:12:37Z",
+  "lastScan": "2026-11-08T17:23:01Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC3A5176E29C91FE8D31C0C7ED1A203A",
+      "store": "Walmart",
+      "title": "Weekend Academy Girls Baggy Straight Jeans, Sizes 4-18",
+      "price": "$5",
+      "was": "$16",
+      "discount": "69% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/0y7kmtG5T7b",
+      "page": null,
+      "image": "img/wa/AC3A5176E29C91FE8D31C0C7ED1A203A.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T17:16:27Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC3A849D41DB7C8117F479B2ED5F03F7",
+      "store": "Deal",
+      "title": "PRETTYGARDEN Cowl Neck Tops for Women Long Sleeve Shirt",
+      "price": "$9",
+      "was": "$19",
+      "discount": "53% off",
+      "code": "KVJ55J4U",
+      "notes": "Use Code:KVJ55J4U",
+      "link": "https://blockbusterdeals.net/product/prettygarden-cowl-neck-tops-for-women-fashion-long-sleeve-shirt/",
+      "page": null,
+      "image": "img/wa/AC3A849D41DB7C8117F479B2ED5F03F7.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T17:16:21Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACCF0F4A49E951000BBF15380BFFC398",
       "store": "Michael Kors",
@@ -1075,42 +1112,6 @@
       "merchant": "Target"
     },
     {
-      "id": "wa-AC119D9255DA58C516E6E6BA538F659C",
-      "store": "Deal",
-      "title": "Tramontina Tempo Tri-Ply Base Stainless Steel 10-Inch Frying Pan",
-      "price": "$20",
-      "was": "$34",
-      "discount": "41% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/tramontina-tempo-tri-ply-base-stainless-steel-10-inch-frying-pan/",
-      "page": null,
-      "image": "img/wa/AC119D9255DA58C516E6E6BA538F659C.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T20:29:16Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACAB81EC4F967325E1B84E7E803EF7EF",
-      "store": "Deal",
-      "title": "KIRUNDO Fall Dresses for Women 2026 Midi Empire Waist Long Sleeve Dress",
-      "price": "$11",
-      "was": "$29",
-      "discount": "62% off",
-      "code": "OMBCSDAP",
-      "notes": "Use code OMBCSDAP",
-      "link": "https://blockbusterdeals.net/product/kirundo-fall-dresses-for-women-2026-midi-empire-waist-long-sleeve-dress/",
-      "page": null,
-      "image": "img/wa/ACAB81EC4F967325E1B84E7E803EF7EF.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T20:21:23Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T17:23:01Z",
+      "text": "2 new offer(s): Weekend Academy Girls Baggy Straight Jea, PRETTYGARDEN Cowl Neck Tops for Women Lo"
+    },
     {
       "at": "2026-11-08T17:12:37Z",
       "text": "1 new offer(s): Michael Kors Jet Set Travel Small Conver"
@@ -1232,10 +1237,6 @@
     {
       "at": "2026-11-08T02:04:57Z",
       "text": "22 new offer(s): GRACE KARIN Women Floral Maxi Dress Fall, Get upto 25% off Fragances like Dolce&Ga, XBOX Wireless Gaming Headset | Forza Hor"
-    },
-    {
-      "at": "2026-11-07T21:26:27Z",
-      "text": "30 new offer(s): YOOLIFE 6 7 8 9 10 12 Year Old Girl Birt, Red Light Therapy for Face Body, 660nm a, Red Light Therapy for Face Body, 660nm a"
     }
   ]
 }
