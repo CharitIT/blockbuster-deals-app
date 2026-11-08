@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T16:31:10Z",
+  "lastScan": "2026-11-08T16:41:31Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACBF3DE571F9891168769116F4CACCB2",
+      "store": "Amazon",
+      "title": "Amazon Essentials Men's Relaxed-Fit Short Sleeve Linen Blend Shirt",
+      "price": "$4",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/amazon-essentials-mens-relaxed-fit-short-sleeve-linen-blend-shirt/",
+      "page": null,
+      "image": "img/wa/ACBF3DE571F9891168769116F4CACCB2.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T16:36:49Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
+    {
+      "id": "wa-ACB4779EFECE8A546B10AC12196FACD3",
+      "store": "Walmart",
+      "title": "Pants clearance for the family",
+      "price": "$1",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "As low As",
+      "link": "https://mavely.app.link/fGu8I311T7b",
+      "page": null,
+      "image": "img/wa/ACB4779EFECE8A546B10AC12196FACD3.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T16:31:35Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC6418BE6071BDCB6E0F25097D84D83C",
       "store": "Macy's",
@@ -1074,43 +1112,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC90171B6DFB6881883604B72755F6E1",
-      "store": "Walmart",
-      "title": "Weekend Academy Girls Lug Sole Fisherman Sandals",
-      "price": "$5",
-      "was": "$14",
-      "discount": "64% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/xA06AlEBS7b",
-      "page": null,
-      "image": "img/wa/AC90171B6DFB6881883604B72755F6E1.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T19:40:30Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC58CDA414C5F952CBF61BD1450B7B8F",
-      "store": "Deal",
-      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
-      "price": "$20",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
-      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
-      "page": null,
-      "image": "img/wa/AC58CDA414C5F952CBF61BD1450B7B8F.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T17:58:00Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T16:41:31Z",
+      "text": "2 new offer(s): Amazon Essentials Men's Relaxed-Fit Shor, Pants clearance for the family"
+    },
     {
       "at": "2026-11-08T16:31:10Z",
       "text": "2 new offer(s): Classic UGGfluff Throw, 50\" x 70\", Bruno Marc Men's Cushionix Stride Casual"
@@ -1232,10 +1237,6 @@
     {
       "at": "2026-11-07T16:07:08Z",
       "text": "1 new offer(s): Women's Loven Low Profile Lace-Up Sneake"
-    },
-    {
-      "at": "2026-11-07T15:56:59Z",
-      "text": "2 new offer(s): Samsung 65-Inch Class S85H Series, OLED,, U.S. Polo Assn. Boys Fleece Pullover Hoo"
     }
   ]
 }
