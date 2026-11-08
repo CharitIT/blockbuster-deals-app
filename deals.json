@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T19:58:26Z",
+  "lastScan": "2026-11-08T20:08:50Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC5323C5FFEF19E148DF98D9CBE3A4AD",
+      "store": "Michael Kors",
+      "title": "Nayla Small Signature Shoulder Bags",
+      "price": "$59",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Michael Kors Buy 2+ items, get 20% off",
+      "link": "https://mavely.app.link/61tt32NiU7b",
+      "page": null,
+      "image": "img/wa/AC5323C5FFEF19E148DF98D9CBE3A4AD.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T20:06:40Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
+    {
+      "id": "wa-ACA772B97D3491A131AF3D0288AAA6DF",
+      "store": "Deal",
+      "title": "Nike Socks on Sale at Kohls🔥",
+      "price": "$25",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/ryO2ujDhU7b",
+      "page": null,
+      "image": "img/wa/ACA772B97D3491A131AF3D0288AAA6DF.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T19:59:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC0091EC572C595EC361AB67B1D50868",
       "store": "Walmart",
@@ -1077,42 +1114,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC7C1F0F61F708447B407D6B52DD18CE",
-      "store": "Deal",
-      "title": "Cuisinart®️ Precision Master™️ 5.5-qt. Stand Mixer (Silver)",
-      "price": "$159",
-      "was": "$349",
-      "discount": "54% off",
-      "code": "SAVINGS",
-      "notes": "Use code: SAVINGS at checkout 🎁 Get $30 Kohl's Cash®️ to use November 9 - 19",
-      "link": "https://mavely.app.link/83kxTf2HS7b",
-      "page": null,
-      "image": "img/wa/AC7C1F0F61F708447B407D6B52DD18CE.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T00:23:39Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC9251B181650C13DF73357DB12FB203",
-      "store": "Deal",
-      "title": "MIULEE 18x18 Throw Pillows Inserts 2 Pack, Decorative Pillows for Couch Bed",
-      "price": "$13",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/miulee-18x18-throw-pillows-inserts-2-pack-decorative-pillows-for-couch-bed/",
-      "page": null,
-      "image": "img/wa/AC9251B181650C13DF73357DB12FB203.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T00:17:12Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1159,6 +1160,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T20:08:50Z",
+      "text": "2 new offer(s): Nayla Small Signature Shoulder Bags, Nike Socks on Sale at Kohls🔥"
+    },
     {
       "at": "2026-11-08T19:58:26Z",
       "text": "2 new offer(s): Weekend Academy Girls Flare Denim Jeans,, Ozark Trail M.1 Timber Kids' Balance Bik"
@@ -1234,10 +1239,6 @@
     {
       "at": "2026-11-08T15:08:25Z",
       "text": "1 new offer(s): Nike socks at Kohl's 🔥"
-    },
-    {
-      "at": "2026-11-08T03:07:08Z",
-      "text": "2 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more "
     }
   ]
 }
