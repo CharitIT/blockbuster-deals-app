@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T18:04:32Z",
+  "lastScan": "2026-11-08T19:48:04Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC4A29EBA0ECFE3466A0EFF98E2A9760",
+      "store": "Macy's",
+      "title": "Women's Loven Low Profile Lace-Up Sneakers",
+      "price": "$35",
+      "was": "$65",
+      "discount": "46% off",
+      "code": null,
+      "notes": "GUESS Select colors and sizes",
+      "link": "https://mavely.app.link/SFEGp6OgU7b",
+      "page": null,
+      "image": "img/wa/AC4A29EBA0ECFE3466A0EFF98E2A9760.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T19:41:37Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-ACB94CE2F31FA75392F29468B282B398",
+      "store": "Kohl's",
+      "title": "Keurig®️ K-Duo Gen 2 Hot & Iced Single Serve & Carafe Coffee Maker",
+      "price": "$103",
+      "was": "$259",
+      "discount": "60% off",
+      "code": "SAVINGS",
+      "notes": "Use code SAVINGS at checkout or clip coupon Free Shipping",
+      "link": "https://mavely.app.link/L7WhU0EgU7b",
+      "page": null,
+      "image": "img/wa/ACB94CE2F31FA75392F29468B282B398.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T19:41:33Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Kohl's"
+    },
     {
       "id": "wa-AC9ECC828202362A7701BB74997A1CB2",
       "store": "Deal",
@@ -1075,42 +1113,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACF5C5C58D75E62FE4C8574C4823C393",
-      "store": "Deal",
-      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
-      "price": "$20",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
-      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
-      "page": null,
-      "image": "img/wa/ACF5C5C58D75E62FE4C8574C4823C393.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T21:30:03Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC67980782E16DE1219022DBDCE5D4B9",
-      "store": "Deal",
-      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Link:",
-      "link": "https://theblogcm.com/566/eJi8",
-      "page": null,
-      "image": "img/wa/AC67980782E16DE1219022DBDCE5D4B9.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T21:29:10Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1159,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T19:48:04Z",
+      "text": "2 new offer(s): Women's Loven Low Profile Lace-Up Sneake, Keurig®️ K-Duo Gen 2 Hot & Iced Single S"
+    },
     {
       "at": "2026-11-08T18:04:32Z",
       "text": "4 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more , Blink Outdoor XR+ and Wired Doorbell 2K+"
@@ -1232,10 +1238,6 @@
     {
       "at": "2026-11-08T02:56:49Z",
       "text": "2 new offer(s): HEBE Fall Kitchen Rugs Set of 3, Washabl, Hudson Baby Unisex Baby Flannel Burp Clo"
-    },
-    {
-      "at": "2026-11-08T02:46:30Z",
-      "text": "2 new offer(s): Bamboo Cutting Board 3-Piece Wooden Cutt, U.S. Polo Assn. Men’s Modern Full-Zip Ja"
     }
   ]
 }
