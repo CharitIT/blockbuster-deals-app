@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T02:36:08Z",
+  "lastScan": "2026-11-08T02:46:30Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC647404D714B9000CA3B5EE0CAAE8EA",
+      "store": "Deal",
+      "title": "Bamboo Cutting Board 3-Piece Wooden Cutting Board & Knife Sets for kitchen",
+      "price": "$11",
+      "was": "$32",
+      "discount": "66% off",
+      "code": "GR93SIU2",
+      "notes": "Clip Coupon + Code: GR93SIU2",
+      "link": "https://blockbusterdeals.net/product/bamboo-cutting-board-3-piece-wooden-cutting-board-knife-sets-for-kitchen/",
+      "page": null,
+      "image": "img/wa/AC647404D714B9000CA3B5EE0CAAE8EA.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T02:40:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC552CA938DA7214A82FA9DEA6AF3E8C",
+      "store": "Walmart",
+      "title": "U.S. Polo Assn. Men’s Modern Full-Zip Jacket",
+      "price": "$13",
+      "was": "$30",
+      "discount": "57% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/NxeGb5S6S7b",
+      "page": null,
+      "image": "img/wa/AC552CA938DA7214A82FA9DEA6AF3E8C.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T02:37:41Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC9A20997D492CB20F27241D3239C693",
       "store": "Walmart",
@@ -1072,43 +1109,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACB0A686AB17B07AA3469664E5CFE80B",
-      "store": "Walmart",
-      "title": "Character Toddler Boy Rash Guard Swim Set, 2- Pieces, Sizes 12M- 5T",
-      "price": "$5",
-      "was": "$19",
-      "discount": "74% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/eaiOUZkiS7b",
-      "page": null,
-      "image": "img/wa/ACB0A686AB17B07AA3469664E5CFE80B.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T16:14:54Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC9E342D9C4F07E808DD0CF9E973FEAB",
-      "store": "Deal",
-      "title": "Keurig®️ K-Duo Gen 2 Hot & Iced Single Serve & Carafe Coffee Maker",
-      "price": "$103",
-      "was": "$259",
-      "discount": "60% off",
-      "code": "SAVINGS",
-      "notes": "Use code SAVINGS at checkout or clip coupon",
-      "link": "https://mavely.app.link/jmur4YziS7b",
-      "page": null,
-      "image": "img/wa/AC9E342D9C4F07E808DD0CF9E973FEAB.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T16:10:22Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T02:46:30Z",
+      "text": "2 new offer(s): Bamboo Cutting Board 3-Piece Wooden Cutt, U.S. Polo Assn. Men’s Modern Full-Zip Ja"
+    },
     {
       "at": "2026-11-08T02:36:08Z",
       "text": "1 new offer(s): Ozark Trail Folding Hard-Arm Camping Cha"
@@ -1230,10 +1234,6 @@
     {
       "at": "2026-11-07T00:55:22Z",
       "text": "3 new offer(s): Makeup Vanity With Lighted Mirror Chargi, 🚨 Login to an account & Apply promo code, ANRABESS Women 2 Piece Sets Oversized Fl"
-    },
-    {
-      "at": "2026-11-07T00:34:35Z",
-      "text": "3 new offer(s): CHICME Womens Open Front Chunky Knit Car, NutriBullet Personal Blender 700W with T, Weekend Academy Girls Lace Charm Boat Sh"
     }
   ]
 }
