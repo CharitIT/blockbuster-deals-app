@@ -1,9 +1,81 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T17:54:09Z",
+  "lastScan": "2026-11-08T18:04:32Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC9ECC828202362A7701BB74997A1CB2",
+      "store": "Deal",
+      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
+      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
+      "page": null,
+      "image": "img/wa/AC9ECC828202362A7701BB74997A1CB2.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T17:59:27Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC4BC72AE8D3E65B83A797B01BEE67F8",
+      "store": "Deal",
+      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Link:",
+      "link": "https://theblogcm.com/566/eJi8",
+      "page": null,
+      "image": "img/wa/AC4BC72AE8D3E65B83A797B01BEE67F8.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T17:58:55Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACBC4495D18AE0E4947EA81E0A71D361",
+      "store": "Deal",
+      "title": "Blink Outdoor XR+ and Wired Doorbell 2K+ — Extended range wireless Outdoor 4 camera and 2K hardwired doorbell. Sync Module XR+ included",
+      "price": "$69",
+      "was": "$249",
+      "discount": "72% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/blink-outdoor-xr-and-wired-doorbell-2k-extended-range-wireless-outdoor-4-camera-and-2k-hardwired-doorbell-sync-module-xr-included/",
+      "page": null,
+      "image": "img/wa/ACBC4495D18AE0E4947EA81E0A71D361.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T17:57:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACE4C85BB0499FF957C42ABECDD384B8",
+      "store": "Deal",
+      "title": "Carter’s Multipack Bodysuits & Bottoms",
+      "price": "$10",
+      "was": "$24",
+      "discount": "58% off",
+      "code": null,
+      "notes": "TODAY ONLY 🚨",
+      "link": "https://mavely.app.link/v7HsU4QaU7b",
+      "page": null,
+      "image": "img/wa/ACE4C85BB0499FF957C42ABECDD384B8.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T17:57:16Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACB3E535BADFFFA9C8A0D0EFBD1BCE2F",
       "store": "Deal",
@@ -1039,80 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACE8A1DD776E004C1ECC2568A3C2BD08",
-      "store": "Walmart",
-      "title": "Scenario Women's and Women's Plus Smocked Waist Peasant Midi Dress with Puff Sleeves, Sizes XS-4X",
-      "price": "$8",
-      "was": "$27",
-      "discount": "70% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/DpqZoydLS7b",
-      "page": null,
-      "image": "img/wa/ACE8A1DD776E004C1ECC2568A3C2BD08.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T21:27:55Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACD87F0A3270E248F299F8D46687EFE9",
-      "store": "Walmart",
-      "title": "Crock-Pot Manual 4-Quart Slow Cooker, Mussel Gray",
-      "price": "$19",
-      "was": "$38",
-      "discount": "50% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/OB6KjIiLS7b",
-      "page": null,
-      "image": "img/wa/ACD87F0A3270E248F299F8D46687EFE9.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T21:27:52Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC2038A8E3DCB6CAD43238F902176AD4",
-      "store": "Deal",
-      "title": "YOOLIFE 6 7 8 9 10 12 Year Old Girl Birthday Gift Girls Dance Bag, Pink S",
-      "price": "$15",
-      "was": null,
-      "discount": null,
-      "code": "FAJ6IUDK",
-      "notes": "Clip coupon & Use Code FAJ6IUDK",
-      "link": "https://blockbusterdeals.net/product/yoolife-6-7-8-9-10-12-year-old-girl-birthday-gift-girls-dance-bag-pink-s/",
-      "page": null,
-      "image": "img/wa/AC2038A8E3DCB6CAD43238F902176AD4.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T21:23:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACC967930E534A29CE7E41DB3C0F86D1",
-      "store": "Deal",
-      "title": "Red Light Therapy for Face Body, 660nm and 850nm Near Infrared Therapy Lamp with 3 Modes, Red Light Panel with Adjustable Stand, 6 Adjustable Brightness and Timer, Home and Travel Use, Gift for Women",
-      "price": "$23",
-      "was": "$70",
-      "discount": "67% off",
-      "code": "67OIU9LK",
-      "notes": "Use code 67OIU9LK",
-      "link": "https://blockbusterdeals.net/product/red-light-therapy-for-face-body-660nm-and-850nm-near-infrared-therapy-lamp-with-3-modes-red-light-panel/",
-      "page": null,
-      "image": "img/wa/ACC967930E534A29CE7E41DB3C0F86D1.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T21:16:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1159,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T18:04:32Z",
+      "text": "4 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more , Blink Outdoor XR+ and Wired Doorbell 2K+"
+    },
     {
       "at": "2026-11-08T17:54:09Z",
       "text": "2 new offer(s): Stainless Steel Bento Lunch Box Set For , Under Armour Men's Charged Assert 10 Run"
@@ -1234,10 +1236,6 @@
     {
       "at": "2026-11-08T02:46:30Z",
       "text": "2 new offer(s): Bamboo Cutting Board 3-Piece Wooden Cutt, U.S. Polo Assn. Men’s Modern Full-Zip Ja"
-    },
-    {
-      "at": "2026-11-08T02:36:08Z",
-      "text": "1 new offer(s): Ozark Trail Folding Hard-Arm Camping Cha"
     }
   ]
 }
