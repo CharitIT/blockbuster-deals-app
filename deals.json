@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T17:02:13Z",
+  "lastScan": "2026-11-08T17:12:37Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACCF0F4A49E951000BBF15380BFFC398",
+      "store": "Michael Kors",
+      "title": "Michael Kors Jet Set Travel Small Convertible Pochette (Chocolate)",
+      "price": "$59",
+      "was": "$378",
+      "discount": "84% off",
+      "code": null,
+      "notes": "BUY 2+ ITEMS, GET 20% OFF APPLIED IN CART FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
+      "link": "https://mavely.app.link/DJ8CrgMeT7b",
+      "page": null,
+      "image": "img/wa/ACCF0F4A49E951000BBF15380BFFC398.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T17:02:30Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
     {
       "id": "wa-AC02A3DA0EEC082EC1DA7C118B71263C",
       "store": "Deal",
@@ -1092,24 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC2AC8BE1592996DF881F20F0322F13A",
-      "store": "Woot",
-      "title": "(NEW) Samsung Galaxy S25 Ultra - 512GB (Unlocked)",
-      "price": "$899",
-      "was": "$1,419",
-      "discount": "37% off",
-      "code": null,
-      "notes": "Sign in with your Amazon account at checkout for free shipping.",
-      "link": "https://mavely.app.link/XIYy5RjES7b",
-      "page": null,
-      "image": "img/wa/AC2AC8BE1592996DF881F20F0322F13A.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T20:14:41Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T17:12:37Z",
+      "text": "1 new offer(s): Michael Kors Jet Set Travel Small Conver"
+    },
     {
       "at": "2026-11-08T17:02:13Z",
       "text": "2 new offer(s): ARM & HAMMER Liquid Laundry Detergent, C, Hanobe Round Wood Candle Holder Tray, Ru"
@@ -1231,10 +1236,6 @@
     {
       "at": "2026-11-07T21:26:27Z",
       "text": "30 new offer(s): YOOLIFE 6 7 8 9 10 12 Year Old Girl Birt, Red Light Therapy for Face Body, 660nm a, Red Light Therapy for Face Body, 660nm a"
-    },
-    {
-      "at": "2026-11-07T16:27:34Z",
-      "text": "2 new offer(s): Teddi Extra Small Slouchy Adjustable Cro, Robot Vacuum,11500Pa Suction,LiDAR Navig"
     }
   ]
 }
