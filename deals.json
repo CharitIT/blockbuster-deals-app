@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T20:08:50Z",
+  "lastScan": "2026-11-08T20:19:15Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC88291C69BFCCB6D9B83BE5C4CD88A3",
+      "store": "Deal",
+      "title": "FREE STANDARD SHIPPING WITH ADICLUB",
+      "price": "$16",
+      "was": "$24",
+      "discount": "33% off",
+      "code": "COZY",
+      "notes": "Adidas RUNFALCON 6 SHOE INFANT Use code COZY for 30%off",
+      "link": "https://mavely.app.link/jfEbUw7hU7b",
+      "page": null,
+      "image": "img/wa/AC88291C69BFCCB6D9B83BE5C4CD88A3.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T20:12:50Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC5323C5FFEF19E148DF98D9CBE3A4AD",
       "store": "Michael Kors",
@@ -1096,24 +1114,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC13A091F7854D205044FBE95EA147CE",
-      "store": "Deal",
-      "title": "LeapFrog Mr Pencil's Scribble Write and Read, Green",
-      "price": "$18",
-      "was": "$29",
-      "discount": "38% off",
-      "code": null,
-      "notes": "Clip coupon",
-      "link": "https://blockbusterdeals.net/product/leapfrog-mr-pencils-scribble-write-and-read-green/",
-      "page": null,
-      "image": "img/wa/AC13A091F7854D205044FBE95EA147CE.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T00:36:47Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1160,6 +1160,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T20:19:15Z",
+      "text": "1 new offer(s): FREE STANDARD SHIPPING WITH ADICLUB"
+    },
     {
       "at": "2026-11-08T20:08:50Z",
       "text": "2 new offer(s): Nayla Small Signature Shoulder Bags, Nike Socks on Sale at Kohls🔥"
@@ -1235,10 +1239,6 @@
     {
       "at": "2026-11-08T15:18:44Z",
       "text": "2 new offer(s): Rubbermaid EasyStore Special Edition Nes, Character Licensed Union Suit Pajamas wi"
-    },
-    {
-      "at": "2026-11-08T15:08:25Z",
-      "text": "1 new offer(s): Nike socks at Kohl's 🔥"
     }
   ]
 }
