@@ -1,9 +1,65 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-08T02:04:57Z",
+  "lastScan": "2026-11-08T02:25:46Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC51A600E53407FFE269B9D2DBDB2353",
+      "store": "Deal",
+      "title": "20 Packs Christmas Tree Ornaments Mini Building Blocks Decoration Set",
+      "price": "$9",
+      "was": "$19",
+      "discount": "53% off",
+      "code": "M87OB7SI",
+      "notes": "Use code:M87OB7SI",
+      "link": "https://blockbusterdeals.net/product/20-packs-christmas-tree-ornaments-mini-building-blocks-decoration-set/",
+      "page": null,
+      "image": "img/wa/AC51A600E53407FFE269B9D2DBDB2353.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T02:21:17Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACCC9C1402D3706E9F83CB4A778F0624",
+      "store": "Walmart",
+      "title": "U.S. Polo Assn. Men's Long Sleeve Oxford Shirts",
+      "price": "$12",
+      "was": "$23",
+      "discount": "48% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/jAW6tPT5S7b",
+      "page": null,
+      "image": "img/wa/ACCC9C1402D3706E9F83CB4A778F0624.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T02:21:12Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACB2562B76298BDB3356BE3A3855CDA9",
+      "store": "Walmart",
+      "title": "Weekend Academy Girls Lace Charm Boat Shoes",
+      "price": "$6",
+      "was": "$13",
+      "discount": "54% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/7P46SwKfR7b",
+      "page": null,
+      "image": "img/wa/ACB2562B76298BDB3356BE3A3855CDA9.jpg",
+      "category": null,
+      "postedAt": "2026-11-08T02:21:11Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACFAD9C2E60BAD94EE041121EFFE5FA4",
       "store": "Deal",
@@ -1053,61 +1109,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-AC0FB23AA80C0E8EF90DABE2164136F0",
-      "store": "Deal",
-      "title": "Samsung 65-Inch Class S85H Series, OLED, 4K, Smart TV, 2026 Model | Samsung Vision AI, OLED HDR, NQ4 AI Gen2 Processor, 4K AI Upscaling, AI Sound Controller, Color Booster Pro, Alexa Built-in",
-      "price": "$899",
-      "was": "$1,597",
-      "discount": "44% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/samsung-65-inch-class-s85h-series-oled-4k-smart-tv-2026-model-samsung-vision-ai-oled-hdr-nq4-ai-gen2-processor-4k-ai-upscaling-ai-sound-controller-color-booster-pro-alexa-built-in/",
-      "page": null,
-      "image": "img/wa/AC0FB23AA80C0E8EF90DABE2164136F0.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T15:56:14Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACBAA01F9F8B854C45FF952BF3DBB8F0",
-      "store": "Walmart",
-      "title": "U.S. Polo Assn. Boys Fleece Pullover Hoodie, Sizes 4-18",
-      "price": "$4",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/nFhvQNmnS7b",
-      "page": null,
-      "image": "img/wa/ACBAA01F9F8B854C45FF952BF3DBB8F0.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T15:48:53Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC5B99818B49A84AB6634C8429D9D45B",
-      "store": "Deal",
-      "title": "National Tree Company 3ft Pre-Lit Nordic Spruce Mini Christmas Tree",
-      "price": "$39",
-      "was": "$116",
-      "discount": "66% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/national-tree-company-3ft-pre-lit-nordic-spruce-mini-christmas-tree/",
-      "page": null,
-      "image": "img/wa/AC5B99818B49A84AB6634C8429D9D45B.jpg",
-      "category": null,
-      "postedAt": "2026-11-07T15:45:58Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1154,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-08T02:25:46Z",
+      "text": "3 new offer(s): 20 Packs Christmas Tree Ornaments Mini B, U.S. Polo Assn. Men's Long Sleeve Oxford, Weekend Academy Girls Lace Charm Boat Sh"
+    },
     {
       "at": "2026-11-08T02:04:57Z",
       "text": "22 new offer(s): GRACE KARIN Women Floral Maxi Dress Fall, Get upto 25% off Fragances like Dolce&Ga, XBOX Wireless Gaming Headset | Forza Hor"
@@ -1229,10 +1234,6 @@
     {
       "at": "2026-11-07T00:13:49Z",
       "text": "2 new offer(s): Womens Sweaters Long Sleeve Quarter Zip , Authentic Royal Basmati White Rice, 15 l"
-    },
-    {
-      "at": "2026-11-06T23:53:04Z",
-      "text": "2 new offer(s): Club Room Men's Solid Turtleneck Shirt, Amazon Essentials Men's Standard-Fit Lon"
     }
   ]
 }
