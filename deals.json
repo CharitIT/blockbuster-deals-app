@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T00:34:27Z",
+  "lastScan": "2026-11-09T00:44:39Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC2A2904831AA9E2B88CCE52E123587B",
+      "store": "Deal",
+      "title": "Shark FlexStyle, Air Multi-Styler & Drying System, Coanda, Copper, HD433CP",
+      "price": "$199",
+      "was": "$314",
+      "discount": "37% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/shark-flexstyle-air-multi-styler-drying-system-coanda-copper/",
+      "page": null,
+      "image": "img/wa/AC2A2904831AA9E2B88CCE52E123587B.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T00:38:55Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACC027D582765A185CEA15F2831EE372",
+      "store": "Target",
+      "title": "All New Dash Sale🔥at Target",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/ngurobuDU7b",
+      "page": null,
+      "image": "img/wa/ACC027D582765A185CEA15F2831EE372.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T00:36:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Target"
+    },
     {
       "id": "wa-AC5C64386F6D9B060B8397E6D92E7131",
       "store": "Deal",
@@ -1071,43 +1108,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC9A20997D492CB20F27241D3239C693",
-      "store": "Walmart",
-      "title": "Ozark Trail Folding Hard-Arm Camping Chair With Carry Bag and Cup Holder",
-      "price": "$9",
-      "was": "$19",
-      "discount": "53% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/IPOpOOE6S7b",
-      "page": null,
-      "image": "img/wa/AC9A20997D492CB20F27241D3239C693.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T02:31:30Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC51A600E53407FFE269B9D2DBDB2353",
-      "store": "Deal",
-      "title": "20 Packs Christmas Tree Ornaments Mini Building Blocks Decoration Set",
-      "price": "$9",
-      "was": "$19",
-      "discount": "53% off",
-      "code": "M87OB7SI",
-      "notes": "Use code:M87OB7SI",
-      "link": "https://blockbusterdeals.net/product/20-packs-christmas-tree-ornaments-mini-building-blocks-decoration-set/",
-      "page": null,
-      "image": "img/wa/AC51A600E53407FFE269B9D2DBDB2353.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T02:21:17Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1154,6 +1154,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T00:44:39Z",
+      "text": "2 new offer(s): Shark FlexStyle, Air Multi-Styler & Dryi, All New Dash Sale🔥at Target"
+    },
     {
       "at": "2026-11-09T00:34:27Z",
       "text": "1 new offer(s): Blink Outdoor 4 and Wired Doorbell 2K+ ("
@@ -1229,10 +1233,6 @@
     {
       "at": "2026-11-08T16:41:31Z",
       "text": "2 new offer(s): Amazon Essentials Men's Relaxed-Fit Shor, Pants clearance for the family"
-    },
-    {
-      "at": "2026-11-08T16:31:10Z",
-      "text": "2 new offer(s): Classic UGGfluff Throw, 50\" x 70\", Bruno Marc Men's Cushionix Stride Casual"
     }
   ]
 }
