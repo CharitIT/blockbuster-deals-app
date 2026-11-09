@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T02:46:26Z",
+  "lastScan": "2026-11-09T02:56:32Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC353EBF9C0D9A9C2021B4A47810DB0D",
+      "store": "Walmart",
+      "title": "True Hue 24 Piece Cotton-Recycled Polyester Bleach Safe Bath Towel Set, White",
+      "price": "$19",
+      "was": "$27",
+      "discount": "30% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/KSwm3F7MU7b",
+      "page": null,
+      "image": "img/wa/AC353EBF9C0D9A9C2021B4A47810DB0D.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T02:53:57Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC3F1C6A3A3865EED95A4B461F62FC9E",
       "store": "Deal",
@@ -1088,25 +1107,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACC2A9FF644290CB01C7F857D225C1A1",
-      "store": "Walmart",
-      "title": "Carters of Mine Clearance",
-      "price": "$1",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "As low As",
-      "link": "https://mavely.app.link/MrqsasJ1T7b",
-      "page": null,
-      "image": "img/wa/ACC2A9FF644290CB01C7F857D225C1A1.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T16:12:20Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1153,6 +1153,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T02:56:32Z",
+      "text": "1 new offer(s): True Hue 24 Piece Cotton-Recycled Polyes"
+    },
     {
       "at": "2026-11-09T02:46:26Z",
       "text": "2 new offer(s): Cetaphil Acne Patches Salicylic Acid & C, Walifrey Wide Leg Sweatpants for Women w"
@@ -1228,10 +1232,6 @@
     {
       "at": "2026-11-08T20:19:15Z",
       "text": "1 new offer(s): FREE STANDARD SHIPPING WITH ADICLUB"
-    },
-    {
-      "at": "2026-11-08T20:08:50Z",
-      "text": "2 new offer(s): Nayla Small Signature Shoulder Bags, Nike Socks on Sale at Kohls🔥"
     }
   ]
 }
