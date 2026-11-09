@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T00:44:39Z",
+  "lastScan": "2026-11-09T00:54:49Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB2D192FF09BA530BE5AF6FBB1ED9D7",
+      "store": "Deal",
+      "title": "soundcore P30i by Anker Noise Cancelling Earbuds, Hands-Free Viewing",
+      "price": "$25",
+      "was": "$50",
+      "discount": "50% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/soundcore-p30i-by-anker-noise-cancelling-earbuds-hands-free-viewing/",
+      "page": null,
+      "image": "img/wa/ACB2D192FF09BA530BE5AF6FBB1ED9D7.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T00:50:33Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC2A2904831AA9E2B88CCE52E123587B",
       "store": "Deal",
@@ -1089,25 +1107,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC552CA938DA7214A82FA9DEA6AF3E8C",
-      "store": "Walmart",
-      "title": "U.S. Polo Assn. Men’s Modern Full-Zip Jacket",
-      "price": "$13",
-      "was": "$30",
-      "discount": "57% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/NxeGb5S6S7b",
-      "page": null,
-      "image": "img/wa/AC552CA938DA7214A82FA9DEA6AF3E8C.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T02:37:41Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1154,6 +1153,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T00:54:49Z",
+      "text": "1 new offer(s): soundcore P30i by Anker Noise Cancelling"
+    },
     {
       "at": "2026-11-09T00:44:39Z",
       "text": "2 new offer(s): Shark FlexStyle, Air Multi-Styler & Dryi, All New Dash Sale🔥at Target"
@@ -1229,10 +1232,6 @@
     {
       "at": "2026-11-08T16:51:52Z",
       "text": "2 new offer(s): AmazingSpark 40 Pack Small Thank You Gif, Schylling NeeDoh Nice Cube - Sensory Squ"
-    },
-    {
-      "at": "2026-11-08T16:41:31Z",
-      "text": "2 new offer(s): Amazon Essentials Men's Relaxed-Fit Shor, Pants clearance for the family"
     }
   ]
 }
