@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T01:45:40Z",
+  "lastScan": "2026-11-09T01:55:50Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8353E19690B7AA16B8BCA4AE96CD0C",
+      "store": "Deal",
+      "title": "Bluey: The Most Amazing Advent Calendar Book Bundle",
+      "price": "$19",
+      "was": "$29",
+      "discount": "34% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/bluey-the-most-amazing-advent-calendar-book-bundle/",
+      "page": null,
+      "image": "img/wa/AC8353E19690B7AA16B8BCA4AE96CD0C.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T01:53:45Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC69763C246FA75C1AD4778016C3FA90",
+      "store": "Target",
+      "title": "Brightroom gift bag 🔥at Target",
+      "price": "As low as $8",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/5JtYp8vHU7b",
+      "page": null,
+      "image": "img/wa/AC69763C246FA75C1AD4778016C3FA90.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T01:46:07Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Target"
+    },
     {
       "id": "wa-AC8CFF9C2D8F5E77645426CE2DE77C35",
       "store": "Deal",
@@ -1071,44 +1108,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC84AEC5F68F51DBE904250AEB5C7437",
-      "store": "Macy's",
-      "title": "Reversible Extra-Large Tote Bag",
-      "price": "$135",
-      "was": "$225",
-      "discount": "40% off",
-      "code": null,
-      "notes": "Lauren Ralph Lauren",
-      "link": "https://mavely.app.link/91uf6asYT7b",
-      "page": null,
-      "image": "img/wa/AC84AEC5F68F51DBE904250AEB5C7437.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T15:25:38Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-AC68387DEDE964C778AACB823A54FA81",
-      "store": "Kohl's",
-      "title": "Rubbermaid EasyStore Special Edition Nesting 26-Piece Food Storage Container Set",
-      "price": "$9",
-      "was": "$24",
-      "discount": "62% off",
-      "code": "SAVINGS",
-      "notes": "Use code SAVINGS at checkout Free Shipping with $25 purchase",
-      "link": "https://mavely.app.link/eyiQVKEXT7b",
-      "page": null,
-      "image": "img/wa/AC68387DEDE964C778AACB823A54FA81.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T15:16:53Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Kohl's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1154,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T01:55:50Z",
+      "text": "2 new offer(s): Bluey: The Most Amazing Advent Calendar , Brightroom gift bag 🔥at Target"
+    },
     {
       "at": "2026-11-09T01:45:40Z",
       "text": "1 new offer(s): Horizon Group USA Bluey Activity Pad, Co"
@@ -1230,10 +1233,6 @@
     {
       "at": "2026-11-08T18:04:32Z",
       "text": "4 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more , Blink Outdoor XR+ and Wired Doorbell 2K+"
-    },
-    {
-      "at": "2026-11-08T17:54:09Z",
-      "text": "2 new offer(s): Stainless Steel Bento Lunch Box Set For , Under Armour Men's Charged Assert 10 Run"
     }
   ]
 }
