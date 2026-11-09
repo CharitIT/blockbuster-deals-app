@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T01:35:33Z",
+  "lastScan": "2026-11-09T01:45:40Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8CFF9C2D8F5E77645426CE2DE77C35",
+      "store": "Deal",
+      "title": "Horizon Group USA Bluey Activity Pad, Coloring Book,60-Page Coloring Book for Kids With Crayons and Stickers",
+      "price": "$7",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/horizon-group-usa-bluey-activity-pad-coloring-book60-page-coloring-book-for-kids-with-crayons-and-stickers/",
+      "page": null,
+      "image": "img/wa/AC8CFF9C2D8F5E77645426CE2DE77C35.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T01:41:37Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC5B453DA51D13364D7A81228D0FD1AD",
       "store": "Ulta",
@@ -1091,25 +1109,6 @@
       "merchant": "Kohl's"
     },
     {
-      "id": "wa-AC15FB6D4EBD1B4E6457930676EB970C",
-      "store": "Walmart",
-      "title": "Character Licensed Union Suit Pajamas with Pockets, Sizes XS-3X",
-      "price": "$11",
-      "was": "$22",
-      "discount": "50% off",
-      "code": null,
-      "notes": "Free Shipping with $25 purchase",
-      "link": "https://mavely.app.link/V1pLwcuXT7b",
-      "page": null,
-      "image": "img/wa/AC15FB6D4EBD1B4E6457930676EB970C.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T15:11:44Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T01:45:40Z",
+      "text": "1 new offer(s): Horizon Group USA Bluey Activity Pad, Co"
+    },
     {
       "at": "2026-11-09T01:35:33Z",
       "text": "1 new offer(s): Upto $20 off with qualifying purchases ✨"
@@ -1231,10 +1234,6 @@
     {
       "at": "2026-11-08T17:54:09Z",
       "text": "2 new offer(s): Stainless Steel Bento Lunch Box Set For , Under Armour Men's Charged Assert 10 Run"
-    },
-    {
-      "at": "2026-11-08T17:33:26Z",
-      "text": "2 new offer(s): Way to Celebrate Girls Halloween Skeleto, Hot Wheels Mega Loop Garage Track Set wi"
     }
   ]
 }
