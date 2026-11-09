@@ -1,9 +1,63 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T02:56:32Z",
+  "lastScan": "2026-11-09T03:06:38Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC5F79FCF0034FD8B044078F149CC4E9",
+      "store": "Deal",
+      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
+      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
+      "page": null,
+      "image": "img/wa/AC5F79FCF0034FD8B044078F149CC4E9.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T03:02:25Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC6B75DEC8FDD9E6139BDA935DDB6043",
+      "store": "Deal",
+      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Link:",
+      "link": "https://theblogcm.com/566/eJi8",
+      "page": null,
+      "image": "img/wa/AC6B75DEC8FDD9E6139BDA935DDB6043.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T03:01:24Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACAD59CCFDF6FF69B62817CD7E2AA844",
+      "store": "Deal",
+      "title": "LEGO Speed Champions Oracle Red Bull Racing RB20 F1 Race Car Model Kits - Building Set for Adults, Ages 18+ with Realistic Features - Red Bull F1 DIY Crafts for Display - Gift Idea for Fans - 77243",
+      "price": "$15",
+      "was": "$26",
+      "discount": "42% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/lego-speed-champions-oracle-red-bull-racing-rb20-f1-race-car-model-kits-building-set-for-adults-ages-18-with-realistic-features-red-bull-f1-diy-crafts-for-display-gift-idea-for-fans-77243/",
+      "page": null,
+      "image": "img/wa/ACAD59CCFDF6FF69B62817CD7E2AA844.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T02:59:01Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC353EBF9C0D9A9C2021B4A47810DB0D",
       "store": "Walmart",
@@ -1051,62 +1105,6 @@
       "merchant": "Amazon"
     },
     {
-      "id": "wa-ACB4779EFECE8A546B10AC12196FACD3",
-      "store": "Walmart",
-      "title": "Pants clearance for the family",
-      "price": "$1",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "As low As",
-      "link": "https://mavely.app.link/fGu8I311T7b",
-      "page": null,
-      "image": "img/wa/ACB4779EFECE8A546B10AC12196FACD3.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T16:31:35Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC6418BE6071BDCB6E0F25097D84D83C",
-      "store": "Macy's",
-      "title": "Classic UGGfluff Throw, 50\" x 70\"",
-      "price": "$25",
-      "was": "$48",
-      "discount": "48% off",
-      "code": null,
-      "notes": "UGG®️",
-      "link": "https://mavely.app.link/quDsR2O4T7b",
-      "page": null,
-      "image": "img/wa/AC6418BE6071BDCB6E0F25097D84D83C.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T16:25:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-AC5D1E62D548B42030FA91EC8C330081",
-      "store": "Deal",
-      "title": "Bruno Marc Men's Cushionix Stride Casual Sneakers",
-      "price": "$24",
-      "was": "$49",
-      "discount": "51% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/bruno-marc-mens-cushionix-stride-casual-sneakers/",
-      "page": null,
-      "image": "img/wa/AC5D1E62D548B42030FA91EC8C330081.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T16:21:32Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1153,6 +1151,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T03:06:38Z",
+      "text": "3 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more , LEGO Speed Champions Oracle Red Bull Rac"
+    },
     {
       "at": "2026-11-09T02:56:32Z",
       "text": "1 new offer(s): True Hue 24 Piece Cotton-Recycled Polyes"
@@ -1228,10 +1230,6 @@
     {
       "at": "2026-11-08T20:29:39Z",
       "text": "2 new offer(s): FREE STANDARD SHIPPING WITH ADICLUB, Ring Indoor Cam 2K, Plug-In - Retinal 2K"
-    },
-    {
-      "at": "2026-11-08T20:19:15Z",
-      "text": "1 new offer(s): FREE STANDARD SHIPPING WITH ADICLUB"
     }
   ]
 }
