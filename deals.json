@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T01:15:09Z",
+  "lastScan": "2026-11-09T01:25:17Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACE0DBFEB97800A3E8577E02E123CCBE",
+      "store": "Deal",
+      "title": "Blink Mini 2K+ (newest model) – Plug-in Home & Pet Indoor Security Camera with 2K video resolution, night vision, enhanced audio, motion detection – 1 camera (White)",
+      "price": "$15",
+      "was": "$39",
+      "discount": "62% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/blink-mini-2k-newest-model-plug-in-home-pet-indoor-security-camera-with-2k-video-resolution-night-vision-enhanced-audio-motion-detection-1-camera-white/",
+      "page": null,
+      "image": "img/wa/ACE0DBFEB97800A3E8577E02E123CCBE.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T01:23:40Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC00048DA12435BB1B2764394B68F858",
+      "store": "Walmart",
+      "title": "Mainstays 40 oz Double-Wall Vacuum Insulated Stainless Steel Tumbler with Straw and Handle, White",
+      "price": "$6",
+      "was": "$12",
+      "discount": "50% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/jcOwpTSGU7b",
+      "page": null,
+      "image": "img/wa/AC00048DA12435BB1B2764394B68F858.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T01:19:52Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACFF442E3E3398484BB77DD93F3834E1",
       "store": "Deal",
@@ -1072,42 +1109,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACA6B7D2870D89AE6FB1F43DFBA2BAA6",
-      "store": "Deal",
-      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
-      "price": "$20",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
-      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
-      "page": null,
-      "image": "img/wa/ACA6B7D2870D89AE6FB1F43DFBA2BAA6.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T02:59:38Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC66C1A2A321EC1D0D0358EB54C963A8",
-      "store": "Deal",
-      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Link:",
-      "link": "https://theblogcm.com/566/eJi8",
-      "page": null,
-      "image": "img/wa/AC66C1A2A321EC1D0D0358EB54C963A8.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T02:57:52Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1154,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T01:25:17Z",
+      "text": "2 new offer(s): Blink Mini 2K+ (newest model) – Plug-in , Mainstays 40 oz Double-Wall Vacuum Insul"
+    },
     {
       "at": "2026-11-09T01:15:09Z",
       "text": "2 new offer(s): Braun Sensian 7 Forehead 3-in-1 Non-Cont, Charcuterie Board Set with Handless Lid "
@@ -1229,10 +1234,6 @@
     {
       "at": "2026-11-08T17:23:01Z",
       "text": "2 new offer(s): Weekend Academy Girls Baggy Straight Jea, PRETTYGARDEN Cowl Neck Tops for Women Lo"
-    },
-    {
-      "at": "2026-11-08T17:12:37Z",
-      "text": "1 new offer(s): Michael Kors Jet Set Travel Small Conver"
     }
   ]
 }
