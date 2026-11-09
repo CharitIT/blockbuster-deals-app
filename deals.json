@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T00:14:08Z",
+  "lastScan": "2026-11-09T00:24:18Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACFDEB311294227F9B1B4098023017AA",
+      "store": "Walmart",
+      "title": "Mainstays Dashwood 7-Piece Steel Outdoor Dining Set, Black",
+      "price": "$137",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/vAqLLPrCU7b",
+      "page": null,
+      "image": "img/wa/ACFDEB311294227F9B1B4098023017AA.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T00:21:18Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACE47A91D3856BE3FAF389712862FD83",
       "store": "Deal",
@@ -1090,25 +1109,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACB2562B76298BDB3356BE3A3855CDA9",
-      "store": "Walmart",
-      "title": "Weekend Academy Girls Lace Charm Boat Shoes",
-      "price": "$6",
-      "was": "$13",
-      "discount": "54% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/7P46SwKfR7b",
-      "page": null,
-      "image": "img/wa/ACB2562B76298BDB3356BE3A3855CDA9.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T02:21:11Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T00:24:18Z",
+      "text": "1 new offer(s): Mainstays Dashwood 7-Piece Steel Outdoor"
+    },
     {
       "at": "2026-11-09T00:14:08Z",
       "text": "2 new offer(s): Hatchimals Bloomables Bloom Bash 6-Pack , Free standard shipping for FLX Rewards m"
@@ -1230,10 +1234,6 @@
     {
       "at": "2026-11-08T16:20:50Z",
       "text": "1 new offer(s): Carters of Mine Clearance"
-    },
-    {
-      "at": "2026-11-08T16:10:28Z",
-      "text": "2 new offer(s): Glad Kitchen Utensils Set, 8pcs - Nonsti, Shark FlexStyle Air Multi-Styler & Dryin"
     }
   ]
 }
