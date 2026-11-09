@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T00:24:18Z",
+  "lastScan": "2026-11-09T00:34:27Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC5C64386F6D9B060B8397E6D92E7131",
+      "store": "Deal",
+      "title": "Blink Outdoor 4 and Wired Doorbell 2K+ (newest model) — Two-year battery 1080p camera and 2K hardwired doorbell. Sync Module Core included — 1 Camera + Doorbell (Black)",
+      "price": "$27",
+      "was": "$129",
+      "discount": "79% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/blink-outdoor-4-and-wired-doorbell-2k-newest-model-two-year-battery-1080p-camera-and-2k-hardwired-doorbell-sync-module-core-included-1-camera-doorbell-black/",
+      "page": null,
+      "image": "img/wa/AC5C64386F6D9B060B8397E6D92E7131.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T00:25:03Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACFDEB311294227F9B1B4098023017AA",
       "store": "Walmart",
@@ -1090,25 +1108,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACCC9C1402D3706E9F83CB4A778F0624",
-      "store": "Walmart",
-      "title": "U.S. Polo Assn. Men's Long Sleeve Oxford Shirts",
-      "price": "$12",
-      "was": "$23",
-      "discount": "48% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/jAW6tPT5S7b",
-      "page": null,
-      "image": "img/wa/ACCC9C1402D3706E9F83CB4A778F0624.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T02:21:12Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1154,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T00:34:27Z",
+      "text": "1 new offer(s): Blink Outdoor 4 and Wired Doorbell 2K+ ("
+    },
     {
       "at": "2026-11-09T00:24:18Z",
       "text": "1 new offer(s): Mainstays Dashwood 7-Piece Steel Outdoor"
@@ -1230,10 +1233,6 @@
     {
       "at": "2026-11-08T16:31:10Z",
       "text": "2 new offer(s): Classic UGGfluff Throw, 50\" x 70\", Bruno Marc Men's Cushionix Stride Casual"
-    },
-    {
-      "at": "2026-11-08T16:20:50Z",
-      "text": "1 new offer(s): Carters of Mine Clearance"
     }
   ]
 }
