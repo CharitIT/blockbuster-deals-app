@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T00:54:49Z",
+  "lastScan": "2026-11-09T01:04:59Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACCE1EABD351AD0E3CFB6CB8030EE8D0",
+      "store": "Kohl's",
+      "title": "🚨Get $10 Kohl's Cash®️ to use November 9 - 19",
+      "price": "$99",
+      "was": "$249",
+      "discount": "60% off",
+      "code": null,
+      "notes": "BISSELL CleanView XR Pet Cordless Vacuum Free shipping",
+      "link": "https://mavely.app.link/NSfWNuTEU7b",
+      "page": null,
+      "image": "img/wa/ACCE1EABD351AD0E3CFB6CB8030EE8D0.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T00:55:47Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Kohl's"
+    },
     {
       "id": "wa-ACB2D192FF09BA530BE5AF6FBB1ED9D7",
       "store": "Deal",
@@ -1089,24 +1108,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC647404D714B9000CA3B5EE0CAAE8EA",
-      "store": "Deal",
-      "title": "Bamboo Cutting Board 3-Piece Wooden Cutting Board & Knife Sets for kitchen",
-      "price": "$11",
-      "was": "$32",
-      "discount": "66% off",
-      "code": "GR93SIU2",
-      "notes": "Clip Coupon + Code: GR93SIU2",
-      "link": "https://blockbusterdeals.net/product/bamboo-cutting-board-3-piece-wooden-cutting-board-knife-sets-for-kitchen/",
-      "page": null,
-      "image": "img/wa/AC647404D714B9000CA3B5EE0CAAE8EA.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T02:40:58Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1153,6 +1154,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T01:04:59Z",
+      "text": "1 new offer(s): 🚨Get $10 Kohl's Cash®️ to use November 9"
+    },
     {
       "at": "2026-11-09T00:54:49Z",
       "text": "1 new offer(s): soundcore P30i by Anker Noise Cancelling"
@@ -1228,10 +1233,6 @@
     {
       "at": "2026-11-08T17:02:13Z",
       "text": "2 new offer(s): ARM & HAMMER Liquid Laundry Detergent, C, Hanobe Round Wood Candle Holder Tray, Ru"
-    },
-    {
-      "at": "2026-11-08T16:51:52Z",
-      "text": "2 new offer(s): AmazingSpark 40 Pack Small Thank You Gif, Schylling NeeDoh Nice Cube - Sensory Squ"
     }
   ]
 }
