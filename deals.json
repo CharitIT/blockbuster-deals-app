@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T01:04:59Z",
+  "lastScan": "2026-11-09T01:15:09Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACFF442E3E3398484BB77DD93F3834E1",
+      "store": "Deal",
+      "title": "Braun Sensian 7 Forehead 3-in-1 Non-Contact Infrared Thermometer",
+      "price": "$9",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/braun-sensian-7-forehead-3-in-1-non-contact-infrared-thermometer/",
+      "page": null,
+      "image": "img/wa/ACFF442E3E3398484BB77DD93F3834E1.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T01:08:08Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC04AB30FDD211C1F67096192DB1FB05",
+      "store": "Deal",
+      "title": "Charcuterie Board Set with Handless Lid – Bamboo Cheese Board with Sliding Drawer, 4 Stainless Steel Cheese Knives, 4 Forks, 2 Glass Bowls, Gift Bag – Perfect for Gift",
+      "price": "$24",
+      "was": "$49",
+      "discount": "51% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/charcuterie-board-set-with-handless-lid-bamboo-cheese-board-with-sliding-drawer-4-stainless-steel-cheese-knives-4-forks-2-glass-bowls-gift-bag-perfect-for-gift/",
+      "page": null,
+      "image": "img/wa/AC04AB30FDD211C1F67096192DB1FB05.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T01:08:02Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACCE1EABD351AD0E3CFB6CB8030EE8D0",
       "store": "Kohl's",
@@ -1072,42 +1108,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACFEF1A6017AEBBD7A1D4EF0E48D226D",
-      "store": "Deal",
-      "title": "HEBE Fall Kitchen Rugs Set of 3, Washable Pumpkin Kitchen Mats for Floor",
-      "price": "$16",
-      "was": "$29",
-      "discount": "45% off",
-      "code": null,
-      "notes": "Clip coupon",
-      "link": "https://blockbusterdeals.net/product/hebe-fall-kitchen-rugs-set-of-3-washable-pumpkin-kitchen-mats-for-floor/",
-      "page": null,
-      "image": "img/wa/ACFEF1A6017AEBBD7A1D4EF0E48D226D.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T02:55:00Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACF567B8A2707BBB8318437829011629",
-      "store": "Deal",
-      "title": "Hudson Baby Unisex Baby Flannel Burp Cloth 12pk, Pink Honey Bunny,One size",
-      "price": "$7",
-      "was": "$16",
-      "discount": "56% off",
-      "code": null,
-      "notes": "clip coupon",
-      "link": "https://blockbusterdeals.net/product/hudson-baby-unisex-baby-flannel-burp-cloth-12pk-pink-honey-bunnyone-size/",
-      "page": null,
-      "image": "img/wa/ACF567B8A2707BBB8318437829011629.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T02:48:53Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1154,6 +1154,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T01:15:09Z",
+      "text": "2 new offer(s): Braun Sensian 7 Forehead 3-in-1 Non-Cont, Charcuterie Board Set with Handless Lid "
+    },
     {
       "at": "2026-11-09T01:04:59Z",
       "text": "1 new offer(s): 🚨Get $10 Kohl's Cash®️ to use November 9"
@@ -1229,10 +1233,6 @@
     {
       "at": "2026-11-08T17:12:37Z",
       "text": "1 new offer(s): Michael Kors Jet Set Travel Small Conver"
-    },
-    {
-      "at": "2026-11-08T17:02:13Z",
-      "text": "2 new offer(s): ARM & HAMMER Liquid Laundry Detergent, C, Hanobe Round Wood Candle Holder Tray, Ru"
     }
   ]
 }
