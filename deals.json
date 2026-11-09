@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T01:25:17Z",
+  "lastScan": "2026-11-09T01:35:33Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC5B453DA51D13364D7A81228D0FD1AD",
+      "store": "Ulta",
+      "title": "Upto $20 off with qualifying purchases ✨(Includes prestige Fragrances)",
+      "price": "$10",
+      "was": null,
+      "discount": null,
+      "code": "GIFTS",
+      "notes": "ENDS TODAY ❗ Ulta Beauty🔥 Use code : GIFTS $15 off $75 $20 off $100",
+      "link": "https://mavely.app.link/3MONvCYFU7b",
+      "page": null,
+      "image": "img/wa/AC5B453DA51D13364D7A81228D0FD1AD.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T01:32:33Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Ulta"
+    },
     {
       "id": "wa-ACE0DBFEB97800A3E8577E02E123CCBE",
       "store": "Deal",
@@ -1091,24 +1110,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC128823E9F89ED02E4CA7288FD580D3",
-      "store": "Deal",
-      "title": "Nike socks at Kohl's 🔥",
-      "price": "$25",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Get upto 40%off",
-      "link": "https://mavely.app.link/pnx9RDiXT7b",
-      "page": null,
-      "image": "img/wa/AC128823E9F89ED02E4CA7288FD580D3.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T15:04:21Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T01:35:33Z",
+      "text": "1 new offer(s): Upto $20 off with qualifying purchases ✨"
+    },
     {
       "at": "2026-11-09T01:25:17Z",
       "text": "2 new offer(s): Blink Mini 2K+ (newest model) – Plug-in , Mainstays 40 oz Double-Wall Vacuum Insul"
@@ -1230,10 +1235,6 @@
     {
       "at": "2026-11-08T17:33:26Z",
       "text": "2 new offer(s): Way to Celebrate Girls Halloween Skeleto, Hot Wheels Mega Loop Garage Track Set wi"
-    },
-    {
-      "at": "2026-11-08T17:23:01Z",
-      "text": "2 new offer(s): Weekend Academy Girls Baggy Straight Jea, PRETTYGARDEN Cowl Neck Tops for Women Lo"
     }
   ]
 }
