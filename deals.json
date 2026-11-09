@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T02:16:09Z",
+  "lastScan": "2026-11-09T02:36:21Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC513E124DB2E03EA7CE71F9F44A221F",
+      "store": "Deal",
+      "title": "Sampeel Dresses for Women 2025 Casual Long Sleeve V Neck Tshirt Dress Side Split Fashion Fall Outfits",
+      "price": "$9",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/sampeel-dresses-for-women-2025-casual-long-sleeve-v-neck-tshirt-dress-side-split-fashion-fall-outfits/",
+      "page": null,
+      "image": "img/wa/AC513E124DB2E03EA7CE71F9F44A221F.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T02:34:35Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC5460A7ADA92A32084B99A2D14AC93E",
+      "store": "Walmart",
+      "title": "Mickey Mouse Women’s Fleece Hoodie with Embroidered Graphics, Sizes XXS-XXL",
+      "price": "$16",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/nDctiSdLU7b",
+      "page": null,
+      "image": "img/wa/AC5460A7ADA92A32084B99A2D14AC93E.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T02:34:15Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC6C0C2296965E587BF69A4F7D70B972",
       "store": "Walmart",
@@ -1070,43 +1107,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC41D6B639D37F7557BEEFCF8B6B9EAF",
-      "store": "Deal",
-      "title": "FREE STANDARD SHIPPING WITH ADICLUB",
-      "price": "$21",
-      "was": "$50",
-      "discount": "58% off",
-      "code": "COZY",
-      "notes": "Adidas Galaxy 8 Junior Shoes Use code COZY for 30%off Select colors and sizes",
-      "link": "https://mavely.app.link/hydMb5o0T7b",
-      "page": null,
-      "image": "img/wa/AC41D6B639D37F7557BEEFCF8B6B9EAF.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T15:53:32Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC7BA2A112D8BA61A6400A7528B2F525",
-      "store": "Under Armour",
-      "title": "Free Shipping on orders with $99+",
-      "price": "$19",
-      "was": "$40",
-      "discount": "52% off",
-      "code": null,
-      "notes": "Under Armour Velocity Men's Hoodie Use codes WARMUP & EXTRA10",
-      "link": "https://mavely.app.link/e98ouOsZT7b",
-      "page": null,
-      "image": "img/wa/AC7BA2A112D8BA61A6400A7528B2F525.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T15:46:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1153,6 +1153,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T02:36:21Z",
+      "text": "2 new offer(s): Sampeel Dresses for Women 2025 Casual Lo, Mickey Mouse Women’s Fleece Hoodie with "
+    },
     {
       "at": "2026-11-09T02:16:09Z",
       "text": "2 new offer(s): Gaming Monitors 🔥 at Walmart, Ekouaer Tank Nightgowns for Women 2 Pack"
@@ -1228,10 +1232,6 @@
     {
       "at": "2026-11-08T19:58:26Z",
       "text": "2 new offer(s): Weekend Academy Girls Flare Denim Jeans,, Ozark Trail M.1 Timber Kids' Balance Bik"
-    },
-    {
-      "at": "2026-11-08T19:48:04Z",
-      "text": "2 new offer(s): Women's Loven Low Profile Lace-Up Sneake, Keurig®️ K-Duo Gen 2 Hot & Iced Single S"
     }
   ]
 }
