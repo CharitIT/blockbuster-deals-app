@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T01:55:50Z",
+  "lastScan": "2026-11-09T02:16:09Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC6C0C2296965E587BF69A4F7D70B972",
+      "store": "Walmart",
+      "title": "Gaming Monitors 🔥 at Walmart",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/lIkR7zNKU7b",
+      "page": null,
+      "image": "img/wa/AC6C0C2296965E587BF69A4F7D70B972.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T02:14:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACF25F36E87A2CB38433D822BCE241B1",
+      "store": "Deal",
+      "title": "Ekouaer Tank Nightgowns for Women 2 Pack Sexy Night Gown Sleeveless Sleepwear Soft Sleep Dress Button Sleepshirt",
+      "price": "$11",
+      "was": "$24",
+      "discount": "54% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/ekouaer-tank-nightgowns-for-women-2-pack-sexy-night-gown-sleeveless-sleepwear-soft-sleep-dress-button-sleepshirt/",
+      "page": null,
+      "image": "img/wa/ACF25F36E87A2CB38433D822BCE241B1.jpg",
+      "category": null,
+      "postedAt": "2026-11-09T02:10:05Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC8353E19690B7AA16B8BCA4AE96CD0C",
       "store": "Deal",
@@ -1070,44 +1107,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-ACA27F6816136C2CC3B1A4C009B979CD",
-      "store": "Walmart",
-      "title": "U.S. Polo Assn. Men's Long Sleeve Oxford Shirts",
-      "price": "$12",
-      "was": "$23",
-      "discount": "48% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/9wwLZ0RYT7b",
-      "page": null,
-      "image": "img/wa/ACA27F6816136C2CC3B1A4C009B979CD.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T15:38:07Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC9E79CF9FD65D75771BDD4FB37F8D33",
-      "store": "Walmart",
-      "title": "U.S. Polo Assn. Men’s Modern Full-Zip Jacket",
-      "price": "$13",
-      "was": "$30",
-      "discount": "57% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/KZiQTnKYT7b",
-      "page": null,
-      "image": "img/wa/AC9E79CF9FD65D75771BDD4FB37F8D33.jpg",
-      "category": null,
-      "postedAt": "2026-11-08T15:30:58Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1154,6 +1153,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-09T02:16:09Z",
+      "text": "2 new offer(s): Gaming Monitors 🔥 at Walmart, Ekouaer Tank Nightgowns for Women 2 Pack"
+    },
     {
       "at": "2026-11-09T01:55:50Z",
       "text": "2 new offer(s): Bluey: The Most Amazing Advent Calendar , Brightroom gift bag 🔥at Target"
@@ -1229,10 +1232,6 @@
     {
       "at": "2026-11-08T19:48:04Z",
       "text": "2 new offer(s): Women's Loven Low Profile Lace-Up Sneake, Keurig®️ K-Duo Gen 2 Hot & Iced Single S"
-    },
-    {
-      "at": "2026-11-08T18:04:32Z",
-      "text": "4 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more , Blink Outdoor XR+ and Wired Doorbell 2K+"
     }
   ]
 }
