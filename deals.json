@@ -1,9 +1,64 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T21:23:53Z",
+  "lastScan": "2026-11-10T21:34:00Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC5E7225ADA43BD5C34836A70685F9C6",
+      "store": "Walmart",
+      "title": "✅ Enjoy free delivery benefits, shipping perks, exclusive member prices, gas savings & more!",
+      "price": "$120",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "✅ Save time and money on groceries, household essentials & everyday shopping. Join Now:",
+      "link": "https://mavely.app.link/6d7cAzNaX7b",
+      "page": null,
+      "image": "img/wa/AC5E7225ADA43BD5C34836A70685F9C6.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T21:30:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACD97E4C3E3739ED9B42B99F2951ECB7",
+      "store": "Deal",
+      "title": "Clearance Men's Pants",
+      "price": "$14",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "menswearhouse",
+      "link": "https://mavely.app.link/1EFQWT8IX7b",
+      "page": null,
+      "image": "img/wa/ACD97E4C3E3739ED9B42B99F2951ECB7.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T21:28:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC06EEA7FB97285727F0764C2A126247",
+      "store": "Deal",
+      "title": "KCDDUMK 4 Pack Cami Bralettes for Women, Spaghetti Strap Sleep Bras",
+      "price": "$25",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/kcddumk-4-pack-cami-bralettes-for-women-spaghetti-strap-sleep-bras-2/",
+      "page": null,
+      "image": "img/wa/AC06EEA7FB97285727F0764C2A126247.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T21:28:54Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC3F735AA65D114C033335B8FCB8B35D",
       "store": "Macy's",
@@ -1059,61 +1114,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-AC2F3A4749BA9407244DF83BB85F0826",
-      "store": "Macy's",
-      "title": "Butterfly Meadow Blue 18 Pc. Dinnerware Set, Service for 6",
-      "price": "$114",
-      "was": "$497",
-      "discount": "77% off",
-      "code": null,
-      "notes": "Black Friday Deal!! Lenox Free shipping",
-      "link": "https://mavely.app.link/UBfGCyenW7b",
-      "page": null,
-      "image": "img/wa/AC2F3A4749BA9407244DF83BB85F0826.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T01:38:37Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-AC32D157A80E56B6C9DF386D715475CD",
-      "store": "Deal",
-      "title": "24pc Glass Food Storage Containers with Lids，Glass Meal Prep Containers",
-      "price": "$21",
-      "was": "$30",
-      "discount": "30% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/24pc-glass-food-storage-containers-with-lids%ef%bc%8cglass-meal-prep-containers/",
-      "page": null,
-      "image": "img/wa/AC32D157A80E56B6C9DF386D715475CD.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T01:38:32Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACD111AAEDC706C3B86159D745211BAE",
-      "store": "Deal",
-      "title": "Buy one, get one 50%off on selected Wrangler Kid's Jeans 🔥",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Buy one, get one 50%off on selected Wrangler Tees🔥",
-      "link": "https://mavely.app.link/oi9TS3klW7b",
-      "page": null,
-      "image": "img/wa/ACD111AAEDC706C3B86159D745211BAE.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T01:30:47Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1160,6 +1160,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T21:34:00Z",
+      "text": "3 new offer(s): ✅ Enjoy free delivery benefits, shipping, Clearance Men's Pants, KCDDUMK 4 Pack Cami Bralettes for Women,"
+    },
     {
       "at": "2026-11-10T21:23:53Z",
       "text": "1 new offer(s): Nabela Small Convertible Pouchette Cross"
@@ -1235,10 +1239,6 @@
     {
       "at": "2026-11-10T16:01:35Z",
       "text": "2 new offer(s): Cosy Family 6 Pack 90L Heavy Duty Extra , Drone with Camera for Beginners, 1080P H"
-    },
-    {
-      "at": "2026-11-10T15:51:28Z",
-      "text": "2 new offer(s): 250-watt base blends smoothies, shakes &, 300ML Larger Tank, Portable Rechargeable"
     }
   ]
 }
