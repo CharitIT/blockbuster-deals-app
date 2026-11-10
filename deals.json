@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T15:51:28Z",
+  "lastScan": "2026-11-10T16:01:35Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC6A004B61EF2028E17ACD5C7ED9222A",
+      "store": "Deal",
+      "title": "Cosy Family 6 Pack 90L Heavy Duty Extra Large Moving Bags with Reinforced Handle - Strong Handles & Zippers, Storage Totes For Space Saving, Fold Flat, Alternative to Moving Box, Grey",
+      "price": "$13",
+      "was": "$19",
+      "discount": "32% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/cosy-family-6-pack-90l-heavy-duty-extra-large-moving-bags/",
+      "page": null,
+      "image": "img/wa/AC6A004B61EF2028E17ACD5C7ED9222A.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T16:01:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC408365A01C3C8FE8C8A428A80F438E",
+      "store": "Deal",
+      "title": "Drone with Camera for Beginners, 1080P HD FPV Foldable Drone Gift for Kids, Mini Drone with 2 Batteries, Carrying Case, One-Key Takeoff/Landing, Trajectory Flight, Gravity Control & 360° Flips",
+      "price": "$19",
+      "was": "$66",
+      "discount": "71% off",
+      "code": "3RPSMBRR",
+      "notes": "Use code: 3RPSMBRR",
+      "link": "https://blockbusterdeals.net/product/drone-with-camera-for-beginners-1080p-hd-fpv-foldable-drone-gift-for-kids-mini-drone-with-2-batteries-carrying-case-one-key-takeoff-landing-trajectory-flight-gravity-control-360-flips/",
+      "page": null,
+      "image": "img/wa/AC408365A01C3C8FE8C8A428A80F438E.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T15:54:55Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC58840DB8B92B79D8510793D717D9F3",
       "store": "Deal",
@@ -1075,43 +1111,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-ACAAE7FEFC1692CC5C21E94B5CD9FB0D",
-      "store": "Deal",
-      "title": "LEGO Classic Medium Creative Brick Box 10696 , Building Toys for Boys & Girls, Ages 4-99, Develops Fine Motor Skills, W/ Storage Bin, 484 Pieces, Gift for Birthdays",
-      "price": "$21",
-      "was": "$34",
-      "discount": "38% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/lego-classic-medium-creative-brick-box-10696-building-toys-for-boys-girls-ages-4-99-develops-fine-motor-skills-w-storage-bin-484-pieces-gift-for-birthdays/",
-      "page": null,
-      "image": "img/wa/ACAAE7FEFC1692CC5C21E94B5CD9FB0D.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T17:46:19Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC4018958FA804326E3093AB4341D5A2",
-      "store": "Under Armour",
-      "title": "Men's Sleeveless Hoodie - Keeps You Warm",
-      "price": "$22",
-      "was": "$60",
-      "discount": "63% off",
-      "code": "WARMUP",
-      "notes": "Under Armour Icon Fleece 4.8(186) Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA Free standard shipping on orders $99+",
-      "link": "https://go.magik.ly/ml/4pwzj/",
-      "page": null,
-      "image": "img/wa/AC4018958FA804326E3093AB4341D5A2.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T17:42:41Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T16:01:35Z",
+      "text": "2 new offer(s): Cosy Family 6 Pack 90L Heavy Duty Extra , Drone with Camera for Beginners, 1080P H"
+    },
     {
       "at": "2026-11-10T15:51:28Z",
       "text": "2 new offer(s): 250-watt base blends smoothies, shakes &, 300ML Larger Tank, Portable Rechargeable"
@@ -1233,10 +1236,6 @@
     {
       "at": "2026-11-10T00:17:48Z",
       "text": "2 new offer(s): Gucci Guilty Pour Homme Eau De Toilette , 4 Pockets, Straight Leg, Classic Fit, St"
-    },
-    {
-      "at": "2026-11-10T00:07:44Z",
-      "text": "1 new offer(s): (NEW) Samsung Galaxy S25 Ultra - 512GB ("
     }
   ]
 }
