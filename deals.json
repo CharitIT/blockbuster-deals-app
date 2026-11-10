@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T14:20:36Z",
+  "lastScan": "2026-11-10T15:10:58Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC7488ABE23E672FE7ED89B5AFC39044",
+      "store": "Amazon",
+      "title": "Amazon Basics Organic Cotton Sheet Set with 1-Piece Pillowcase, GOTS-Certified Bedding, Twin, White",
+      "price": "$5",
+      "was": "$25",
+      "discount": "80% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/amazon-basics-organic-cotton-sheet-set-with-1-piece-pillowcase-gots-certified-bedding-twin-white/",
+      "page": null,
+      "image": "img/wa/AC7488ABE23E672FE7ED89B5AFC39044.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T15:09:12Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
+    {
+      "id": "wa-ACF95F726C210D81D3F0E9D202A6F785",
+      "store": "Walmart",
+      "title": "Lee®️ Men's Heritage Short Sleeve Surplus Shirt, Sizes S-3XL",
+      "price": "$7",
+      "was": "$14",
+      "discount": "50% off",
+      "code": null,
+      "notes": null,
+      "link": "https://go.sylikes.com/fbgE1FCIgDeQ",
+      "page": null,
+      "image": "img/wa/ACF95F726C210D81D3F0E9D202A6F785.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T15:05:34Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC9040858E3EAD9CB7EE0D36AAA19045",
       "store": "Walmart",
@@ -1073,42 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC9F5CE61EF649A3CDE1FE9EA25651EB",
-      "store": "Deal",
-      "title": "8 Modes, 3 Timer Settings, Memory Function, Waterproof Firecracker Twinkle Light Plug in, Indoor Outdoor Xmas Tree Yard Decor",
-      "price": "$14",
-      "was": "$34",
-      "discount": "59% off",
-      "code": "IDUHMATQ",
-      "notes": "Christmas Cluster Lights 25 FT 500 LED Fairy String Light Remote Warm White Use code: IDUHMATQ",
-      "link": "https://blockbusterdeals.net/product/christmas-cluster-lights-25-ft-500-led-fairy-string-light-remote-warm-white-8-modes-3-timer-settings-memory-function-waterproof-firecracker-twinkle-light-plug-in-indoor-outdoor-xmas-tree-yard-deco/",
-      "page": null,
-      "image": "img/wa/AC9F5CE61EF649A3CDE1FE9EA25651EB.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T17:00:36Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC4F6ED42E19A7889E71D35283605684",
-      "store": "Deal",
-      "title": "Reusable Lunch Container with Removable Divider & Silicone Sleeve, Meal Prep for Work, Travel, Dishwasher Safe, BPA Free",
-      "price": "$19",
-      "was": "$24",
-      "discount": "21% off",
-      "code": null,
-      "notes": "FENGER 41 oz Stainless Steel Lunch Box, Leakproof Bento Box, Cream",
-      "link": "https://blockbusterdeals.net/product/fenger-41-oz-stainless-steel-lunch-box-leakproof-bento-box-cream-reusable-lunch-container-with-removable-divider-silicone-sleeve-meal-prep-for-work-travel-dishwasher-safe-bpa-free/",
-      "page": null,
-      "image": "img/wa/AC4F6ED42E19A7889E71D35283605684.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T16:55:42Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T15:10:58Z",
+      "text": "2 new offer(s): Amazon Basics Organic Cotton Sheet Set w, Lee®️ Men's Heritage Short Sleeve Surplu"
+    },
     {
       "at": "2026-11-10T14:20:36Z",
       "text": "1 new offer(s): ✅ Enjoy free delivery benefits, shipping"
@@ -1230,10 +1236,6 @@
     {
       "at": "2026-11-09T02:46:26Z",
       "text": "2 new offer(s): Cetaphil Acne Patches Salicylic Acid & C, Walifrey Wide Leg Sweatpants for Women w"
-    },
-    {
-      "at": "2026-11-09T02:36:21Z",
-      "text": "2 new offer(s): Sampeel Dresses for Women 2025 Casual Lo, Mickey Mouse Women’s Fleece Hoodie with "
     }
   ]
 }
