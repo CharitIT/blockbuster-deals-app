@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T15:21:04Z",
+  "lastScan": "2026-11-10T15:31:13Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC05B34CB6FF83E9ABAF626FDDFE4516",
+      "store": "Target",
+      "title": "Stanley 1913 tumblers & mugs sale at Target🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Today Only! Get 50%off",
+      "link": "https://mavely.app.link/CA0TbiAiX7b",
+      "page": null,
+      "image": "img/wa/AC05B34CB6FF83E9ABAF626FDDFE4516.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T15:21:35Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Target"
+    },
     {
       "id": "wa-AC24667F80CE1D9EFED1E214C572A6FD",
       "store": "Deal",
@@ -1093,24 +1112,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACD64B65243755935190FBEF888A2304",
-      "store": "Deal",
-      "title": "Pokémon Pikachu Puppetronic by RealFX",
-      "price": "$47",
-      "was": "$79",
-      "discount": "41% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/pokemon-pikachu-puppetronic-by-realfx/",
-      "page": null,
-      "image": "img/wa/ACD64B65243755935190FBEF888A2304.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T17:09:28Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T15:31:13Z",
+      "text": "1 new offer(s): Stanley 1913 tumblers & mugs sale at Tar"
+    },
     {
       "at": "2026-11-10T15:21:04Z",
       "text": "1 new offer(s): Amélie Home Tufted Boho Comforter Set Tw"
@@ -1232,10 +1237,6 @@
     {
       "at": "2026-11-09T03:06:38Z",
       "text": "3 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more , LEGO Speed Champions Oracle Red Bull Rac"
-    },
-    {
-      "at": "2026-11-09T02:56:32Z",
-      "text": "1 new offer(s): True Hue 24 Piece Cotton-Recycled Polyes"
     }
   ]
 }
