@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T19:43:14Z",
+  "lastScan": "2026-11-10T20:03:22Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACE2F3D1A53A0041FD0AD7A86958B369",
+      "store": "Deal",
+      "title": "Bear Baby Bottle Warmer, Fast Warming Breast Milk Formula, White",
+      "price": "$14",
+      "was": "$29",
+      "discount": "52% off",
+      "code": "YLQUI5I7",
+      "notes": "Use code:YLQUI5I7",
+      "link": "https://blockbusterdeals.net/product/bear-baby-bottle-warmer-fast-warming-breast-milk-formula-white/",
+      "page": null,
+      "image": "img/wa/ACE2F3D1A53A0041FD0AD7A86958B369.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T19:59:44Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC0535CDDDBD8D34FEEC9BA252E111C7",
+      "store": "Deal",
+      "title": "Calvin Klein Slim Fit Solid Spread Collar Supima Cotton Dress Shirt",
+      "price": "$19",
+      "was": "$69",
+      "discount": "72% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/LWp04GjBX7b",
+      "page": null,
+      "image": "img/wa/AC0535CDDDBD8D34FEEC9BA252E111C7.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T19:59:39Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC97E8866555EBF62146EDB1924D7EF9",
       "store": "Woot",
@@ -1074,42 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC0EB8CA0BB5D2878EC3B883DD7DEF7B",
-      "store": "Deal",
-      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Link:",
-      "link": "https://theblogcm.com/566/eJi8",
-      "page": null,
-      "image": "img/wa/AC0EB8CA0BB5D2878EC3B883DD7DEF7B.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T21:36:39Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC2152F50EF1355BDD2C35BC2F2B1AAE",
-      "store": "Deal",
-      "title": "Use Code COZY for 30% off full price and sale styles",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": "COZY",
-      "notes": "Adidas Black Friday Preview Sale🔥🔥 Extra 30% Off Tons of Clothes & Shoes",
-      "link": "https://mavely.app.link/dyoKWe73V7b",
-      "page": null,
-      "image": "img/wa/AC2152F50EF1355BDD2C35BC2F2B1AAE.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T21:26:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T20:03:22Z",
+      "text": "2 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, Calvin Klein Slim Fit Solid Spread Colla"
+    },
     {
       "at": "2026-11-10T19:43:14Z",
       "text": "2 new offer(s): HexClad 5.5 Qt Hybrid Nonstick Deep Saut, Gucci Guilty Pour Homme Eau De Toilette "
@@ -1231,10 +1235,6 @@
     {
       "at": "2026-11-10T02:59:47Z",
       "text": "2 new offer(s): Women's Brooklyyn Slip-On Wedge Sneakers, Graduated Cubic Zirconia Tennis Necklace"
-    },
-    {
-      "at": "2026-11-10T02:49:36Z",
-      "text": "3 new offer(s): Free standard shipping on orders $99+, Juicy Tubes Holiday 2026 Lip Gloss Gift , T-Fal 3-Pc. Fry Pan Set"
     }
   ]
 }
