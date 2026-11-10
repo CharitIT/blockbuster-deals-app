@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T01:08:07Z",
+  "lastScan": "2026-11-10T01:18:14Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACCAE12833CCB40CAA686A75DE97AF32",
+      "store": "Deal",
+      "title": "Lifewit Back Seat Cover 2 Pack, with 3 Pocket Storage Organizer, Kick Mats Backseat Protector for Kids, Car Seat Back Protectors for SUV, Minivan or Truck, Black",
+      "price": "$7",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/lifewit-back-seat-cover-2-pack-with-3-pocket-storage-organizer-kick-mats-backseat-protector-for-kids-car-seat-back-protectors-for-suv-minivan-or-truck-black/",
+      "page": null,
+      "image": "img/wa/ACCAE12833CCB40CAA686A75DE97AF32.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T01:10:50Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC0B3321D39A5893AB4F348EC09F725B",
+      "store": "Deal",
+      "title": "Columbia Jackets Sale🔥",
+      "price": "$150",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "(Upto 40% Off)",
+      "link": "https://mavely.app.link/7rBKqN4jW7b",
+      "page": null,
+      "image": "img/wa/AC0B3321D39A5893AB4F348EC09F725B.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T01:10:39Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC64B80D6B533487CE77DDD556B664C2",
       "store": "Deal",
@@ -1075,42 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC6B75DEC8FDD9E6139BDA935DDB6043",
-      "store": "Deal",
-      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Link:",
-      "link": "https://theblogcm.com/566/eJi8",
-      "page": null,
-      "image": "img/wa/AC6B75DEC8FDD9E6139BDA935DDB6043.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T03:01:24Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACAD59CCFDF6FF69B62817CD7E2AA844",
-      "store": "Deal",
-      "title": "LEGO Speed Champions Oracle Red Bull Racing RB20 F1 Race Car Model Kits - Building Set for Adults, Ages 18+ with Realistic Features - Red Bull F1 DIY Crafts for Display - Gift Idea for Fans - 77243",
-      "price": "$15",
-      "was": "$26",
-      "discount": "42% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/lego-speed-champions-oracle-red-bull-racing-rb20-f1-race-car-model-kits-building-set-for-adults-ages-18-with-realistic-features-red-bull-f1-diy-crafts-for-display-gift-idea-for-fans-77243/",
-      "page": null,
-      "image": "img/wa/ACAD59CCFDF6FF69B62817CD7E2AA844.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T02:59:01Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T01:18:14Z",
+      "text": "2 new offer(s): Lifewit Back Seat Cover 2 Pack, with 3 P, Columbia Jackets Sale🔥"
+    },
     {
       "at": "2026-11-10T01:08:07Z",
       "text": "2 new offer(s): Sponge Holder for Kitchen Caddy Sink Org, Samsung 65” Class U8000H Series Crystal "
@@ -1232,10 +1236,6 @@
     {
       "at": "2026-11-09T00:34:27Z",
       "text": "1 new offer(s): Blink Outdoor 4 and Wired Doorbell 2K+ ("
-    },
-    {
-      "at": "2026-11-09T00:24:18Z",
-      "text": "1 new offer(s): Mainstays Dashwood 7-Piece Steel Outdoor"
     }
   ]
 }
