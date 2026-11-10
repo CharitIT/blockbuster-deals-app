@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T02:08:51Z",
+  "lastScan": "2026-11-10T02:18:59Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8FD50F99582CC13090A3B34A5BF4D5",
+      "store": "Under Armour",
+      "title": "Free standard shipping on orders $99+",
+      "price": "$32",
+      "was": "$60",
+      "discount": "47% off",
+      "code": "WARMUP",
+      "notes": "Under Armour Tricot Pop Logo Men's Hoodie Extra 40%off with code : WARMUP",
+      "link": "https://go.magik.ly/ml/4q8jk/",
+      "page": null,
+      "image": "img/wa/AC8FD50F99582CC13090A3B34A5BF4D5.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T02:15:51Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
+    {
+      "id": "wa-AC365290091649E9F58871DE4940312B",
+      "store": "Deal",
+      "title": "Add to cart and 25%off applied automatically at checkout ✅",
+      "price": "$21",
+      "was": "$29",
+      "discount": "28% off",
+      "code": null,
+      "notes": "Juicy Tubes & Lash Idôle Flutter Extension Mascara Duo Free shipping on orders $100+",
+      "link": "https://mavely.app.link/79PsNLdpW7b",
+      "page": null,
+      "image": "img/wa/AC365290091649E9F58871DE4940312B.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T02:13:45Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC41594A2481971BE8321BF895AC188B",
       "store": "Deal",
@@ -1071,44 +1108,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-AC00874CF56FE4D8D0B126D01480D5B3",
-      "store": "Michael Kors",
-      "title": "Sable Medium Signature Logo Backpack",
-      "price": "$119",
-      "was": "$299",
-      "discount": "60% off",
-      "code": null,
-      "notes": "MICHAEL KORS EXTRA 20% OFF APPLIED IN CART Free shipping",
-      "link": "https://mavely.app.link/djpRX0BBV7b",
-      "page": null,
-      "image": "img/wa/AC00874CF56FE4D8D0B126D01480D5B3.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T15:55:06Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-AC3E9E6F26FDE5C6E17398CFEDA0A883",
-      "store": "Walmart",
-      "title": "Sleep Headphones, Sleep Mask with Headphones Bluetooth 5.3 with HD Stereo Speakers for Side Sleepers, Zero Eye Pressure, Adjustable 3D Sleep Eye Mask for Airplane/Travel/Meditation/Nap",
-      "price": "$21",
-      "was": "$43",
-      "discount": "51% off",
-      "code": null,
-      "notes": null,
-      "link": "https://go.sylikes.com/fbgArVV3M5Wb",
-      "page": null,
-      "image": "img/wa/AC3E9E6F26FDE5C6E17398CFEDA0A883.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T15:49:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1154,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T02:18:59Z",
+      "text": "2 new offer(s): Free standard shipping on orders $99+, Add to cart and 25%off applied automatic"
+    },
     {
       "at": "2026-11-10T02:08:51Z",
       "text": "2 new offer(s): KITCHENAID Ribbed Soft Silicone Oven Mit, Free standard shipping on orders $99+"
@@ -1230,10 +1233,6 @@
     {
       "at": "2026-11-09T01:25:17Z",
       "text": "2 new offer(s): Blink Mini 2K+ (newest model) – Plug-in , Mainstays 40 oz Double-Wall Vacuum Insul"
-    },
-    {
-      "at": "2026-11-09T01:15:09Z",
-      "text": "2 new offer(s): Braun Sensian 7 Forehead 3-in-1 Non-Cont, Charcuterie Board Set with Handless Lid "
     }
   ]
 }
