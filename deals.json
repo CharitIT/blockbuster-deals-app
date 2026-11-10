@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T16:01:35Z",
+  "lastScan": "2026-11-10T16:11:39Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC164CB152D60E474EEA87A34C0DAFD2",
+      "store": "Deal",
+      "title": "Up to 10H Playtime, Hands-Free Calling, Music Playback, Voice Control, Polarized Lens, Unisex for Daily Wear & Outdoor Sports",
+      "price": "$9",
+      "was": "$39",
+      "discount": "77% off",
+      "code": null,
+      "notes": "ENDS IN FEW HOURS 🚨 OhO Open Ear Smart Glasses, UV400 Z87.1 Lightweight Bluetooth Sunglasses",
+      "link": "https://blockbusterdeals.net/product/oho-open-ear-smart-glasses/",
+      "page": null,
+      "image": "img/wa/AC164CB152D60E474EEA87A34C0DAFD2.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T16:09:14Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC6A004B61EF2028E17ACD5C7ED9222A",
       "store": "Deal",
@@ -1092,25 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC09E30D8BF6CD780759B0BE3A801D45",
-      "store": "Macy's",
-      "title": "3 piece comforter sets sale✨🛍",
-      "price": "$21",
-      "was": "$80",
-      "discount": "74% off",
-      "code": null,
-      "notes": "Black Friday Deal!!",
-      "link": "https://mavely.app.link/ksBF79aPV7b",
-      "page": null,
-      "image": "img/wa/AC09E30D8BF6CD780759B0BE3A801D45.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T17:52:49Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T16:11:39Z",
+      "text": "1 new offer(s): Up to 10H Playtime, Hands-Free Calling, "
+    },
     {
       "at": "2026-11-10T16:01:35Z",
       "text": "2 new offer(s): Cosy Family 6 Pack 90L Heavy Duty Extra , Drone with Camera for Beginners, 1080P H"
@@ -1232,10 +1235,6 @@
     {
       "at": "2026-11-10T00:37:56Z",
       "text": "2 new offer(s): Kenneth Cole REACTION Diamond Tower Coll, Carter's Child of Mine Baby and Toddler "
-    },
-    {
-      "at": "2026-11-10T00:17:48Z",
-      "text": "2 new offer(s): Gucci Guilty Pour Homme Eau De Toilette , 4 Pockets, Straight Leg, Classic Fit, St"
     }
   ]
 }
