@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T16:21:45Z",
+  "lastScan": "2026-11-10T16:31:50Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC23874ADCBF4BC6F9ECD1CE27EFFBB4",
+      "store": "Walmart",
+      "title": "Straight Talk Motorola Moto G Power 2026, 5G, 128GB, Brown - Prepaid Smartphone [Locked to Straight Talk]",
+      "price": "$29",
+      "was": "$149",
+      "discount": "81% off",
+      "code": null,
+      "notes": null,
+      "link": "https://go.sylikes.com/fbgE6h0R6RAN",
+      "page": null,
+      "image": "img/wa/AC23874ADCBF4BC6F9ECD1CE27EFFBB4.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T16:30:46Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC673A6E4FE548A00751606F60E29C4F",
       "store": "Deal",
@@ -1092,24 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACC0FD940345AA360F12CA99231A3B94",
-      "store": "Deal",
-      "title": "Includes Word, Excel, PowerPoint & more — one-time purchase, no monthly fees! 😍",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Link:",
-      "link": "https://theblogcm.com/566/eJi8",
-      "page": null,
-      "image": "img/wa/ACC0FD940345AA360F12CA99231A3B94.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T17:59:20Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T16:31:50Z",
+      "text": "1 new offer(s): Straight Talk Motorola Moto G Power 2026"
+    },
     {
       "at": "2026-11-10T16:21:45Z",
       "text": "1 new offer(s): JOYROOM Portable Charger for Apple Watch"
@@ -1231,10 +1236,6 @@
     {
       "at": "2026-11-10T01:18:14Z",
       "text": "2 new offer(s): Lifewit Back Seat Cover 2 Pack, with 3 P, Columbia Jackets Sale🔥"
-    },
-    {
-      "at": "2026-11-10T01:08:07Z",
-      "text": "2 new offer(s): Sponge Holder for Kitchen Caddy Sink Org, Samsung 65” Class U8000H Series Crystal "
     }
   ]
 }
