@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T01:18:14Z",
+  "lastScan": "2026-11-10T01:38:32Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACD111AAEDC706C3B86159D745211BAE",
+      "store": "Deal",
+      "title": "Buy one, get one 50%off on selected Wrangler Kid's Jeans 🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Buy one, get one 50%off on selected Wrangler Tees🔥",
+      "link": "https://mavely.app.link/oi9TS3klW7b",
+      "page": null,
+      "image": "img/wa/ACD111AAEDC706C3B86159D745211BAE.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T01:30:47Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC604B44A874094059D7DB160DEC343A",
+      "store": "Deal",
+      "title": "Women's Castle Dale Full Zip Fleece Jacket",
+      "price": "$27",
+      "was": "$55",
+      "discount": "51% off",
+      "code": null,
+      "notes": "Columbia Free shipping on orders $150+",
+      "link": "https://mavely.app.link/Q7CqIDLkW7b",
+      "page": null,
+      "image": "img/wa/AC604B44A874094059D7DB160DEC343A.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T01:30:41Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACCAE12833CCB40CAA686A75DE97AF32",
       "store": "Deal",
@@ -1074,43 +1110,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACB2073DB2DAF47BB2AABBF2E00D857F",
-      "store": "Lowe's",
-      "title": "Garvee 6FT Artificial Christmas Tree Prelit Pencil Tree with Remote Control Easy to Assemble Christmas Decoration for Home Party Xmas Holiday",
-      "price": "$40",
-      "was": "$204",
-      "discount": "80% off",
-      "code": null,
-      "notes": "RUN!!",
-      "link": "https://mavely.app.link/9pql1GJCV7b",
-      "page": null,
-      "image": "img/wa/ACB2073DB2DAF47BB2AABBF2E00D857F.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T15:03:24Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Lowe's"
-    },
-    {
-      "id": "wa-AC5F79FCF0034FD8B044078F149CC4E9",
-      "store": "Deal",
-      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
-      "price": "$20",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
-      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
-      "page": null,
-      "image": "img/wa/AC5F79FCF0034FD8B044078F149CC4E9.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T03:02:25Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T01:38:32Z",
+      "text": "2 new offer(s): Buy one, get one 50%off on selected Wran, Women's Castle Dale Full Zip Fleece Jack"
+    },
     {
       "at": "2026-11-10T01:18:14Z",
       "text": "2 new offer(s): Lifewit Back Seat Cover 2 Pack, with 3 P, Columbia Jackets Sale🔥"
@@ -1232,10 +1235,6 @@
     {
       "at": "2026-11-09T00:44:39Z",
       "text": "2 new offer(s): Shark FlexStyle, Air Multi-Styler & Dryi, All New Dash Sale🔥at Target"
-    },
-    {
-      "at": "2026-11-09T00:34:27Z",
-      "text": "1 new offer(s): Blink Outdoor 4 and Wired Doorbell 2K+ ("
     }
   ]
 }
