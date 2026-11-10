@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T01:48:40Z",
+  "lastScan": "2026-11-10T01:58:44Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC768C2AA8784DF59392E73D340D6231",
+      "store": "Deal",
+      "title": "Cushioned Comfort Non-Slip Durable Fit Office Meetings Dates Weekend Casual All-Day Wear",
+      "price": "$23",
+      "was": "$29",
+      "discount": "21% off",
+      "code": "200RN5S1RM",
+      "notes": "Bruno Marc Men's Casual Dress Oxfords Formal Sneakers 2.0 Use Code : 200RN5S1RM",
+      "link": "https://blockbusterdeals.net/product/bruno-marc-mens-casual-dress-oxfords-formal-sneakers-2-0-cushioned-comfort-non-slip-durable-fit-office-meetings-dates-weekend-casual-all-day-wear/",
+      "page": null,
+      "image": "img/wa/AC768C2AA8784DF59392E73D340D6231.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T01:51:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC16F91E2BF6BA53443C80277E0E4706",
       "store": "Macy's",
@@ -1091,25 +1109,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC54B289A1F09F0826FF6ECC7726711E",
-      "store": "Michael Kors",
-      "title": "FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
-      "price": "$30",
-      "was": "$99",
-      "discount": "70% off",
-      "code": null,
-      "notes": "Michael Kors Mens Striped Linen Cotton Camp Shirt EXTRA 20% OFF APPLIED IN CART",
-      "link": "https://mavely.app.link/PZEZRupBV7b",
-      "page": null,
-      "image": "img/wa/AC54B289A1F09F0826FF6ECC7726711E.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T15:30:41Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T01:58:44Z",
+      "text": "1 new offer(s): Cushioned Comfort Non-Slip Durable Fit O"
+    },
     {
       "at": "2026-11-10T01:48:40Z",
       "text": "3 new offer(s): Top Shelf Quiet Technology 8-Cup Food Pr, Butterfly Meadow Blue 18 Pc. Dinnerware , 24pc Glass Food Storage Containers with "
@@ -1231,10 +1234,6 @@
     {
       "at": "2026-11-09T01:04:59Z",
       "text": "1 new offer(s): 🚨Get $10 Kohl's Cash®️ to use November 9"
-    },
-    {
-      "at": "2026-11-09T00:54:49Z",
-      "text": "1 new offer(s): soundcore P30i by Anker Noise Cancelling"
     }
   ]
 }
