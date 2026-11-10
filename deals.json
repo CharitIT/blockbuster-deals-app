@@ -1,9 +1,83 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T17:52:35Z",
+  "lastScan": "2026-11-10T18:02:44Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC93AAEAC233057910A23232E39D681A",
+      "store": "Walmart",
+      "title": "✅ Enjoy free delivery benefits, shipping perks, exclusive member prices, gas savings & more!",
+      "price": "$120",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "✅ Save time and money on groceries, household essentials & everyday shopping. Join Now:",
+      "link": "https://mavely.app.link/6d7cAzNaX7b",
+      "page": null,
+      "image": "img/wa/AC93AAEAC233057910A23232E39D681A.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T18:01:42Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC5ADD98DC3E50E87BBCC92BB671F65D",
+      "store": "Deal",
+      "title": "GRACE KARIN Women Fall Wedding Guest Long Sleeve Formal Floral Maxi Dress",
+      "price": "$17",
+      "was": "$52",
+      "discount": "67% off",
+      "code": "0S8JMG2Y",
+      "notes": "Use Code:0S8JMG2Y",
+      "link": "https://blockbusterdeals.net/product/grace-karin-women-fall-wedding-guest-long-sleeve-formal-floral-maxi-dress/",
+      "page": null,
+      "image": "img/wa/AC5ADD98DC3E50E87BBCC92BB671F65D.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T18:00:02Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC7FEAE1A42DD857BBD2BA681BF5164F",
+      "store": "Deal",
+      "title": "Skin Tidings & Travel Gift Set",
+      "price": "$45",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Free shipping on orders $50+",
+      "link": "https://mavely.app.link/MvYN1RLtX7b",
+      "page": null,
+      "image": "img/wa/AC7FEAE1A42DD857BBD2BA681BF5164F.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T17:56:13Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACA92EF49E41F5F2A8FCE16F2D2A1534",
+      "store": "Amazon",
+      "title": "Amazon Essentials Men's Fleece Open Bottom Sweatpant (Available in Big & Tall)",
+      "price": "$12",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/amazon-essentials-mens-fleece-open-bottom-sweatpant-available-in-big-tall/",
+      "page": null,
+      "image": "img/wa/ACA92EF49E41F5F2A8FCE16F2D2A1534.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T17:52:55Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Amazon"
+    },
     {
       "id": "wa-AC1FC7813D6C0C9903CA03322B674661",
       "store": "Deal",
@@ -1035,79 +1109,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC02B41D9086B672B3E7E60789058933",
-      "store": "Deal",
-      "title": "Snug fit, Great for Heat Retention, Covered Cooking and Kitchen Prep",
-      "price": "$5",
-      "was": "$12",
-      "discount": "58% off",
-      "code": null,
-      "notes": "Winco Aluminum Commercial Cover for Sauce Pan",
-      "link": "https://blockbusterdeals.net/product/winco-aluminum-commercial-cover-for-sauce-pan-snug-fit/",
-      "page": null,
-      "image": "img/wa/AC02B41D9086B672B3E7E60789058933.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T21:16:18Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC921D3DA9F0AFBBF36E203CAE53D3E9",
-      "store": "Deal",
-      "title": "KCDDUMK 4 Pack Cami Bralettes for Women, Spaghetti Strap Sleep Bras",
-      "price": "$25",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/kcddumk-4-pack-cami-bralettes-for-women-spaghetti-strap-sleep-bras/",
-      "page": null,
-      "image": "img/wa/AC921D3DA9F0AFBBF36E203CAE53D3E9.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T21:12:11Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC150446C1C952353A35046BE407F379",
-      "store": "Walmart",
-      "title": "U.S. Polo Assn. Men's Long Sleeve Oxford Shirts",
-      "price": "$12",
-      "was": "$23",
-      "discount": "48% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/OcspPUPYV7b",
-      "page": null,
-      "image": "img/wa/AC150446C1C952353A35046BE407F379.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T21:08:47Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACF21C037B67A830ABE04FEFF5108E6A",
-      "store": "Deal",
-      "title": "Artificial Fiddle Leaf Fig Tree 6ft - Realistic Tall Fake Plants for Office Home Living Room Bedroom Decor Indoor Outdoor - Green Large Silk Faux Floor Plant with Pot",
-      "price": "$39",
-      "was": "$119",
-      "discount": "67% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/artificial-fiddle-leaf-fig-tree-6ft-realistic-tall-fake-plants-for-office-home-living-room-bedroom-decor-indoor-outdoor-green-large-silk-faux-floor-plant-with-pot/",
-      "page": null,
-      "image": "img/wa/ACF21C037B67A830ABE04FEFF5108E6A.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T21:08:44Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1154,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T18:02:44Z",
+      "text": "4 new offer(s): ✅ Enjoy free delivery benefits, shipping, GRACE KARIN Women Fall Wedding Guest Lon, Skin Tidings & Travel Gift Set"
+    },
     {
       "at": "2026-11-10T17:52:35Z",
       "text": "2 new offer(s): CHI Spin N Curl 1″ Ceramic Rotating Curl, Dyson V9 Motorbar™️ Cordless Vacuum"
@@ -1229,10 +1234,6 @@
     {
       "at": "2026-11-10T02:39:19Z",
       "text": "1 new offer(s): Nabela Small Convertible Pouchette Cross"
-    },
-    {
-      "at": "2026-11-10T02:29:08Z",
-      "text": "1 new offer(s): Creme de Corps Refillable Body Lotion wi"
     }
   ]
 }
