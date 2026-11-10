@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T02:18:59Z",
+  "lastScan": "2026-11-10T02:29:08Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC912097D74B8BBA5D7180262A061EB1",
+      "store": "Deal",
+      "title": "Creme de Corps Refillable Body Lotion with Cocoa Butter",
+      "price": "$76",
+      "was": "$85",
+      "discount": "11% off",
+      "code": null,
+      "notes": "Subscribe to save 15%off Free shipping",
+      "link": "https://mavely.app.link/zVMBxIpqW7b",
+      "page": null,
+      "image": "img/wa/AC912097D74B8BBA5D7180262A061EB1.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T02:26:02Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC8FD50F99582CC13090A3B34A5BF4D5",
       "store": "Under Armour",
@@ -1089,25 +1107,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-ACBF08C2731879D2A548FA6ED815FCE3",
-      "store": "Michael Kors",
-      "title": "FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
-      "price": "$50",
-      "was": "$129",
-      "discount": "61% off",
-      "code": null,
-      "notes": "MICHAEL KORS Cady Perforated Leather Mule EXTRA 20% OFF APPLIED IN CART",
-      "link": "https://mavely.app.link/ydybRVVBV7b",
-      "page": null,
-      "image": "img/wa/ACBF08C2731879D2A548FA6ED815FCE3.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T16:01:03Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1154,6 +1153,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T02:29:08Z",
+      "text": "1 new offer(s): Creme de Corps Refillable Body Lotion wi"
+    },
     {
       "at": "2026-11-10T02:18:59Z",
       "text": "2 new offer(s): Free standard shipping on orders $99+, Add to cart and 25%off applied automatic"
@@ -1229,10 +1232,6 @@
     {
       "at": "2026-11-09T01:35:33Z",
       "text": "1 new offer(s): Upto $20 off with qualifying purchases ✨"
-    },
-    {
-      "at": "2026-11-09T01:25:17Z",
-      "text": "2 new offer(s): Blink Mini 2K+ (newest model) – Plug-in , Mainstays 40 oz Double-Wall Vacuum Insul"
     }
   ]
 }
