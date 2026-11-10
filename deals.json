@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T16:41:55Z",
+  "lastScan": "2026-11-10T16:52:00Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC1E60BA88B1A0B228BC67CB2DDA0C20",
+      "store": "Deal",
+      "title": "Includes 2 Officially Licensed F1 Die-Cast 1:64 Scale Vehicles and Speed Snap Track, Side-by-Side Racing",
+      "price": "$11",
+      "was": "$26",
+      "discount": "58% off",
+      "code": null,
+      "notes": "Hot Wheels Racing Formula 1 Grid Start Track Set and 2 Toy Cars",
+      "link": "https://blockbusterdeals.net/product/hot-wheels-racing-formula-1-grid-start-track-set-and-2-toy-cars-includes-2-officially-licensed-f1-die-cast-164-scale-vehicles-and-speed-snap-track-side-by-side-racing/",
+      "page": null,
+      "image": "img/wa/AC1E60BA88B1A0B228BC67CB2DDA0C20.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T16:49:23Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC072AF9F44D7121FF0144C2CC8D4154",
+      "store": "Walmart",
+      "title": "No Boundaries Open Front Duster Cardigan, Midweight, Women's and Women’s Plus XXS-4X",
+      "price": "$6",
+      "was": "$19",
+      "discount": "68% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/9PKyIhunX7b",
+      "page": null,
+      "image": "img/wa/AC072AF9F44D7121FF0144C2CC8D4154.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T16:42:32Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC2CE65100A661AE63FE394EA181C5E0",
       "store": "Walmart",
@@ -1074,44 +1111,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-AC2A49F745246AF578A71409E2F5481F",
-      "store": "Walmart",
-      "title": "Baby Trend Venture 3-Wheel Stroller Travel System with EZ-Lift™️ Infant Car Seat, Dash Black",
-      "price": "$135",
-      "was": "$169",
-      "discount": "20% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://go.sylikes.com/fbgAFSDiQZAV",
-      "page": null,
-      "image": "img/wa/AC2A49F745246AF578A71409E2F5481F.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T19:52:14Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACB30C263E052E54840C7679F8B2808A",
-      "store": "Walmart",
-      "title": "Coach Open Road Eau De Toilette Natural Spray, Cologne for Men, 3.3oz",
-      "price": "$30",
-      "was": "$98",
-      "discount": "69% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/2ahZeI4VV7b",
-      "page": null,
-      "image": "img/wa/ACB30C263E052E54840C7679F8B2808A.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T19:32:49Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T16:52:00Z",
+      "text": "2 new offer(s): Includes 2 Officially Licensed F1 Die-Ca, No Boundaries Open Front Duster Cardigan"
+    },
     {
       "at": "2026-11-10T16:41:55Z",
       "text": "1 new offer(s): Carter's Child of Mine Baby and Toddler "
@@ -1233,10 +1236,6 @@
     {
       "at": "2026-11-10T01:48:40Z",
       "text": "3 new offer(s): Top Shelf Quiet Technology 8-Cup Food Pr, Butterfly Meadow Blue 18 Pc. Dinnerware , 24pc Glass Food Storage Containers with "
-    },
-    {
-      "at": "2026-11-10T01:38:32Z",
-      "text": "2 new offer(s): Buy one, get one 50%off on selected Wran, Women's Castle Dale Full Zip Fleece Jack"
     }
   ]
 }
