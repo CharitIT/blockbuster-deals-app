@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T20:33:34Z",
+  "lastScan": "2026-11-10T20:53:39Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC993925F8D17000B6B163619E22CB62",
+      "store": "Deal",
+      "title": "Brightown 39FT 100LED Solar Rope Lights Outdoor Waterproof, Warm White",
+      "price": "$9",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/brightown-39ft-100led-solar-rope-lights-outdoor-waterproof-warm-white-2/",
+      "page": null,
+      "image": "img/wa/AC993925F8D17000B6B163619E22CB62.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T20:47:53Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC6B4267EC8889529F63BB1B5B657CBA",
+      "store": "Deal",
+      "title": "NutriBullet®️ 1200 Watt Blender Combo with Single Serve Cups",
+      "price": "$79",
+      "was": "$149",
+      "discount": "47% off",
+      "code": null,
+      "notes": "Use codes: LOVE2SAVE & SHOP10 🚨Earn $10 Kohl's Cash for every $50 spent! Free shipping",
+      "link": "https://mavely.app.link/uLRCEIGGX7b",
+      "page": null,
+      "image": "img/wa/AC6B4267EC8889529F63BB1B5B657CBA.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T20:44:59Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC4D9683617512887D8C3BC4E2459582",
       "store": "Michael Kors",
@@ -1076,43 +1112,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC64B80D6B533487CE77DDD556B664C2",
-      "store": "Deal",
-      "title": "Sponge Holder for Kitchen Caddy Sink Organizer, Multifunctional Rustproof Dish Soap Sponge Caddy for Sink Counter with Detachable Brush Holder & Drain Tray - Storage Kitchen & Home Accessories",
-      "price": "$4",
-      "was": "$9",
-      "discount": "56% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/sponge-holder-for-kitchen-caddy-sink-organizer-multifunctional-rustproof-dish-soap-sponge-caddy-for-sink-counter-with-detachable-brush-holder-drain-tray-storage-kitchen-home-accessories/",
-      "page": null,
-      "image": "img/wa/AC64B80D6B533487CE77DDD556B664C2.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T00:58:36Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC64C9FAE03982A36FC1F838BAC2F63D",
-      "store": "Walmart",
-      "title": "Samsung 65” Class U8000H Series Crystal UHD 4K UHD Samsung Vision AI Companion Smart Tizen TV 2026 - UN65U8000HFXZA",
-      "price": "$298",
-      "was": "$378",
-      "discount": "21% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://go.sylikes.com/fbgAUdcDAhSi",
-      "page": null,
-      "image": "img/wa/AC64C9FAE03982A36FC1F838BAC2F63D.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T00:58:32Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1159,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T20:53:39Z",
+      "text": "2 new offer(s): Brightown 39FT 100LED Solar Rope Lights , NutriBullet®️ 1200 Watt Blender Combo wi"
+    },
     {
       "at": "2026-11-10T20:33:34Z",
       "text": "3 new offer(s): Michael Kors Designer handbags  Clearanc, Michael Kors Designer handbags  Clearanc, Coach Open Road Eau De Toilette Natural "
@@ -1234,10 +1237,6 @@
     {
       "at": "2026-11-10T15:31:13Z",
       "text": "1 new offer(s): Stanley 1913 tumblers & mugs sale at Tar"
-    },
-    {
-      "at": "2026-11-10T15:21:04Z",
-      "text": "1 new offer(s): Amélie Home Tufted Boho Comforter Set Tw"
     }
   ]
 }
