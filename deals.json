@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T16:52:00Z",
+  "lastScan": "2026-11-10T17:02:11Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC6000852AAD53B31ED598E26BB3B684",
+      "store": "Deal",
+      "title": "Soft Lightweight Loungewear Set,2 Piece Classic Nightwear,Wide Leg Pants with Pocket for Sleep,Lounge,Fall and Winter",
+      "price": "$14",
+      "was": "$32",
+      "discount": "56% off",
+      "code": "SQGFX7W6",
+      "notes": "Ekouaer Pajama Sets for Women Long Sleeve Sleepwear Crew Neck Pj Lounge Set Use code: SQGFX7W6",
+      "link": "https://blockbusterdeals.net/product/ekouaer-pajama-sets-for-women-long-sleeve/",
+      "page": null,
+      "image": "img/wa/AC6000852AAD53B31ED598E26BB3B684.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T16:59:08Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACDCF4452209ACE1E03DACE873700811",
+      "store": "Deal",
+      "title": "Heavy Duty Wall Mounted Storage Shelves,Hanging Shelves for Bathroom, Kitchen and Home Decor,Space-Saving Display & Organizer",
+      "price": "$24",
+      "was": "$49",
+      "discount": "51% off",
+      "code": "AY1F3PLF",
+      "notes": "Floating Shelves for Wall,3-Tier Rustic Wood Ladder Wall Shelf,16\" Brown Use code: AY1F3PLF Save 40% at checkout",
+      "link": "https://blockbusterdeals.net/product/floating-shelves-for-wall3-tier-rustic-wood-ladder-wall-shelf16-brown-heavy-duty-wall-mounted-storage-shelveshanging-shelves-for-bathroom-kitchen-and-home-decorspace-saving-display-organizer/",
+      "page": null,
+      "image": "img/wa/ACDCF4452209ACE1E03DACE873700811.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T16:56:09Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC1E60BA88B1A0B228BC67CB2DDA0C20",
       "store": "Deal",
@@ -1073,44 +1109,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACC86E9CA94F58280E5DAD654A49F4C8",
-      "store": "Michael Kors",
-      "title": "Michael Kors Designer Clearance🔥🔥",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "BUY 2+ ITEMS, GET 20% OFF",
-      "link": "https://mavely.app.link/CKrf2nBYV7b",
-      "page": null,
-      "image": "img/wa/ACC86E9CA94F58280E5DAD654A49F4C8.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T20:02:10Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-ACFD72E131B8F9D95484C8D5F8B816D6",
-      "store": "Michael Kors",
-      "title": "Nayla Small Signature Logo Hobo Shoulder Bag",
-      "price": "$47",
-      "was": "$328",
-      "discount": "86% off",
-      "code": null,
-      "notes": "Michael Kors BUY 2+ ITEMS, GET 20% OFF APPLIED IN CART FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
-      "link": "https://mavely.app.link/fImx51cWV7b",
-      "page": null,
-      "image": "img/wa/ACFD72E131B8F9D95484C8D5F8B816D6.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T19:52:20Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T17:02:11Z",
+      "text": "2 new offer(s): Soft Lightweight Loungewear Set,2 Piece , Heavy Duty Wall Mounted Storage Shelves,"
+    },
     {
       "at": "2026-11-10T16:52:00Z",
       "text": "2 new offer(s): Includes 2 Officially Licensed F1 Die-Ca, No Boundaries Open Front Duster Cardigan"
@@ -1232,10 +1234,6 @@
     {
       "at": "2026-11-10T01:58:44Z",
       "text": "1 new offer(s): Cushioned Comfort Non-Slip Durable Fit O"
-    },
-    {
-      "at": "2026-11-10T01:48:40Z",
-      "text": "3 new offer(s): Top Shelf Quiet Technology 8-Cup Food Pr, Butterfly Meadow Blue 18 Pc. Dinnerware , 24pc Glass Food Storage Containers with "
     }
   ]
 }
