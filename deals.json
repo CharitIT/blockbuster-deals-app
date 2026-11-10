@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T15:10:58Z",
+  "lastScan": "2026-11-10T15:21:04Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC24667F80CE1D9EFED1E214C572A6FD",
+      "store": "Deal",
+      "title": "Amélie Home Tufted Boho Comforter Set Twin Size, 2 Pieces Soft Textured Bed Set, Lightweight Breathable Comforter for All Seasons, Farmhouse Shabby Chic Jacquard Bedding, Cozy Gift for Women, Grey",
+      "price": "$19",
+      "was": "$39",
+      "discount": "51% off",
+      "code": "C4SQNP2I",
+      "notes": "Use code: C4SQNP2I",
+      "link": "https://blockbusterdeals.net/product/amelie-home-tufted-boho-comforter-set-twin-size/",
+      "page": null,
+      "image": "img/wa/AC24667F80CE1D9EFED1E214C572A6FD.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T15:18:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC7488ABE23E672FE7ED89B5AFC39044",
       "store": "Amazon",
@@ -1093,24 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACD2573797531D28F419F2570CD7374C",
-      "store": "Deal",
-      "title": "GRACE KARIN Women Floral Maxi Dress Fall Long Sleeve Wedding Guest Dresses",
-      "price": "$20",
-      "was": "$48",
-      "discount": "58% off",
-      "code": "OI8040HY",
-      "notes": "Use Code : OI8040HY",
-      "link": "https://blockbusterdeals.net/product/grace-karin-women-floral-maxi-dress-fall-long-sleeve-wedding-guest-dresses-2/",
-      "page": null,
-      "image": "img/wa/ACD2573797531D28F419F2570CD7374C.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T17:03:38Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T15:21:04Z",
+      "text": "1 new offer(s): Amélie Home Tufted Boho Comforter Set Tw"
+    },
     {
       "at": "2026-11-10T15:10:58Z",
       "text": "2 new offer(s): Amazon Basics Organic Cotton Sheet Set w, Lee®️ Men's Heritage Short Sleeve Surplu"
@@ -1232,10 +1236,6 @@
     {
       "at": "2026-11-09T02:56:32Z",
       "text": "1 new offer(s): True Hue 24 Piece Cotton-Recycled Polyes"
-    },
-    {
-      "at": "2026-11-09T02:46:26Z",
-      "text": "2 new offer(s): Cetaphil Acne Patches Salicylic Acid & C, Walifrey Wide Leg Sweatpants for Women w"
     }
   ]
 }
