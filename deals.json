@@ -1,9 +1,65 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T02:39:19Z",
+  "lastScan": "2026-11-10T02:49:36Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC0EA6F4802FF93C1A0C21E00FA6BD25",
+      "store": "Under Armour",
+      "title": "Free standard shipping on orders $99+",
+      "price": "$25",
+      "was": "$28",
+      "discount": "11% off",
+      "code": "EXTRA",
+      "notes": "Under Armour Tech™️ Twist 4.6(2373) Women's V-Neck Short Sleeve Extra 10%off with code : EXTRA",
+      "link": "https://go.magik.ly/ml/4q97s/",
+      "page": null,
+      "image": "img/wa/AC0EA6F4802FF93C1A0C21E00FA6BD25.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T02:48:45Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
+    {
+      "id": "wa-AC76050834377F5B7DCB095E3C097911",
+      "store": "Deal",
+      "title": "Juicy Tubes Holiday 2026 Lip Gloss Gift Set",
+      "price": "$21",
+      "was": "$25",
+      "discount": "16% off",
+      "code": null,
+      "notes": "Subscribe to save 15%off Free shipping on orders $100+",
+      "link": "https://mavely.app.link/pCQXjc6pW7b",
+      "page": null,
+      "image": "img/wa/AC76050834377F5B7DCB095E3C097911.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T02:44:50Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC1F1334AA6E90A190086AE52A01FF67",
+      "store": "Macy's",
+      "title": "T-Fal 3-Pc. Fry Pan Set",
+      "price": "$26",
+      "was": "$134",
+      "discount": "81% off",
+      "code": null,
+      "notes": "Black Friday Deal!! Free shipping",
+      "link": "https://mavely.app.link/dpbENyvrW7b",
+      "page": null,
+      "image": "img/wa/AC1F1334AA6E90A190086AE52A01FF67.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T02:40:35Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-AC524D9E1D9BC4208D90AA742B6B2871",
       "store": "Macy's",
@@ -1051,62 +1107,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACCCA26D9C993409AAA2594B64113911",
-      "store": "Michael Kors",
-      "title": "Scarlett Medium Textured Tote Bag",
-      "price": "$79",
-      "was": "$299",
-      "discount": "74% off",
-      "code": null,
-      "notes": "MICHAEL KORS EXTRA 20% OFF APPLIED IN CART Free shipping",
-      "link": "https://mavely.app.link/BBbvvx3DV7b",
-      "page": null,
-      "image": "img/wa/ACCCA26D9C993409AAA2594B64113911.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T16:28:57Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-AC9C1F78DEA12F66AE4169AFEF60E71B",
-      "store": "Deal",
-      "title": "GRAPENT Linen Pants Women High Waisted Wide Leg Casual Beach Pull On Elastic Waist Summer Cropped Pants with Pockets",
-      "price": "$7",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/grapent-linen-pants-women-high-waisted-wide-leg-casual-beach-pull-on-elastic-waist-summer-cropped-pants-with-pockets/",
-      "page": null,
-      "image": "img/wa/AC9C1F78DEA12F66AE4169AFEF60E71B.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T16:21:47Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC0E65687BEE8D279E8EB29E4D892738",
-      "store": "Macy's",
-      "title": "Men's Hooded Bib Snorkel Parka Coat",
-      "price": "$139",
-      "was": "$395",
-      "discount": "65% off",
-      "code": null,
-      "notes": "MICHAEL KORS Free shipping",
-      "link": "https://mavely.app.link/VDxskylCV7b",
-      "page": null,
-      "image": "img/wa/AC0E65687BEE8D279E8EB29E4D892738.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T16:15:05Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1153,6 +1153,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T02:49:36Z",
+      "text": "3 new offer(s): Free standard shipping on orders $99+, Juicy Tubes Holiday 2026 Lip Gloss Gift , T-Fal 3-Pc. Fry Pan Set"
+    },
     {
       "at": "2026-11-10T02:39:19Z",
       "text": "1 new offer(s): Nabela Small Convertible Pouchette Cross"
@@ -1228,10 +1232,6 @@
     {
       "at": "2026-11-09T01:55:50Z",
       "text": "2 new offer(s): Bluey: The Most Amazing Advent Calendar , Brightroom gift bag 🔥at Target"
-    },
-    {
-      "at": "2026-11-09T01:45:40Z",
-      "text": "1 new offer(s): Horizon Group USA Bluey Activity Pad, Co"
     }
   ]
 }
