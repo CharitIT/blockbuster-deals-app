@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T00:37:56Z",
+  "lastScan": "2026-11-10T01:08:07Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC64B80D6B533487CE77DDD556B664C2",
+      "store": "Deal",
+      "title": "Sponge Holder for Kitchen Caddy Sink Organizer, Multifunctional Rustproof Dish Soap Sponge Caddy for Sink Counter with Detachable Brush Holder & Drain Tray - Storage Kitchen & Home Accessories",
+      "price": "$4",
+      "was": "$9",
+      "discount": "56% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/sponge-holder-for-kitchen-caddy-sink-organizer-multifunctional-rustproof-dish-soap-sponge-caddy-for-sink-counter-with-detachable-brush-holder-drain-tray-storage-kitchen-home-accessories/",
+      "page": null,
+      "image": "img/wa/AC64B80D6B533487CE77DDD556B664C2.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T00:58:36Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC64C9FAE03982A36FC1F838BAC2F63D",
+      "store": "Walmart",
+      "title": "Samsung 65” Class U8000H Series Crystal UHD 4K UHD Samsung Vision AI Companion Smart Tizen TV 2026 - UN65U8000HFXZA",
+      "price": "$298",
+      "was": "$378",
+      "discount": "21% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://go.sylikes.com/fbgAUdcDAhSi",
+      "page": null,
+      "image": "img/wa/AC64C9FAE03982A36FC1F838BAC2F63D.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T00:58:32Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC4A83878AB6A196A94446C6D36343FD",
       "store": "Deal",
@@ -1074,43 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC353EBF9C0D9A9C2021B4A47810DB0D",
-      "store": "Walmart",
-      "title": "True Hue 24 Piece Cotton-Recycled Polyester Bleach Safe Bath Towel Set, White",
-      "price": "$19",
-      "was": "$27",
-      "discount": "30% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/KSwm3F7MU7b",
-      "page": null,
-      "image": "img/wa/AC353EBF9C0D9A9C2021B4A47810DB0D.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T02:53:57Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC3F1C6A3A3865EED95A4B461F62FC9E",
-      "store": "Deal",
-      "title": "Cetaphil Acne Patches Salicylic Acid & CICA, Sensitive Skin Care, 24ct",
-      "price": "$3",
-      "was": "$8",
-      "discount": "62% off",
-      "code": null,
-      "notes": "Clip Coupon + Subscribe and Save",
-      "link": "https://blockbusterdeals.net/product/cetaphil-acne-patches-salicylic-acid-cica-sensitive-skin-care-24ct/",
-      "page": null,
-      "image": "img/wa/AC3F1C6A3A3865EED95A4B461F62FC9E.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T02:45:02Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T01:08:07Z",
+      "text": "2 new offer(s): Sponge Holder for Kitchen Caddy Sink Org, Samsung 65” Class U8000H Series Crystal "
+    },
     {
       "at": "2026-11-10T00:37:56Z",
       "text": "2 new offer(s): Kenneth Cole REACTION Diamond Tower Coll, Carter's Child of Mine Baby and Toddler "
@@ -1232,10 +1236,6 @@
     {
       "at": "2026-11-09T00:24:18Z",
       "text": "1 new offer(s): Mainstays Dashwood 7-Piece Steel Outdoor"
-    },
-    {
-      "at": "2026-11-09T00:14:08Z",
-      "text": "2 new offer(s): Hatchimals Bloomables Bloom Bash 6-Pack , Free standard shipping for FLX Rewards m"
     }
   ]
 }
