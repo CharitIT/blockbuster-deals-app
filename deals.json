@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T00:07:44Z",
+  "lastScan": "2026-11-10T00:17:48Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC1888332554D08C7681C3F42BCE4F5C",
+      "store": "Walmart",
+      "title": "Gucci Guilty Pour Homme Eau De Toilette Spray, Cologne for Men, 3 oz",
+      "price": "$59",
+      "was": "$112",
+      "discount": "47% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/ccPrBpbeW7b",
+      "page": null,
+      "image": "img/wa/AC1888332554D08C7681C3F42BCE4F5C.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T00:16:29Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACB0FE88C9A84A63E4EB0552064F5CFA",
+      "store": "Deal",
+      "title": "4 Pockets, Straight Leg, Classic Fit, Stretch, Breathable, Trousers for Dress, Work, Travel, Bussiness Casual",
+      "price": "$17",
+      "was": "$26",
+      "discount": "35% off",
+      "code": "31T4DXPU",
+      "notes": "Men's Golf Pants 30\"/32\"/34\" Use Code : 31T4DXPU",
+      "link": "https://blockbusterdeals.net/product/mens-golf-pants-30-32-34-4-pockets-straight-leg-classic-fit-stretch-breathable-trousers-for-dress-work-travel-bussiness-casual/",
+      "page": null,
+      "image": "img/wa/ACB0FE88C9A84A63E4EB0552064F5CFA.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T00:10:10Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACF0845584811E177F5C3C8C7A74CC50",
       "store": "Woot",
@@ -1073,44 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC5460A7ADA92A32084B99A2D14AC93E",
-      "store": "Walmart",
-      "title": "Mickey Mouse Women’s Fleece Hoodie with Embroidered Graphics, Sizes XXS-XXL",
-      "price": "$16",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/nDctiSdLU7b",
-      "page": null,
-      "image": "img/wa/AC5460A7ADA92A32084B99A2D14AC93E.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T02:34:15Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC6C0C2296965E587BF69A4F7D70B972",
-      "store": "Walmart",
-      "title": "Gaming Monitors 🔥 at Walmart",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/lIkR7zNKU7b",
-      "page": null,
-      "image": "img/wa/AC6C0C2296965E587BF69A4F7D70B972.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T02:14:20Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T00:17:48Z",
+      "text": "2 new offer(s): Gucci Guilty Pour Homme Eau De Toilette , 4 Pockets, Straight Leg, Classic Fit, St"
+    },
     {
       "at": "2026-11-10T00:07:44Z",
       "text": "1 new offer(s): (NEW) Samsung Galaxy S25 Ultra - 512GB ("
@@ -1232,10 +1235,6 @@
     {
       "at": "2026-11-08T21:31:46Z",
       "text": "2 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more "
-    },
-    {
-      "at": "2026-11-08T21:21:36Z",
-      "text": "6 new offer(s): Windshield Sun Shade Universal Fit for C, Large Floral Makeup Bag for Women, Cute , SUNPRO 2 Pack Sonic Electric Toothbrush,"
     }
   ]
 }
