@@ -1,9 +1,65 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T01:38:32Z",
+  "lastScan": "2026-11-10T01:48:40Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC16F91E2BF6BA53443C80277E0E4706",
+      "store": "Macy's",
+      "title": "Top Shelf Quiet Technology 8-Cup Food Processor",
+      "price": "$37",
+      "was": "$74",
+      "discount": "50% off",
+      "code": null,
+      "notes": "Black & Decker",
+      "link": "https://mavely.app.link/0eaaVsxnW7b",
+      "page": null,
+      "image": "img/wa/AC16F91E2BF6BA53443C80277E0E4706.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T01:46:48Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-AC2F3A4749BA9407244DF83BB85F0826",
+      "store": "Macy's",
+      "title": "Butterfly Meadow Blue 18 Pc. Dinnerware Set, Service for 6",
+      "price": "$114",
+      "was": "$497",
+      "discount": "77% off",
+      "code": null,
+      "notes": "Black Friday Deal!! Lenox Free shipping",
+      "link": "https://mavely.app.link/UBfGCyenW7b",
+      "page": null,
+      "image": "img/wa/AC2F3A4749BA9407244DF83BB85F0826.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T01:38:37Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-AC32D157A80E56B6C9DF386D715475CD",
+      "store": "Deal",
+      "title": "24pc Glass Food Storage Containers with Lids，Glass Meal Prep Containers",
+      "price": "$21",
+      "was": "$30",
+      "discount": "30% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/24pc-glass-food-storage-containers-with-lids%ef%bc%8cglass-meal-prep-containers/",
+      "page": null,
+      "image": "img/wa/AC32D157A80E56B6C9DF386D715475CD.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T01:38:32Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACD111AAEDC706C3B86159D745211BAE",
       "store": "Deal",
@@ -1054,62 +1110,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-AC9C51637BA6888761BC6A0A703362F7",
-      "store": "Deal",
-      "title": "No Heat Damage, One Twist between Dryer & Styler, 4 Heat/3 Airflow Settings, Cool Shot",
-      "price": "$199",
-      "was": "$314",
-      "discount": "37% off",
-      "code": null,
-      "notes": "Shark FlexStyle, Air Multi-Styler & Drying System, Coanda, Copper, HD433CP",
-      "link": "https://blockbusterdeals.net/product/shark-flexstyle-air-multi-styler-drying-system-coanda-copper-hd433cp-no-heat-damage-one-twist-between-dryer-styler-4-heat-3-airflow-settings-cool-shot-3/",
-      "page": null,
-      "image": "img/wa/AC9C51637BA6888761BC6A0A703362F7.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T15:24:05Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC9174E48BA0E5FE6E4C0F81F8684753",
-      "store": "Walmart",
-      "title": "Mainstays Dashwood 4-Piece Outdoor Conversation Set, Cream",
-      "price": "$137",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "RUN!! Free shipping",
-      "link": "https://go.sylikes.com/fbgAtKLLPXdv",
-      "page": null,
-      "image": "img/wa/AC9174E48BA0E5FE6E4C0F81F8684753.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T15:18:40Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACE4276976031BE18A17EFC146FA5880",
-      "store": "Walmart",
-      "title": "Pinmoco 42\" Reversible L-Shaped Gaming Desk with Monitor Stand, LED Lights& Headset Hooks, Home Office, Carbon Fiber Black",
-      "price": "$60",
-      "was": "$131",
-      "discount": "54% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://go.sylikes.com/fbgArUc5y48O",
-      "page": null,
-      "image": "img/wa/ACE4276976031BE18A17EFC146FA5880.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T15:09:18Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T01:48:40Z",
+      "text": "3 new offer(s): Top Shelf Quiet Technology 8-Cup Food Pr, Butterfly Meadow Blue 18 Pc. Dinnerware , 24pc Glass Food Storage Containers with "
+    },
     {
       "at": "2026-11-10T01:38:32Z",
       "text": "2 new offer(s): Buy one, get one 50%off on selected Wran, Women's Castle Dale Full Zip Fleece Jack"
@@ -1231,10 +1235,6 @@
     {
       "at": "2026-11-09T00:54:49Z",
       "text": "1 new offer(s): soundcore P30i by Anker Noise Cancelling"
-    },
-    {
-      "at": "2026-11-09T00:44:39Z",
-      "text": "2 new offer(s): Shark FlexStyle, Air Multi-Styler & Dryi, All New Dash Sale🔥at Target"
     }
   ]
 }
