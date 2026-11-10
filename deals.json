@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T20:03:22Z",
+  "lastScan": "2026-11-10T20:13:28Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC2610E7ADE1AD40D9531AC886C87BF0",
+      "store": "Michael Kors",
+      "title": "Jet Set Small Signature Logo Camera Crossbody Bag",
+      "price": "$39",
+      "was": "$228",
+      "discount": "83% off",
+      "code": null,
+      "notes": "Michael Kors EXTRA 20% OFF APPLIED IN CART FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
+      "link": "https://mavely.app.link/qECWiJwEX7b",
+      "page": null,
+      "image": "img/wa/AC2610E7ADE1AD40D9531AC886C87BF0.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T20:13:02Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
+    {
+      "id": "wa-AC4905A63DD43AE15504187A79EC58CB",
+      "store": "Lowe's",
+      "title": "Garvee 6FT Artificial Christmas Tree Prelit Pencil Tree with Remote Control Easy to Assemble Christmas Decoration for Home Party Xmas Holiday",
+      "price": "$43",
+      "was": "$204",
+      "discount": "79% off",
+      "code": null,
+      "notes": "RUN!!",
+      "link": "https://mavely.app.link/9pql1GJCV7b",
+      "page": null,
+      "image": "img/wa/AC4905A63DD43AE15504187A79EC58CB.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T20:08:36Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Lowe's"
+    },
     {
       "id": "wa-ACE2F3D1A53A0041FD0AD7A86958B369",
       "store": "Deal",
@@ -1074,42 +1112,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACF0845584811E177F5C3C8C7A74CC50",
-      "store": "Woot",
-      "title": "(NEW) Samsung Galaxy S25 Ultra - 512GB (Unlocked)",
-      "price": "$899",
-      "was": "$1,419",
-      "discount": "37% off",
-      "code": null,
-      "notes": "Sign in with your Amazon account at checkout for free shipping.",
-      "link": "https://mavely.app.link/R2Z6En2dW7b",
-      "page": null,
-      "image": "img/wa/ACF0845584811E177F5C3C8C7A74CC50.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T00:05:22Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACD4E04EDEB1DA9008C7A4E2304ADC9E",
-      "store": "Deal",
-      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
-      "price": "$20",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
-      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
-      "page": null,
-      "image": "img/wa/ACD4E04EDEB1DA9008C7A4E2304ADC9E.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T21:36:43Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T20:13:28Z",
+      "text": "2 new offer(s): Jet Set Small Signature Logo Camera Cros, Garvee 6FT Artificial Christmas Tree Pre"
+    },
     {
       "at": "2026-11-10T20:03:22Z",
       "text": "2 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, Calvin Klein Slim Fit Solid Spread Colla"
@@ -1231,10 +1237,6 @@
     {
       "at": "2026-11-10T14:20:36Z",
       "text": "1 new offer(s): ✅ Enjoy free delivery benefits, shipping"
-    },
-    {
-      "at": "2026-11-10T02:59:47Z",
-      "text": "2 new offer(s): Women's Brooklyyn Slip-On Wedge Sneakers, Graduated Cubic Zirconia Tennis Necklace"
     }
   ]
 }
