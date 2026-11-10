@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T17:02:11Z",
+  "lastScan": "2026-11-10T17:12:16Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC528E92F7BCB5AE9E88ABA09B1CC244",
+      "store": "Deal",
+      "title": "GoPro MAX2 - Waterproof 360 + Traditional Action Camera with Touch Screen, Spherical 8K Video, 29MP 360 Photos, Easy Replaceable Lenses, HyperSmooth Stabilization, 6 Microphones",
+      "price": "$294",
+      "was": "$499",
+      "discount": "41% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/gopro-max2-waterproof-360-traditional-action-camera-with-touch-screen-spherical-8k-video-29mp-360-photos-easy-replaceable-lenses-hypersmooth-stabilization-6-microphones-2/",
+      "page": null,
+      "image": "img/wa/AC528E92F7BCB5AE9E88ABA09B1CC244.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T17:11:56Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC78E0C00D1F1DA8C60A347DD14CA972",
+      "store": "Walmart",
+      "title": "VEATOOL Sound Bar for TV,60W Soundbar Surround Sound Home Theater System,27 Inch TV Speaker with DSP Dynamic Sound,Work with 4K & HD TVs,COAX& Optical, AUX,Bluetooth,Wireless Streaming,Wall Mountable",
+      "price": "$43",
+      "was": "$219",
+      "discount": "80% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://go.sylikes.com/fbgE7O9zZ8UM",
+      "page": null,
+      "image": "img/wa/AC78E0C00D1F1DA8C60A347DD14CA972.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T17:05:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC6000852AAD53B31ED598E26BB3B684",
       "store": "Deal",
@@ -1073,42 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC21B099C35078EEAE4F1DFDF6437390",
-      "store": "Deal",
-      "title": "Brightown 39FT 100LED Solar Rope Lights Outdoor Waterproof, Warm White",
-      "price": "$11",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/brightown-39ft-100led-solar-rope-lights-outdoor-waterproof-warm-white/",
-      "page": null,
-      "image": "img/wa/AC21B099C35078EEAE4F1DFDF6437390.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T20:15:31Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACD159D0AF9083326F40549A19F57D9E",
-      "store": "Deal",
-      "title": "Bear Baby Bottle Warmer, Fast Warming Breast Milk Formula, White",
-      "price": "$14",
-      "was": "$29",
-      "discount": "52% off",
-      "code": "YLQUI5I7",
-      "notes": "Use code:YLQUI5I7",
-      "link": "https://blockbusterdeals.net/product/bear-baby-bottle-warmer/",
-      "page": null,
-      "image": "img/wa/ACD159D0AF9083326F40549A19F57D9E.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T20:15:27Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T17:12:16Z",
+      "text": "2 new offer(s): GoPro MAX2 - Waterproof 360 + Traditiona, VEATOOL Sound Bar for TV,60W Soundbar Su"
+    },
     {
       "at": "2026-11-10T17:02:11Z",
       "text": "2 new offer(s): Soft Lightweight Loungewear Set,2 Piece , Heavy Duty Wall Mounted Storage Shelves,"
@@ -1230,10 +1235,6 @@
     {
       "at": "2026-11-10T02:08:51Z",
       "text": "2 new offer(s): KITCHENAID Ribbed Soft Silicone Oven Mit, Free standard shipping on orders $99+"
-    },
-    {
-      "at": "2026-11-10T01:58:44Z",
-      "text": "1 new offer(s): Cushioned Comfort Non-Slip Durable Fit O"
     }
   ]
 }
