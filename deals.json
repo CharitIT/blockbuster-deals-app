@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T20:53:39Z",
+  "lastScan": "2026-11-10T21:03:48Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB95921BEEDE15C1DBA02540042451A",
+      "store": "Deal",
+      "title": "Cole Haan Grand Crosscourt Daily Elastic Lace Slip-On Sneakers",
+      "price": "$49",
+      "was": "$124",
+      "discount": "60% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/okBVJQDFX7b",
+      "page": null,
+      "image": "img/wa/ACB95921BEEDE15C1DBA02540042451A.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T21:03:37Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC041FCBBA17796341DB978B5C50C410",
+      "store": "Michael Kors",
+      "title": "Signature Logo Wallet and Reversible Belt Gift Set",
+      "price": "$55",
+      "was": "$198",
+      "discount": "72% off",
+      "code": null,
+      "notes": "Michael Kors EXTRA 20% OFF APPLIED IN CART FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
+      "link": "https://mavely.app.link/MV8zNRQHX7b",
+      "page": null,
+      "image": "img/wa/AC041FCBBA17796341DB978B5C50C410.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T21:03:35Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
     {
       "id": "wa-AC993925F8D17000B6B163619E22CB62",
       "store": "Deal",
@@ -1076,42 +1113,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACCAE12833CCB40CAA686A75DE97AF32",
-      "store": "Deal",
-      "title": "Lifewit Back Seat Cover 2 Pack, with 3 Pocket Storage Organizer, Kick Mats Backseat Protector for Kids, Car Seat Back Protectors for SUV, Minivan or Truck, Black",
-      "price": "$7",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/lifewit-back-seat-cover-2-pack-with-3-pocket-storage-organizer-kick-mats-backseat-protector-for-kids-car-seat-back-protectors-for-suv-minivan-or-truck-black/",
-      "page": null,
-      "image": "img/wa/ACCAE12833CCB40CAA686A75DE97AF32.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T01:10:50Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC0B3321D39A5893AB4F348EC09F725B",
-      "store": "Deal",
-      "title": "Columbia Jackets Sale🔥",
-      "price": "$150",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "(Upto 40% Off)",
-      "link": "https://mavely.app.link/7rBKqN4jW7b",
-      "page": null,
-      "image": "img/wa/AC0B3321D39A5893AB4F348EC09F725B.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T01:10:39Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1159,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T21:03:48Z",
+      "text": "2 new offer(s): Cole Haan Grand Crosscourt Daily Elastic, Signature Logo Wallet and Reversible Bel"
+    },
     {
       "at": "2026-11-10T20:53:39Z",
       "text": "2 new offer(s): Brightown 39FT 100LED Solar Rope Lights , NutriBullet®️ 1200 Watt Blender Combo wi"
@@ -1233,10 +1238,6 @@
     {
       "at": "2026-11-10T15:41:23Z",
       "text": "2 new offer(s): Libre L'Eau Nue Parfum de Peau Spray, 3 , Free shipping use Code:FREESHIPSD"
-    },
-    {
-      "at": "2026-11-10T15:31:13Z",
-      "text": "1 new offer(s): Stanley 1913 tumblers & mugs sale at Tar"
     }
   ]
 }
