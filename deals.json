@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T16:11:39Z",
+  "lastScan": "2026-11-10T16:21:45Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC673A6E4FE548A00751606F60E29C4F",
+      "store": "Deal",
+      "title": "JOYROOM Portable Charger for Apple Watch, 5000mAh Power Bank 20W PD Fast Charging Dual Built-in Cables &4 Outputs, Compact Travel Keychain Battery Pack for iPhone 17/16/15/14/13& Apple Watch, Black",
+      "price": "$17",
+      "was": "$35",
+      "discount": "51% off",
+      "code": "XPFCUG5C",
+      "notes": "Use code: XPFCUG5C",
+      "link": "https://blockbusterdeals.net/product/joyroom-portable-charger-for-apple-watch-5000mah-power-bank-20w-pd-fast-charging-dual-built-in-cables-4-outputs-compact-travel-keychain-battery-pack-for-iphone-17-16-15-14-13-apple-watch-black/",
+      "page": null,
+      "image": "img/wa/AC673A6E4FE548A00751606F60E29C4F.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T16:20:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC164CB152D60E474EEA87A34C0DAFD2",
       "store": "Deal",
@@ -1092,24 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACFA3EFE72A43C0E501C21EBE726CEA7",
-      "store": "Deal",
-      "title": "IRON °FLASK 40 oz Co-Pilot Insulated Travel Mug , Insulated Travel Mug with Straw & Flip Cap Lids - Cup Holder Fit, Leakproof, BPA Free (Black Speckle)",
-      "price": "$12",
-      "was": "$24",
-      "discount": "50% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/iron-flask-40-oz-co-pilot-insulated-travel-mug-insulated-travel-mug-with-straw-flip-cap-lids-cup-holder-fit-leakproof-bpa-free-black-speckle/",
-      "page": null,
-      "image": "img/wa/ACFA3EFE72A43C0E501C21EBE726CEA7.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T17:57:27Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T16:21:45Z",
+      "text": "1 new offer(s): JOYROOM Portable Charger for Apple Watch"
+    },
     {
       "at": "2026-11-10T16:11:39Z",
       "text": "1 new offer(s): Up to 10H Playtime, Hands-Free Calling, "
@@ -1231,10 +1235,6 @@
     {
       "at": "2026-11-10T01:08:07Z",
       "text": "2 new offer(s): Sponge Holder for Kitchen Caddy Sink Org, Samsung 65” Class U8000H Series Crystal "
-    },
-    {
-      "at": "2026-11-10T00:37:56Z",
-      "text": "2 new offer(s): Kenneth Cole REACTION Diamond Tower Coll, Carter's Child of Mine Baby and Toddler "
     }
   ]
 }
