@@ -1,9 +1,66 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T20:23:30Z",
+  "lastScan": "2026-11-10T20:33:34Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC4D9683617512887D8C3BC4E2459582",
+      "store": "Michael Kors",
+      "title": "Michael Kors Designer handbags  Clearance🔥🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "BUY 2+ ITEMS, GET 20% OFF",
+      "link": "https://mavely.app.link/rmw3o0TBX7b",
+      "page": null,
+      "image": "img/wa/AC4D9683617512887D8C3BC4E2459582.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T20:32:27Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
+    {
+      "id": "wa-AC50EA7AB9A0D8C8AE1EA2A82CA295D4",
+      "store": "Michael Kors",
+      "title": "Michael Kors Designer handbags  Clearance🔥🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "BUY 2+ ITEMS, GET 20% OFF",
+      "link": "https://mavely.app.link/rmw3o0TBX7b",
+      "page": null,
+      "image": "img/wa/AC50EA7AB9A0D8C8AE1EA2A82CA295D4.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T20:31:12Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
+    {
+      "id": "wa-AC36773D58097347FD991F7E1649D23F",
+      "store": "Walmart",
+      "title": "Coach Open Road Eau De Toilette Natural Spray, Cologne for Men, 3.3oz",
+      "price": "$30",
+      "was": "$98",
+      "discount": "69% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/XjDc2wFBX7b",
+      "page": null,
+      "image": "img/wa/AC36773D58097347FD991F7E1649D23F.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T20:23:30Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACB21BDA917C68918969088E4621B02A",
       "store": "Deal",
@@ -1056,62 +1113,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC4A83878AB6A196A94446C6D36343FD",
-      "store": "Deal",
-      "title": "Kenneth Cole REACTION Diamond Tower Collection Lightweight Hardside Expandable 8-Wheel Spinner Travel Luggage, Black, 2-Piece Set (20\" & 28\")",
-      "price": "$62",
-      "was": "$77",
-      "discount": "19% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/kenneth-cole-reaction-diamond-tower-collection-lightweight-hardside-expandable-8-wheel-spinner-travel-luggage-black-2-piece-set-20-28-2/",
-      "page": null,
-      "image": "img/wa/AC4A83878AB6A196A94446C6D36343FD.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T00:32:56Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC85E0D8BB328A69D6FC658AF35F73A8",
-      "store": "Walmart",
-      "title": "Carter's Child of Mine Baby and Toddler Holiday Pajama, Two-Piece Set, Sizes 12M-5T",
-      "price": "$6",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Check all sizes and colours ✅",
-      "link": "https://mavely.app.link/IYMwuMzhW7b",
-      "page": null,
-      "image": "img/wa/AC85E0D8BB328A69D6FC658AF35F73A8.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T00:31:30Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC1888332554D08C7681C3F42BCE4F5C",
-      "store": "Walmart",
-      "title": "Gucci Guilty Pour Homme Eau De Toilette Spray, Cologne for Men, 3 oz",
-      "price": "$59",
-      "was": "$112",
-      "discount": "47% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/ccPrBpbeW7b",
-      "page": null,
-      "image": "img/wa/AC1888332554D08C7681C3F42BCE4F5C.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T00:16:29Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1159,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T20:33:34Z",
+      "text": "3 new offer(s): Michael Kors Designer handbags  Clearanc, Michael Kors Designer handbags  Clearanc, Coach Open Road Eau De Toilette Natural "
+    },
     {
       "at": "2026-11-10T20:23:30Z",
       "text": "1 new offer(s): Seamless shapewear shorts with boned hig"
@@ -1233,10 +1238,6 @@
     {
       "at": "2026-11-10T15:21:04Z",
       "text": "1 new offer(s): Amélie Home Tufted Boho Comforter Set Tw"
-    },
-    {
-      "at": "2026-11-10T15:10:58Z",
-      "text": "2 new offer(s): Amazon Basics Organic Cotton Sheet Set w, Lee®️ Men's Heritage Short Sleeve Surplu"
     }
   ]
 }
