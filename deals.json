@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T17:12:16Z",
+  "lastScan": "2026-11-10T17:32:27Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC78AB0162ED0DFBC02D8B16236BDF96",
+      "store": "Macy's",
+      "title": "Good Girl Hair Mist, 1-oz",
+      "price": "$25",
+      "was": "$45",
+      "discount": "44% off",
+      "code": null,
+      "notes": "Black Friday Deal!! Carolina Herrera",
+      "link": "https://mavely.app.link/y8hEjV3sX7b",
+      "page": null,
+      "image": "img/wa/AC78AB0162ED0DFBC02D8B16236BDF96.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T17:29:23Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-AC0B23C798E3D1A48DE3568759488BDC",
+      "store": "Deal",
+      "title": "GRACE KARIN Women's Floral Maxi Dress 2026 Fall Long Sleeve V Neck Empire Waist A Line Flowy Dress with Pocket",
+      "price": "$17",
+      "was": "$49",
+      "discount": "65% off",
+      "code": "0ZGNXK6G",
+      "notes": "Use Code : 0ZGNXK6G",
+      "link": "https://blockbusterdeals.net/product/grace-karin-womens-floral-maxi-dress-2026-fall-long-sleeve-v-neck-empire-waist-a-line-flowy-dress-with-pocket/",
+      "page": null,
+      "image": "img/wa/AC0B23C798E3D1A48DE3568759488BDC.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T17:23:11Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC528E92F7BCB5AE9E88ABA09B1CC244",
       "store": "Deal",
@@ -1073,43 +1110,6 @@
       "merchant": "Target"
     },
     {
-      "id": "wa-ACC3BDAD2B48F52B0808D4689729FCD5",
-      "store": "Michael Kors",
-      "title": "BUY 2+ ITEMS, GET 20% OFF APPLIED IN CART",
-      "price": "$39",
-      "was": "$165",
-      "discount": "76% off",
-      "code": null,
-      "notes": "Michael Kors Anneka Patent Thong Sandal FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
-      "link": "https://mavely.app.link/63F1T8u0V7b",
-      "page": null,
-      "image": "img/wa/ACC3BDAD2B48F52B0808D4689729FCD5.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T20:31:48Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-AC3F2F336BBCB519DB2A9D6C1FE79211",
-      "store": "Deal",
-      "title": "12 Pieces, Pretend Play Drink Dispenser, 4 Juice Inserts, Ice Cubes, Cups, Play Kitchen Toy, Preschool Toys for Kids, Ages 3+",
-      "price": "$18",
-      "was": "$43",
-      "discount": "58% off",
-      "code": null,
-      "notes": "Melissa & Doug Thirst Quencher Wooden Drink Dispenser",
-      "link": "https://blockbusterdeals.net/product/melissa-doug-thirst-quencher-wooden-drink-dispenser/",
-      "page": null,
-      "image": "img/wa/AC3F2F336BBCB519DB2A9D6C1FE79211.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T20:31:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T17:32:27Z",
+      "text": "2 new offer(s): Good Girl Hair Mist, 1-oz, GRACE KARIN Women's Floral Maxi Dress 20"
+    },
     {
       "at": "2026-11-10T17:12:16Z",
       "text": "2 new offer(s): GoPro MAX2 - Waterproof 360 + Traditiona, VEATOOL Sound Bar for TV,60W Soundbar Su"
@@ -1231,10 +1235,6 @@
     {
       "at": "2026-11-10T02:18:59Z",
       "text": "2 new offer(s): Free standard shipping on orders $99+, Add to cart and 25%off applied automatic"
-    },
-    {
-      "at": "2026-11-10T02:08:51Z",
-      "text": "2 new offer(s): KITCHENAID Ribbed Soft Silicone Oven Mit, Free standard shipping on orders $99+"
     }
   ]
 }
