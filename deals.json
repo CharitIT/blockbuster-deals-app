@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T21:03:48Z",
+  "lastScan": "2026-11-10T21:23:53Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC3F735AA65D114C033335B8FCB8B35D",
+      "store": "Macy's",
+      "title": "Nabela Small Convertible Pouchette Crossbody Handbag",
+      "price": "$49",
+      "was": "$229",
+      "discount": "79% off",
+      "code": null,
+      "notes": "MICHAEL KORS Free shipping",
+      "link": "https://mavely.app.link/6fvPb30DX7b",
+      "page": null,
+      "image": "img/wa/AC3F735AA65D114C033335B8FCB8B35D.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T21:15:55Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-ACB95921BEEDE15C1DBA02540042451A",
       "store": "Deal",
@@ -1095,24 +1114,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC604B44A874094059D7DB160DEC343A",
-      "store": "Deal",
-      "title": "Women's Castle Dale Full Zip Fleece Jacket",
-      "price": "$27",
-      "was": "$55",
-      "discount": "51% off",
-      "code": null,
-      "notes": "Columbia Free shipping on orders $150+",
-      "link": "https://mavely.app.link/Q7CqIDLkW7b",
-      "page": null,
-      "image": "img/wa/AC604B44A874094059D7DB160DEC343A.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T01:30:41Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1159,6 +1160,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T21:23:53Z",
+      "text": "1 new offer(s): Nabela Small Convertible Pouchette Cross"
+    },
     {
       "at": "2026-11-10T21:03:48Z",
       "text": "2 new offer(s): Cole Haan Grand Crosscourt Daily Elastic, Signature Logo Wallet and Reversible Bel"
@@ -1234,10 +1239,6 @@
     {
       "at": "2026-11-10T15:51:28Z",
       "text": "2 new offer(s): 250-watt base blends smoothies, shakes &, 300ML Larger Tank, Portable Rechargeable"
-    },
-    {
-      "at": "2026-11-10T15:41:23Z",
-      "text": "2 new offer(s): Libre L'Eau Nue Parfum de Peau Spray, 3 , Free shipping use Code:FREESHIPSD"
     }
   ]
 }
