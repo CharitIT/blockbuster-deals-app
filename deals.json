@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T18:02:44Z",
+  "lastScan": "2026-11-10T19:43:14Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC97E8866555EBF62146EDB1924D7EF9",
+      "store": "Woot",
+      "title": "HexClad 5.5 Qt Hybrid Nonstick Deep Sauté Frying Pan & Lid",
+      "price": "$134",
+      "was": "$209",
+      "discount": "36% off",
+      "code": null,
+      "notes": "Sign in with your Amazon account at checkout for free shipping.",
+      "link": "https://mavely.app.link/dnjQQg3zX7b",
+      "page": null,
+      "image": "img/wa/AC97E8866555EBF62146EDB1924D7EF9.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T19:40:03Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACF956791075D5BEFFA55B2B649F7DAA",
+      "store": "Walmart",
+      "title": "Gucci Guilty Pour Homme Eau De Toilette Spray, Cologne for Men, 3 oz",
+      "price": "$59",
+      "was": "$112",
+      "discount": "47% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/YmAqtFrBX7b",
+      "page": null,
+      "image": "img/wa/ACF956791075D5BEFFA55B2B649F7DAA.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T19:37:09Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC93AAEAC233057910A23232E39D681A",
       "store": "Walmart",
@@ -1073,42 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACC610DD1553CB48596A0845F47AA77B",
-      "store": "Deal",
-      "title": "Boat Neck Long Sleeve Tops, Wide Leg Pants Pockets, Casual Resort Wear, Track Suit, Athleisure Workout Set, Matching Clothing",
-      "price": "$14",
-      "was": "$45",
-      "discount": "69% off",
-      "code": "MZ93HF41",
-      "notes": "PRETTYGARDEN Womens 2 Piece Lounge Sets Fall Fashion Airport Travel Outfits Clip coupon & Use code: MZ93HF41",
-      "link": "https://blockbusterdeals.net/product/prettygarden-womens-2-piece-lounge-sets-fall-fashion-airport-travel-outfits-boat-neck-long-sleeve-tops-wide-leg-pants-pockets-casual-resort-wear-track-suit-athleisure-workout-set-matching-clothin/",
-      "page": null,
-      "image": "img/wa/ACC610DD1553CB48596A0845F47AA77B.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T21:22:22Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC6DB3EE9BC5E72A2E4C8B4401BD58BD",
-      "store": "Deal",
-      "title": "philosophy fresh cream shower gel - with notes of vanilla, whipped cream & tonka bean",
-      "price": "$14",
-      "was": "$28",
-      "discount": "50% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/philosophy-fresh-cream-shower-gel-with-notes-of-vanilla-whipped-cream-tonka-bean/",
-      "page": null,
-      "image": "img/wa/AC6DB3EE9BC5E72A2E4C8B4401BD58BD.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T21:18:11Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T19:43:14Z",
+      "text": "2 new offer(s): HexClad 5.5 Qt Hybrid Nonstick Deep Saut, Gucci Guilty Pour Homme Eau De Toilette "
+    },
     {
       "at": "2026-11-10T18:02:44Z",
       "text": "4 new offer(s): ✅ Enjoy free delivery benefits, shipping, GRACE KARIN Women Fall Wedding Guest Lon, Skin Tidings & Travel Gift Set"
@@ -1230,10 +1235,6 @@
     {
       "at": "2026-11-10T02:49:36Z",
       "text": "3 new offer(s): Free standard shipping on orders $99+, Juicy Tubes Holiday 2026 Lip Gloss Gift , T-Fal 3-Pc. Fry Pan Set"
-    },
-    {
-      "at": "2026-11-10T02:39:19Z",
-      "text": "1 new offer(s): Nabela Small Convertible Pouchette Cross"
     }
   ]
 }
