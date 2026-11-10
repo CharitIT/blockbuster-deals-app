@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T01:58:44Z",
+  "lastScan": "2026-11-10T02:08:51Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC41594A2481971BE8321BF895AC188B",
+      "store": "Deal",
+      "title": "KITCHENAID Ribbed Soft Silicone Oven Mitt 2-Pack Set, 7.5\"x13\", Grey",
+      "price": "$10",
+      "was": "$34",
+      "discount": "71% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/kitchenaid-ribbed-soft-silicone-oven-mitt-2-pack-set-7-5x13-grey/",
+      "page": null,
+      "image": "img/wa/AC41594A2481971BE8321BF895AC188B.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T02:06:43Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC92AF99322EC03E32D857597F119216",
+      "store": "Under Armour",
+      "title": "Free standard shipping on orders $99+",
+      "price": "$25",
+      "was": "$70",
+      "discount": "64% off",
+      "code": "WARMUP",
+      "notes": "Under Armour Fleece®️ Big Logo 4.3(6) Men's Hoodie Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
+      "link": "https://go.magik.ly/ml/4q5kv/",
+      "page": null,
+      "image": "img/wa/AC92AF99322EC03E32D857597F119216.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T02:00:13Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
     {
       "id": "wa-AC768C2AA8784DF59392E73D340D6231",
       "store": "Deal",
@@ -1072,43 +1109,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC8B165D452C9DEEBB14F96049CE2F2C",
-      "store": "Deal",
-      "title": "Blink Mini 2K+ (newest model) – Plug-in Home & Pet Indoor Security Camera with 2K video resolution, night vision, enhanced audio, motion detection – 1 camera (White)",
-      "price": "$15",
-      "was": "$39",
-      "discount": "62% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/blink-mini-2k-newest-model/",
-      "page": null,
-      "image": "img/wa/AC8B165D452C9DEEBB14F96049CE2F2C.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T15:42:18Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACA57712628ECDC6F38AA8CB56B48958",
-      "store": "Walmart",
-      "title": "Mainstays Patio Sets On sale at Walmart",
-      "price": "$47",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "As Low As Get 75% Off",
-      "link": "https://go.sylikes.com/fbgAucLjieVi",
-      "page": null,
-      "image": "img/wa/ACA57712628ECDC6F38AA8CB56B48958.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T15:37:25Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T02:08:51Z",
+      "text": "2 new offer(s): KITCHENAID Ribbed Soft Silicone Oven Mit, Free standard shipping on orders $99+"
+    },
     {
       "at": "2026-11-10T01:58:44Z",
       "text": "1 new offer(s): Cushioned Comfort Non-Slip Durable Fit O"
@@ -1230,10 +1234,6 @@
     {
       "at": "2026-11-09T01:15:09Z",
       "text": "2 new offer(s): Braun Sensian 7 Forehead 3-in-1 Non-Cont, Charcuterie Board Set with Handless Lid "
-    },
-    {
-      "at": "2026-11-09T01:04:59Z",
-      "text": "1 new offer(s): 🚨Get $10 Kohl's Cash®️ to use November 9"
     }
   ]
 }
