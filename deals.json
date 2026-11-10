@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T00:17:48Z",
+  "lastScan": "2026-11-10T00:37:56Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC4A83878AB6A196A94446C6D36343FD",
+      "store": "Deal",
+      "title": "Kenneth Cole REACTION Diamond Tower Collection Lightweight Hardside Expandable 8-Wheel Spinner Travel Luggage, Black, 2-Piece Set (20\" & 28\")",
+      "price": "$62",
+      "was": "$77",
+      "discount": "19% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/kenneth-cole-reaction-diamond-tower-collection-lightweight-hardside-expandable-8-wheel-spinner-travel-luggage-black-2-piece-set-20-28-2/",
+      "page": null,
+      "image": "img/wa/AC4A83878AB6A196A94446C6D36343FD.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T00:32:56Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC85E0D8BB328A69D6FC658AF35F73A8",
+      "store": "Walmart",
+      "title": "Carter's Child of Mine Baby and Toddler Holiday Pajama, Two-Piece Set, Sizes 12M-5T",
+      "price": "$6",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Check all sizes and colours ✅",
+      "link": "https://mavely.app.link/IYMwuMzhW7b",
+      "page": null,
+      "image": "img/wa/AC85E0D8BB328A69D6FC658AF35F73A8.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T00:31:30Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC1888332554D08C7681C3F42BCE4F5C",
       "store": "Walmart",
@@ -1074,42 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC2333361ED6873266D574BF6A673897",
-      "store": "Deal",
-      "title": "Walifrey Wide Leg Sweatpants for Women with Pockets , Baggy Track Pants with Drawstring for Joggers Casual Wear Night Out Pants",
-      "price": "$5",
-      "was": "$14",
-      "discount": "64% off",
-      "code": "HACQCKJ0",
-      "notes": "Use code :HACQCKJ0",
-      "link": "https://blockbusterdeals.net/product/walifrey-wide-leg-sweatpants-for-women-with-pockets-baggy-track-pants-with-drawstring-for-joggers-casual-wear-night-out-pants/",
-      "page": null,
-      "image": "img/wa/AC2333361ED6873266D574BF6A673897.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T02:44:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC513E124DB2E03EA7CE71F9F44A221F",
-      "store": "Deal",
-      "title": "Sampeel Dresses for Women 2025 Casual Long Sleeve V Neck Tshirt Dress Side Split Fashion Fall Outfits",
-      "price": "$9",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/sampeel-dresses-for-women-2025-casual-long-sleeve-v-neck-tshirt-dress-side-split-fashion-fall-outfits/",
-      "page": null,
-      "image": "img/wa/AC513E124DB2E03EA7CE71F9F44A221F.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T02:34:35Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T00:37:56Z",
+      "text": "2 new offer(s): Kenneth Cole REACTION Diamond Tower Coll, Carter's Child of Mine Baby and Toddler "
+    },
     {
       "at": "2026-11-10T00:17:48Z",
       "text": "2 new offer(s): Gucci Guilty Pour Homme Eau De Toilette , 4 Pockets, Straight Leg, Classic Fit, St"
@@ -1231,10 +1236,6 @@
     {
       "at": "2026-11-09T00:14:08Z",
       "text": "2 new offer(s): Hatchimals Bloomables Bloom Bash 6-Pack , Free standard shipping for FLX Rewards m"
-    },
-    {
-      "at": "2026-11-08T21:31:46Z",
-      "text": "2 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more "
     }
   ]
 }
