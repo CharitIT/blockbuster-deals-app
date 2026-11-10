@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T02:49:36Z",
+  "lastScan": "2026-11-10T02:59:47Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC34993B2301689E3D522AA64D7CEA46",
+      "store": "Macy's",
+      "title": "Women's Brooklyyn Slip-On Wedge Sneakers",
+      "price": "$19",
+      "was": "$59",
+      "discount": "68% off",
+      "code": null,
+      "notes": "Black Friday Deal!! Style & Co",
+      "link": "https://mavely.app.link/KnwafaWsW7b",
+      "page": null,
+      "image": "img/wa/AC34993B2301689E3D522AA64D7CEA46.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T02:59:28Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-AC3C3A1FBCE73407455C779056244377",
+      "store": "Macy's",
+      "title": "Graduated Cubic Zirconia Tennis Necklace In Silver Plate or Gold Plate",
+      "price": "$50",
+      "was": "$125",
+      "discount": "60% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/Xotgc0GsW7b",
+      "page": null,
+      "image": "img/wa/AC3C3A1FBCE73407455C779056244377.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T02:56:45Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-AC0EA6F4802FF93C1A0C21E00FA6BD25",
       "store": "Under Armour",
@@ -1071,42 +1109,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-AC828F27492FD3C45595AEC87870FE72",
-      "store": "Deal",
-      "title": "Idli maker Idli cooker idly stand idli steamer idli maker stainless steel (4 plates 16 idlis) in one time Kitchen item Export Quality (Pack of 1)(Colour: Silver)",
-      "price": "$39",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/idli-maker-idli-cooker-idly-stand-idli-steamer-idli-maker-stainless-steel-4-plates-16-idlis-in-one-time-kitchen-item-export-quality-pack-of-1colour-silver/",
-      "page": null,
-      "image": "img/wa/AC828F27492FD3C45595AEC87870FE72.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T16:45:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC544F98743DE7015E3CBF9329B62C28",
-      "store": "Deal",
-      "title": "Soft 65% poly 35% cotton stretch blend, outer drawstring, open bottom, relaxed fit for gym, travel, errands and daily wear",
-      "price": "$17",
-      "was": "$28",
-      "discount": "39% off",
-      "code": null,
-      "notes": "Men's Baggy Sweatpants Wide Leg Fleece Lounge Joggers with Deep Pockets",
-      "link": "https://blockbusterdeals.net/product/mens-baggy-sweatpants-wide-leg-fleece-lounge-joggers-with-deep-pockets-soft-65-poly-35-cotton-stretch-blend-outer-drawstring-open-bottom-relaxed-fit-for-gym-travel-errands-and-daily-wear/",
-      "page": null,
-      "image": "img/wa/AC544F98743DE7015E3CBF9329B62C28.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T16:38:21Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1153,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T02:59:47Z",
+      "text": "2 new offer(s): Women's Brooklyyn Slip-On Wedge Sneakers, Graduated Cubic Zirconia Tennis Necklace"
+    },
     {
       "at": "2026-11-10T02:49:36Z",
       "text": "3 new offer(s): Free standard shipping on orders $99+, Juicy Tubes Holiday 2026 Lip Gloss Gift , T-Fal 3-Pc. Fry Pan Set"
@@ -1228,10 +1234,6 @@
     {
       "at": "2026-11-09T02:16:09Z",
       "text": "2 new offer(s): Gaming Monitors 🔥 at Walmart, Ekouaer Tank Nightgowns for Women 2 Pack"
-    },
-    {
-      "at": "2026-11-09T01:55:50Z",
-      "text": "2 new offer(s): Bluey: The Most Amazing Advent Calendar , Brightroom gift bag 🔥at Target"
     }
   ]
 }
