@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-09T21:52:38Z",
+  "lastScan": "2026-11-10T00:07:44Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACF0845584811E177F5C3C8C7A74CC50",
+      "store": "Woot",
+      "title": "(NEW) Samsung Galaxy S25 Ultra - 512GB (Unlocked)",
+      "price": "$899",
+      "was": "$1,419",
+      "discount": "37% off",
+      "code": null,
+      "notes": "Sign in with your Amazon account at checkout for free shipping.",
+      "link": "https://mavely.app.link/R2Z6En2dW7b",
+      "page": null,
+      "image": "img/wa/ACF0845584811E177F5C3C8C7A74CC50.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T00:05:22Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACD4E04EDEB1DA9008C7A4E2304ADC9E",
       "store": "Deal",
@@ -1093,24 +1111,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACF25F36E87A2CB38433D822BCE241B1",
-      "store": "Deal",
-      "title": "Ekouaer Tank Nightgowns for Women 2 Pack Sexy Night Gown Sleeveless Sleepwear Soft Sleep Dress Button Sleepshirt",
-      "price": "$11",
-      "was": "$24",
-      "discount": "54% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/ekouaer-tank-nightgowns-for-women-2-pack-sexy-night-gown-sleeveless-sleepwear-soft-sleep-dress-button-sleepshirt/",
-      "page": null,
-      "image": "img/wa/ACF25F36E87A2CB38433D822BCE241B1.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T02:10:05Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T00:07:44Z",
+      "text": "1 new offer(s): (NEW) Samsung Galaxy S25 Ultra - 512GB ("
+    },
     {
       "at": "2026-11-09T21:52:38Z",
       "text": "50 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more , Use Code COZY for 30% off full price and"
@@ -1232,10 +1236,6 @@
     {
       "at": "2026-11-08T21:21:36Z",
       "text": "6 new offer(s): Windshield Sun Shade Universal Fit for C, Large Floral Makeup Bag for Women, Cute , SUNPRO 2 Pack Sonic Electric Toothbrush,"
-    },
-    {
-      "at": "2026-11-08T21:00:55Z",
-      "text": "1 new offer(s): Cetaphil Gentle Cleanser, Hydrating Face"
     }
   ]
 }
