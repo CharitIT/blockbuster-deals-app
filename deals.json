@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T15:41:23Z",
+  "lastScan": "2026-11-10T15:51:28Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC58840DB8B92B79D8510793D717D9F3",
+      "store": "Deal",
+      "title": "250-watt base blends smoothies, shakes & frozen drinks. Includes (3) To-Go Cups (1) Travel Lid. Dishwasher safe.",
+      "price": "$28",
+      "was": "$39",
+      "discount": "28% off",
+      "code": null,
+      "notes": "magic bullet®️ Personal Blender, 22 oz Cup, 250 Watt, Black, MBR-1101AK",
+      "link": "https://blockbusterdeals.net/product/magic-bullet-personal-blender-22-oz-cup-250-watt-black-mbr-1101ak-250-watt-base-blends-smoothies-shakes-frozen-drinks-includes-3-to-go-cups-1-travel-lid-dishwasher-safe/",
+      "page": null,
+      "image": "img/wa/AC58840DB8B92B79D8510793D717D9F3.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T15:50:56Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACBB0119B2149B5815C3F604ECD26788",
+      "store": "Deal",
+      "title": "300ML Larger Tank, Portable Rechargeable Dental Oral Irrigator for Orthodontic & Sensitive Gums, Cordless for Travel, Family",
+      "price": "$7",
+      "was": "$42",
+      "discount": "83% off",
+      "code": "H5423RLV",
+      "notes": "ENDS IN FEW HOURS 🚨 COSLUS ADA Accepted C20 Water Dental Flosser Pick, Professional Set Black Use code: H5423RLV",
+      "link": "https://blockbusterdeals.net/product/coslus-ada-accepted-c20-water-dental-flosser-pick-professional-set-black-300ml-larger-tank-portable-rechargeable-dental-oral-irrigator-for-orthodontic-sensitive-gums-cordless-for-travel-family-3/",
+      "page": null,
+      "image": "img/wa/ACBB0119B2149B5815C3F604ECD26788.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T15:44:52Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACD013450248DBFF384000A9E5B0B9D3",
       "store": "Macy's",
@@ -1076,43 +1112,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-AC3AA50080F78AC883C6C3B7EC133A06",
-      "store": "Deal",
-      "title": "Bedsure Comforter Full Size 5 Pieces - Full Size Comforter Set with Checkered Throw Blanket and Decorative Pillow, Lightweiget Bedding, All Season Bedding Sets, Linen Beige",
-      "price": "$19",
-      "was": "$39",
-      "discount": "51% off",
-      "code": "WPAKUSNS",
-      "notes": "Use Code : WPAKUSNS",
-      "link": "https://blockbusterdeals.net/product/bedsure-comforter-full-size-5-pieces-full-size-comforter-set-with-checkered-throw-blanket-and-decorative-pillow-lightweiget-bedding-all-season-bedding-sets-linen-beige/",
-      "page": null,
-      "image": "img/wa/AC3AA50080F78AC883C6C3B7EC133A06.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T17:35:59Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACE2CF9A6BF13C0DEA57189BCA3A0C75",
-      "store": "Walmart",
-      "title": "Free Assembly Women's Pleated Peplum Jacket, Sizes XS-XXL",
-      "price": "$15",
-      "was": "$38",
-      "discount": "61% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/pr17RBpOV7b",
-      "page": null,
-      "image": "img/wa/ACE2CF9A6BF13C0DEA57189BCA3A0C75.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T17:31:24Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1159,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T15:51:28Z",
+      "text": "2 new offer(s): 250-watt base blends smoothies, shakes &, 300ML Larger Tank, Portable Rechargeable"
+    },
     {
       "at": "2026-11-10T15:41:23Z",
       "text": "2 new offer(s): Libre L'Eau Nue Parfum de Peau Spray, 3 , Free shipping use Code:FREESHIPSD"
@@ -1234,10 +1237,6 @@
     {
       "at": "2026-11-10T00:07:44Z",
       "text": "1 new offer(s): (NEW) Samsung Galaxy S25 Ultra - 512GB ("
-    },
-    {
-      "at": "2026-11-09T21:52:38Z",
-      "text": "50 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more , Use Code COZY for 30% off full price and"
     }
   ]
 }
