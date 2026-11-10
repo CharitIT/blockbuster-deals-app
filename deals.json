@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T17:32:27Z",
+  "lastScan": "2026-11-10T17:52:35Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC1FC7813D6C0C9903CA03322B674661",
+      "store": "Deal",
+      "title": "CHI Spin N Curl 1″ Ceramic Rotating Curling Iron, Onyx Black",
+      "price": "$59",
+      "was": "$131",
+      "discount": "55% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/chi-spin-n-curl-1%e2%80%b3-ceramic-rotating-curling-iron-onyx-black/",
+      "page": null,
+      "image": "img/wa/AC1FC7813D6C0C9903CA03322B674661.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T17:48:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC58ECEEB5FFB95409311B03D633743B",
+      "store": "Deal",
+      "title": "Dyson V9 Motorbar™️ Cordless Vacuum",
+      "price": "$269",
+      "was": "$599",
+      "discount": "55% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/dyson-v9-motorbar-cordless-vacuum/",
+      "page": null,
+      "image": "img/wa/AC58ECEEB5FFB95409311B03D633743B.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T17:46:14Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC78AB0162ED0DFBC02D8B16236BDF96",
       "store": "Macy's",
@@ -1072,44 +1108,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACF12FA3E8E36FF813A92431204B1D6C",
-      "store": "Costco",
-      "title": "Shark SpeedStyle Pro Hair Dryer System Plus Storage Bag",
-      "price": "$159",
-      "was": "$199",
-      "discount": "20% off",
-      "code": null,
-      "notes": null,
-      "link": "https://www.mnpa6gtrk.com/3LNH5GPF/3DGXXQKD/?uid=42889",
-      "page": null,
-      "image": "img/wa/ACF12FA3E8E36FF813A92431204B1D6C.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T21:08:38Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Costco"
-    },
-    {
-      "id": "wa-AC76F4B452EAF62B098824578B9A8C85",
-      "store": "Target",
-      "title": "BISSELL PowerClean DualBrush Cordless Self-Standing Stick Vacuum 4196T Pet Hair Pick-Up Black",
-      "price": "$259",
-      "was": "$359",
-      "discount": "28% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/x064nch8Q7b",
-      "page": null,
-      "image": "img/wa/AC76F4B452EAF62B098824578B9A8C85.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T21:08:35Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Target"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1154,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T17:52:35Z",
+      "text": "2 new offer(s): CHI Spin N Curl 1″ Ceramic Rotating Curl, Dyson V9 Motorbar™️ Cordless Vacuum"
+    },
     {
       "at": "2026-11-10T17:32:27Z",
       "text": "2 new offer(s): Good Girl Hair Mist, 1-oz, GRACE KARIN Women's Floral Maxi Dress 20"
@@ -1231,10 +1233,6 @@
     {
       "at": "2026-11-10T02:29:08Z",
       "text": "1 new offer(s): Creme de Corps Refillable Body Lotion wi"
-    },
-    {
-      "at": "2026-11-10T02:18:59Z",
-      "text": "2 new offer(s): Free standard shipping on orders $99+, Add to cart and 25%off applied automatic"
     }
   ]
 }
