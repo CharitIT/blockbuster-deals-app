@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T02:29:08Z",
+  "lastScan": "2026-11-10T02:39:19Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC524D9E1D9BC4208D90AA742B6B2871",
+      "store": "Macy's",
+      "title": "Nabela Small Convertible Pouchette Crossbody Handbag",
+      "price": "$49",
+      "was": "$229",
+      "discount": "79% off",
+      "code": null,
+      "notes": "Black Friday Deal!! MICHAEL KORS Free shipping",
+      "link": "https://mavely.app.link/7W6gi8PqW7b",
+      "page": null,
+      "image": "img/wa/AC524D9E1D9BC4208D90AA742B6B2871.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T02:30:04Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-AC912097D74B8BBA5D7180262A061EB1",
       "store": "Deal",
@@ -1088,25 +1107,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-AC4C1FF8D23BE19D3F0A7BFF3DC9D0E1",
-      "store": "Macy's",
-      "title": "Women's Short Hooded Puffer Jacket, Created for Macy's",
-      "price": "$89",
-      "was": "$265",
-      "discount": "66% off",
-      "code": null,
-      "notes": "Tommy Hilfiger Free shipping",
-      "link": "https://mavely.app.link/EFWAVebCV7b",
-      "page": null,
-      "image": "img/wa/AC4C1FF8D23BE19D3F0A7BFF3DC9D0E1.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T16:12:14Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1153,6 +1153,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T02:39:19Z",
+      "text": "1 new offer(s): Nabela Small Convertible Pouchette Cross"
+    },
     {
       "at": "2026-11-10T02:29:08Z",
       "text": "1 new offer(s): Creme de Corps Refillable Body Lotion wi"
@@ -1228,10 +1232,6 @@
     {
       "at": "2026-11-09T01:45:40Z",
       "text": "1 new offer(s): Horizon Group USA Bluey Activity Pad, Co"
-    },
-    {
-      "at": "2026-11-09T01:35:33Z",
-      "text": "1 new offer(s): Upto $20 off with qualifying purchases ✨"
     }
   ]
 }
