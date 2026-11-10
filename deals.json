@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T20:13:28Z",
+  "lastScan": "2026-11-10T20:23:30Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB21BDA917C68918969088E4621B02A",
+      "store": "Deal",
+      "title": "Seamless shapewear shorts with boned high waist, tummy and thigh control, no-roll wide legs, comfy under dresses.",
+      "price": "$9",
+      "was": "$26",
+      "discount": "65% off",
+      "code": null,
+      "notes": "YADIFEN Womens Shapewear Tummy Control Shorts, High Waisted Body Shaper",
+      "link": "https://blockbusterdeals.net/product/yadifen-womens-shapewear-tummy-control-shorts-high-waisted-body-shaper-seamless-shapewear-shorts-with-boned-high-waist-tummy-and-thigh-control-no-roll-wide-legs-comfy-under-dresses/",
+      "page": null,
+      "image": "img/wa/ACB21BDA917C68918969088E4621B02A.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T20:15:33Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC2610E7ADE1AD40D9531AC886C87BF0",
       "store": "Michael Kors",
@@ -1094,24 +1112,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACB0FE88C9A84A63E4EB0552064F5CFA",
-      "store": "Deal",
-      "title": "4 Pockets, Straight Leg, Classic Fit, Stretch, Breathable, Trousers for Dress, Work, Travel, Bussiness Casual",
-      "price": "$17",
-      "was": "$26",
-      "discount": "35% off",
-      "code": "31T4DXPU",
-      "notes": "Men's Golf Pants 30\"/32\"/34\" Use Code : 31T4DXPU",
-      "link": "https://blockbusterdeals.net/product/mens-golf-pants-30-32-34-4-pockets-straight-leg-classic-fit-stretch-breathable-trousers-for-dress-work-travel-bussiness-casual/",
-      "page": null,
-      "image": "img/wa/ACB0FE88C9A84A63E4EB0552064F5CFA.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T00:10:10Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T20:23:30Z",
+      "text": "1 new offer(s): Seamless shapewear shorts with boned hig"
+    },
     {
       "at": "2026-11-10T20:13:28Z",
       "text": "2 new offer(s): Jet Set Small Signature Logo Camera Cros, Garvee 6FT Artificial Christmas Tree Pre"
@@ -1233,10 +1237,6 @@
     {
       "at": "2026-11-10T15:10:58Z",
       "text": "2 new offer(s): Amazon Basics Organic Cotton Sheet Set w, Lee®️ Men's Heritage Short Sleeve Surplu"
-    },
-    {
-      "at": "2026-11-10T14:20:36Z",
-      "text": "1 new offer(s): ✅ Enjoy free delivery benefits, shipping"
     }
   ]
 }
