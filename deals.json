@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T15:31:13Z",
+  "lastScan": "2026-11-10T15:41:23Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACD013450248DBFF384000A9E5B0B9D3",
+      "store": "Macy's",
+      "title": "Libre L'Eau Nue Parfum de Peau Spray, 3 oz.",
+      "price": "$80",
+      "was": "$160",
+      "discount": "50% off",
+      "code": null,
+      "notes": "Yves Saint Laurent Free shipping",
+      "link": "https://mavely.app.link/g5e9V7IhX7b",
+      "page": null,
+      "image": "img/wa/ACD013450248DBFF384000A9E5B0B9D3.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T15:39:33Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-ACF1DCB498F1489E0813533A69176624",
+      "store": "Deal",
+      "title": "Free shipping use Code:FREESHIPSD",
+      "price": "$22",
+      "was": "$70",
+      "discount": "69% off",
+      "code": "FREESHIPSD",
+      "notes": "Adidas Men's grand court shoes",
+      "link": "https://mavely.app.link/0OH8ceNjX7b",
+      "page": null,
+      "image": "img/wa/ACF1DCB498F1489E0813533A69176624.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T15:32:33Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC05B34CB6FF83E9ABAF626FDDFE4516",
       "store": "Target",
@@ -1076,42 +1113,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC4FE583DCB6861BCF6DD520B2AF9928",
-      "store": "Deal",
-      "title": "Slow cooks, makes rice, steams, sautés, makes yogurt and keeps food warm.",
-      "price": "$79",
-      "was": "$109",
-      "discount": "28% off",
-      "code": null,
-      "notes": "RUN!! Instant Pot Rio 6 Qt 7-in-1 Electric Pressure Cooker, Black",
-      "link": "https://blockbusterdeals.net/product/instant-pot-rio-6-qt-7-in-1-electric-pressure-cooker-black-slow-cooks-makes-rice-steams-sautes-makes-yogurt-and-keeps-food-warm/",
-      "page": null,
-      "image": "img/wa/AC4FE583DCB6861BCF6DD520B2AF9928.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T17:22:19Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACE45ED4DB96A19BEB9B617E12D5B6AF",
-      "store": "Deal",
-      "title": "Melissa & Doug Blockables Town Connectable Wooden Building Blocks",
-      "price": "$21",
-      "was": "$43",
-      "discount": "51% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/melissa-doug-blockables-town-connectable-wooden-building-blocks/",
-      "page": null,
-      "image": "img/wa/ACE45ED4DB96A19BEB9B617E12D5B6AF.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T17:17:48Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1159,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T15:41:23Z",
+      "text": "2 new offer(s): Libre L'Eau Nue Parfum de Peau Spray, 3 , Free shipping use Code:FREESHIPSD"
+    },
     {
       "at": "2026-11-10T15:31:13Z",
       "text": "1 new offer(s): Stanley 1913 tumblers & mugs sale at Tar"
@@ -1233,10 +1238,6 @@
     {
       "at": "2026-11-09T21:52:38Z",
       "text": "50 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more , Use Code COZY for 30% off full price and"
-    },
-    {
-      "at": "2026-11-09T03:06:38Z",
-      "text": "3 new offer(s): 🎁 1-Year Costco Membership + $45 Digital, Includes Word, Excel, PowerPoint & more , LEGO Speed Champions Oracle Red Bull Rac"
     }
   ]
 }
