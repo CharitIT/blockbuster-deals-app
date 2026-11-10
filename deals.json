@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T02:59:47Z",
+  "lastScan": "2026-11-10T14:20:36Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC9040858E3EAD9CB7EE0D36AAA19045",
+      "store": "Walmart",
+      "title": "✅ Enjoy free delivery benefits, shipping perks, exclusive member prices, gas savings & more!",
+      "price": "$120",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "✅ Save time and money on groceries, household essentials & everyday shopping. Join Now:",
+      "link": "https://mavely.app.link/6d7cAzNaX7b",
+      "page": null,
+      "image": "img/wa/AC9040858E3EAD9CB7EE0D36AAA19045.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T13:28:15Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC34993B2301689E3D522AA64D7CEA46",
       "store": "Macy's",
@@ -1090,25 +1109,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC31942676A87442A66B7A54DC9C3A75",
-      "store": "Macy's",
-      "title": "Vertuo Next Premium Coffee and Espresso Machine by Breville, Black with Aeroccino Milk Frother",
-      "price": "$99",
-      "was": "$239",
-      "discount": "59% off",
-      "code": null,
-      "notes": "Nespresso Free shipping",
-      "link": "https://mavely.app.link/TC0SsHELV7b",
-      "page": null,
-      "image": "img/wa/AC31942676A87442A66B7A54DC9C3A75.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T16:52:28Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1155,6 +1155,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T14:20:36Z",
+      "text": "1 new offer(s): ✅ Enjoy free delivery benefits, shipping"
+    },
     {
       "at": "2026-11-10T02:59:47Z",
       "text": "2 new offer(s): Women's Brooklyyn Slip-On Wedge Sneakers, Graduated Cubic Zirconia Tennis Necklace"
@@ -1230,10 +1234,6 @@
     {
       "at": "2026-11-09T02:36:21Z",
       "text": "2 new offer(s): Sampeel Dresses for Women 2025 Casual Lo, Mickey Mouse Women’s Fleece Hoodie with "
-    },
-    {
-      "at": "2026-11-09T02:16:09Z",
-      "text": "2 new offer(s): Gaming Monitors 🔥 at Walmart, Ekouaer Tank Nightgowns for Women 2 Pack"
     }
   ]
 }
