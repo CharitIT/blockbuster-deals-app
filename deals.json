@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T16:31:50Z",
+  "lastScan": "2026-11-10T16:41:55Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC2CE65100A661AE63FE394EA181C5E0",
+      "store": "Walmart",
+      "title": "Carter's Child of Mine Baby and Toddler Holiday Pajama, Two-Piece Set, Sizes 12M-5T",
+      "price": "$6",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/TWkyishnX7b",
+      "page": null,
+      "image": "img/wa/AC2CE65100A661AE63FE394EA181C5E0.jpg",
+      "category": null,
+      "postedAt": "2026-11-10T16:40:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC23874ADCBF4BC6F9ECD1CE27EFFBB4",
       "store": "Walmart",
@@ -1093,24 +1112,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACE6EBC0221A5431CCE69866661663AB",
-      "store": "Deal",
-      "title": "🎁 1-Year Costco Membership + $45 Digital Shop Card with Either Option!",
-      "price": "$20",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🚨🔥 COSTCO MEMBERSHIP SPECIAL OFFER! (Pay $65 & Get a Free $45 Digital Costco Shop Card) ⭐ Costco Executive Membership JUST $85! (Pay $130 & Get a Free $45 Digit",
-      "link": "https://mavely.app.link/e/dJJM9nmQSBb",
-      "page": null,
-      "image": "img/wa/ACE6EBC0221A5431CCE69866661663AB.jpg",
-      "category": null,
-      "postedAt": "2026-11-09T18:00:56Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-10T16:41:55Z",
+      "text": "1 new offer(s): Carter's Child of Mine Baby and Toddler "
+    },
     {
       "at": "2026-11-10T16:31:50Z",
       "text": "1 new offer(s): Straight Talk Motorola Moto G Power 2026"
@@ -1232,10 +1237,6 @@
     {
       "at": "2026-11-10T01:38:32Z",
       "text": "2 new offer(s): Buy one, get one 50%off on selected Wran, Women's Castle Dale Full Zip Fleece Jack"
-    },
-    {
-      "at": "2026-11-10T01:18:14Z",
-      "text": "2 new offer(s): Lifewit Back Seat Cover 2 Pack, with 3 P, Columbia Jackets Sale🔥"
     }
   ]
 }
