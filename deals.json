@@ -1,9 +1,84 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-10T21:34:00Z",
+  "lastScan": "2026-11-11T00:30:36Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC0A904E868C4271D8FD2728894CE0F4",
+      "store": "Macy's",
+      "title": "Calvin Klein 4-piece giftset",
+      "price": "$25",
+      "was": "$45",
+      "discount": "44% off",
+      "code": null,
+      "notes": "Black Friday Deal!!",
+      "link": "https://mavely.app.link/GIgmzyLWX7b",
+      "page": null,
+      "image": "img/wa/AC0A904E868C4271D8FD2728894CE0F4.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T00:25:13Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-ACA8EB29EAB6E754C8C0C04F0CDDEAFF",
+      "store": "Walmart",
+      "title": "Hoodie Sale at Walmart ✨",
+      "price": "$1",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "As Low As",
+      "link": "https://mavely.app.link/RvTHeI8RX7b",
+      "page": null,
+      "image": "img/wa/ACA8EB29EAB6E754C8C0C04F0CDDEAFF.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T00:14:44Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACC648122C0D2CBD0925BE259EFF89C1",
+      "store": "Deal",
+      "title": "MontVoo-Bath Mat-Bathroom Mat Rug Non Slip Super Absorbent Stain Resistant Quick Dry Thin Bath Rug-Bath Mats for Bathroom Floor Bathtub Vanity-Bathmat Bath Rug Easy Care-17\"x27\" Grey",
+      "price": "$8",
+      "was": "$16",
+      "discount": "50% off",
+      "code": "YVW808XQ",
+      "notes": "Clip Coupon  + Use Code :YVW808XQ",
+      "link": "https://blockbusterdeals.net/product/montvoo-bath-mat-bathroom-mat-rug-non-slip-super-absorbent-stain-resistant-quick-dry-thin-bath-rug-bath-mats-for-bathroom-floor-bathtub-vanity-bathmat-bath-rug-easy-care-17x27-grey/",
+      "page": null,
+      "image": "img/wa/ACC648122C0D2CBD0925BE259EFF89C1.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T00:10:39Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACD62C980D90A8FB107A3F2223796B3E",
+      "store": "Walmart",
+      "title": "Finding Nemo Toddler Boys Molded Eva Dory/Nemo Clog Sandals",
+      "price": "$9",
+      "was": "$19",
+      "discount": "53% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/xTYQ8amTX7b",
+      "page": null,
+      "image": "img/wa/ACD62C980D90A8FB107A3F2223796B3E.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T00:08:21Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC5E7225ADA43BD5C34836A70685F9C6",
       "store": "Walmart",
@@ -1040,80 +1115,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC41594A2481971BE8321BF895AC188B",
-      "store": "Deal",
-      "title": "KITCHENAID Ribbed Soft Silicone Oven Mitt 2-Pack Set, 7.5\"x13\", Grey",
-      "price": "$10",
-      "was": "$34",
-      "discount": "71% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/kitchenaid-ribbed-soft-silicone-oven-mitt-2-pack-set-7-5x13-grey/",
-      "page": null,
-      "image": "img/wa/AC41594A2481971BE8321BF895AC188B.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T02:06:43Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC92AF99322EC03E32D857597F119216",
-      "store": "Under Armour",
-      "title": "Free standard shipping on orders $99+",
-      "price": "$25",
-      "was": "$70",
-      "discount": "64% off",
-      "code": "WARMUP",
-      "notes": "Under Armour Fleece®️ Big Logo 4.3(6) Men's Hoodie Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
-      "link": "https://go.magik.ly/ml/4q5kv/",
-      "page": null,
-      "image": "img/wa/AC92AF99322EC03E32D857597F119216.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T02:00:13Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-AC768C2AA8784DF59392E73D340D6231",
-      "store": "Deal",
-      "title": "Cushioned Comfort Non-Slip Durable Fit Office Meetings Dates Weekend Casual All-Day Wear",
-      "price": "$23",
-      "was": "$29",
-      "discount": "21% off",
-      "code": "200RN5S1RM",
-      "notes": "Bruno Marc Men's Casual Dress Oxfords Formal Sneakers 2.0 Use Code : 200RN5S1RM",
-      "link": "https://blockbusterdeals.net/product/bruno-marc-mens-casual-dress-oxfords-formal-sneakers-2-0-cushioned-comfort-non-slip-durable-fit-office-meetings-dates-weekend-casual-all-day-wear/",
-      "page": null,
-      "image": "img/wa/AC768C2AA8784DF59392E73D340D6231.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T01:51:19Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC16F91E2BF6BA53443C80277E0E4706",
-      "store": "Macy's",
-      "title": "Top Shelf Quiet Technology 8-Cup Food Processor",
-      "price": "$37",
-      "was": "$74",
-      "discount": "50% off",
-      "code": null,
-      "notes": "Black & Decker",
-      "link": "https://mavely.app.link/0eaaVsxnW7b",
-      "page": null,
-      "image": "img/wa/AC16F91E2BF6BA53443C80277E0E4706.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T01:46:48Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1160,6 +1161,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T00:30:36Z",
+      "text": "4 new offer(s): Calvin Klein 4-piece giftset, Hoodie Sale at Walmart ✨, MontVoo-Bath Mat-Bathroom Mat Rug Non Sl"
+    },
     {
       "at": "2026-11-10T21:34:00Z",
       "text": "3 new offer(s): ✅ Enjoy free delivery benefits, shipping, Clearance Men's Pants, KCDDUMK 4 Pack Cami Bralettes for Women,"
@@ -1235,10 +1240,6 @@
     {
       "at": "2026-11-10T16:11:39Z",
       "text": "1 new offer(s): Up to 10H Playtime, Hands-Free Calling, "
-    },
-    {
-      "at": "2026-11-10T16:01:35Z",
-      "text": "2 new offer(s): Cosy Family 6 Pack 90L Heavy Duty Extra , Drone with Camera for Beginners, 1080P H"
     }
   ]
 }
