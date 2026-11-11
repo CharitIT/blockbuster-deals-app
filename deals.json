@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T01:41:12Z",
+  "lastScan": "2026-11-11T02:01:25Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACA42762BB218F3CF1CB7FD8B82867C8",
+      "store": "Deal",
+      "title": "KCDDUMK 4 Pack Cami Bralettes for Women, Spaghetti Strap Sleep Bras",
+      "price": "$25",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/kcddumk-4-pack-cami-bralettes-for-women-spaghetti-strap-sleep-bras-3/",
+      "page": null,
+      "image": "img/wa/ACA42762BB218F3CF1CB7FD8B82867C8.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T01:58:40Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC8544C08B1EED3851D42123179444E6",
+      "store": "Under Armour",
+      "title": "Free standard shipping on orders $99+",
+      "price": "$20",
+      "was": "$50",
+      "discount": "60% off",
+      "code": "WARMUP",
+      "notes": "Under Armour Velocity 2.0 Men's ¼ Zip Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
+      "link": "https://go.magik.ly/ml/4rri5/",
+      "page": null,
+      "image": "img/wa/AC8544C08B1EED3851D42123179444E6.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T01:57:52Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
     {
       "id": "wa-AC76D40A69940F3F4F29502BB3C1A7AE",
       "store": "Under Armour",
@@ -1074,44 +1111,6 @@
       "merchant": "Amazon"
     },
     {
-      "id": "wa-ACF95F726C210D81D3F0E9D202A6F785",
-      "store": "Walmart",
-      "title": "Lee®️ Men's Heritage Short Sleeve Surplus Shirt, Sizes S-3XL",
-      "price": "$7",
-      "was": "$14",
-      "discount": "50% off",
-      "code": null,
-      "notes": null,
-      "link": "https://go.sylikes.com/fbgE1FCIgDeQ",
-      "page": null,
-      "image": "img/wa/ACF95F726C210D81D3F0E9D202A6F785.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T15:05:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC9040858E3EAD9CB7EE0D36AAA19045",
-      "store": "Walmart",
-      "title": "✅ Enjoy free delivery benefits, shipping perks, exclusive member prices, gas savings & more!",
-      "price": "$120",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "✅ Save time and money on groceries, household essentials & everyday shopping. Join Now:",
-      "link": "https://mavely.app.link/6d7cAzNaX7b",
-      "page": null,
-      "image": "img/wa/AC9040858E3EAD9CB7EE0D36AAA19045.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T13:28:15Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T02:01:25Z",
+      "text": "2 new offer(s): KCDDUMK 4 Pack Cami Bralettes for Women,, Free standard shipping on orders $99+"
+    },
     {
       "at": "2026-11-11T01:41:12Z",
       "text": "2 new offer(s): Free standard shipping on orders $99+, Ultra Facial Cream with Squalane"
@@ -1233,10 +1236,6 @@
     {
       "at": "2026-11-10T17:12:16Z",
       "text": "2 new offer(s): GoPro MAX2 - Waterproof 360 + Traditiona, VEATOOL Sound Bar for TV,60W Soundbar Su"
-    },
-    {
-      "at": "2026-11-10T17:02:11Z",
-      "text": "2 new offer(s): Soft Lightweight Loungewear Set,2 Piece , Heavy Duty Wall Mounted Storage Shelves,"
     }
   ]
 }
