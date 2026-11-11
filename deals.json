@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T02:31:49Z",
+  "lastScan": "2026-11-11T02:41:57Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC37D8C5747CDFB6EE159826C9C9F536",
+      "store": "Under Armour",
+      "title": "Men's Outlet Workout Pants & Leggings - Pants Sale🔥",
+      "price": "$99",
+      "was": null,
+      "discount": null,
+      "code": "WARMUP",
+      "notes": "Under Armour Check All prices 👇 Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
+      "link": "https://go.magik.ly/ml/4rudp/",
+      "page": null,
+      "image": "img/wa/AC37D8C5747CDFB6EE159826C9C9F536.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T02:39:42Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
+    {
+      "id": "wa-AC91B1EB3615EA93BDB6316F0A152D1E",
+      "store": "Deal",
+      "title": "Brightown 39FT 100LED Solar Rope Lights Outdoor Waterproof, Warm White",
+      "price": "$11",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/brightown-39ft-100led-solar-rope-lights-outdoor-waterproof-warm-white-3/",
+      "page": null,
+      "image": "img/wa/AC91B1EB3615EA93BDB6316F0A152D1E.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T02:36:45Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC4E4C906EB2EFC59AE23D02F9D80B80",
       "store": "Under Armour",
@@ -1074,43 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACD013450248DBFF384000A9E5B0B9D3",
-      "store": "Macy's",
-      "title": "Libre L'Eau Nue Parfum de Peau Spray, 3 oz.",
-      "price": "$80",
-      "was": "$160",
-      "discount": "50% off",
-      "code": null,
-      "notes": "Yves Saint Laurent Free shipping",
-      "link": "https://mavely.app.link/g5e9V7IhX7b",
-      "page": null,
-      "image": "img/wa/ACD013450248DBFF384000A9E5B0B9D3.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T15:39:33Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-ACF1DCB498F1489E0813533A69176624",
-      "store": "Deal",
-      "title": "Free shipping use Code:FREESHIPSD",
-      "price": "$22",
-      "was": "$70",
-      "discount": "69% off",
-      "code": "FREESHIPSD",
-      "notes": "Adidas Men's grand court shoes",
-      "link": "https://mavely.app.link/0OH8ceNjX7b",
-      "page": null,
-      "image": "img/wa/ACF1DCB498F1489E0813533A69176624.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T15:32:33Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T02:41:57Z",
+      "text": "2 new offer(s): Men's Outlet Workout Pants & Leggings - , Brightown 39FT 100LED Solar Rope Lights "
+    },
     {
       "at": "2026-11-11T02:31:49Z",
       "text": "1 new offer(s): Free standard shipping on orders $99+"
@@ -1232,10 +1236,6 @@
     {
       "at": "2026-11-10T19:43:14Z",
       "text": "2 new offer(s): HexClad 5.5 Qt Hybrid Nonstick Deep Saut, Gucci Guilty Pour Homme Eau De Toilette "
-    },
-    {
-      "at": "2026-11-10T18:02:44Z",
-      "text": "4 new offer(s): ✅ Enjoy free delivery benefits, shipping, GRACE KARIN Women Fall Wedding Guest Lon, Skin Tidings & Travel Gift Set"
     }
   ]
 }
