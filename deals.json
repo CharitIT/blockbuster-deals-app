@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T20:32:34Z",
+  "lastScan": "2026-11-11T20:42:39Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACE4BB46337F8197977AA27142BCA51A",
+      "store": "Deal",
+      "title": "Bikini Trimmer for Women,Electric Razor for Sensitive Skin, Electric Shaver with IPX7 Waterproof for Bikini Area, Pubic Hair, Face, Underarms & Legs Pink",
+      "price": "$9",
+      "was": "$29",
+      "discount": "69% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/bikini-trimmer-for-womenelectric-razor-for-sensitive-skin-electric-shaver-with-ipx7-waterproof-for-bikini-area-pubic-hair-face-underarms-legs-pink/",
+      "page": null,
+      "image": "img/wa/ACE4BB46337F8197977AA27142BCA51A.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T20:34:06Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC3BF8D426BB6EFF6583DA98E3B9F8F4",
       "store": "Under Armour",
@@ -1109,25 +1127,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC3F735AA65D114C033335B8FCB8B35D",
-      "store": "Macy's",
-      "title": "Nabela Small Convertible Pouchette Crossbody Handbag",
-      "price": "$49",
-      "was": "$229",
-      "discount": "79% off",
-      "code": null,
-      "notes": "MICHAEL KORS Free shipping",
-      "link": "https://mavely.app.link/6fvPb30DX7b",
-      "page": null,
-      "image": "img/wa/AC3F735AA65D114C033335B8FCB8B35D.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T21:15:55Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1174,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T20:42:39Z",
+      "text": "1 new offer(s): Bikini Trimmer for Women,Electric Razor "
+    },
     {
       "at": "2026-11-11T20:32:34Z",
       "text": "1 new offer(s): Choose store pickup at checkout to avoid"
@@ -1249,10 +1252,6 @@
     {
       "at": "2026-11-10T21:23:53Z",
       "text": "1 new offer(s): Nabela Small Convertible Pouchette Cross"
-    },
-    {
-      "at": "2026-11-10T21:03:48Z",
-      "text": "2 new offer(s): Cole Haan Grand Crosscourt Daily Elastic, Signature Logo Wallet and Reversible Bel"
     }
   ]
 }
