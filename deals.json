@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T03:02:18Z",
+  "lastScan": "2026-11-11T03:12:30Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC67F66F7F5E56694CB51142F876810E",
+      "store": "Michael Kors",
+      "title": "Avalon Medium Smooth and Signature Logo Tote Bag",
+      "price": "$63",
+      "was": "$378",
+      "discount": "83% off",
+      "code": null,
+      "notes": "Michael Kors EXTRA 20% OFF APPLIED IN CART FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
+      "link": "https://mavely.app.link/wfyH0Sh8X7b",
+      "page": null,
+      "image": "img/wa/AC67F66F7F5E56694CB51142F876810E.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T03:03:48Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
     {
       "id": "wa-ACE7FDB1D535AD98D880F067D3B9D4BC",
       "store": "Deal",
@@ -1094,24 +1113,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC6A004B61EF2028E17ACD5C7ED9222A",
-      "store": "Deal",
-      "title": "Cosy Family 6 Pack 90L Heavy Duty Extra Large Moving Bags with Reinforced Handle - Strong Handles & Zippers, Storage Totes For Space Saving, Fold Flat, Alternative to Moving Box, Grey",
-      "price": "$13",
-      "was": "$19",
-      "discount": "32% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/cosy-family-6-pack-90l-heavy-duty-extra-large-moving-bags/",
-      "page": null,
-      "image": "img/wa/AC6A004B61EF2028E17ACD5C7ED9222A.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T16:01:19Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1159,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T03:12:30Z",
+      "text": "1 new offer(s): Avalon Medium Smooth and Signature Logo "
+    },
     {
       "at": "2026-11-11T03:02:18Z",
       "text": "2 new offer(s): Ring Floodlight Cam 2K (newest model), W, Add to Cart and get Extra 25%off + Extra"
@@ -1233,10 +1238,6 @@
     {
       "at": "2026-11-10T20:23:30Z",
       "text": "1 new offer(s): Seamless shapewear shorts with boned hig"
-    },
-    {
-      "at": "2026-11-10T20:13:28Z",
-      "text": "2 new offer(s): Jet Set Small Signature Logo Camera Cros, Garvee 6FT Artificial Christmas Tree Pre"
     }
   ]
 }
