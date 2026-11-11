@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T01:00:49Z",
+  "lastScan": "2026-11-11T01:20:56Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACF3C6DB3D3B0E79939AED5D32FF2E99",
+      "store": "Deal",
+      "title": "Kasa Smart Plug Ultra Mini 15A, EP10P2, Smart Home Wi-Fi Outlet",
+      "price": "$11",
+      "was": "$16",
+      "discount": "31% off",
+      "code": null,
+      "notes": "Early Black Friday Deal!!",
+      "link": "https://blockbusterdeals.net/product/kasa-smart-plug-ultra-mini-15a-ep10p2-smart-home-wi-fi-outlet/",
+      "page": null,
+      "image": "img/wa/ACF3C6DB3D3B0E79939AED5D32FF2E99.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T01:15:52Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC49A0DF57475D6C75317FCC3A9A7E38",
+      "store": "Deal",
+      "title": "🛍️ Amazon Haul – Items for Just 5¢! 🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Shop here 👇",
+      "link": "https://blockbusterdeals.net/product/amazon-haul-2/",
+      "page": null,
+      "image": "img/wa/AC49A0DF57475D6C75317FCC3A9A7E38.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T01:15:14Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC5BD7662FC1F85677C0B9F9F3B06332",
       "store": "Deal",
@@ -1078,43 +1114,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-AC76050834377F5B7DCB095E3C097911",
-      "store": "Deal",
-      "title": "Juicy Tubes Holiday 2026 Lip Gloss Gift Set",
-      "price": "$21",
-      "was": "$25",
-      "discount": "16% off",
-      "code": null,
-      "notes": "Subscribe to save 15%off Free shipping on orders $100+",
-      "link": "https://mavely.app.link/pCQXjc6pW7b",
-      "page": null,
-      "image": "img/wa/AC76050834377F5B7DCB095E3C097911.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T02:44:50Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC1F1334AA6E90A190086AE52A01FF67",
-      "store": "Macy's",
-      "title": "T-Fal 3-Pc. Fry Pan Set",
-      "price": "$26",
-      "was": "$134",
-      "discount": "81% off",
-      "code": null,
-      "notes": "Black Friday Deal!! Free shipping",
-      "link": "https://mavely.app.link/dpbENyvrW7b",
-      "page": null,
-      "image": "img/wa/AC1F1334AA6E90A190086AE52A01FF67.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T02:40:35Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1161,6 +1160,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T01:20:56Z",
+      "text": "2 new offer(s): Kasa Smart Plug Ultra Mini 15A, EP10P2, , 🛍️ Amazon Haul – Items for Just 5¢! 🔥"
+    },
     {
       "at": "2026-11-11T01:00:49Z",
       "text": "3 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, 🚨Login to unlock offer, Men's Puffer With Set In Bib Detail"
@@ -1236,10 +1239,6 @@
     {
       "at": "2026-11-10T16:41:55Z",
       "text": "1 new offer(s): Carter's Child of Mine Baby and Toddler "
-    },
-    {
-      "at": "2026-11-10T16:31:50Z",
-      "text": "1 new offer(s): Straight Talk Motorola Moto G Power 2026"
     }
   ]
 }
