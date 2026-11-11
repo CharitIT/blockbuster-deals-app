@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T00:30:36Z",
+  "lastScan": "2026-11-11T00:40:40Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB4CB6149C5D36ACD68D29A0F429E6F",
+      "store": "Deal",
+      "title": "PRETTYGARDEN Women's V Neck Sweater Long Sleeve Knit Tops",
+      "price": "$9",
+      "was": "$39",
+      "discount": "77% off",
+      "code": "SDF6GXOL",
+      "notes": "Use Code : SDF6GXOL",
+      "link": "https://blockbusterdeals.net/product/prettygarden-womens-v-neck-sweater-long-sleeve-knit-tops/",
+      "page": null,
+      "image": null,
+      "category": null,
+      "postedAt": "2026-11-11T00:31:07Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC0A904E868C4271D8FD2728894CE0F4",
       "store": "Macy's",
@@ -1097,24 +1115,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-AC365290091649E9F58871DE4940312B",
-      "store": "Deal",
-      "title": "Add to cart and 25%off applied automatically at checkout ✅",
-      "price": "$21",
-      "was": "$29",
-      "discount": "28% off",
-      "code": null,
-      "notes": "Juicy Tubes & Lash Idôle Flutter Extension Mascara Duo Free shipping on orders $100+",
-      "link": "https://mavely.app.link/79PsNLdpW7b",
-      "page": null,
-      "image": "img/wa/AC365290091649E9F58871DE4940312B.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T02:13:45Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1161,6 +1161,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T00:40:40Z",
+      "text": "1 new offer(s): PRETTYGARDEN Women's V Neck Sweater Long"
+    },
     {
       "at": "2026-11-11T00:30:36Z",
       "text": "4 new offer(s): Calvin Klein 4-piece giftset, Hoodie Sale at Walmart ✨, MontVoo-Bath Mat-Bathroom Mat Rug Non Sl"
@@ -1236,10 +1240,6 @@
     {
       "at": "2026-11-10T16:21:45Z",
       "text": "1 new offer(s): JOYROOM Portable Charger for Apple Watch"
-    },
-    {
-      "at": "2026-11-10T16:11:39Z",
-      "text": "1 new offer(s): Up to 10H Playtime, Hands-Free Calling, "
     }
   ]
 }
