@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T01:31:02Z",
+  "lastScan": "2026-11-11T01:41:12Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC76D40A69940F3F4F29502BB3C1A7AE",
+      "store": "Under Armour",
+      "title": "Free standard shipping on orders $99+",
+      "price": "$32",
+      "was": "$80",
+      "discount": "60% off",
+      "code": "WARMUP",
+      "notes": "Under Armour Golf 4.9(1002) Men's Pants - 4-Way Stretch Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
+      "link": "https://go.magik.ly/ml/4rnxd/",
+      "page": null,
+      "image": "img/wa/AC76D40A69940F3F4F29502BB3C1A7AE.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T01:38:33Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
+    {
+      "id": "wa-ACC2AF1029EBCD44A2F3139F0FF2D6C6",
+      "store": "Deal",
+      "title": "Ultra Facial Cream with Squalane",
+      "price": "$86",
+      "was": "$115",
+      "discount": "25% off",
+      "code": "SINGLESDAY",
+      "notes": "Subscribe to save 15%off + Use Code : SINGLESDAY Free shipping",
+      "link": "https://mavely.app.link/LUtm9UD1X7b",
+      "page": null,
+      "image": "img/wa/ACC2AF1029EBCD44A2F3139F0FF2D6C6.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T01:34:26Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC8345E3DA6E8C328E10668F7E1A2CA4",
       "store": "Deal",
@@ -1075,44 +1112,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC34993B2301689E3D522AA64D7CEA46",
-      "store": "Macy's",
-      "title": "Women's Brooklyyn Slip-On Wedge Sneakers",
-      "price": "$19",
-      "was": "$59",
-      "discount": "68% off",
-      "code": null,
-      "notes": "Black Friday Deal!! Style & Co",
-      "link": "https://mavely.app.link/KnwafaWsW7b",
-      "page": null,
-      "image": "img/wa/AC34993B2301689E3D522AA64D7CEA46.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T02:59:28Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-AC3C3A1FBCE73407455C779056244377",
-      "store": "Macy's",
-      "title": "Graduated Cubic Zirconia Tennis Necklace In Silver Plate or Gold Plate",
-      "price": "$50",
-      "was": "$125",
-      "discount": "60% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/Xotgc0GsW7b",
-      "page": null,
-      "image": "img/wa/AC3C3A1FBCE73407455C779056244377.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T02:56:45Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1159,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T01:41:12Z",
+      "text": "2 new offer(s): Free standard shipping on orders $99+, Ultra Facial Cream with Squalane"
+    },
     {
       "at": "2026-11-11T01:31:02Z",
       "text": "1 new offer(s): Ring Battery Doorbell (newest model) Mat"
@@ -1234,10 +1237,6 @@
     {
       "at": "2026-11-10T17:02:11Z",
       "text": "2 new offer(s): Soft Lightweight Loungewear Set,2 Piece , Heavy Duty Wall Mounted Storage Shelves,"
-    },
-    {
-      "at": "2026-11-10T16:52:00Z",
-      "text": "2 new offer(s): Includes 2 Officially Licensed F1 Die-Ca, No Boundaries Open Front Duster Cardigan"
     }
   ]
 }
