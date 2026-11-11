@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T20:22:27Z",
+  "lastScan": "2026-11-11T20:32:34Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC3BF8D426BB6EFF6583DA98E3B9F8F4",
+      "store": "Under Armour",
+      "title": "Choose store pickup at checkout to avoid shipping fee",
+      "price": "$31",
+      "was": "$75",
+      "discount": "59% off",
+      "code": null,
+      "notes": "Under Armour Charged Assert 10 Men's Running Shoes Use Codes :WARMUP and EXTRA Or free shipping at $99",
+      "link": "https://go.magik.ly/ml/4s6e4/",
+      "page": null,
+      "image": "img/wa/AC3BF8D426BB6EFF6583DA98E3B9F8F4.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T20:30:57Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
     {
       "id": "wa-AC8843F97CF3CFBF594CEB96DB0B9CA1",
       "store": "Deal",
@@ -1109,24 +1128,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-ACB95921BEEDE15C1DBA02540042451A",
-      "store": "Deal",
-      "title": "Cole Haan Grand Crosscourt Daily Elastic Lace Slip-On Sneakers",
-      "price": "$49",
-      "was": "$124",
-      "discount": "60% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/okBVJQDFX7b",
-      "page": null,
-      "image": "img/wa/ACB95921BEEDE15C1DBA02540042451A.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T21:03:37Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1173,6 +1174,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T20:32:34Z",
+      "text": "1 new offer(s): Choose store pickup at checkout to avoid"
+    },
     {
       "at": "2026-11-11T20:22:27Z",
       "text": "1 new offer(s): Kinetic Sand Splash, Water Play Sandbox "
@@ -1248,10 +1253,6 @@
     {
       "at": "2026-11-10T21:03:48Z",
       "text": "2 new offer(s): Cole Haan Grand Crosscourt Daily Elastic, Signature Logo Wallet and Reversible Bel"
-    },
-    {
-      "at": "2026-11-10T20:53:39Z",
-      "text": "2 new offer(s): Brightown 39FT 100LED Solar Rope Lights , NutriBullet®️ 1200 Watt Blender Combo wi"
     }
   ]
 }
