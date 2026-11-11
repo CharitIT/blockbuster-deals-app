@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T02:11:32Z",
+  "lastScan": "2026-11-11T02:21:40Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACDAE04D5C700A1849241617B1850419",
+      "store": "Under Armour",
+      "title": "Free standard shipping on orders $99+",
+      "price": "$11",
+      "was": "$23",
+      "discount": "52% off",
+      "code": "WARMUP",
+      "notes": "Under Armour Tech™️ Graphic Boys' Shorts Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
+      "link": "https://go.magik.ly/ml/4rsfl/",
+      "page": null,
+      "image": "img/wa/ACDAE04D5C700A1849241617B1850419.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T02:17:26Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
     {
       "id": "wa-ACC82CE874C8CD24F45730A1AC2658C0",
       "store": "Deal",
@@ -1092,24 +1111,6 @@
       "merchant": "Target"
     },
     {
-      "id": "wa-AC24667F80CE1D9EFED1E214C572A6FD",
-      "store": "Deal",
-      "title": "Amélie Home Tufted Boho Comforter Set Twin Size, 2 Pieces Soft Textured Bed Set, Lightweight Breathable Comforter for All Seasons, Farmhouse Shabby Chic Jacquard Bedding, Cozy Gift for Women, Grey",
-      "price": "$19",
-      "was": "$39",
-      "discount": "51% off",
-      "code": "C4SQNP2I",
-      "notes": "Use code: C4SQNP2I",
-      "link": "https://blockbusterdeals.net/product/amelie-home-tufted-boho-comforter-set-twin-size/",
-      "page": null,
-      "image": "img/wa/AC24667F80CE1D9EFED1E214C572A6FD.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T15:18:20Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1156,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T02:21:40Z",
+      "text": "1 new offer(s): Free standard shipping on orders $99+"
+    },
     {
       "at": "2026-11-11T02:11:32Z",
       "text": "1 new offer(s): 20PCS Stainless Steel Plates and Bowls S"
@@ -1231,10 +1236,6 @@
     {
       "at": "2026-11-10T17:52:35Z",
       "text": "2 new offer(s): CHI Spin N Curl 1″ Ceramic Rotating Curl, Dyson V9 Motorbar™️ Cordless Vacuum"
-    },
-    {
-      "at": "2026-11-10T17:32:27Z",
-      "text": "2 new offer(s): Good Girl Hair Mist, 1-oz, GRACE KARIN Women's Floral Maxi Dress 20"
     }
   ]
 }
