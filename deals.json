@@ -1,9 +1,65 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T00:40:40Z",
+  "lastScan": "2026-11-11T01:00:49Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC5BD7662FC1F85677C0B9F9F3B06332",
+      "store": "Deal",
+      "title": "Bear Baby Bottle Warmer, Fast Warming Breast Milk Formula, White",
+      "price": "$14",
+      "was": "$29",
+      "discount": "52% off",
+      "code": "YLQUI517",
+      "notes": "Use Code : YLQUI517",
+      "link": "https://blockbusterdeals.net/product/bear-baby-bottle-warmer-fast-warming-breast-milk-formula-white-2/",
+      "page": null,
+      "image": "img/wa/AC5BD7662FC1F85677C0B9F9F3B06332.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T00:58:50Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC29A191627818AC87A69D83C3EAC8D0",
+      "store": "Crocs",
+      "title": "🚨Login to unlock offer",
+      "price": "$50",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "RUN!! Crocs on sale✨🛍",
+      "link": "https://mavely.app.link/sgtdK7FXX7b",
+      "page": null,
+      "image": "img/wa/AC29A191627818AC87A69D83C3EAC8D0.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T00:58:48Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Crocs"
+    },
+    {
+      "id": "wa-AC57B85BD6AE7AF111DDEF5B7CDE0683",
+      "store": "Macy's",
+      "title": "Men's Puffer With Set In Bib Detail",
+      "price": "$67",
+      "was": "$225",
+      "discount": "70% off",
+      "code": null,
+      "notes": "Calvin Klein Free shipping",
+      "link": "https://mavely.app.link/0iXHRQ0XX7b",
+      "page": null,
+      "image": "img/wa/AC57B85BD6AE7AF111DDEF5B7CDE0683.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T00:58:46Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-ACB4CB6149C5D36ACD68D29A0F429E6F",
       "store": "Deal",
@@ -15,7 +71,7 @@
       "notes": "Use Code : SDF6GXOL",
       "link": "https://blockbusterdeals.net/product/prettygarden-womens-v-neck-sweater-long-sleeve-knit-tops/",
       "page": null,
-      "image": null,
+      "image": "img/wa/ACB4CB6149C5D36ACD68D29A0F429E6F.jpg",
       "category": null,
       "postedAt": "2026-11-11T00:31:07Z",
       "expiresAt": null,
@@ -1059,62 +1115,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-AC524D9E1D9BC4208D90AA742B6B2871",
-      "store": "Macy's",
-      "title": "Nabela Small Convertible Pouchette Crossbody Handbag",
-      "price": "$49",
-      "was": "$229",
-      "discount": "79% off",
-      "code": null,
-      "notes": "Black Friday Deal!! MICHAEL KORS Free shipping",
-      "link": "https://mavely.app.link/7W6gi8PqW7b",
-      "page": null,
-      "image": "img/wa/AC524D9E1D9BC4208D90AA742B6B2871.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T02:30:04Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-AC912097D74B8BBA5D7180262A061EB1",
-      "store": "Deal",
-      "title": "Creme de Corps Refillable Body Lotion with Cocoa Butter",
-      "price": "$76",
-      "was": "$85",
-      "discount": "11% off",
-      "code": null,
-      "notes": "Subscribe to save 15%off Free shipping",
-      "link": "https://mavely.app.link/zVMBxIpqW7b",
-      "page": null,
-      "image": "img/wa/AC912097D74B8BBA5D7180262A061EB1.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T02:26:02Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC8FD50F99582CC13090A3B34A5BF4D5",
-      "store": "Under Armour",
-      "title": "Free standard shipping on orders $99+",
-      "price": "$32",
-      "was": "$60",
-      "discount": "47% off",
-      "code": "WARMUP",
-      "notes": "Under Armour Tricot Pop Logo Men's Hoodie Extra 40%off with code : WARMUP",
-      "link": "https://go.magik.ly/ml/4q8jk/",
-      "page": null,
-      "image": "img/wa/AC8FD50F99582CC13090A3B34A5BF4D5.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T02:15:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1161,6 +1161,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T01:00:49Z",
+      "text": "3 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, 🚨Login to unlock offer, Men's Puffer With Set In Bib Detail"
+    },
     {
       "at": "2026-11-11T00:40:40Z",
       "text": "1 new offer(s): PRETTYGARDEN Women's V Neck Sweater Long"
@@ -1236,10 +1240,6 @@
     {
       "at": "2026-11-10T16:31:50Z",
       "text": "1 new offer(s): Straight Talk Motorola Moto G Power 2026"
-    },
-    {
-      "at": "2026-11-10T16:21:45Z",
-      "text": "1 new offer(s): JOYROOM Portable Charger for Apple Watch"
     }
   ]
 }
