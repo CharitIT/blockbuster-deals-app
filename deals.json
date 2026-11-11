@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T20:42:39Z",
+  "lastScan": "2026-11-11T20:52:45Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACCA0082983405BD490A0ED026F0EF3A",
+      "store": "Walmart",
+      "title": "ESPN Boys Crewneck Graphic Tee with Short Sleeves, 3-Pack, Sizes XS-2XL",
+      "price": "$8",
+      "was": "$24",
+      "discount": "67% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/oJntZRdmZ7b",
+      "page": null,
+      "image": "img/wa/ACCA0082983405BD490A0ED026F0EF3A.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T20:46:28Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACE4BB46337F8197977AA27142BCA51A",
       "store": "Deal",
@@ -1109,24 +1128,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC06EEA7FB97285727F0764C2A126247",
-      "store": "Deal",
-      "title": "KCDDUMK 4 Pack Cami Bralettes for Women, Spaghetti Strap Sleep Bras",
-      "price": "$25",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/kcddumk-4-pack-cami-bralettes-for-women-spaghetti-strap-sleep-bras-2/",
-      "page": null,
-      "image": "img/wa/AC06EEA7FB97285727F0764C2A126247.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T21:28:54Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1173,6 +1174,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T20:52:45Z",
+      "text": "1 new offer(s): ESPN Boys Crewneck Graphic Tee with Shor"
+    },
     {
       "at": "2026-11-11T20:42:39Z",
       "text": "1 new offer(s): Bikini Trimmer for Women,Electric Razor "
@@ -1248,10 +1253,6 @@
     {
       "at": "2026-11-10T21:34:00Z",
       "text": "3 new offer(s): ✅ Enjoy free delivery benefits, shipping, Clearance Men's Pants, KCDDUMK 4 Pack Cami Bralettes for Women,"
-    },
-    {
-      "at": "2026-11-10T21:23:53Z",
-      "text": "1 new offer(s): Nabela Small Convertible Pouchette Cross"
     }
   ]
 }
