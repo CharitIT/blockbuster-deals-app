@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T02:01:25Z",
+  "lastScan": "2026-11-11T02:11:32Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACC82CE874C8CD24F45730A1AC2658C0",
+      "store": "Deal",
+      "title": "20PCS Stainless Steel Plates and Bowls Sets, Camping Mess Kits (A)",
+      "price": "$39",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/20pcs-stainless-steel-plates-and-bowls-sets-camping-mess-kits-a/",
+      "page": null,
+      "image": "img/wa/ACC82CE874C8CD24F45730A1AC2658C0.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T02:09:01Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACA42762BB218F3CF1CB7FD8B82867C8",
       "store": "Deal",
@@ -1092,25 +1110,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC7488ABE23E672FE7ED89B5AFC39044",
-      "store": "Amazon",
-      "title": "Amazon Basics Organic Cotton Sheet Set with 1-Piece Pillowcase, GOTS-Certified Bedding, Twin, White",
-      "price": "$5",
-      "was": "$25",
-      "discount": "80% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/amazon-basics-organic-cotton-sheet-set-with-1-piece-pillowcase-gots-certified-bedding-twin-white/",
-      "page": null,
-      "image": "img/wa/AC7488ABE23E672FE7ED89B5AFC39044.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T15:09:12Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Amazon"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1156,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T02:11:32Z",
+      "text": "1 new offer(s): 20PCS Stainless Steel Plates and Bowls S"
+    },
     {
       "at": "2026-11-11T02:01:25Z",
       "text": "2 new offer(s): KCDDUMK 4 Pack Cami Bralettes for Women,, Free standard shipping on orders $99+"
@@ -1232,10 +1235,6 @@
     {
       "at": "2026-11-10T17:32:27Z",
       "text": "2 new offer(s): Good Girl Hair Mist, 1-oz, GRACE KARIN Women's Floral Maxi Dress 20"
-    },
-    {
-      "at": "2026-11-10T17:12:16Z",
-      "text": "2 new offer(s): GoPro MAX2 - Waterproof 360 + Traditiona, VEATOOL Sound Bar for TV,60W Soundbar Su"
     }
   ]
 }
