@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T20:52:45Z",
+  "lastScan": "2026-11-11T21:02:50Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC90F5775F4681E849DDBE50E339F286",
+      "store": "Deal",
+      "title": "New Balance 471 Athletic Shoe - Angora / Desert Clay",
+      "price": "$44",
+      "was": "$109",
+      "discount": "60% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/MtkyjZglZ7b",
+      "page": null,
+      "image": "img/wa/AC90F5775F4681E849DDBE50E339F286.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T21:01:23Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC9B1B547352D87C7F4270E509213DF3",
+      "store": "Deal",
+      "title": "Bamboo Spoon Rest & Pot Lid Holder for Stove Top, 2-in-1 Spatula Rest and Kitchen Utensil Organizer, Countertop Spoon Holder for Cooking Spoons, Spatulas & Lids, Natural Bamboo Kitchen Storage Rack",
+      "price": "$3",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Clip coupon",
+      "link": "https://blockbusterdeals.net/product/bamboo-spoon-rest-pot-lid-holder-for-stove-top/",
+      "page": null,
+      "image": "img/wa/AC9B1B547352D87C7F4270E509213DF3.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T21:01:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACCA0082983405BD490A0ED026F0EF3A",
       "store": "Walmart",
@@ -1091,43 +1127,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC5E7225ADA43BD5C34836A70685F9C6",
-      "store": "Walmart",
-      "title": "✅ Enjoy free delivery benefits, shipping perks, exclusive member prices, gas savings & more!",
-      "price": "$120",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "✅ Save time and money on groceries, household essentials & everyday shopping. Join Now:",
-      "link": "https://mavely.app.link/6d7cAzNaX7b",
-      "page": null,
-      "image": "img/wa/AC5E7225ADA43BD5C34836A70685F9C6.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T21:30:58Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACD97E4C3E3739ED9B42B99F2951ECB7",
-      "store": "Deal",
-      "title": "Clearance Men's Pants",
-      "price": "$14",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "menswearhouse",
-      "link": "https://mavely.app.link/1EFQWT8IX7b",
-      "page": null,
-      "image": "img/wa/ACD97E4C3E3739ED9B42B99F2951ECB7.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T21:28:58Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1174,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T21:02:50Z",
+      "text": "2 new offer(s): New Balance 471 Athletic Shoe - Angora /, Bamboo Spoon Rest & Pot Lid Holder for S"
+    },
     {
       "at": "2026-11-11T20:52:45Z",
       "text": "1 new offer(s): ESPN Boys Crewneck Graphic Tee with Shor"
@@ -1249,10 +1252,6 @@
     {
       "at": "2026-11-11T00:30:36Z",
       "text": "4 new offer(s): Calvin Klein 4-piece giftset, Hoodie Sale at Walmart ✨, MontVoo-Bath Mat-Bathroom Mat Rug Non Sl"
-    },
-    {
-      "at": "2026-11-10T21:34:00Z",
-      "text": "3 new offer(s): ✅ Enjoy free delivery benefits, shipping, Clearance Men's Pants, KCDDUMK 4 Pack Cami Bralettes for Women,"
     }
   ]
 }
