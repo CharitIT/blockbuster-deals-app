@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T01:20:56Z",
+  "lastScan": "2026-11-11T01:31:02Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8345E3DA6E8C328E10668F7E1A2CA4",
+      "store": "Deal",
+      "title": "Ring Battery Doorbell (newest model) Matte Mocha, with Indoor Cam, White",
+      "price": "$49",
+      "was": "$149",
+      "discount": "67% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/ring-battery-doorbell-newest-model-matte-mocha-with-indoor-cam-white/",
+      "page": null,
+      "image": "img/wa/AC8345E3DA6E8C328E10668F7E1A2CA4.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T01:27:36Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACF3C6DB3D3B0E79939AED5D32FF2E99",
       "store": "Deal",
@@ -1095,25 +1113,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-AC0EA6F4802FF93C1A0C21E00FA6BD25",
-      "store": "Under Armour",
-      "title": "Free standard shipping on orders $99+",
-      "price": "$25",
-      "was": "$28",
-      "discount": "11% off",
-      "code": "EXTRA",
-      "notes": "Under Armour Tech™️ Twist 4.6(2373) Women's V-Neck Short Sleeve Extra 10%off with code : EXTRA",
-      "link": "https://go.magik.ly/ml/4q97s/",
-      "page": null,
-      "image": "img/wa/AC0EA6F4802FF93C1A0C21E00FA6BD25.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T02:48:45Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1160,6 +1159,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T01:31:02Z",
+      "text": "1 new offer(s): Ring Battery Doorbell (newest model) Mat"
+    },
     {
       "at": "2026-11-11T01:20:56Z",
       "text": "2 new offer(s): Kasa Smart Plug Ultra Mini 15A, EP10P2, , 🛍️ Amazon Haul – Items for Just 5¢! 🔥"
@@ -1235,10 +1238,6 @@
     {
       "at": "2026-11-10T16:52:00Z",
       "text": "2 new offer(s): Includes 2 Officially Licensed F1 Die-Ca, No Boundaries Open Front Duster Cardigan"
-    },
-    {
-      "at": "2026-11-10T16:41:55Z",
-      "text": "1 new offer(s): Carter's Child of Mine Baby and Toddler "
     }
   ]
 }
