@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T02:41:57Z",
+  "lastScan": "2026-11-11T02:52:08Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACC3E412FD750417E334A06DD86D2699",
+      "store": "Under Armour",
+      "title": "Free standard shipping on orders $99+",
+      "price": "$28",
+      "was": null,
+      "discount": null,
+      "code": "WARMUP",
+      "notes": "Under Armour Men's Outlet Shoes Sale✨ Check All Prices 👇 Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
+      "link": "https://go.magik.ly/ml/4rujs/",
+      "page": null,
+      "image": "img/wa/ACC3E412FD750417E334A06DD86D2699.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T02:49:13Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
     {
       "id": "wa-AC37D8C5747CDFB6EE159826C9C9F536",
       "store": "Under Armour",
@@ -1093,24 +1112,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACBB0119B2149B5815C3F604ECD26788",
-      "store": "Deal",
-      "title": "300ML Larger Tank, Portable Rechargeable Dental Oral Irrigator for Orthodontic & Sensitive Gums, Cordless for Travel, Family",
-      "price": "$7",
-      "was": "$42",
-      "discount": "83% off",
-      "code": "H5423RLV",
-      "notes": "ENDS IN FEW HOURS 🚨 COSLUS ADA Accepted C20 Water Dental Flosser Pick, Professional Set Black Use code: H5423RLV",
-      "link": "https://blockbusterdeals.net/product/coslus-ada-accepted-c20-water-dental-flosser-pick-professional-set-black-300ml-larger-tank-portable-rechargeable-dental-oral-irrigator-for-orthodontic-sensitive-gums-cordless-for-travel-family-3/",
-      "page": null,
-      "image": "img/wa/ACBB0119B2149B5815C3F604ECD26788.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T15:44:52Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T02:52:08Z",
+      "text": "1 new offer(s): Free standard shipping on orders $99+"
+    },
     {
       "at": "2026-11-11T02:41:57Z",
       "text": "2 new offer(s): Men's Outlet Workout Pants & Leggings - , Brightown 39FT 100LED Solar Rope Lights "
@@ -1232,10 +1237,6 @@
     {
       "at": "2026-11-10T20:03:22Z",
       "text": "2 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, Calvin Klein Slim Fit Solid Spread Colla"
-    },
-    {
-      "at": "2026-11-10T19:43:14Z",
-      "text": "2 new offer(s): HexClad 5.5 Qt Hybrid Nonstick Deep Saut, Gucci Guilty Pour Homme Eau De Toilette "
     }
   ]
 }
