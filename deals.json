@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T20:12:17Z",
+  "lastScan": "2026-11-11T20:22:27Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8843F97CF3CFBF594CEB96DB0B9CA1",
+      "store": "Deal",
+      "title": "Kinetic Sand Splash, Water Play Sandbox with 12oz Color-Change Play Sand, 4 Molds & Tray (Amazon Exclusive), Toddler Toys, Kids Toys for Girls & Boys",
+      "price": "$6",
+      "was": "$16",
+      "discount": "62% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/kinetic-sand-splash/",
+      "page": null,
+      "image": "img/wa/AC8843F97CF3CFBF594CEB96DB0B9CA1.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T20:21:55Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC900EFA389E12363217F2D1941DEE86",
       "store": "Michael Kors",
@@ -1109,25 +1127,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC041FCBBA17796341DB978B5C50C410",
-      "store": "Michael Kors",
-      "title": "Signature Logo Wallet and Reversible Belt Gift Set",
-      "price": "$55",
-      "was": "$198",
-      "discount": "72% off",
-      "code": null,
-      "notes": "Michael Kors EXTRA 20% OFF APPLIED IN CART FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
-      "link": "https://mavely.app.link/MV8zNRQHX7b",
-      "page": null,
-      "image": "img/wa/AC041FCBBA17796341DB978B5C50C410.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T21:03:35Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1174,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T20:22:27Z",
+      "text": "1 new offer(s): Kinetic Sand Splash, Water Play Sandbox "
+    },
     {
       "at": "2026-11-11T20:12:17Z",
       "text": "30 new offer(s): Kacey Extra-Small Signature Logo and Smo, Apple AirTag (4 Pack) (2nd generation), PicassoTiles Magnetic Building Blocks Br"
@@ -1249,10 +1252,6 @@
     {
       "at": "2026-11-10T20:53:39Z",
       "text": "2 new offer(s): Brightown 39FT 100LED Solar Rope Lights , NutriBullet®️ 1200 Watt Blender Combo wi"
-    },
-    {
-      "at": "2026-11-10T20:33:34Z",
-      "text": "3 new offer(s): Michael Kors Designer handbags  Clearanc, Michael Kors Designer handbags  Clearanc, Coach Open Road Eau De Toilette Natural "
     }
   ]
 }
