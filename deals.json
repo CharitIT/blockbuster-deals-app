@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T02:52:08Z",
+  "lastScan": "2026-11-11T03:02:18Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACE7FDB1D535AD98D880F067D3B9D4BC",
+      "store": "Deal",
+      "title": "Ring Floodlight Cam 2K (newest model), Wired, Home or business security, Wide-Angle Retinal 2K Video, 6x Enhanced Zoom, Ultra-Bright Floodlights, White",
+      "price": "$99",
+      "was": "$199",
+      "discount": "50% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/ring-floodlight-cam-2k-newest-model-wired-home-or-business-security-wide-angle-retinal-2k-video-6x-enhanced-zoom-ultra-bright-floodlights-white-2/",
+      "page": null,
+      "image": "img/wa/ACE7FDB1D535AD98D880F067D3B9D4BC.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T02:58:41Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC11B9778464EDB2995F8AA3912D2988",
+      "store": "Deal",
+      "title": "Add to Cart and get Extra 25%off + Extra 10%off applied at checkout",
+      "price": "$53",
+      "was": "$279",
+      "discount": "81% off",
+      "code": null,
+      "notes": "Kate spade Gwen Patent Crossbody Bag Free shipping",
+      "link": "https://mavely.app.link/zD7zldF7X7b",
+      "page": null,
+      "image": "img/wa/AC11B9778464EDB2995F8AA3912D2988.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T02:56:40Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACC3E412FD750417E334A06DD86D2699",
       "store": "Under Armour",
@@ -1076,42 +1112,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC408365A01C3C8FE8C8A428A80F438E",
-      "store": "Deal",
-      "title": "Drone with Camera for Beginners, 1080P HD FPV Foldable Drone Gift for Kids, Mini Drone with 2 Batteries, Carrying Case, One-Key Takeoff/Landing, Trajectory Flight, Gravity Control & 360° Flips",
-      "price": "$19",
-      "was": "$66",
-      "discount": "71% off",
-      "code": "3RPSMBRR",
-      "notes": "Use code: 3RPSMBRR",
-      "link": "https://blockbusterdeals.net/product/drone-with-camera-for-beginners-1080p-hd-fpv-foldable-drone-gift-for-kids-mini-drone-with-2-batteries-carrying-case-one-key-takeoff-landing-trajectory-flight-gravity-control-360-flips/",
-      "page": null,
-      "image": "img/wa/AC408365A01C3C8FE8C8A428A80F438E.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T15:54:55Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC58840DB8B92B79D8510793D717D9F3",
-      "store": "Deal",
-      "title": "250-watt base blends smoothies, shakes & frozen drinks. Includes (3) To-Go Cups (1) Travel Lid. Dishwasher safe.",
-      "price": "$28",
-      "was": "$39",
-      "discount": "28% off",
-      "code": null,
-      "notes": "magic bullet®️ Personal Blender, 22 oz Cup, 250 Watt, Black, MBR-1101AK",
-      "link": "https://blockbusterdeals.net/product/magic-bullet-personal-blender-22-oz-cup-250-watt-black-mbr-1101ak-250-watt-base-blends-smoothies-shakes-frozen-drinks-includes-3-to-go-cups-1-travel-lid-dishwasher-safe/",
-      "page": null,
-      "image": "img/wa/AC58840DB8B92B79D8510793D717D9F3.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T15:50:56Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1158,6 +1158,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T03:02:18Z",
+      "text": "2 new offer(s): Ring Floodlight Cam 2K (newest model), W, Add to Cart and get Extra 25%off + Extra"
+    },
     {
       "at": "2026-11-11T02:52:08Z",
       "text": "1 new offer(s): Free standard shipping on orders $99+"
@@ -1233,10 +1237,6 @@
     {
       "at": "2026-11-10T20:13:28Z",
       "text": "2 new offer(s): Jet Set Small Signature Logo Camera Cros, Garvee 6FT Artificial Christmas Tree Pre"
-    },
-    {
-      "at": "2026-11-10T20:03:22Z",
-      "text": "2 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, Calvin Klein Slim Fit Solid Spread Colla"
     }
   ]
 }
