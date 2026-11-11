@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T02:21:40Z",
+  "lastScan": "2026-11-11T02:31:49Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC4E4C906EB2EFC59AE23D02F9D80B80",
+      "store": "Under Armour",
+      "title": "Free standard shipping on orders $99+",
+      "price": "$7",
+      "was": "$20",
+      "discount": "65% off",
+      "code": "WARMUP",
+      "notes": "Under Armour Boys' Outlet Shorts Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
+      "link": "https://go.magik.ly/ml/4rtqi/",
+      "page": null,
+      "image": "img/wa/AC4E4C906EB2EFC59AE23D02F9D80B80.jpg",
+      "category": null,
+      "postedAt": "2026-11-11T02:28:09Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
     {
       "id": "wa-ACDAE04D5C700A1849241617B1850419",
       "store": "Under Armour",
@@ -1092,25 +1111,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC05B34CB6FF83E9ABAF626FDDFE4516",
-      "store": "Target",
-      "title": "Stanley 1913 tumblers & mugs sale at Target🔥",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Today Only! Get 50%off",
-      "link": "https://mavely.app.link/CA0TbiAiX7b",
-      "page": null,
-      "image": "img/wa/AC05B34CB6FF83E9ABAF626FDDFE4516.jpg",
-      "category": null,
-      "postedAt": "2026-11-10T15:21:35Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Target"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1157,6 +1157,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-11T02:31:49Z",
+      "text": "1 new offer(s): Free standard shipping on orders $99+"
+    },
     {
       "at": "2026-11-11T02:21:40Z",
       "text": "1 new offer(s): Free standard shipping on orders $99+"
@@ -1232,10 +1236,6 @@
     {
       "at": "2026-11-10T18:02:44Z",
       "text": "4 new offer(s): ✅ Enjoy free delivery benefits, shipping, GRACE KARIN Women Fall Wedding Guest Lon, Skin Tidings & Travel Gift Set"
-    },
-    {
-      "at": "2026-11-10T17:52:35Z",
-      "text": "2 new offer(s): CHI Spin N Curl 1″ Ceramic Rotating Curl, Dyson V9 Motorbar™️ Cordless Vacuum"
     }
   ]
 }
