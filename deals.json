@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T15:13:47Z",
+  "lastScan": "2026-11-12T15:23:53Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACED21AD8C0F008B1A498E23579BA2D8",
+      "store": "Walmart",
+      "title": "Ninja Crispi Glass Air Fryer 4-Qt, 3-in-1, Non-Toxic, Air Fry Recrisp, Portable, Dishwasher Safe, FN090RD Red",
+      "price": "$89",
+      "was": "$140",
+      "discount": "36% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgOdEN9Tt6a",
+      "page": null,
+      "image": "img/wa/ACED21AD8C0F008B1A498E23579BA2D8.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T15:21:39Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC38447DD3E9D86068E118E2BD8C48C6",
+      "store": "Walmart",
+      "title": "Shark Navigator Lift-Away Upright Vacuum, Pet Friendly, XL Dust Cup, CU512 Blue",
+      "price": "$84",
+      "was": "$199",
+      "discount": "58% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgOdzshOPN6",
+      "page": null,
+      "image": "img/wa/AC38447DD3E9D86068E118E2BD8C48C6.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T15:16:42Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACB0932640B59BD10A42A8DEB7A40938",
       "store": "Walmart",
@@ -1084,44 +1122,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-ACEB6545D5CCF9D24BBFC25109228C03",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$56",
-      "was": "$398",
-      "discount": "86% off",
-      "code": "SINGLESDAY",
-      "notes": "Today Only! Michael Kors Slater Medium Backpack Use code SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/kadIUfB3Y7b",
-      "page": null,
-      "image": "img/wa/ACEB6545D5CCF9D24BBFC25109228C03.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T16:43:23Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-AC145CE7D7726B3674D1D3BFB215B0DA",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$64",
-      "was": "$458",
-      "discount": "86% off",
-      "code": "SINGLESDAY",
-      "notes": "Today Only! Michael Kors Landon Small Signature Logo Satchel Use code SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/NIFdau30Y7b",
-      "page": null,
-      "image": "img/wa/AC145CE7D7726B3674D1D3BFB215B0DA.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T16:20:14Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1168,6 +1168,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T15:23:53Z",
+      "text": "2 new offer(s): Ninja Crispi Glass Air Fryer 4-Qt, 3-in-, Shark Navigator Lift-Away Upright Vacuum"
+    },
     {
       "at": "2026-11-12T15:13:47Z",
       "text": "3 new offer(s): Gourmia 6 Qt Manual Slow Cooker with 3 H, Beats by Dr. Dre Solo4 On-Ear Wireless B, Walmart Black Friday Early Access is LIV"
@@ -1243,10 +1247,6 @@
     {
       "at": "2026-11-11T20:52:45Z",
       "text": "1 new offer(s): ESPN Boys Crewneck Graphic Tee with Shor"
-    },
-    {
-      "at": "2026-11-11T20:42:39Z",
-      "text": "1 new offer(s): Bikini Trimmer for Women,Electric Razor "
     }
   ]
 }
