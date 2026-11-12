@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T16:14:26Z",
+  "lastScan": "2026-11-12T16:24:34Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC7F37E2112A39D0F9F00761FCE9D31E",
+      "store": "Walmart",
+      "title": "CLOUDREST PRO White Vanity Desk Set with Mirror, Makeup Vanity with LED Lights & 3 Color Modes, Adjustable Brightness, Built-in Power Strip, 5 Drawers, Dressing Table for Women Girls",
+      "price": "$119",
+      "was": "$219",
+      "discount": "46% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgOdIs9OEMM",
+      "page": null,
+      "image": "img/wa/AC7F37E2112A39D0F9F00761FCE9D31E.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T16:22:25Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC110BC5F35A62C4DE7E2C016DB839D4",
+      "store": "Walmart",
+      "title": "Ello Everyday 30 Piece Glass Mixed Food Storage Set with Plastic Press-Fit Lids, Oven & Dishwasher Safe, Icy Pine",
+      "price": "$25",
+      "was": "$52",
+      "discount": "52% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://go.sylikes.com/fbgOd1ON8hWo",
+      "page": null,
+      "image": "img/wa/AC110BC5F35A62C4DE7E2C016DB839D4.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T16:16:34Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC0B7659C862D4C88732B2A360F5D471",
       "store": "Walmart",
@@ -1083,43 +1121,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-ACE4475E9FB3B9AA04AA78B3006962ED",
-      "store": "Under Armour",
-      "title": "Choose store pickup at checkout to avoid shipping fee",
-      "price": "$11",
-      "was": "$28",
-      "discount": "61% off",
-      "code": null,
-      "notes": "Under Armour Tech™️Women's V-Neck Short Sleeve Use Codes :WARMUP and EXTRA Or free shipping at $99",
-      "link": "https://go.magik.ly/ml/4s5hb/",
-      "page": null,
-      "image": "img/wa/ACE4475E9FB3B9AA04AA78B3006962ED.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T17:59:22Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-ACAAE3CFEEDA39065D67D605E2444703",
-      "store": "Deal",
-      "title": "FDJ Remote Control Car - Transform Toys Car Robot, One Button Deformation to Robot with Flashing Light, 2.4Ghz 1:18 Scale Transforming Police Car Kids Toys with 360 Degree Rotating, Girls Boys Toys",
-      "price": "$18",
-      "was": "$28",
-      "discount": "36% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/fdj-remote-control-car-transform-toys-car-robot-one-button-deformation-to-robot-with-flashing-light-2-4ghz-118-scale-transforming-police-car-kids-toys-with-360-degree-rotating-girls-boys-toys-3/",
-      "page": null,
-      "image": "img/wa/ACAAE3CFEEDA39065D67D605E2444703.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T17:56:36Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1166,6 +1167,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T16:24:34Z",
+      "text": "2 new offer(s): CLOUDREST PRO White Vanity Desk Set with, Ello Everyday 30 Piece Glass Mixed Food "
+    },
     {
       "at": "2026-11-12T16:14:26Z",
       "text": "2 new offer(s): Marvel Spidey and His Amazing Friends 6-, Ninja Professional Plus Select Series, 1"
@@ -1241,10 +1246,6 @@
     {
       "at": "2026-11-12T00:35:21Z",
       "text": "2 new offer(s): Garmin fēnix®️ E, Multisport GPS Smartwa, Brightown 39FT 100LED Solar Rope Lights "
-    },
-    {
-      "at": "2026-11-12T00:14:58Z",
-      "text": "1 new offer(s): Extra 20%off Sale on Cloud Shoes 🔥at Foo"
     }
   ]
 }
