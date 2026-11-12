@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T16:34:43Z",
+  "lastScan": "2026-11-12T16:44:52Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC0D9E7371C6446BC87ED1A448F67386",
+      "store": "Walmart",
+      "title": "Big Chill Women's Chevron Quilted Faux Fur Lined Hooded Jacket, Heavyweight, Sizes S-3X",
+      "price": "$14",
+      "was": "$85",
+      "discount": "84% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://mavely.app.link/zFfl9jEI07b",
+      "page": null,
+      "image": "img/wa/AC0D9E7371C6446BC87ED1A448F67386.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T16:40:55Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC0CFEB428729F416B6F8524B03631EB",
+      "store": "Walmart",
+      "title": "Razor Rollie Kix - Blue, 3-Wheel Light-Up Scooter for Toddler 30 Months+",
+      "price": "$18",
+      "was": "$34",
+      "discount": "47% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://go.sylikes.com/fbgOeRrawQyK",
+      "page": null,
+      "image": "img/wa/AC0CFEB428729F416B6F8524B03631EB.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T16:35:51Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACC9B26202B4CD9D58EED666273B79EF",
       "store": "Walmart",
@@ -1083,44 +1121,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC4707D1F02135926FEA1D70FAE1197A",
-      "store": "Macy's",
-      "title": "Women's Funnel Neck Long-Sleeve Fleece Jacket",
-      "price": "$39",
-      "was": "$89",
-      "discount": "56% off",
-      "code": null,
-      "notes": "Tommy Hilfiger",
-      "link": "https://mavely.app.link/pChVsTnfZ7b",
-      "page": null,
-      "image": "img/wa/AC4707D1F02135926FEA1D70FAE1197A.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T20:09:05Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-AC7A29CAEBB6C9C15B165F5A385CBE98",
-      "store": "Macy's",
-      "title": "Men's Puffer With Set In Bib Detail",
-      "price": "$67",
-      "was": "$225",
-      "discount": "70% off",
-      "code": null,
-      "notes": "Calvin Klein Free shipping",
-      "link": "https://mavely.app.link/0uPjFrbfZ7b",
-      "page": null,
-      "image": "img/wa/AC7A29CAEBB6C9C15B165F5A385CBE98.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T20:09:03Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1167,6 +1167,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T16:44:52Z",
+      "text": "2 new offer(s): Big Chill Women's Chevron Quilted Faux F, Razor Rollie Kix - Blue, 3-Wheel Light-U"
+    },
     {
       "at": "2026-11-12T16:34:43Z",
       "text": "2 new offer(s): VIZIO 4.1 Pro Soundbar w/ Dolby Atmos, W, Marvel Spider-Man Tool Bench Playset wit"
@@ -1242,10 +1246,6 @@
     {
       "at": "2026-11-12T00:55:43Z",
       "text": "1 new offer(s): LED Drawing Board for Kids with Stand, 8"
-    },
-    {
-      "at": "2026-11-12T00:45:30Z",
-      "text": "1 new offer(s): babyeap Baby Swing for Infants - Smart E"
     }
   ]
 }
