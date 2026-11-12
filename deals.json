@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T17:05:08Z",
+  "lastScan": "2026-11-12T17:15:14Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACFDA4463F6CAB015700EB756435AA7C",
+      "store": "Wayfair",
+      "title": "Tramontina Utsava Tri-Ply Clad Stainless Steel Kadai with Lid, Kadhai Pot for Indian Cooking",
+      "price": "$29",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/dg2m4XFJ07b",
+      "page": null,
+      "image": "img/wa/ACFDA4463F6CAB015700EB756435AA7C.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T17:10:25Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
+    {
+      "id": "wa-ACF31DC36584320FF37AD2B8A27F1CB5",
+      "store": "Walmart",
+      "title": "BISSELL PowerForce Helix, Bagless, Upright Vacuum, Pet Friendly, Scatter-Free Technology, Helix Dirt Separation System, Lightweight, 3313, Blue & Black",
+      "price": "$59",
+      "was": "$109",
+      "discount": "46% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgOhlxu1SyO",
+      "page": null,
+      "image": "img/wa/ACF31DC36584320FF37AD2B8A27F1CB5.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T17:06:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC4AC8398A14600E8E5E74125FBBE310",
       "store": "Walmart",
@@ -1085,43 +1123,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC3BF8D426BB6EFF6583DA98E3B9F8F4",
-      "store": "Under Armour",
-      "title": "Choose store pickup at checkout to avoid shipping fee",
-      "price": "$31",
-      "was": "$75",
-      "discount": "59% off",
-      "code": null,
-      "notes": "Under Armour Charged Assert 10 Men's Running Shoes Use Codes :WARMUP and EXTRA Or free shipping at $99",
-      "link": "https://go.magik.ly/ml/4s6e4/",
-      "page": null,
-      "image": "img/wa/AC3BF8D426BB6EFF6583DA98E3B9F8F4.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T20:30:57Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-AC8843F97CF3CFBF594CEB96DB0B9CA1",
-      "store": "Deal",
-      "title": "Kinetic Sand Splash, Water Play Sandbox with 12oz Color-Change Play Sand, 4 Molds & Tray (Amazon Exclusive), Toddler Toys, Kids Toys for Girls & Boys",
-      "price": "$6",
-      "was": "$16",
-      "discount": "62% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/kinetic-sand-splash/",
-      "page": null,
-      "image": "img/wa/AC8843F97CF3CFBF594CEB96DB0B9CA1.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T20:21:55Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1168,6 +1169,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T17:15:14Z",
+      "text": "2 new offer(s): Tramontina Utsava Tri-Ply Clad Stainless, BISSELL PowerForce Helix, Bagless, Uprig"
+    },
     {
       "at": "2026-11-12T17:05:08Z",
       "text": "2 new offer(s): Chefman Turbofry 8 Qt Air Fryer w/ Digit, Cook With Color 12Pc Mixing Bowl, Taupe"
@@ -1243,10 +1248,6 @@
     {
       "at": "2026-11-12T01:26:19Z",
       "text": "1 new offer(s): NutriBullet®️ 1200 Watt Blender Combo wi"
-    },
-    {
-      "at": "2026-11-12T01:16:09Z",
-      "text": "1 new offer(s): GoPro MAX2 - Waterproof 360 + Traditiona"
     }
   ]
 }
