@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T21:06:44Z",
+  "lastScan": "2026-11-12T21:16:51Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACACF96193BB7E62ADF3768F03E5BC34",
+      "store": "Michael Kors",
+      "title": "Mercer Medium Logo and Leather Accordion Crossbody Bag",
+      "price": "$49",
+      "was": "$328",
+      "discount": "85% off",
+      "code": "SINGLESDAY",
+      "notes": "Michael Kors EXTRA 20% OFF APPLIED IN CART And 11% OFF CODE: SINGLESDAY",
+      "link": "https://mavely.app.link/q8jOI4F007b",
+      "page": null,
+      "image": "img/wa/ACACF96193BB7E62ADF3768F03E5BC34.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T21:11:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
     {
       "id": "wa-AC1CF50DB1233181D12929C121967C8A",
       "store": "Michael Kors",
@@ -1111,25 +1130,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACBF372AB8B450D2A88E4B516D65EC20",
-      "store": "Wayfair",
-      "title": "6️⃣ $90 Standing/Sitting Desk👇",
-      "price": "$79",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "RUN🚨 WILL SELL OUT!! Wayfair Flash Deals Sale🔥🔥 1️⃣ 88% Off Dyson Vac Dupe 👇 2️⃣ 90% Off Luxury Pillows 👇 3️⃣ 80% Off Luxury Mattress 👇 4️⃣ 90% Off Bed In A Bag",
-      "link": "https://mavely.app.link/Qp4gVNZHZ7b",
-      "page": null,
-      "image": "img/wa/ACBF372AB8B450D2A88E4B516D65EC20.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T02:27:29Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Wayfair"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1176,6 +1176,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T21:16:51Z",
+      "text": "1 new offer(s): Mercer Medium Logo and Leather Accordion"
+    },
     {
       "at": "2026-11-12T21:06:44Z",
       "text": "1 new offer(s): Extra 20% off applies automatically when"
@@ -1251,10 +1255,6 @@
     {
       "at": "2026-11-12T16:34:43Z",
       "text": "2 new offer(s): VIZIO 4.1 Pro Soundbar w/ Dolby Atmos, W, Marvel Spider-Man Tool Bench Playset wit"
-    },
-    {
-      "at": "2026-11-12T16:24:34Z",
-      "text": "2 new offer(s): CLOUDREST PRO White Vanity Desk Set with, Ello Everyday 30 Piece Glass Mixed Food "
     }
   ]
 }
