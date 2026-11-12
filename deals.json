@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T00:14:58Z",
+  "lastScan": "2026-11-12T00:35:21Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC3A1AA56BE171DB5060D822F2CEB6B8",
+      "store": "Deal",
+      "title": "Garmin fēnix®️ E, Multisport GPS Smartwatch, 47mm, Slate Steel w Black",
+      "price": "$399",
+      "was": "$799",
+      "discount": "50% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/garmin-fenix-e-multisport-gps-smartwatch-47mm-slate-steel-w-black/",
+      "page": null,
+      "image": "img/wa/AC3A1AA56BE171DB5060D822F2CEB6B8.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T00:32:49Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACEE691D8021DF969201735084FC6490",
+      "store": "Deal",
+      "title": "Brightown 39FT 100LED Solar Rope Lights Outdoor Waterproof, Warm White",
+      "price": "$11",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/brightown-39ft-100led-solar-rope-lights-outdoor-waterproof-warm-white-4/",
+      "page": null,
+      "image": "img/wa/ACEE691D8021DF969201735084FC6490.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T00:25:13Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACF76282F755605ABE55C17EEE7B4DB6",
       "store": "Deal",
@@ -1090,42 +1126,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACF3C6DB3D3B0E79939AED5D32FF2E99",
-      "store": "Deal",
-      "title": "Kasa Smart Plug Ultra Mini 15A, EP10P2, Smart Home Wi-Fi Outlet",
-      "price": "$11",
-      "was": "$16",
-      "discount": "31% off",
-      "code": null,
-      "notes": "Early Black Friday Deal!!",
-      "link": "https://blockbusterdeals.net/product/kasa-smart-plug-ultra-mini-15a-ep10p2-smart-home-wi-fi-outlet/",
-      "page": null,
-      "image": "img/wa/ACF3C6DB3D3B0E79939AED5D32FF2E99.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T01:15:52Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC49A0DF57475D6C75317FCC3A9A7E38",
-      "store": "Deal",
-      "title": "🛍️ Amazon Haul – Items for Just 5¢! 🔥",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Shop here 👇",
-      "link": "https://blockbusterdeals.net/product/amazon-haul-2/",
-      "page": null,
-      "image": "img/wa/AC49A0DF57475D6C75317FCC3A9A7E38.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T01:15:14Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1172,6 +1172,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T00:35:21Z",
+      "text": "2 new offer(s): Garmin fēnix®️ E, Multisport GPS Smartwa, Brightown 39FT 100LED Solar Rope Lights "
+    },
     {
       "at": "2026-11-12T00:14:58Z",
       "text": "1 new offer(s): Extra 20%off Sale on Cloud Shoes 🔥at Foo"
@@ -1247,10 +1251,6 @@
     {
       "at": "2026-11-11T01:31:02Z",
       "text": "1 new offer(s): Ring Battery Doorbell (newest model) Mat"
-    },
-    {
-      "at": "2026-11-11T01:20:56Z",
-      "text": "2 new offer(s): Kasa Smart Plug Ultra Mini 15A, EP10P2, , 🛍️ Amazon Haul – Items for Just 5¢! 🔥"
     }
   ]
 }
