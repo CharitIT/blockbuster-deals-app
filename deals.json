@@ -1,7 +1,7 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T21:36:55Z",
+  "lastScan": "2026-11-12T21:47:05Z",
   "nextScan": null,
   "offers": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "id": "wa-AC5147E2B4FA7F1D1AC53CA6FF0D5E77",
-      "store": "Deal",
+      "store": "Walmart",
       "title": "✅ Enjoy free delivery benefits, shipping perks, exclusive member prices, gas savings & more!",
       "price": "$120",
       "was": null,
@@ -38,11 +38,12 @@
       "postedAt": "2026-11-12T21:26:42Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Walmart"
     },
     {
       "id": "wa-AC13605FC230960DD2BF4787F48DB717",
-      "store": "Deal",
+      "store": "Michael Kors",
       "title": "Extra 20% off applies automatically when you add to cart",
       "price": "$70",
       "was": "$528",
@@ -56,11 +57,12 @@
       "postedAt": "2026-11-12T21:26:38Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
     },
     {
       "id": "wa-AC54DCF986D5EC02A3800DAF0029C468",
-      "store": "Deal",
+      "store": "Michael Kors",
       "title": "Cooper Logo Billfold Wallet With Passcase",
       "price": "$27",
       "was": "$158",
@@ -74,7 +76,8 @@
       "postedAt": "2026-11-12T21:26:33Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
     },
     {
       "id": "wa-ACACF96193BB7E62ADF3768F03E5BC34",
