@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T17:15:14Z",
+  "lastScan": "2026-11-12T17:25:24Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC13CC7CA9761E30707B05C1CA48E30A",
+      "store": "Walmart",
+      "title": "Better Homes & Gardens Modern Farmhouse 6-Drawer Dresser, 56.85 in Wide, Alabaster and Light Honey",
+      "price": "$147",
+      "was": "$279",
+      "discount": "47% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgOhG5ya8PN",
+      "page": null,
+      "image": "img/wa/AC13CC7CA9761E30707B05C1CA48E30A.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T17:19:44Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC498EC6BBDE4CD0D0A702D3FE39E699",
+      "store": "Under Armour",
+      "title": "Free standard shipping on orders $99+",
+      "price": "$18",
+      "was": "$45",
+      "discount": "60% off",
+      "code": "WARMUP",
+      "notes": "Under Armour Velocity 2.0 Men's ¼ Zip Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
+      "link": "https://go.magik.ly/ml/4smvg/",
+      "page": null,
+      "image": "img/wa/AC498EC6BBDE4CD0D0A702D3FE39E699.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T17:15:14Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Under Armour"
+    },
     {
       "id": "wa-ACFDA4463F6CAB015700EB756435AA7C",
       "store": "Wayfair",
@@ -1086,43 +1124,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACCA0082983405BD490A0ED026F0EF3A",
-      "store": "Walmart",
-      "title": "ESPN Boys Crewneck Graphic Tee with Short Sleeves, 3-Pack, Sizes XS-2XL",
-      "price": "$8",
-      "was": "$24",
-      "discount": "67% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/oJntZRdmZ7b",
-      "page": null,
-      "image": "img/wa/ACCA0082983405BD490A0ED026F0EF3A.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T20:46:28Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACE4BB46337F8197977AA27142BCA51A",
-      "store": "Deal",
-      "title": "Bikini Trimmer for Women,Electric Razor for Sensitive Skin, Electric Shaver with IPX7 Waterproof for Bikini Area, Pubic Hair, Face, Underarms & Legs Pink",
-      "price": "$9",
-      "was": "$29",
-      "discount": "69% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/bikini-trimmer-for-womenelectric-razor-for-sensitive-skin-electric-shaver-with-ipx7-waterproof-for-bikini-area-pubic-hair-face-underarms-legs-pink/",
-      "page": null,
-      "image": "img/wa/ACE4BB46337F8197977AA27142BCA51A.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T20:34:06Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1169,6 +1170,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T17:25:24Z",
+      "text": "2 new offer(s): Better Homes & Gardens Modern Farmhouse , Free standard shipping on orders $99+"
+    },
     {
       "at": "2026-11-12T17:15:14Z",
       "text": "2 new offer(s): Tramontina Utsava Tri-Ply Clad Stainless, BISSELL PowerForce Helix, Bagless, Uprig"
@@ -1244,10 +1249,6 @@
     {
       "at": "2026-11-12T01:46:37Z",
       "text": "2 new offer(s): 3-in-1 Bamboo Couch Tray with Silicone-L, Ring Rover Cam, indoor roving security c"
-    },
-    {
-      "at": "2026-11-12T01:26:19Z",
-      "text": "1 new offer(s): NutriBullet®️ 1200 Watt Blender Combo wi"
     }
   ]
 }
