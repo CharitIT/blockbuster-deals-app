@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T16:55:01Z",
+  "lastScan": "2026-11-12T17:05:08Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC4AC8398A14600E8E5E74125FBBE310",
+      "store": "Walmart",
+      "title": "Chefman Turbofry 8 Qt Air Fryer w/ Digital Controls & Windowed Basket - Stainless Steel",
+      "price": "$56",
+      "was": "$119",
+      "discount": "53% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://go.sylikes.com/fbgOhNXfJoE1",
+      "page": null,
+      "image": "img/wa/AC4AC8398A14600E8E5E74125FBBE310.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T16:59:29Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACE89B60BC23B3BC56B136A74D34238D",
+      "store": "Walmart",
+      "title": "Cook With Color 12Pc Mixing Bowl, Taupe",
+      "price": "$10",
+      "was": "$29",
+      "discount": "66% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://go.sylikes.com/fbgOg4iP0BdR",
+      "page": null,
+      "image": "img/wa/ACE89B60BC23B3BC56B136A74D34238D.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T16:55:45Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACB04F2A8C12584277F2828DAC608FC4",
       "store": "Walmart",
@@ -1084,44 +1122,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC900EFA389E12363217F2D1941DEE86",
-      "store": "Michael Kors",
-      "title": "Kacey Extra-Small Signature Logo and Smooth Crossbody Bag",
-      "price": "$56",
-      "was": "$328",
-      "discount": "83% off",
-      "code": "SINGLESDAY",
-      "notes": "Michael Kors Extra 20% off applies automatically when you add to cart Use code SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/DeFU5JPgZ7b",
-      "page": null,
-      "image": "img/wa/AC900EFA389E12363217F2D1941DEE86.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T20:11:10Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-ACDA2D718DBE990AD20928DB12573777",
-      "store": "Target",
-      "title": "Apple AirTag (4 Pack) (2nd generation)",
-      "price": "$69",
-      "was": "$99",
-      "discount": "30% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/EpiGg1diZ7b",
-      "page": null,
-      "image": "img/wa/ACDA2D718DBE990AD20928DB12573777.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T20:10:00Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Target"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1168,6 +1168,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T17:05:08Z",
+      "text": "2 new offer(s): Chefman Turbofry 8 Qt Air Fryer w/ Digit, Cook With Color 12Pc Mixing Bowl, Taupe"
+    },
     {
       "at": "2026-11-12T16:55:01Z",
       "text": "1 new offer(s): My Life As Peyton 18-inch Posable Fashio"
@@ -1243,10 +1247,6 @@
     {
       "at": "2026-11-12T01:16:09Z",
       "text": "1 new offer(s): GoPro MAX2 - Waterproof 360 + Traditiona"
-    },
-    {
-      "at": "2026-11-12T01:05:57Z",
-      "text": "2 new offer(s): Add to cart and extra 20%off applied at , Extra 20% off applies automatically when"
     }
   ]
 }
