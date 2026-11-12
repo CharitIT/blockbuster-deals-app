@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T19:46:09Z",
+  "lastScan": "2026-11-12T19:56:11Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACC357BBCBD7BAD8EB7AEF60002B0767",
+      "store": "Deal",
+      "title": "0.9, 1.5, 2.5, 3.8, 5.3 QT, Measurement Marks, Dishwasher & Oven Safe, Kitchen Bowls for Baking, Cooking, Serving & Meal Prep",
+      "price": "$16",
+      "was": "$36",
+      "discount": "56% off",
+      "code": null,
+      "notes": "Greentainer Stainless Steel Mixing Bowls Set, 5-Piece Metal Nesting Bowls",
+      "link": "https://blockbusterdeals.net/product/greentainer-stainless-steel-mixing-bowls-set/",
+      "page": null,
+      "image": "img/wa/ACC357BBCBD7BAD8EB7AEF60002B0767.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T19:51:07Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACA51950CCE0249BE851FBA224AB55D5",
       "store": "Walmart",
@@ -1109,24 +1127,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-ACA3AE2B546ADA63CB4DD3839B000D2E",
-      "store": "Deal",
-      "title": "LED Drawing Board for Kids with Stand, 8 Markers, 10 Tracing Papers",
-      "price": "$9",
-      "was": "$19",
-      "discount": "53% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/led-drawing-board-for-kids-with-stand-8-markers-10-tracing-papers/",
-      "page": null,
-      "image": "img/wa/ACA3AE2B546ADA63CB4DD3839B000D2E.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T00:47:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1173,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T19:56:11Z",
+      "text": "1 new offer(s): 0.9, 1.5, 2.5, 3.8, 5.3 QT, Measurement "
+    },
     {
       "at": "2026-11-12T19:46:09Z",
       "text": "2 new offer(s): Melissa & Doug Wooden Scoop & Serve Ice , MSI Cyborg 15.6\" 144Hz Gaming Laptop, In"
@@ -1248,10 +1252,6 @@
     {
       "at": "2026-11-12T15:23:53Z",
       "text": "2 new offer(s): Ninja Crispi Glass Air Fryer 4-Qt, 3-in-, Shark Navigator Lift-Away Upright Vacuum"
-    },
-    {
-      "at": "2026-11-12T15:13:47Z",
-      "text": "3 new offer(s): Gourmia 6 Qt Manual Slow Cooker with 3 H, Beats by Dr. Dre Solo4 On-Ear Wireless B, Walmart Black Friday Early Access is LIV"
     }
   ]
 }
