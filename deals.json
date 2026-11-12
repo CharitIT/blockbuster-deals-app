@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T17:35:31Z",
+  "lastScan": "2026-11-12T17:45:38Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC5E2225D0CD567869BC5F616A42A196",
+      "store": "Target",
+      "title": "BISSELL PowerClean DualBrush Cordless Self-Standing Stick Vacuum 4196T Pet Hair Pick-Up Black",
+      "price": "$259",
+      "was": "$359",
+      "discount": "28% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/x064nch8Q7b",
+      "page": null,
+      "image": "img/wa/AC5E2225D0CD567869BC5F616A42A196.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T17:42:31Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Target"
+    },
+    {
+      "id": "wa-AC2AD18D74931B7168C0AA1DB488F79D",
+      "store": "Deal",
+      "title": "Play-Doh Rainbow Swirl Ice Cream Playset with 7 Pretend Play Kitchen Accessories, Arts and Crafts Toys for 3 Year Old Girls and Boys and Up",
+      "price": "$11",
+      "was": "$24",
+      "discount": "54% off",
+      "code": null,
+      "notes": "Clip Coupon",
+      "link": "https://blockbusterdeals.net/product/play-doh-rainbow-swirl-ice-cream-playset-with-7-pretend-play-kitchen-accessories-arts-and-crafts-toys-for-3-year-old-girls-and-boys-and-up-2/",
+      "page": null,
+      "image": "img/wa/AC2AD18D74931B7168C0AA1DB488F79D.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T17:40:25Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACC6663FFE02FFDBBC4F5292742DAEC0",
       "store": "Walmart",
@@ -1088,43 +1125,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC1FDF964FCC62812C314F82A2BF9CD4",
-      "store": "Deal",
-      "title": "Farberware®️ Cookstart 15-pc. DiamondMax Nonstick Cookware Set",
-      "price": "$51",
-      "was": "$129",
-      "discount": "60% off",
-      "code": null,
-      "notes": "Use codes: LOVE2SAVE , HOME 10 Get extra $10 kohls cash Extra $5 kohls cash if you do store pickup Free shipping",
-      "link": "https://mavely.app.link/KiVnirljZ7b",
-      "page": null,
-      "image": "img/wa/AC1FDF964FCC62812C314F82A2BF9CD4.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T21:39:58Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC8248312E8706B1DBDEF332D7870110",
-      "store": "Walmart",
-      "title": "Hello Kitty Toddler Girls Short Sleeve Button Front Top and Sleep Pants, 2-Piece, Sizes 12M-5T",
-      "price": "$5",
-      "was": "$12",
-      "discount": "58% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/L8RIkMTmZ7b",
-      "page": null,
-      "image": "img/wa/AC8248312E8706B1DBDEF332D7870110.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T21:39:56Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1171,6 +1171,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T17:45:38Z",
+      "text": "2 new offer(s): BISSELL PowerClean DualBrush Cordless Se, Play-Doh Rainbow Swirl Ice Cream Playset"
+    },
     {
       "at": "2026-11-12T17:35:31Z",
       "text": "3 new offer(s): CAROTE 18-Piece Nonstick Pots and Pans, , CAROTE 18-Piece Nonstick Pots and Pans, , bella Ceramic Nonstick Cookware Set"
@@ -1246,10 +1250,6 @@
     {
       "at": "2026-11-12T02:37:30Z",
       "text": "3 new offer(s): Extra 20% off applies automatically when, Crayola Light Up Tracing Pad Pink, Holid, 6️⃣ $90 Standing/Sitting Desk👇"
-    },
-    {
-      "at": "2026-11-12T02:06:58Z",
-      "text": "2 new offer(s): Extra 20% off applies automatically when, 3 Pack [Apple MFi Certified] iPhone 14 1"
     }
   ]
 }
