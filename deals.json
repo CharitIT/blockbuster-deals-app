@@ -1,9 +1,65 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T17:25:24Z",
+  "lastScan": "2026-11-12T17:35:31Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACC6663FFE02FFDBBC4F5292742DAEC0",
+      "store": "Walmart",
+      "title": "CAROTE 18-Piece Nonstick Pots and Pans, Granite Cookware Set with Kitchen Utensils, Brown",
+      "price": "$59",
+      "was": "$139",
+      "discount": "58% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgOjjyZLmPB",
+      "page": null,
+      "image": "img/wa/ACC6663FFE02FFDBBC4F5292742DAEC0.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T17:33:32Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC054A333FAF90047AEBE9AE30BBC05D",
+      "store": "Walmart",
+      "title": "CAROTE 18-Piece Nonstick Pots and Pans, Granite Cookware Set with Kitchen Utensils, Brown",
+      "price": "$59",
+      "was": "$139",
+      "discount": "58% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgOjjyZLmPB",
+      "page": null,
+      "image": "img/wa/AC054A333FAF90047AEBE9AE30BBC05D.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T17:33:17Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC961A3D801B79740685505030E50927",
+      "store": "Woot",
+      "title": "bella Ceramic Nonstick Cookware Set",
+      "price": "$29",
+      "was": "$59",
+      "discount": "51% off",
+      "code": null,
+      "notes": "Sign in with your Amazon account at checkout for free shipping.",
+      "link": "https://mavely.app.link/sMFNuVRK07b",
+      "page": null,
+      "image": "img/wa/AC961A3D801B79740685505030E50927.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T17:27:16Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC13CC7CA9761E30707B05C1CA48E30A",
       "store": "Walmart",
@@ -1069,61 +1125,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACDECD5F6137FA683FDEFD8FC6EB423A",
-      "store": "Amazon",
-      "title": "DAILY REMINDER TO CHECK AMAZON HAUL🔥",
-      "price": "$5",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Home: Kids: Kids adidas: $5 or less clothing: All clothing: Toddler Pajamas: Gold jewelry: Women: Bras $15 or less: Women’s pajama’s ($1-$10): Wigs: Men: Househ",
-      "link": "https://link.amazon/B0cMWhUc2",
-      "page": null,
-      "image": "img/wa/ACDECD5F6137FA683FDEFD8FC6EB423A.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T21:39:54Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Amazon"
-    },
-    {
-      "id": "wa-AC90F5775F4681E849DDBE50E339F286",
-      "store": "Deal",
-      "title": "New Balance 471 Athletic Shoe - Angora / Desert Clay",
-      "price": "$44",
-      "was": "$109",
-      "discount": "60% off",
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/MtkyjZglZ7b",
-      "page": null,
-      "image": "img/wa/AC90F5775F4681E849DDBE50E339F286.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T21:01:23Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC9B1B547352D87C7F4270E509213DF3",
-      "store": "Deal",
-      "title": "Bamboo Spoon Rest & Pot Lid Holder for Stove Top, 2-in-1 Spatula Rest and Kitchen Utensil Organizer, Countertop Spoon Holder for Cooking Spoons, Spatulas & Lids, Natural Bamboo Kitchen Storage Rack",
-      "price": "$3",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Clip coupon",
-      "link": "https://blockbusterdeals.net/product/bamboo-spoon-rest-pot-lid-holder-for-stove-top/",
-      "page": null,
-      "image": "img/wa/AC9B1B547352D87C7F4270E509213DF3.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T21:01:20Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1170,6 +1171,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T17:35:31Z",
+      "text": "3 new offer(s): CAROTE 18-Piece Nonstick Pots and Pans, , CAROTE 18-Piece Nonstick Pots and Pans, , bella Ceramic Nonstick Cookware Set"
+    },
     {
       "at": "2026-11-12T17:25:24Z",
       "text": "2 new offer(s): Better Homes & Gardens Modern Farmhouse , Free standard shipping on orders $99+"
@@ -1245,10 +1250,6 @@
     {
       "at": "2026-11-12T02:06:58Z",
       "text": "2 new offer(s): Extra 20% off applies automatically when, 3 Pack [Apple MFi Certified] iPhone 14 1"
-    },
-    {
-      "at": "2026-11-12T01:46:37Z",
-      "text": "2 new offer(s): 3-in-1 Bamboo Couch Tray with Silicone-L, Ring Rover Cam, indoor roving security c"
     }
   ]
 }
