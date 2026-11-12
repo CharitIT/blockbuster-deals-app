@@ -1,9 +1,66 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T20:36:21Z",
+  "lastScan": "2026-11-12T20:56:36Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACF96C05E7940A87803E52908FB1FE81",
+      "store": "Michael Kors",
+      "title": "Michael Kors Designer handbags  Clearance🔥🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "BUY 2+ ITEMS, GET 20% OFF",
+      "link": "https://mavely.app.link/QnulWux107b",
+      "page": null,
+      "image": "img/wa/ACF96C05E7940A87803E52908FB1FE81.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T20:51:36Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
+    {
+      "id": "wa-ACECD440D83DCAA7DED3AF048959F44E",
+      "store": "Michael Kors",
+      "title": "Extra 20% off applies automatically when you add to cart",
+      "price": "$56",
+      "was": "$398",
+      "discount": "86% off",
+      "code": "SINGLESDAY",
+      "notes": "Code Still working!! Michael Kors Voyager Large Color-Block Signature Logo Tote Bag Use code SINGLESDAY for extra 11% off",
+      "link": "https://mavely.app.link/ZEOg4J6007b",
+      "page": null,
+      "image": "img/wa/ACECD440D83DCAA7DED3AF048959F44E.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T20:46:43Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
+    {
+      "id": "wa-ACE2B8D3074AAB7C1E882825AE56CE15",
+      "store": "Michael Kors",
+      "title": "Arden Small Color-Block Signature Logo Messenger Bag",
+      "price": "$49",
+      "was": "$358",
+      "discount": "86% off",
+      "code": "SINGLESDAY",
+      "notes": "Code Still working!! Michael Kors EXTRA 20% OFF APPLIED IN CART And 11% OFF CODE: SINGLESDAY",
+      "link": "https://mavely.app.link/DHZaAI1Z07b",
+      "page": null,
+      "image": "img/wa/ACE2B8D3074AAB7C1E882825AE56CE15.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T20:46:37Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
     {
       "id": "wa-AC27E9FE80B22D0D6E1EF189F04932F0",
       "store": "Deal",
@@ -1073,60 +1130,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-AC7B3BDB50349E67DCCBDC9211B96F3F",
-      "store": "Deal",
-      "title": "3 Pack [Apple MFi Certified] iPhone 14 13 12 Pro Max Charger Fast Charging",
-      "price": "$9",
-      "was": "$21",
-      "discount": "57% off",
-      "code": null,
-      "notes": "#adL",
-      "link": "https://blockbusterdeals.net/product/3-pack-apple-mfi-certified-iphone-14-13-12-pro-max-charger-fast-charging/",
-      "page": null,
-      "image": "img/wa/AC7B3BDB50349E67DCCBDC9211B96F3F.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T02:06:28Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC7ECE57CC7001F769A89458EB4F5FDA",
-      "store": "Deal",
-      "title": "3-in-1 Bamboo Couch Tray with Silicone-Lined Wine Glass Holder, Cup Compartment, and Non-Slip Phone Stand",
-      "price": "$9",
-      "was": "$19",
-      "discount": "53% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/3-in-1-bamboo-couch-tray-with-silicone-lined-wine-glass-holder-cup-compartment-and-non-slip-phone-stand/",
-      "page": null,
-      "image": "img/wa/AC7ECE57CC7001F769A89458EB4F5FDA.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T01:43:53Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACF325E9350B4F9658B703E0BF048F5F",
-      "store": "Deal",
-      "title": "Ring Rover Cam, indoor roving security camera, Custom Patrol Routes, and autonomous mapping",
-      "price": "$999",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/ring-rover-cam-indoor-roving-security-camera-custom-patrol-routes-and-autonomous-mapping/",
-      "page": null,
-      "image": "img/wa/ACF325E9350B4F9658B703E0BF048F5F.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T01:41:38Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1173,6 +1176,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T20:56:36Z",
+      "text": "3 new offer(s): Michael Kors Designer handbags  Clearanc, Extra 20% off applies automatically when, Arden Small Color-Block Signature Logo M"
+    },
     {
       "at": "2026-11-12T20:36:21Z",
       "text": "1 new offer(s): Add to Cart to get 25% Discount"
@@ -1248,10 +1255,6 @@
     {
       "at": "2026-11-12T16:14:26Z",
       "text": "2 new offer(s): Marvel Spidey and His Amazing Friends 6-, Ninja Professional Plus Select Series, 1"
-    },
-    {
-      "at": "2026-11-12T16:04:19Z",
-      "text": "1 new offer(s): Walmart Black Friday Deal!!"
     }
   ]
 }
