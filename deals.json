@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T03:07:53Z",
+  "lastScan": "2026-11-12T03:38:13Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACF6094EA4C0A380C8A8A754E45704B1",
+      "store": "Michael Kors",
+      "title": "Michael Kors Bags sale🔥🔥",
+      "price": "As low as $25",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Today only!! Ends In Few Hours 🚨 20% OFF + Extra 11% OFF Shoulder Bags👇 Crossbodies 👇 Mini Bags👇 Tote Bags👇 Backpacks👇 Wallets👇",
+      "link": "https://mavely.app.link/ppPHTyYNZ7b",
+      "page": null,
+      "image": "img/wa/ACF6094EA4C0A380C8A8A754E45704B1.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T03:32:56Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
+    {
+      "id": "wa-ACC7DD95C67FB41A613F55E3C7670992",
+      "store": "Walmart",
+      "title": "Some hot deals  are only accessible to Walmart plus members until tomorrow",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Walmart Black Friday Event 1 starts in less than 2 hours🚨🚨 If you want a Walmart plus subscription signup here👇",
+      "link": "https://go.sylikes.com/fbgKbTyrYo04",
+      "page": null,
+      "image": "img/wa/ACC7DD95C67FB41A613F55E3C7670992.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T03:29:55Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC0F0010A4F9705B8A73870CCBDA8B99",
       "store": "Michael Kors",
@@ -1084,44 +1122,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-AC9471A65D8F8853B65FF68CFDF229A6",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$56",
-      "was": "$398",
-      "discount": "86% off",
-      "code": "SINGLESDAY",
-      "notes": "Today Only! Michael Kors Voyager Large Color-Block Signature Logo Tote Bag Use code SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/TmCVO940Y7b",
-      "page": null,
-      "image": "img/wa/AC9471A65D8F8853B65FF68CFDF229A6.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T15:51:19Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-AC414B457FE1BBF1558557582F161400",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$64",
-      "was": "$398",
-      "discount": "84% off",
-      "code": "SINGLESDAY",
-      "notes": "Today Only! Michael Kors Jet Set Large Signature Logo Shoulder Bag Use code SINGLESDAY for extra 11% off Click the link and change the colour to Oregano",
-      "link": "https://mavely.app.link/1v2N9UCYY7b",
-      "page": null,
-      "image": "img/wa/AC414B457FE1BBF1558557582F161400.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T15:36:39Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1168,6 +1168,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T03:38:13Z",
+      "text": "2 new offer(s): Michael Kors Bags sale🔥🔥, Some hot deals  are only accessible to W"
+    },
     {
       "at": "2026-11-12T03:07:53Z",
       "text": "3 new offer(s): Extra 20% off applies automatically when, VTech Little CEO Learning Desk Toddler A, Extra 20% off applies automatically when"
@@ -1243,10 +1247,6 @@
     {
       "at": "2026-11-11T20:32:34Z",
       "text": "1 new offer(s): Choose store pickup at checkout to avoid"
-    },
-    {
-      "at": "2026-11-11T20:22:27Z",
-      "text": "1 new offer(s): Kinetic Sand Splash, Water Play Sandbox "
     }
   ]
 }
