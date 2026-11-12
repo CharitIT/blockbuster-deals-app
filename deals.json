@@ -1,9 +1,65 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T02:06:58Z",
+  "lastScan": "2026-11-12T02:37:30Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACCB686413A1C4E638A60E1E10DBB47D",
+      "store": "Michael Kors",
+      "title": "Extra 20% off applies automatically when you add to cart",
+      "price": "$49",
+      "was": "$155",
+      "discount": "68% off",
+      "code": "SINGLESDAY",
+      "notes": "Michael Kors Fulton Studded Logo Moccasin Use code : SINGLESDAY for extra 11% off",
+      "link": "https://mavely.app.link/yG29truKZ7b",
+      "page": null,
+      "image": "img/wa/ACCB686413A1C4E638A60E1E10DBB47D.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T02:34:22Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
+    {
+      "id": "wa-AC63743761800374991F29ADC2E9D1E4",
+      "store": "Deal",
+      "title": "Crayola Light Up Tracing Pad Pink, Holiday Gifts for Girls & Boys, Ages 6+",
+      "price": "$11",
+      "was": "$24",
+      "discount": "54% off",
+      "code": null,
+      "notes": "Early Black Friday Deal!!",
+      "link": "https://blockbusterdeals.net/product/crayola-light-up-tracing-pad-pink-holiday-gifts-for-girls-boys-ages-6/",
+      "page": null,
+      "image": "img/wa/AC63743761800374991F29ADC2E9D1E4.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T02:27:33Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACBF372AB8B450D2A88E4B516D65EC20",
+      "store": "Wayfair",
+      "title": "6️⃣ $90 Standing/Sitting Desk👇",
+      "price": "$79",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "RUN🚨 WILL SELL OUT!! Wayfair Flash Deals Sale🔥🔥 1️⃣ 88% Off Dyson Vac Dupe 👇 2️⃣ 90% Off Luxury Pillows 👇 3️⃣ 80% Off Luxury Mattress 👇 4️⃣ 90% Off Bed In A Bag",
+      "link": "https://mavely.app.link/Qp4gVNZHZ7b",
+      "page": null,
+      "image": "img/wa/ACBF372AB8B450D2A88E4B516D65EC20.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T02:27:29Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
     {
       "id": "wa-AC410DF9A04B520A53E85D9018D4C43C",
       "store": "Michael Kors",
@@ -1071,61 +1127,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-ACE7FDB1D535AD98D880F067D3B9D4BC",
-      "store": "Deal",
-      "title": "Ring Floodlight Cam 2K (newest model), Wired, Home or business security, Wide-Angle Retinal 2K Video, 6x Enhanced Zoom, Ultra-Bright Floodlights, White",
-      "price": "$99",
-      "was": "$199",
-      "discount": "50% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/ring-floodlight-cam-2k-newest-model-wired-home-or-business-security-wide-angle-retinal-2k-video-6x-enhanced-zoom-ultra-bright-floodlights-white-2/",
-      "page": null,
-      "image": "img/wa/ACE7FDB1D535AD98D880F067D3B9D4BC.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T02:58:41Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC11B9778464EDB2995F8AA3912D2988",
-      "store": "Deal",
-      "title": "Add to Cart and get Extra 25%off + Extra 10%off applied at checkout",
-      "price": "$53",
-      "was": "$279",
-      "discount": "81% off",
-      "code": null,
-      "notes": "Kate spade Gwen Patent Crossbody Bag Free shipping",
-      "link": "https://mavely.app.link/zD7zldF7X7b",
-      "page": null,
-      "image": "img/wa/AC11B9778464EDB2995F8AA3912D2988.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T02:56:40Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACC3E412FD750417E334A06DD86D2699",
-      "store": "Under Armour",
-      "title": "Free standard shipping on orders $99+",
-      "price": "$28",
-      "was": null,
-      "discount": null,
-      "code": "WARMUP",
-      "notes": "Under Armour Men's Outlet Shoes Sale✨ Check All Prices 👇 Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
-      "link": "https://go.magik.ly/ml/4rujs/",
-      "page": null,
-      "image": "img/wa/ACC3E412FD750417E334A06DD86D2699.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T02:49:13Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1172,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T02:37:30Z",
+      "text": "3 new offer(s): Extra 20% off applies automatically when, Crayola Light Up Tracing Pad Pink, Holid, 6️⃣ $90 Standing/Sitting Desk👇"
+    },
     {
       "at": "2026-11-12T02:06:58Z",
       "text": "2 new offer(s): Extra 20% off applies automatically when, 3 Pack [Apple MFi Certified] iPhone 14 1"
@@ -1247,10 +1252,6 @@
     {
       "at": "2026-11-11T03:02:18Z",
       "text": "2 new offer(s): Ring Floodlight Cam 2K (newest model), W, Add to Cart and get Extra 25%off + Extra"
-    },
-    {
-      "at": "2026-11-11T02:52:08Z",
-      "text": "1 new offer(s): Free standard shipping on orders $99+"
     }
   ]
 }
