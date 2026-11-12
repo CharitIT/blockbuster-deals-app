@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-11T22:03:03Z",
+  "lastScan": "2026-11-12T00:04:46Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACA23827BF09F214398418B8D00BE989",
+      "store": "Macy's",
+      "title": "12 oz. Coffee Mug with Warmer Coaster and Lid",
+      "price": "$19",
+      "was": "$57",
+      "discount": "67% off",
+      "code": null,
+      "notes": "Black Friday Deal!! Tzumi",
+      "link": "https://mavely.app.link/kGQ0LgrxZ7b",
+      "page": null,
+      "image": "img/wa/ACA23827BF09F214398418B8D00BE989.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T00:04:08Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-ACBFA89298939219ADD85F60BA3F1D3B",
       "store": "Deal",
@@ -1107,25 +1126,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC29A191627818AC87A69D83C3EAC8D0",
-      "store": "Crocs",
-      "title": "🚨Login to unlock offer",
-      "price": "$50",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "RUN!! Crocs on sale✨🛍",
-      "link": "https://mavely.app.link/sgtdK7FXX7b",
-      "page": null,
-      "image": "img/wa/AC29A191627818AC87A69D83C3EAC8D0.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T00:58:48Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Crocs"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1172,6 +1172,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T00:04:46Z",
+      "text": "1 new offer(s): 12 oz. Coffee Mug with Warmer Coaster an"
+    },
     {
       "at": "2026-11-11T22:03:03Z",
       "text": "6 new offer(s): ✅ Includes 4 lightweight  skincare essen, ✅ Enjoy free delivery benefits, shipping, Cuisinart®️ Chef's Classic 11-Piece Stai"
@@ -1247,10 +1251,6 @@
     {
       "at": "2026-11-11T01:00:49Z",
       "text": "3 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, 🚨Login to unlock offer, Men's Puffer With Set In Bib Detail"
-    },
-    {
-      "at": "2026-11-11T00:40:40Z",
-      "text": "1 new offer(s): PRETTYGARDEN Women's V Neck Sweater Long"
     }
   ]
 }
