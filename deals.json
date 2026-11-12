@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T20:06:14Z",
+  "lastScan": "2026-11-12T20:26:17Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACC74B29921AEDE8EFA91062A48DEF6D",
+      "store": "Macy's",
+      "title": "Men's Stretch Hooded Sherpa Lined Puffer Jacket",
+      "price": "$39",
+      "was": "$125",
+      "discount": "69% off",
+      "code": null,
+      "notes": "Hawke & Co.",
+      "link": "https://mavely.app.link/qSCQNcQT07b",
+      "page": null,
+      "image": "img/wa/ACC74B29921AEDE8EFA91062A48DEF6D.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T20:24:03Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-AC45B7167D91A7FC6C5CBF03F3978AA9",
       "store": "Macy's",
@@ -1109,24 +1128,6 @@
       "merchant": "Kohl's"
     },
     {
-      "id": "wa-ACEC03C823A9073F917272BD78E310E0",
-      "store": "Deal",
-      "title": "GoPro MAX2 - Waterproof 360 + Traditional Action Camera with Touch Screen, Spherical 8K Video, 29MP 360 Photos, Easy Replaceable Lenses, HyperSmooth Stabilization, 6 Microphones",
-      "price": "$294",
-      "was": "$499",
-      "discount": "41% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/gopro-max2-waterproof-360-traditional-action-camera-with-touch-screen-spherical-8k-video-29mp-360-photos-easy-replaceable-lenses-hypersmooth-stabilization-6-microphones-3/",
-      "page": null,
-      "image": "img/wa/ACEC03C823A9073F917272BD78E310E0.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T01:12:45Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1173,6 +1174,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T20:26:17Z",
+      "text": "1 new offer(s): Men's Stretch Hooded Sherpa Lined Puffer"
+    },
     {
       "at": "2026-11-12T20:06:14Z",
       "text": "2 new offer(s): Men's Hooded Puffer Bomber Jacket, BISSELL PowerClean 200W Cordless Stick V"
@@ -1248,10 +1253,6 @@
     {
       "at": "2026-11-12T15:54:13Z",
       "text": "2 new offer(s): GORGLITTER Women's Polka Dots Cinched Wa, Champion Women's Performance Script Draw"
-    },
-    {
-      "at": "2026-11-12T15:44:04Z",
-      "text": "3 new offer(s): VIZIO 58\" Class Class Quantum 4K QLED HD, Nespresso Vertuo Pop Coffee and Espresso, All board games On Sale🔥at Walmart"
     }
   ]
 }
