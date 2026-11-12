@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T20:56:36Z",
+  "lastScan": "2026-11-12T21:06:44Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC1CF50DB1233181D12929C121967C8A",
+      "store": "Michael Kors",
+      "title": "Extra 20% off applies automatically when you add to cart",
+      "price": "$127",
+      "was": "$498",
+      "discount": "74% off",
+      "code": "SINGLESDAY",
+      "notes": "Michael Kors Jet Set Travel Large 3-in-1 Signature Logo Tote Bag Use code SINGLESDAY for extra 11% off",
+      "link": "https://mavely.app.link/RG0rSI5107b",
+      "page": null,
+      "image": "img/wa/AC1CF50DB1233181D12929C121967C8A.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T20:59:38Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
     {
       "id": "wa-ACF96C05E7940A87803E52908FB1FE81",
       "store": "Michael Kors",
@@ -1111,25 +1130,6 @@
       "merchant": "Wayfair"
     },
     {
-      "id": "wa-AC410DF9A04B520A53E85D9018D4C43C",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$42",
-      "was": "$175",
-      "discount": "76% off",
-      "code": "SINGLESDAY",
-      "notes": "Michael Kors Teddi Signature Logo Slip-On Sneaker Use code : SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/CMIchTWIZ7b",
-      "page": null,
-      "image": "img/wa/AC410DF9A04B520A53E85D9018D4C43C.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T02:06:31Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1176,6 +1176,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T21:06:44Z",
+      "text": "1 new offer(s): Extra 20% off applies automatically when"
+    },
     {
       "at": "2026-11-12T20:56:36Z",
       "text": "3 new offer(s): Michael Kors Designer handbags  Clearanc, Extra 20% off applies automatically when, Arden Small Color-Block Signature Logo M"
@@ -1251,10 +1255,6 @@
     {
       "at": "2026-11-12T16:24:34Z",
       "text": "2 new offer(s): CLOUDREST PRO White Vanity Desk Set with, Ello Everyday 30 Piece Glass Mixed Food "
-    },
-    {
-      "at": "2026-11-12T16:14:26Z",
-      "text": "2 new offer(s): Marvel Spidey and His Amazing Friends 6-, Ninja Professional Plus Select Series, 1"
     }
   ]
 }
