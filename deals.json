@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T01:05:57Z",
+  "lastScan": "2026-11-12T01:16:09Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACEC03C823A9073F917272BD78E310E0",
+      "store": "Deal",
+      "title": "GoPro MAX2 - Waterproof 360 + Traditional Action Camera with Touch Screen, Spherical 8K Video, 29MP 360 Photos, Easy Replaceable Lenses, HyperSmooth Stabilization, 6 Microphones",
+      "price": "$294",
+      "was": "$499",
+      "discount": "41% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/gopro-max2-waterproof-360-traditional-action-camera-with-touch-screen-spherical-8k-video-29mp-360-photos-easy-replaceable-lenses-hypersmooth-stabilization-6-microphones-3/",
+      "page": null,
+      "image": "img/wa/ACEC03C823A9073F917272BD78E310E0.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T01:12:45Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACC4A046013D3A7027534974DB438268",
       "store": "Calvin Klein",
@@ -1109,24 +1127,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACA42762BB218F3CF1CB7FD8B82867C8",
-      "store": "Deal",
-      "title": "KCDDUMK 4 Pack Cami Bralettes for Women, Spaghetti Strap Sleep Bras",
-      "price": "$25",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/kcddumk-4-pack-cami-bralettes-for-women-spaghetti-strap-sleep-bras-3/",
-      "page": null,
-      "image": "img/wa/ACA42762BB218F3CF1CB7FD8B82867C8.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T01:58:40Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1173,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T01:16:09Z",
+      "text": "1 new offer(s): GoPro MAX2 - Waterproof 360 + Traditiona"
+    },
     {
       "at": "2026-11-12T01:05:57Z",
       "text": "2 new offer(s): Add to cart and extra 20%off applied at , Extra 20% off applies automatically when"
@@ -1248,10 +1252,6 @@
     {
       "at": "2026-11-11T02:21:40Z",
       "text": "1 new offer(s): Free standard shipping on orders $99+"
-    },
-    {
-      "at": "2026-11-11T02:11:32Z",
-      "text": "1 new offer(s): 20PCS Stainless Steel Plates and Bowls S"
     }
   ]
 }
