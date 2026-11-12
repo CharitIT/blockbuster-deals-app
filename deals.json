@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T15:44:04Z",
+  "lastScan": "2026-11-12T15:54:13Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC400EB3BA081264755E8CB4082706B0",
+      "store": "Deal",
+      "title": "GORGLITTER Women's Polka Dots Cinched Waist Maxi Dress Elegant Wedding Guest Cocktail Party Wrap V Neck Flowy Dresses",
+      "price": "$9",
+      "was": "$30",
+      "discount": "70% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/gorglitter-womens-polka-dots-cinched-waist-maxi-dress-elegant-wedding-guest-cocktail-party-wrap-v-neck-flowy-dresses/",
+      "page": null,
+      "image": "img/wa/AC400EB3BA081264755E8CB4082706B0.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T15:51:50Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC91A9D60018AB50D90D3D75823BE73F",
+      "store": "Deal",
+      "title": "Champion Women's Performance Script Drawcord 7/8\" Leggings, Fitted",
+      "price": "$7",
+      "was": "$23",
+      "discount": "70% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/champion-womens-performance-script-drawcord-7-8-leggings-fitted/",
+      "page": null,
+      "image": "img/wa/AC91A9D60018AB50D90D3D75823BE73F.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T15:46:46Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC682F818C8E6A1B56747460BC7B2D66",
       "store": "Walmart",
@@ -1084,44 +1120,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-AC029D970C0E4C59B7774AC4BC2C1DEA",
-      "store": "Under Armour",
-      "title": "Choose store pickup at checkout to avoid shipping fee",
-      "price": "$31",
-      "was": "$75",
-      "discount": "59% off",
-      "code": null,
-      "notes": "Under Armour Charged Assert 10 Men's Running Shoes - Ventilated Use Codes :WARMUP and EXTRA Or free shipping at $99",
-      "link": "https://go.magik.ly/ml/4s574/",
-      "page": null,
-      "image": "img/wa/AC029D970C0E4C59B7774AC4BC2C1DEA.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T17:25:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-ACE55D332F6BF84FA0C7D6949BCB63F1",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$70",
-      "was": "$250",
-      "discount": "72% off",
-      "code": "SINGLESDAY",
-      "notes": "Today Only! Michael Kors Chevron Quilted Jacket Use code SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/RVTcCDL5Y7b",
-      "page": null,
-      "image": "img/wa/ACE55D332F6BF84FA0C7D6949BCB63F1.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T17:19:36Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1168,6 +1166,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T15:54:13Z",
+      "text": "2 new offer(s): GORGLITTER Women's Polka Dots Cinched Wa, Champion Women's Performance Script Draw"
+    },
     {
       "at": "2026-11-12T15:44:04Z",
       "text": "3 new offer(s): VIZIO 58\" Class Class Quantum 4K QLED HD, Nespresso Vertuo Pop Coffee and Espresso, All board games On Sale🔥at Walmart"
@@ -1243,10 +1245,6 @@
     {
       "at": "2026-11-11T22:03:03Z",
       "text": "6 new offer(s): ✅ Includes 4 lightweight  skincare essen, ✅ Enjoy free delivery benefits, shipping, Cuisinart®️ Chef's Classic 11-Piece Stai"
-    },
-    {
-      "at": "2026-11-11T21:02:50Z",
-      "text": "2 new offer(s): New Balance 471 Athletic Shoe - Angora /, Bamboo Spoon Rest & Pot Lid Holder for S"
     }
   ]
 }
