@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T17:45:38Z",
+  "lastScan": "2026-11-12T17:55:44Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACAB64F47DA3C0D170BDA526AD408B62",
+      "store": "Deal",
+      "title": "Anne Klein Women's Premium Crystal Accented Watch and Bracelet Set, AK/3584",
+      "price": "$51",
+      "was": "$195",
+      "discount": "74% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/anne-klein-womens-premium-crystal-accented-watch-and-bracelet-set-ak-3584/",
+      "page": null,
+      "image": "img/wa/ACAB64F47DA3C0D170BDA526AD408B62.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T17:51:51Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC4EDA6C0A98E30DC98DA787603C51B4",
+      "store": "Costco",
+      "title": "Shark SpeedStyle Pro Hair Dryer System Plus Storage Bag",
+      "price": "$159",
+      "was": "$199",
+      "discount": "20% off",
+      "code": null,
+      "notes": null,
+      "link": "https://www.mnpa6gtrk.com/3LNH5GPF/3DGXXQKD/?uid=42889",
+      "page": null,
+      "image": "img/wa/AC4EDA6C0A98E30DC98DA787603C51B4.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T17:47:05Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Costco"
+    },
     {
       "id": "wa-AC5E2225D0CD567869BC5F616A42A196",
       "store": "Target",
@@ -1088,43 +1125,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC416AC5BD29CD794A50B251F7B385BF",
-      "store": "Walmart",
-      "title": "✅ Enjoy free delivery benefits, shipping perks, exclusive member prices, gas savings & more!",
-      "price": "$120",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "✅ Save time and money on groceries, household essentials & everyday shopping. Join Now:",
-      "link": "https://mavely.app.link/6d7cAzNaX7b",
-      "page": null,
-      "image": "img/wa/AC416AC5BD29CD794A50B251F7B385BF.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T21:41:18Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACC8776DF17D528A7B137BF1406A41CF",
-      "store": "Deal",
-      "title": "Cuisinart®️ Chef's Classic 11-Piece Stainless Steel Cookware Set",
-      "price": "$135",
-      "was": "$199",
-      "discount": "32% off",
-      "code": null,
-      "notes": "Use codes: LOVE2SAVE , HOME 10 Get extra $20 kohls cash Extra $5 kohls cash if you do store pickup Free shipping",
-      "link": "https://mavely.app.link/ZtHIEqekZ7b",
-      "page": null,
-      "image": "img/wa/ACC8776DF17D528A7B137BF1406A41CF.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T21:41:12Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1171,6 +1171,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T17:55:44Z",
+      "text": "2 new offer(s): Anne Klein Women's Premium Crystal Accen, Shark SpeedStyle Pro Hair Dryer System P"
+    },
     {
       "at": "2026-11-12T17:45:38Z",
       "text": "2 new offer(s): BISSELL PowerClean DualBrush Cordless Se, Play-Doh Rainbow Swirl Ice Cream Playset"
@@ -1246,10 +1250,6 @@
     {
       "at": "2026-11-12T02:47:36Z",
       "text": "2 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, Versace Eros for Men 3.4 oz Eau de Toile"
-    },
-    {
-      "at": "2026-11-12T02:37:30Z",
-      "text": "3 new offer(s): Extra 20% off applies automatically when, Crayola Light Up Tracing Pad Pink, Holid, 6️⃣ $90 Standing/Sitting Desk👇"
     }
   ]
 }
