@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T01:46:37Z",
+  "lastScan": "2026-11-12T02:06:58Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC410DF9A04B520A53E85D9018D4C43C",
+      "store": "Michael Kors",
+      "title": "Extra 20% off applies automatically when you add to cart",
+      "price": "$42",
+      "was": "$175",
+      "discount": "76% off",
+      "code": "SINGLESDAY",
+      "notes": "Michael Kors Teddi Signature Logo Slip-On Sneaker Use code : SINGLESDAY for extra 11% off",
+      "link": "https://mavely.app.link/CMIchTWIZ7b",
+      "page": null,
+      "image": "img/wa/AC410DF9A04B520A53E85D9018D4C43C.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T02:06:31Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
+    {
+      "id": "wa-AC7B3BDB50349E67DCCBDC9211B96F3F",
+      "store": "Deal",
+      "title": "3 Pack [Apple MFi Certified] iPhone 14 13 12 Pro Max Charger Fast Charging",
+      "price": "$9",
+      "was": "$21",
+      "discount": "57% off",
+      "code": null,
+      "notes": "#adL",
+      "link": "https://blockbusterdeals.net/product/3-pack-apple-mfi-certified-iphone-14-13-12-pro-max-charger-fast-charging/",
+      "page": null,
+      "image": "img/wa/AC7B3BDB50349E67DCCBDC9211B96F3F.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T02:06:28Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC7ECE57CC7001F769A89458EB4F5FDA",
       "store": "Deal",
@@ -1089,43 +1126,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-AC37D8C5747CDFB6EE159826C9C9F536",
-      "store": "Under Armour",
-      "title": "Men's Outlet Workout Pants & Leggings - Pants Sale🔥",
-      "price": "$99",
-      "was": null,
-      "discount": null,
-      "code": "WARMUP",
-      "notes": "Under Armour Check All prices 👇 Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
-      "link": "https://go.magik.ly/ml/4rudp/",
-      "page": null,
-      "image": "img/wa/AC37D8C5747CDFB6EE159826C9C9F536.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T02:39:42Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-AC91B1EB3615EA93BDB6316F0A152D1E",
-      "store": "Deal",
-      "title": "Brightown 39FT 100LED Solar Rope Lights Outdoor Waterproof, Warm White",
-      "price": "$11",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/brightown-39ft-100led-solar-rope-lights-outdoor-waterproof-warm-white-3/",
-      "page": null,
-      "image": "img/wa/AC91B1EB3615EA93BDB6316F0A152D1E.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T02:36:45Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1172,6 +1172,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T02:06:58Z",
+      "text": "2 new offer(s): Extra 20% off applies automatically when, 3 Pack [Apple MFi Certified] iPhone 14 1"
+    },
     {
       "at": "2026-11-12T01:46:37Z",
       "text": "2 new offer(s): 3-in-1 Bamboo Couch Tray with Silicone-L, Ring Rover Cam, indoor roving security c"
@@ -1247,10 +1251,6 @@
     {
       "at": "2026-11-11T02:52:08Z",
       "text": "1 new offer(s): Free standard shipping on orders $99+"
-    },
-    {
-      "at": "2026-11-11T02:41:57Z",
-      "text": "2 new offer(s): Men's Outlet Workout Pants & Leggings - , Brightown 39FT 100LED Solar Rope Lights "
     }
   ]
 }
