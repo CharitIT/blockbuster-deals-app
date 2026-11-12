@@ -1,9 +1,66 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T03:38:13Z",
+  "lastScan": "2026-11-12T15:13:47Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB0932640B59BD10A42A8DEB7A40938",
+      "store": "Walmart",
+      "title": "Gourmia 6 Qt Manual Slow Cooker with 3 Heat Settings, Black",
+      "price": "$15",
+      "was": "$49",
+      "discount": "69% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://go.sylikes.com/fbgOdxVj1Hvz",
+      "page": null,
+      "image": "img/wa/ACB0932640B59BD10A42A8DEB7A40938.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T15:11:56Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC97AADF057D1B3DED819C0BEF80C544",
+      "store": "Walmart",
+      "title": "Beats by Dr. Dre Solo4 On-Ear Wireless Bluetooth Headphones, Drenched Gray",
+      "price": "$69",
+      "was": "$199",
+      "discount": "65% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgOb7IGogLI",
+      "page": null,
+      "image": "img/wa/AC97AADF057D1B3DED819C0BEF80C544.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T15:07:39Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACB4963A62A65B0850219AFE5F8273A8",
+      "store": "Walmart",
+      "title": "Walmart Black Friday Early Access is LIVE🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/R2Km1U2z07b",
+      "page": null,
+      "image": "img/wa/ACB4963A62A65B0850219AFE5F8273A8.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T15:04:02Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACF6094EA4C0A380C8A8A754E45704B1",
       "store": "Michael Kors",
@@ -1065,63 +1122,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-AC96441AE1243616A7A1F0AA394FA382",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$76",
-      "was": "$180",
-      "discount": "58% off",
-      "code": "SINGLESDAY",
-      "notes": "Today Only! Michael Kors Mini Aspyn Gold-Tone and Metallic Signature Logo Watch Use code SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/dU3WTQe1Y7b",
-      "page": null,
-      "image": "img/wa/AC96441AE1243616A7A1F0AA394FA382.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T16:13:52Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-ACAC16FE25B5D014250EAD36E89BA023",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$70",
-      "was": "$528",
-      "discount": "87% off",
-      "code": "SINGLESDAY",
-      "notes": "Today Only! Soho Medium Quilted Tote Bag Use code SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/fBN9mPo0Y7b",
-      "page": null,
-      "image": "img/wa/ACAC16FE25B5D014250EAD36E89BA023.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T16:04:33Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-AC3B52676BC20E5DB982D8A8D67F6D88",
-      "store": "Michael Kors",
-      "title": "Stacking offers 20% OFF + extra 11% OFF",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": "SINGLESDAY",
-      "notes": "Today Only! Lowest prices on Michael Kors bags Add to cart and enter code SINGLESDAY Code works on all the bags below",
-      "link": "https://mavely.app.link/qECWiJwEX7b",
-      "page": null,
-      "image": "img/wa/AC3B52676BC20E5DB982D8A8D67F6D88.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T15:59:40Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1168,6 +1168,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T15:13:47Z",
+      "text": "3 new offer(s): Gourmia 6 Qt Manual Slow Cooker with 3 H, Beats by Dr. Dre Solo4 On-Ear Wireless B, Walmart Black Friday Early Access is LIV"
+    },
     {
       "at": "2026-11-12T03:38:13Z",
       "text": "2 new offer(s): Michael Kors Bags sale🔥🔥, Some hot deals  are only accessible to W"
@@ -1243,10 +1247,6 @@
     {
       "at": "2026-11-11T20:42:39Z",
       "text": "1 new offer(s): Bikini Trimmer for Women,Electric Razor "
-    },
-    {
-      "at": "2026-11-11T20:32:34Z",
-      "text": "1 new offer(s): Choose store pickup at checkout to avoid"
     }
   ]
 }
