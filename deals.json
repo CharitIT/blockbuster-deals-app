@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T00:04:46Z",
+  "lastScan": "2026-11-12T00:14:58Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACF76282F755605ABE55C17EEE7B4DB6",
+      "store": "Deal",
+      "title": "Extra 20%off Sale on Cloud Shoes 🔥at Foot Locker",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": "KNICKS20",
+      "notes": "Today Only! Use Code : KNICKS20",
+      "link": "https://mavely.app.link/pzUrTpIAZ7b",
+      "page": null,
+      "image": "img/wa/ACF76282F755605ABE55C17EEE7B4DB6.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T00:14:28Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACA23827BF09F214398418B8D00BE989",
       "store": "Macy's",
@@ -1108,24 +1126,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC5BD7662FC1F85677C0B9F9F3B06332",
-      "store": "Deal",
-      "title": "Bear Baby Bottle Warmer, Fast Warming Breast Milk Formula, White",
-      "price": "$14",
-      "was": "$29",
-      "discount": "52% off",
-      "code": "YLQUI517",
-      "notes": "Use Code : YLQUI517",
-      "link": "https://blockbusterdeals.net/product/bear-baby-bottle-warmer-fast-warming-breast-milk-formula-white-2/",
-      "page": null,
-      "image": "img/wa/AC5BD7662FC1F85677C0B9F9F3B06332.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T00:58:50Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1172,6 +1172,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T00:14:58Z",
+      "text": "1 new offer(s): Extra 20%off Sale on Cloud Shoes 🔥at Foo"
+    },
     {
       "at": "2026-11-12T00:04:46Z",
       "text": "1 new offer(s): 12 oz. Coffee Mug with Warmer Coaster an"
@@ -1247,10 +1251,6 @@
     {
       "at": "2026-11-11T01:20:56Z",
       "text": "2 new offer(s): Kasa Smart Plug Ultra Mini 15A, EP10P2, , 🛍️ Amazon Haul – Items for Just 5¢! 🔥"
-    },
-    {
-      "at": "2026-11-11T01:00:49Z",
-      "text": "3 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, 🚨Login to unlock offer, Men's Puffer With Set In Bib Detail"
     }
   ]
 }
