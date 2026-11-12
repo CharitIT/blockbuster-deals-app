@@ -1,9 +1,66 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T15:23:53Z",
+  "lastScan": "2026-11-12T15:44:04Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC682F818C8E6A1B56747460BC7B2D66",
+      "store": "Walmart",
+      "title": "VIZIO 58\" Class Class Quantum 4K QLED HDR, Limited Edition Smart TV (NEW 2026) VQD58X-10",
+      "price": "$178",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgOdJTCb14R",
+      "page": null,
+      "image": "img/wa/AC682F818C8E6A1B56747460BC7B2D66.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T15:43:32Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACD2D3FF3F1ACA6E220C603B4A81306E",
+      "store": "Walmart",
+      "title": "Nespresso Vertuo Pop Coffee and Espresso Maker by De'Longhi, Liquorice Black",
+      "price": "$69",
+      "was": "$119",
+      "discount": "42% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgOdG1Gu3cX",
+      "page": null,
+      "image": "img/wa/ACD2D3FF3F1ACA6E220C603B4A81306E.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T15:35:52Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC965B9979BC441F8B1792295D1211DE",
+      "store": "Walmart",
+      "title": "All board games On Sale🔥at Walmart",
+      "price": "$5",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! As Low As",
+      "link": "https://go.sylikes.com/fbgOd3KRVt9a",
+      "page": null,
+      "image": "img/wa/AC965B9979BC441F8B1792295D1211DE.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T15:34:13Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACED21AD8C0F008B1A498E23579BA2D8",
       "store": "Walmart",
@@ -1065,63 +1122,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-ACABFEE0B8522B4A5B2883802723F160",
-      "store": "Under Armour",
-      "title": "Choose store pickup at checkout to avoid shipping fee",
-      "price": "$37",
-      "was": "$75",
-      "discount": "51% off",
-      "code": null,
-      "notes": "Under Armour Charged Assert 10 Wide (4E) Men's Running Shoes - Ventilated Use Codes :WARMUP and EXTRA Or free shipping at $99",
-      "link": "https://go.magik.ly/ml/4s55x/",
-      "page": null,
-      "image": "img/wa/ACABFEE0B8522B4A5B2883802723F160.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T17:12:01Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-AC74C17D4BAD685FE8331D3E89275D25",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$84",
-      "was": "$358",
-      "discount": "77% off",
-      "code": "SINGLESDAY",
-      "notes": "Today Only! Michael Kors Rhea Medium Color-Block Signature Logo Backpack Use code SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/bUvVcHB4Y7b",
-      "page": null,
-      "image": "img/wa/AC74C17D4BAD685FE8331D3E89275D25.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T17:02:29Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-AC396A798DBBBE9413897D643A8FA4D1",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$70",
-      "was": "$298",
-      "discount": "77% off",
-      "code": "SINGLESDAY",
-      "notes": "Today Only! Michael Kors Rhea Extra-Small Signature Logo Backpack Use code SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/786U3yQ3Y7b",
-      "page": null,
-      "image": "img/wa/AC396A798DBBBE9413897D643A8FA4D1.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T16:53:24Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1168,6 +1168,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T15:44:04Z",
+      "text": "3 new offer(s): VIZIO 58\" Class Class Quantum 4K QLED HD, Nespresso Vertuo Pop Coffee and Espresso, All board games On Sale🔥at Walmart"
+    },
     {
       "at": "2026-11-12T15:23:53Z",
       "text": "2 new offer(s): Ninja Crispi Glass Air Fryer 4-Qt, 3-in-, Shark Navigator Lift-Away Upright Vacuum"
@@ -1243,10 +1247,6 @@
     {
       "at": "2026-11-11T21:02:50Z",
       "text": "2 new offer(s): New Balance 471 Athletic Shoe - Angora /, Bamboo Spoon Rest & Pot Lid Holder for S"
-    },
-    {
-      "at": "2026-11-11T20:52:45Z",
-      "text": "1 new offer(s): ESPN Boys Crewneck Graphic Tee with Shor"
     }
   ]
 }
