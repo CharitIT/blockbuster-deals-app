@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T00:45:30Z",
+  "lastScan": "2026-11-12T00:55:43Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACA3AE2B546ADA63CB4DD3839B000D2E",
+      "store": "Deal",
+      "title": "LED Drawing Board for Kids with Stand, 8 Markers, 10 Tracing Papers",
+      "price": "$9",
+      "was": "$19",
+      "discount": "53% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/led-drawing-board-for-kids-with-stand-8-markers-10-tracing-papers/",
+      "page": null,
+      "image": "img/wa/ACA3AE2B546ADA63CB4DD3839B000D2E.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T00:47:51Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACCEA5B0F29A899D457150A873915A01",
       "store": "Walmart",
@@ -1109,24 +1127,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-ACC2AF1029EBCD44A2F3139F0FF2D6C6",
-      "store": "Deal",
-      "title": "Ultra Facial Cream with Squalane",
-      "price": "$86",
-      "was": "$115",
-      "discount": "25% off",
-      "code": "SINGLESDAY",
-      "notes": "Subscribe to save 15%off + Use Code : SINGLESDAY Free shipping",
-      "link": "https://mavely.app.link/LUtm9UD1X7b",
-      "page": null,
-      "image": "img/wa/ACC2AF1029EBCD44A2F3139F0FF2D6C6.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T01:34:26Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1173,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T00:55:43Z",
+      "text": "1 new offer(s): LED Drawing Board for Kids with Stand, 8"
+    },
     {
       "at": "2026-11-12T00:45:30Z",
       "text": "1 new offer(s): babyeap Baby Swing for Infants - Smart E"
@@ -1248,10 +1252,6 @@
     {
       "at": "2026-11-11T02:01:25Z",
       "text": "2 new offer(s): KCDDUMK 4 Pack Cami Bralettes for Women,, Free standard shipping on orders $99+"
-    },
-    {
-      "at": "2026-11-11T01:41:12Z",
-      "text": "2 new offer(s): Free standard shipping on orders $99+, Ultra Facial Cream with Squalane"
     }
   ]
 }
