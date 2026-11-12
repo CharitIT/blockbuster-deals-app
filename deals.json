@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T16:24:34Z",
+  "lastScan": "2026-11-12T16:34:43Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACC9B26202B4CD9D58EED666273B79EF",
+      "store": "Walmart",
+      "title": "VIZIO 4.1 Pro Soundbar w/ Dolby Atmos, Wireless Surround Speakers, QuickFit Compatible (NEW 2026) SV410YW-10",
+      "price": "$79",
+      "was": "$148",
+      "discount": "47% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgOenusncUj",
+      "page": null,
+      "image": "img/wa/ACC9B26202B4CD9D58EED666273B79EF.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T16:31:42Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC169B589DF50B97A51337FE0102D461",
+      "store": "Walmart",
+      "title": "Marvel Spider-Man Tool Bench Playset with Take-Apart Car and Accessories - 55 Pieces, Ages 3+",
+      "price": "$20",
+      "was": "$59",
+      "discount": "66% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://go.sylikes.com/fbgOdW1RGnsZ",
+      "page": null,
+      "image": "img/wa/AC169B589DF50B97A51337FE0102D461.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T16:27:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC7F37E2112A39D0F9F00761FCE9D31E",
       "store": "Walmart",
@@ -1083,44 +1121,6 @@
       "merchant": "Macy's"
     },
     {
-      "id": "wa-ACE797AFA80F5A804958EC8453017363",
-      "store": "Walmart",
-      "title": "✅ Enjoy free delivery benefits, shipping perks, exclusive member prices, gas savings & more!",
-      "price": "$120",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "✅ Save time and money on groceries, household essentials & everyday shopping. Join Now:",
-      "link": "https://mavely.app.link/6d7cAzNaX7b",
-      "page": null,
-      "image": "img/wa/ACE797AFA80F5A804958EC8453017363.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T18:07:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC99549B78FE9227F264B7A6F2C34880",
-      "store": "Under Armour",
-      "title": "Choose store pickup at checkout to avoid shipping fee",
-      "price": "$19",
-      "was": "$50",
-      "discount": "62% off",
-      "code": null,
-      "notes": "Under Armour Velocity 2.0 Men's ¼ Zip Use Codes :WARMUP and EXTRA Or free shipping at $99",
-      "link": "https://go.magik.ly/ml/4s5gx/",
-      "page": null,
-      "image": "img/wa/AC99549B78FE9227F264B7A6F2C34880.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T18:05:12Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1167,6 +1167,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T16:34:43Z",
+      "text": "2 new offer(s): VIZIO 4.1 Pro Soundbar w/ Dolby Atmos, W, Marvel Spider-Man Tool Bench Playset wit"
+    },
     {
       "at": "2026-11-12T16:24:34Z",
       "text": "2 new offer(s): CLOUDREST PRO White Vanity Desk Set with, Ello Everyday 30 Piece Glass Mixed Food "
@@ -1242,10 +1246,6 @@
     {
       "at": "2026-11-12T00:45:30Z",
       "text": "1 new offer(s): babyeap Baby Swing for Infants - Smart E"
-    },
-    {
-      "at": "2026-11-12T00:35:21Z",
-      "text": "2 new offer(s): Garmin fēnix®️ E, Multisport GPS Smartwa, Brightown 39FT 100LED Solar Rope Lights "
     }
   ]
 }
