@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T00:55:43Z",
+  "lastScan": "2026-11-12T01:05:57Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACC4A046013D3A7027534974DB438268",
+      "store": "Calvin Klein",
+      "title": "Add to cart and extra 20%off applied at checkout",
+      "price": "$34",
+      "was": "$85",
+      "discount": "60% off",
+      "code": null,
+      "notes": "Today Only! Calvin Klein Monologo Fleece Sweatshirt",
+      "link": "https://mavely.app.link/OLTpUXqEZ7b",
+      "page": null,
+      "image": "img/wa/ACC4A046013D3A7027534974DB438268.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T01:03:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Calvin Klein"
+    },
+    {
+      "id": "wa-ACE24C3D212B1EE06D887A99627F72AF",
+      "store": "Michael Kors",
+      "title": "Extra 20% off applies automatically when you add to cart",
+      "price": "$84",
+      "was": "$498",
+      "discount": "83% off",
+      "code": "SINGLESDAY",
+      "notes": "Michael Kors Jet Set Travel Extra-Large Signature Logo Weekender Bag Use code SINGLESDAY for extra 11% off",
+      "link": "https://mavely.app.link/M9D2Hm7CZ7b",
+      "page": null,
+      "image": "img/wa/ACE24C3D212B1EE06D887A99627F72AF.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T00:58:28Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
     {
       "id": "wa-ACA3AE2B546ADA63CB4DD3839B000D2E",
       "store": "Deal",
@@ -1089,44 +1127,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC8544C08B1EED3851D42123179444E6",
-      "store": "Under Armour",
-      "title": "Free standard shipping on orders $99+",
-      "price": "$20",
-      "was": "$50",
-      "discount": "60% off",
-      "code": "WARMUP",
-      "notes": "Under Armour Velocity 2.0 Men's ¼ Zip Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
-      "link": "https://go.magik.ly/ml/4rri5/",
-      "page": null,
-      "image": "img/wa/AC8544C08B1EED3851D42123179444E6.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T01:57:52Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-AC76D40A69940F3F4F29502BB3C1A7AE",
-      "store": "Under Armour",
-      "title": "Free standard shipping on orders $99+",
-      "price": "$32",
-      "was": "$80",
-      "discount": "60% off",
-      "code": "WARMUP",
-      "notes": "Under Armour Golf 4.9(1002) Men's Pants - 4-Way Stretch Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
-      "link": "https://go.magik.ly/ml/4rnxd/",
-      "page": null,
-      "image": "img/wa/AC76D40A69940F3F4F29502BB3C1A7AE.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T01:38:33Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1173,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T01:05:57Z",
+      "text": "2 new offer(s): Add to cart and extra 20%off applied at , Extra 20% off applies automatically when"
+    },
     {
       "at": "2026-11-12T00:55:43Z",
       "text": "1 new offer(s): LED Drawing Board for Kids with Stand, 8"
@@ -1248,10 +1252,6 @@
     {
       "at": "2026-11-11T02:11:32Z",
       "text": "1 new offer(s): 20PCS Stainless Steel Plates and Bowls S"
-    },
-    {
-      "at": "2026-11-11T02:01:25Z",
-      "text": "2 new offer(s): KCDDUMK 4 Pack Cami Bralettes for Women,, Free standard shipping on orders $99+"
     }
   ]
 }
