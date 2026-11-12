@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T02:37:30Z",
+  "lastScan": "2026-11-12T02:47:36Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC1CAED240A2C0A24F8C199C5698C802",
+      "store": "Deal",
+      "title": "Bear Baby Bottle Warmer, Fast Warming Breast Milk Formula, White",
+      "price": "$14",
+      "was": "$29",
+      "discount": "52% off",
+      "code": "YLQUI517",
+      "notes": "Use Code : YLQUI517",
+      "link": "https://blockbusterdeals.net/product/bear-baby-bottle-warmer-fast-warming-breast-milk-formula-white-3/",
+      "page": null,
+      "image": "img/wa/AC1CAED240A2C0A24F8C199C5698C802.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T02:43:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC1D00BD05A3C943BD1B3115CD5819A3",
+      "store": "Deal",
+      "title": "Versace Eros for Men 3.4 oz Eau de Toilette Spray",
+      "price": "$63",
+      "was": "$120",
+      "discount": "48% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/versace-eros-for-men-3-4-oz-eau-de-toilette-spray-9/",
+      "page": null,
+      "image": "img/wa/AC1D00BD05A3C943BD1B3115CD5819A3.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T02:42:56Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACCB686413A1C4E638A60E1E10DBB47D",
       "store": "Michael Kors",
@@ -1089,44 +1125,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-ACB5C7F059B6560D767B21B98220BEAB",
-      "store": "Michael Kors",
-      "title": "Mercer Medium Logo and Leather Accordion Crossbody Bag",
-      "price": "$55",
-      "was": "$328",
-      "discount": "83% off",
-      "code": null,
-      "notes": "Michael Kors EXTRA 20% OFF APPLIED IN CART FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
-      "link": "https://mavely.app.link/Y5XArLB8X7b",
-      "page": null,
-      "image": "img/wa/ACB5C7F059B6560D767B21B98220BEAB.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T03:12:33Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-AC67F66F7F5E56694CB51142F876810E",
-      "store": "Michael Kors",
-      "title": "Avalon Medium Smooth and Signature Logo Tote Bag",
-      "price": "$63",
-      "was": "$378",
-      "discount": "83% off",
-      "code": null,
-      "notes": "Michael Kors EXTRA 20% OFF APPLIED IN CART FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
-      "link": "https://mavely.app.link/wfyH0Sh8X7b",
-      "page": null,
-      "image": "img/wa/AC67F66F7F5E56694CB51142F876810E.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T03:03:48Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1173,6 +1171,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T02:47:36Z",
+      "text": "2 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, Versace Eros for Men 3.4 oz Eau de Toile"
+    },
     {
       "at": "2026-11-12T02:37:30Z",
       "text": "3 new offer(s): Extra 20% off applies automatically when, Crayola Light Up Tracing Pad Pink, Holid, 6️⃣ $90 Standing/Sitting Desk👇"
@@ -1248,10 +1250,6 @@
     {
       "at": "2026-11-11T03:12:30Z",
       "text": "1 new offer(s): Avalon Medium Smooth and Signature Logo "
-    },
-    {
-      "at": "2026-11-11T03:02:18Z",
-      "text": "2 new offer(s): Ring Floodlight Cam 2K (newest model), W, Add to Cart and get Extra 25%off + Extra"
     }
   ]
 }
