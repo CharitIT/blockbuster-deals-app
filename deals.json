@@ -1,9 +1,65 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T02:57:42Z",
+  "lastScan": "2026-11-12T03:07:53Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC0F0010A4F9705B8A73870CCBDA8B99",
+      "store": "Michael Kors",
+      "title": "Extra 20% off applies automatically when you add to cart",
+      "price": "$34",
+      "was": "$145",
+      "discount": "77% off",
+      "code": "SINGLESDAY",
+      "notes": "Michael Kors Carmen Signature Logo Sandal Use code : SINGLESDAY for extra 11% off",
+      "link": "https://mavely.app.link/yWmkzZXMZ7b",
+      "page": null,
+      "image": "img/wa/AC0F0010A4F9705B8A73870CCBDA8B99.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T03:06:11Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
+    {
+      "id": "wa-AC28828F4F8415D154859ACE63292A64",
+      "store": "Deal",
+      "title": "VTech Little CEO Learning Desk Toddler Activity Center",
+      "price": "$18",
+      "was": "$29",
+      "discount": "38% off",
+      "code": null,
+      "notes": "Clip Coupon",
+      "link": "https://blockbusterdeals.net/product/vtech-little-ceo-learning-desk-toddler-activity-center/",
+      "page": null,
+      "image": "img/wa/AC28828F4F8415D154859ACE63292A64.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T03:01:36Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC7B2D9F4BEB4EA6038258994E43B416",
+      "store": "Michael Kors",
+      "title": "Extra 20% off applies automatically when you add to cart",
+      "price": "$34",
+      "was": "$165",
+      "discount": "79% off",
+      "code": "SINGLESDAY",
+      "notes": "Michael Kors Zoe Metallic Wedge Sandal Use code : SINGLESDAY for extra 11% off",
+      "link": "https://mavely.app.link/vTXDPKoMZ7b",
+      "page": null,
+      "image": "img/wa/AC7B2D9F4BEB4EA6038258994E43B416.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T03:01:25Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
     {
       "id": "wa-ACD6B3189862C87E40F8AC03395905EE",
       "store": "Deal",
@@ -1066,63 +1122,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-ACD50F893E478D2A67C2A3FA31C8ECE0",
-      "store": "Michael Kors",
-      "title": "Click the link and change the colour to Camel",
-      "price": "$27",
-      "was": "$158",
-      "discount": "83% off",
-      "code": "SINGLESDAY",
-      "notes": "Today Only! Michael Kors Cooper Logo Billfold Wallet With Passcase EXTRA 20% OFF APPLIED IN CART And 11% OFF CODE: SINGLESDAY",
-      "link": "https://mavely.app.link/lqeJMA5YY7b",
-      "page": null,
-      "image": "img/wa/ACD50F893E478D2A67C2A3FA31C8ECE0.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T15:28:55Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-AC036070F9138D006E38ACDBDB7CCA62",
-      "store": "Michael Kors",
-      "title": "Mercer Medium Logo and Leather Accordion Crossbody Bag",
-      "price": "$49",
-      "was": "$328",
-      "discount": "85% off",
-      "code": "SINGLESDAY",
-      "notes": "TODAY ONLY!! Michael Kors EXTRA 20% OFF APPLIED IN CART And 11% OFF CODE: SINGLESDAY",
-      "link": "https://mavely.app.link/2tOLRzhWY7b",
-      "page": null,
-      "image": "img/wa/AC036070F9138D006E38ACDBDB7CCA62.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T15:14:36Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-ACFF7D828E8B9F732FBF1B4DEB37BEE6",
-      "store": "Michael Kors",
-      "title": "Arden Small Color-Block Signature Logo Messenger Bag",
-      "price": "$49",
-      "was": "$358",
-      "discount": "86% off",
-      "code": "SINGLESDAY",
-      "notes": "TODAY ONLY!! Michael Kors EXTRA 20% OFF APPLIED IN CART And 11% OFF CODE: SINGLESDAY",
-      "link": "https://mavely.app.link/UWsJX5QUY7b",
-      "page": null,
-      "image": "img/wa/ACFF7D828E8B9F732FBF1B4DEB37BEE6.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T15:06:21Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1169,6 +1168,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T03:07:53Z",
+      "text": "3 new offer(s): Extra 20% off applies automatically when, VTech Little CEO Learning Desk Toddler A, Extra 20% off applies automatically when"
+    },
     {
       "at": "2026-11-12T02:57:42Z",
       "text": "2 new offer(s): Transformers Toys Heroic Optimus Prime A, Play-Doh Starter Set 9-Piece Kit with St"
@@ -1244,10 +1247,6 @@
     {
       "at": "2026-11-11T20:22:27Z",
       "text": "1 new offer(s): Kinetic Sand Splash, Water Play Sandbox "
-    },
-    {
-      "at": "2026-11-11T20:12:17Z",
-      "text": "30 new offer(s): Kacey Extra-Small Signature Logo and Smo, Apple AirTag (4 Pack) (2nd generation), PicassoTiles Magnetic Building Blocks Br"
     }
   ]
 }
