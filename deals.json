@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T16:04:19Z",
+  "lastScan": "2026-11-12T16:14:26Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC0B7659C862D4C88732B2A360F5D471",
+      "store": "Walmart",
+      "title": "Marvel Spidey and His Amazing Friends 6-Pack Hero and Toy Vehicles Mega Bundle, Holiday Gift for Kids",
+      "price": "$20",
+      "was": "$59",
+      "discount": "66% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://go.sylikes.com/fbgOdFBekgcN",
+      "page": null,
+      "image": "img/wa/AC0B7659C862D4C88732B2A360F5D471.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T16:10:46Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACF07A73694BD7B624EBE252326CD6B2",
+      "store": "Walmart",
+      "title": "Ninja Professional Plus Select Series, 1400PW, 72 oz Blender with Auto IQ & Total Crushing Power, BN705WM, Black",
+      "price": "$49",
+      "was": "$89",
+      "discount": "45% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgOdAddSr7f",
+      "page": null,
+      "image": "img/wa/ACF07A73694BD7B624EBE252326CD6B2.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T16:06:28Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACCBEFB21F272DBE4EBD99A165AE681D",
       "store": "Walmart",
@@ -1082,44 +1120,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC09AD7E4BD9A3FECB500820FCFF027F",
-      "store": "Under Armour",
-      "title": "Choose store pickup at checkout to avoid shipping fee",
-      "price": "$36",
-      "was": "$75",
-      "discount": "52% off",
-      "code": null,
-      "notes": "Under Armour Pursuit 4 Men's Running Shoes - Ventilated Use Codes :WARMUP and EXTRA Or free shipping at $99",
-      "link": "https://go.magik.ly/ml/4s5gh/",
-      "page": null,
-      "image": "img/wa/AC09AD7E4BD9A3FECB500820FCFF027F.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T17:46:40Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-AC6E88072709E866434C4AFA7E4787E5",
-      "store": "Under Armour",
-      "title": "Choose store pickup at checkout to avoid shipping fee",
-      "price": "$43",
-      "was": "$85",
-      "discount": "49% off",
-      "code": null,
-      "notes": "Under Armour Rogue 5 Women's Running Shoes - Ventilated Use Codes :WARMUP and EXTRA Or free shipping at $99",
-      "link": "https://go.magik.ly/ml/4s55i/",
-      "page": null,
-      "image": "img/wa/AC6E88072709E866434C4AFA7E4787E5.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T17:39:17Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1166,6 +1166,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T16:14:26Z",
+      "text": "2 new offer(s): Marvel Spidey and His Amazing Friends 6-, Ninja Professional Plus Select Series, 1"
+    },
     {
       "at": "2026-11-12T16:04:19Z",
       "text": "1 new offer(s): Walmart Black Friday Deal!!"
@@ -1241,10 +1245,6 @@
     {
       "at": "2026-11-12T00:14:58Z",
       "text": "1 new offer(s): Extra 20%off Sale on Cloud Shoes 🔥at Foo"
-    },
-    {
-      "at": "2026-11-12T00:04:46Z",
-      "text": "1 new offer(s): 12 oz. Coffee Mug with Warmer Coaster an"
     }
   ]
 }
