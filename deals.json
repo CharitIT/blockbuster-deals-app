@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T02:47:36Z",
+  "lastScan": "2026-11-12T02:57:42Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACD6B3189862C87E40F8AC03395905EE",
+      "store": "Deal",
+      "title": "Transformers Toys Heroic Optimus Prime Action Figure - Timeless Large-Scale Figure, Changes into Toy Truck - Toys for Kids 6 and Up, 11-inch (Amazon Exclusive)",
+      "price": "$19",
+      "was": "$27",
+      "discount": "30% off",
+      "code": null,
+      "notes": "Early Black Friday Deal!!",
+      "link": "https://blockbusterdeals.net/product/transformers-toys-heroic-optimus-prime-action-figure-timeless-large-scale-figure-changes-into-toy-truck-toys-for-kids-6-and-up-11-inch-amazon-exclusive/",
+      "page": null,
+      "image": "img/wa/ACD6B3189862C87E40F8AC03395905EE.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T02:56:17Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC990AB8877D90C15A55C8174FDB2317",
+      "store": "Deal",
+      "title": "Play-Doh Starter Set 9-Piece Kit with Storage Tote & 4 Modeling Compound Cans, Ages 3+, Presentation May Vary",
+      "price": "$6",
+      "was": "$12",
+      "discount": "50% off",
+      "code": null,
+      "notes": "Early Black Friday Deal!!",
+      "link": "https://blockbusterdeals.net/product/play-doh-starter-set-9-piece-kit-with-storage-tote-4-modeling-compound-cans-ages-3-presentation-may-vary/",
+      "page": null,
+      "image": "img/wa/AC990AB8877D90C15A55C8174FDB2317.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T02:56:10Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC1CAED240A2C0A24F8C199C5698C802",
       "store": "Deal",
@@ -1087,44 +1123,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-ACADEA9B61A6B20A56A5DD944393C2B9",
-      "store": "Walmart",
-      "title": "✅ Enjoy free delivery benefits, shipping perks, exclusive member prices, gas savings & more!",
-      "price": "$120",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "✅ Save time and money on groceries, household essentials & everyday shopping. Join Now:",
-      "link": "https://mavely.app.link/6d7cAzNaX7b",
-      "page": null,
-      "image": "img/wa/ACADEA9B61A6B20A56A5DD944393C2B9.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T03:15:16Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC9A7853BF50F383984439C29BAF05EB",
-      "store": "Michael Kors",
-      "title": "Jet Set Travel Medium Color-Block Signature Logo Crossbody Bag",
-      "price": "$55",
-      "was": "$258",
-      "discount": "79% off",
-      "code": null,
-      "notes": "Michael Kors EXTRA 20% OFF APPLIED IN CART FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
-      "link": "https://mavely.app.link/tOTfdaT8X7b",
-      "page": null,
-      "image": "img/wa/AC9A7853BF50F383984439C29BAF05EB.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T03:14:12Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1171,6 +1169,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T02:57:42Z",
+      "text": "2 new offer(s): Transformers Toys Heroic Optimus Prime A, Play-Doh Starter Set 9-Piece Kit with St"
+    },
     {
       "at": "2026-11-12T02:47:36Z",
       "text": "2 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, Versace Eros for Men 3.4 oz Eau de Toile"
@@ -1246,10 +1248,6 @@
     {
       "at": "2026-11-11T20:12:17Z",
       "text": "30 new offer(s): Kacey Extra-Small Signature Logo and Smo, Apple AirTag (4 Pack) (2nd generation), PicassoTiles Magnetic Building Blocks Br"
-    },
-    {
-      "at": "2026-11-11T03:12:30Z",
-      "text": "1 new offer(s): Avalon Medium Smooth and Signature Logo "
     }
   ]
 }
