@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T16:44:52Z",
+  "lastScan": "2026-11-12T16:55:01Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB04F2A8C12584277F2828DAC608FC4",
+      "store": "Walmart",
+      "title": "My Life As Peyton 18-inch Posable Fashion Doll with Red Hair, Green Eyes, Floral Dress, Denim Jacket & Boots",
+      "price": "$15",
+      "was": "$29",
+      "discount": "48% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://go.sylikes.com/fbgOgYNdRm72",
+      "page": null,
+      "image": "img/wa/ACB04F2A8C12584277F2828DAC608FC4.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T16:45:50Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC0D9E7371C6446BC87ED1A448F67386",
       "store": "Walmart",
@@ -1103,24 +1122,6 @@
       "merchant": "Target"
     },
     {
-      "id": "wa-ACD7CFD1C8BEF895A0BDAF3F2B549A8D",
-      "store": "Deal",
-      "title": "PicassoTiles Magnetic Building Blocks Brick Tiles STEM Creative Magnet Tiles Add Ons Set Construction Toy Socket Spikes Accessory Toys Educational Imaginative Learning Kit Stacking Set Toddlers Colors",
-      "price": "$14",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/picassotiles-magnetic-building-blocks-brick-tiles-stem-creative-magnet-tiles-add-ons-set-construction-toy-socket-spikes-accessory-toys-educational-imaginative-learning-kit-stacking-set-toddlers-colors/",
-      "page": null,
-      "image": "img/wa/ACD7CFD1C8BEF895A0BDAF3F2B549A8D.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T20:09:57Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1167,6 +1168,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T16:55:01Z",
+      "text": "1 new offer(s): My Life As Peyton 18-inch Posable Fashio"
+    },
     {
       "at": "2026-11-12T16:44:52Z",
       "text": "2 new offer(s): Big Chill Women's Chevron Quilted Faux F, Razor Rollie Kix - Blue, 3-Wheel Light-U"
@@ -1242,10 +1247,6 @@
     {
       "at": "2026-11-12T01:05:57Z",
       "text": "2 new offer(s): Add to cart and extra 20%off applied at , Extra 20% off applies automatically when"
-    },
-    {
-      "at": "2026-11-12T00:55:43Z",
-      "text": "1 new offer(s): LED Drawing Board for Kids with Stand, 8"
     }
   ]
 }
