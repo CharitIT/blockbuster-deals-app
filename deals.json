@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T17:55:44Z",
+  "lastScan": "2026-11-12T18:05:47Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACDA741B909A9E88A74C226D46380336",
+      "store": "Walmart",
+      "title": "Serta Simply Soft 4-Piece Black Bed Sheet Set, King - Ultra Soft",
+      "price": "$12",
+      "was": "$29",
+      "discount": "59% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://go.sylikes.com/fbgOjAPLFwIz",
+      "page": null,
+      "image": "img/wa/ACDA741B909A9E88A74C226D46380336.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T18:03:49Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACC74AFE447CD08C3CAFF1FFE7FA28DF",
+      "store": "Deal",
+      "title": "Delta Children Design & Store 6 Bin Toy Storage Organizer - Greenguard Gold Certified, CoComelon",
+      "price": "$19",
+      "was": "$39",
+      "discount": "51% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/delta-children-design-store-6-bin-toy-storage-organizer-greenguard-gold-certified-cocomelon/",
+      "page": null,
+      "image": "img/wa/ACC74AFE447CD08C3CAFF1FFE7FA28DF.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T17:59:41Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACAB64F47DA3C0D170BDA526AD408B62",
       "store": "Deal",
@@ -1088,43 +1125,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACA23827BF09F214398418B8D00BE989",
-      "store": "Macy's",
-      "title": "12 oz. Coffee Mug with Warmer Coaster and Lid",
-      "price": "$19",
-      "was": "$57",
-      "discount": "67% off",
-      "code": null,
-      "notes": "Black Friday Deal!! Tzumi",
-      "link": "https://mavely.app.link/kGQ0LgrxZ7b",
-      "page": null,
-      "image": "img/wa/ACA23827BF09F214398418B8D00BE989.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T00:04:08Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
-      "id": "wa-ACBFA89298939219ADD85F60BA3F1D3B",
-      "store": "Deal",
-      "title": "✅ Includes 4 lightweight  skincare essentials that help hydrate, nourish, and leave your skin feeling soft and looking radiant.",
-      "price": "$25",
-      "was": "$127",
-      "discount": "80% off",
-      "code": null,
-      "notes": "✅ Comes with a FREE Serpent Pouch and personalized prescription skincare formula. 💖 Get this skincare offer for just $25!",
-      "link": "https://theblogcm.com/566/eJzr",
-      "page": null,
-      "image": "img/wa/ACBFA89298939219ADD85F60BA3F1D3B.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T21:41:26Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1171,6 +1171,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T18:05:47Z",
+      "text": "2 new offer(s): Serta Simply Soft 4-Piece Black Bed Shee, Delta Children Design & Store 6 Bin Toy "
+    },
     {
       "at": "2026-11-12T17:55:44Z",
       "text": "2 new offer(s): Anne Klein Women's Premium Crystal Accen, Shark SpeedStyle Pro Hair Dryer System P"
@@ -1246,10 +1250,6 @@
     {
       "at": "2026-11-12T02:57:42Z",
       "text": "2 new offer(s): Transformers Toys Heroic Optimus Prime A, Play-Doh Starter Set 9-Piece Kit with St"
-    },
-    {
-      "at": "2026-11-12T02:47:36Z",
-      "text": "2 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, Versace Eros for Men 3.4 oz Eau de Toile"
     }
   ]
 }
