@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T01:16:09Z",
+  "lastScan": "2026-11-12T01:26:19Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACC060C40293153F1F561DC77C8BB0AE",
+      "store": "Kohl's",
+      "title": "NutriBullet®️ 1200 Watt Blender Combo with Single Serve Cups",
+      "price": "$79",
+      "was": "$149",
+      "discount": "47% off",
+      "code": "LOVE2SAVE",
+      "notes": "Extra 20%off with code:LOVE2SAVE + Extra 10%off with code:SHOP10 🚨Earn $10 Kohl's Cash®️ for every $50 spent! Free shipping",
+      "link": "https://mavely.app.link/P2QQfpUFZ7b",
+      "page": null,
+      "image": "img/wa/ACC060C40293153F1F561DC77C8BB0AE.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T01:25:21Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Kohl's"
+    },
     {
       "id": "wa-ACEC03C823A9073F917272BD78E310E0",
       "store": "Deal",
@@ -1109,24 +1128,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-ACC82CE874C8CD24F45730A1AC2658C0",
-      "store": "Deal",
-      "title": "20PCS Stainless Steel Plates and Bowls Sets, Camping Mess Kits (A)",
-      "price": "$39",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/20pcs-stainless-steel-plates-and-bowls-sets-camping-mess-kits-a/",
-      "page": null,
-      "image": "img/wa/ACC82CE874C8CD24F45730A1AC2658C0.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T02:09:01Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1173,6 +1174,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T01:26:19Z",
+      "text": "1 new offer(s): NutriBullet®️ 1200 Watt Blender Combo wi"
+    },
     {
       "at": "2026-11-12T01:16:09Z",
       "text": "1 new offer(s): GoPro MAX2 - Waterproof 360 + Traditiona"
@@ -1247,10 +1252,6 @@
     },
     {
       "at": "2026-11-11T02:31:49Z",
-      "text": "1 new offer(s): Free standard shipping on orders $99+"
-    },
-    {
-      "at": "2026-11-11T02:21:40Z",
       "text": "1 new offer(s): Free standard shipping on orders $99+"
     }
   ]
