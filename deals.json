@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T20:26:17Z",
+  "lastScan": "2026-11-12T20:36:21Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC27E9FE80B22D0D6E1EF189F04932F0",
+      "store": "Deal",
+      "title": "Add to Cart to get 25% Discount",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Today Only!! Lancome Best Sellers Deals Get 25% off",
+      "link": "https://mavely.app.link/8ZZKaNHZ07b",
+      "page": null,
+      "image": "img/wa/AC27E9FE80B22D0D6E1EF189F04932F0.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T20:36:02Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACC74B29921AEDE8EFA91062A48DEF6D",
       "store": "Macy's",
@@ -1109,25 +1127,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACC060C40293153F1F561DC77C8BB0AE",
-      "store": "Kohl's",
-      "title": "NutriBullet®️ 1200 Watt Blender Combo with Single Serve Cups",
-      "price": "$79",
-      "was": "$149",
-      "discount": "47% off",
-      "code": "LOVE2SAVE",
-      "notes": "Extra 20%off with code:LOVE2SAVE + Extra 10%off with code:SHOP10 🚨Earn $10 Kohl's Cash®️ for every $50 spent! Free shipping",
-      "link": "https://mavely.app.link/P2QQfpUFZ7b",
-      "page": null,
-      "image": "img/wa/ACC060C40293153F1F561DC77C8BB0AE.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T01:25:21Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Kohl's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1174,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T20:36:21Z",
+      "text": "1 new offer(s): Add to Cart to get 25% Discount"
+    },
     {
       "at": "2026-11-12T20:26:17Z",
       "text": "1 new offer(s): Men's Stretch Hooded Sherpa Lined Puffer"
@@ -1249,10 +1252,6 @@
     {
       "at": "2026-11-12T16:04:19Z",
       "text": "1 new offer(s): Walmart Black Friday Deal!!"
-    },
-    {
-      "at": "2026-11-12T15:54:13Z",
-      "text": "2 new offer(s): GORGLITTER Women's Polka Dots Cinched Wa, Champion Women's Performance Script Draw"
     }
   ]
 }
