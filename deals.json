@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T18:15:53Z",
+  "lastScan": "2026-11-12T19:36:04Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC1A00A237AD9469B1D2C8929E6EB32B",
+      "store": "Walmart",
+      "title": "Big Chill Women's Packable Puffer Jacket, Midweight, Sizes S-3X",
+      "price": "$14",
+      "was": "$65",
+      "discount": "78% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://mavely.app.link/jmBx5AbT07b",
+      "page": null,
+      "image": "img/wa/AC1A00A237AD9469B1D2C8929E6EB32B.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T19:33:30Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACD102ACDB4057EF32FF9260E68C475F",
       "store": "Deal",
@@ -1107,24 +1126,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACEE691D8021DF969201735084FC6490",
-      "store": "Deal",
-      "title": "Brightown 39FT 100LED Solar Rope Lights Outdoor Waterproof, Warm White",
-      "price": "$11",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/brightown-39ft-100led-solar-rope-lights-outdoor-waterproof-warm-white-4/",
-      "page": null,
-      "image": "img/wa/ACEE691D8021DF969201735084FC6490.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T00:25:13Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1171,6 +1172,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T19:36:04Z",
+      "text": "1 new offer(s): Big Chill Women's Packable Puffer Jacket"
+    },
     {
       "at": "2026-11-12T18:15:53Z",
       "text": "1 new offer(s): • Unlimited access to millions of songs "
@@ -1246,10 +1251,6 @@
     {
       "at": "2026-11-12T03:38:13Z",
       "text": "2 new offer(s): Michael Kors Bags sale🔥🔥, Some hot deals  are only accessible to W"
-    },
-    {
-      "at": "2026-11-12T03:07:53Z",
-      "text": "3 new offer(s): Extra 20% off applies automatically when, VTech Little CEO Learning Desk Toddler A, Extra 20% off applies automatically when"
     }
   ]
 }
