@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T19:36:04Z",
+  "lastScan": "2026-11-12T19:46:09Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACA51950CCE0249BE851FBA224AB55D5",
+      "store": "Walmart",
+      "title": "Melissa & Doug Wooden Scoop & Serve Ice Cream Counter, Pretend Play Store, 28 Toy Food & Play Kitchen Accessories, Preschool Toys for Girls & Boys 3+",
+      "price": "$26",
+      "was": "$70",
+      "discount": "63% off",
+      "code": null,
+      "notes": "Clip coupon",
+      "link": "https://blockbusterdeals.net/product/melissa-doug-wooden-scoop-serve-ice-cream-counter-pretend-play-store-28-toy-food-play-kitchen-accessories-preschool-toys-for-girls-boys-3-2/",
+      "page": null,
+      "image": "img/wa/ACA51950CCE0249BE851FBA224AB55D5.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T19:44:26Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC834AD870F07A5F046A45BA3D4ECB4B",
+      "store": "Walmart",
+      "title": "MSI Cyborg 15.6\" 144Hz Gaming Laptop, Intel Core i5-13420H, NVIDIA GeForce RTX 5050, 16GB RAM, 512GB SSD (2026)",
+      "price": "$799",
+      "was": "$1,299",
+      "discount": "38% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://mavely.app.link/OGxSWCyU07b",
+      "page": null,
+      "image": "img/wa/AC834AD870F07A5F046A45BA3D4ECB4B.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T19:38:16Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC1A00A237AD9469B1D2C8929E6EB32B",
       "store": "Walmart",
@@ -1089,43 +1127,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACCEA5B0F29A899D457150A873915A01",
-      "store": "Walmart",
-      "title": "babyeap Baby Swing for Infants - Smart Electric Swing with Bluetooth Control 5-point Harness,5 Sway Speed,10 Lullabies(Gray 2)",
-      "price": "$69",
-      "was": "$143",
-      "discount": "52% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/u5e07SuCZ7b",
-      "page": null,
-      "image": "img/wa/ACCEA5B0F29A899D457150A873915A01.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T00:39:01Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC3A1AA56BE171DB5060D822F2CEB6B8",
-      "store": "Deal",
-      "title": "Garmin fēnix®️ E, Multisport GPS Smartwatch, 47mm, Slate Steel w Black",
-      "price": "$399",
-      "was": "$799",
-      "discount": "50% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/garmin-fenix-e-multisport-gps-smartwatch-47mm-slate-steel-w-black/",
-      "page": null,
-      "image": "img/wa/AC3A1AA56BE171DB5060D822F2CEB6B8.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T00:32:49Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1172,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T19:46:09Z",
+      "text": "2 new offer(s): Melissa & Doug Wooden Scoop & Serve Ice , MSI Cyborg 15.6\" 144Hz Gaming Laptop, In"
+    },
     {
       "at": "2026-11-12T19:36:04Z",
       "text": "1 new offer(s): Big Chill Women's Packable Puffer Jacket"
@@ -1247,10 +1252,6 @@
     {
       "at": "2026-11-12T15:13:47Z",
       "text": "3 new offer(s): Gourmia 6 Qt Manual Slow Cooker with 3 H, Beats by Dr. Dre Solo4 On-Ear Wireless B, Walmart Black Friday Early Access is LIV"
-    },
-    {
-      "at": "2026-11-12T03:38:13Z",
-      "text": "2 new offer(s): Michael Kors Bags sale🔥🔥, Some hot deals  are only accessible to W"
     }
   ]
 }
