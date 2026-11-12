@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T19:56:11Z",
+  "lastScan": "2026-11-12T20:06:14Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC45B7167D91A7FC6C5CBF03F3978AA9",
+      "store": "Macy's",
+      "title": "Men's Hooded Puffer Bomber Jacket",
+      "price": "$69",
+      "was": "$195",
+      "discount": "65% off",
+      "code": null,
+      "notes": "MICHAEL KORS Free shipping",
+      "link": "https://mavely.app.link/yh7TpnGT07b",
+      "page": null,
+      "image": "img/wa/AC45B7167D91A7FC6C5CBF03F3978AA9.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T20:05:45Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-AC81A2ACE2B08FC128775C57A29D8CB9",
+      "store": "Walmart",
+      "title": "BISSELL PowerClean 200W Cordless Stick Vacuum, for Carpet & Hard Floors Self-Standing, Tangle-Free 40 min run time 4172",
+      "price": "$78",
+      "was": "$148",
+      "discount": "47% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgOnqb0zChm",
+      "page": null,
+      "image": "img/wa/AC81A2ACE2B08FC128775C57A29D8CB9.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T19:57:42Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACC357BBCBD7BAD8EB7AEF60002B0767",
       "store": "Deal",
@@ -1089,44 +1127,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACC4A046013D3A7027534974DB438268",
-      "store": "Calvin Klein",
-      "title": "Add to cart and extra 20%off applied at checkout",
-      "price": "$34",
-      "was": "$85",
-      "discount": "60% off",
-      "code": null,
-      "notes": "Today Only! Calvin Klein Monologo Fleece Sweatshirt",
-      "link": "https://mavely.app.link/OLTpUXqEZ7b",
-      "page": null,
-      "image": "img/wa/ACC4A046013D3A7027534974DB438268.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T01:03:58Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Calvin Klein"
-    },
-    {
-      "id": "wa-ACE24C3D212B1EE06D887A99627F72AF",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$84",
-      "was": "$498",
-      "discount": "83% off",
-      "code": "SINGLESDAY",
-      "notes": "Michael Kors Jet Set Travel Extra-Large Signature Logo Weekender Bag Use code SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/M9D2Hm7CZ7b",
-      "page": null,
-      "image": "img/wa/ACE24C3D212B1EE06D887A99627F72AF.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T00:58:28Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1173,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T20:06:14Z",
+      "text": "2 new offer(s): Men's Hooded Puffer Bomber Jacket, BISSELL PowerClean 200W Cordless Stick V"
+    },
     {
       "at": "2026-11-12T19:56:11Z",
       "text": "1 new offer(s): 0.9, 1.5, 2.5, 3.8, 5.3 QT, Measurement "
@@ -1248,10 +1252,6 @@
     {
       "at": "2026-11-12T15:44:04Z",
       "text": "3 new offer(s): VIZIO 58\" Class Class Quantum 4K QLED HD, Nespresso Vertuo Pop Coffee and Espresso, All board games On Sale🔥at Walmart"
-    },
-    {
-      "at": "2026-11-12T15:23:53Z",
-      "text": "2 new offer(s): Ninja Crispi Glass Air Fryer 4-Qt, 3-in-, Shark Navigator Lift-Away Upright Vacuum"
     }
   ]
 }
