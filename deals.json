@@ -1,9 +1,63 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T21:16:51Z",
+  "lastScan": "2026-11-12T21:26:54Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC5147E2B4FA7F1D1AC53CA6FF0D5E77",
+      "store": "Deal",
+      "title": "✅ Enjoy free delivery benefits, shipping perks, exclusive member prices, gas savings & more!",
+      "price": "$120",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "✅ Save time and money on groceries, household essentials & everyday shopping. Join Now:",
+      "link": "https://mavely.app.link/6d7cAzNaX7b",
+      "page": null,
+      "image": "img/wa/AC5147E2B4FA7F1D1AC53CA6FF0D5E77.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T21:26:42Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC13605FC230960DD2BF4787F48DB717",
+      "store": "Deal",
+      "title": "Extra 20% off applies automatically when you add to cart",
+      "price": "$70",
+      "was": "$528",
+      "discount": "87% off",
+      "code": "SINGLESDAY",
+      "notes": "Soho Medium Quilted Tote Bag Use code SINGLESDAY for extra 11% off",
+      "link": "https://mavely.app.link/Ng0V35B307b",
+      "page": null,
+      "image": "img/wa/AC13605FC230960DD2BF4787F48DB717.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T21:26:38Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC54DCF986D5EC02A3800DAF0029C468",
+      "store": "Deal",
+      "title": "Cooper Logo Billfold Wallet With Passcase",
+      "price": "$27",
+      "was": "$158",
+      "discount": "83% off",
+      "code": "SINGLESDAY",
+      "notes": "Michael Kors EXTRA 20% OFF APPLIED IN CART And 11% OFF CODE: SINGLESDAY",
+      "link": "https://mavely.app.link/zxCz8ki307b",
+      "page": null,
+      "image": "img/wa/AC54DCF986D5EC02A3800DAF0029C468.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T21:26:33Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACACF96193BB7E62ADF3768F03E5BC34",
       "store": "Michael Kors",
@@ -1075,61 +1129,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC1D00BD05A3C943BD1B3115CD5819A3",
-      "store": "Deal",
-      "title": "Versace Eros for Men 3.4 oz Eau de Toilette Spray",
-      "price": "$63",
-      "was": "$120",
-      "discount": "48% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/versace-eros-for-men-3-4-oz-eau-de-toilette-spray-9/",
-      "page": null,
-      "image": "img/wa/AC1D00BD05A3C943BD1B3115CD5819A3.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T02:42:56Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACCB686413A1C4E638A60E1E10DBB47D",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$49",
-      "was": "$155",
-      "discount": "68% off",
-      "code": "SINGLESDAY",
-      "notes": "Michael Kors Fulton Studded Logo Moccasin Use code : SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/yG29truKZ7b",
-      "page": null,
-      "image": "img/wa/ACCB686413A1C4E638A60E1E10DBB47D.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T02:34:22Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-AC63743761800374991F29ADC2E9D1E4",
-      "store": "Deal",
-      "title": "Crayola Light Up Tracing Pad Pink, Holiday Gifts for Girls & Boys, Ages 6+",
-      "price": "$11",
-      "was": "$24",
-      "discount": "54% off",
-      "code": null,
-      "notes": "Early Black Friday Deal!!",
-      "link": "https://blockbusterdeals.net/product/crayola-light-up-tracing-pad-pink-holiday-gifts-for-girls-boys-ages-6/",
-      "page": null,
-      "image": "img/wa/AC63743761800374991F29ADC2E9D1E4.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T02:27:33Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1176,6 +1175,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T21:26:54Z",
+      "text": "3 new offer(s): ✅ Enjoy free delivery benefits, shipping, Extra 20% off applies automatically when, Cooper Logo Billfold Wallet With Passcas"
+    },
     {
       "at": "2026-11-12T21:16:51Z",
       "text": "1 new offer(s): Mercer Medium Logo and Leather Accordion"
@@ -1251,10 +1254,6 @@
     {
       "at": "2026-11-12T16:44:52Z",
       "text": "2 new offer(s): Big Chill Women's Chevron Quilted Faux F, Razor Rollie Kix - Blue, 3-Wheel Light-U"
-    },
-    {
-      "at": "2026-11-12T16:34:43Z",
-      "text": "2 new offer(s): VIZIO 4.1 Pro Soundbar w/ Dolby Atmos, W, Marvel Spider-Man Tool Bench Playset wit"
     }
   ]
 }
