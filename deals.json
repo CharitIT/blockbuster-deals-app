@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T21:26:54Z",
+  "lastScan": "2026-11-12T21:36:55Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8C8E1C6C69287DCD809E2F926ECCAC",
+      "store": "Deal",
+      "title": "• Unlimited access to millions of songs and podcasts.",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🎶 Get 3 Months FREE of Amazon Music Unlimited! 🎧 ✨ New subscribers only 🎵 Enjoy millions of songs & podcasts, ad-free! 📲 Download your favorites & listen offlin",
+      "link": "https://theblogcm.com/566/eJkb",
+      "page": null,
+      "image": "img/wa/AC8C8E1C6C69287DCD809E2F926ECCAC.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T21:28:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC5147E2B4FA7F1D1AC53CA6FF0D5E77",
       "store": "Deal",
@@ -1111,24 +1129,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC1CAED240A2C0A24F8C199C5698C802",
-      "store": "Deal",
-      "title": "Bear Baby Bottle Warmer, Fast Warming Breast Milk Formula, White",
-      "price": "$14",
-      "was": "$29",
-      "discount": "52% off",
-      "code": "YLQUI517",
-      "notes": "Use Code : YLQUI517",
-      "link": "https://blockbusterdeals.net/product/bear-baby-bottle-warmer-fast-warming-breast-milk-formula-white-3/",
-      "page": null,
-      "image": "img/wa/AC1CAED240A2C0A24F8C199C5698C802.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T02:43:00Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1175,6 +1175,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T21:36:55Z",
+      "text": "1 new offer(s): • Unlimited access to millions of songs "
+    },
     {
       "at": "2026-11-12T21:26:54Z",
       "text": "3 new offer(s): ✅ Enjoy free delivery benefits, shipping, Extra 20% off applies automatically when, Cooper Logo Billfold Wallet With Passcas"
@@ -1250,10 +1254,6 @@
     {
       "at": "2026-11-12T16:55:01Z",
       "text": "1 new offer(s): My Life As Peyton 18-inch Posable Fashio"
-    },
-    {
-      "at": "2026-11-12T16:44:52Z",
-      "text": "2 new offer(s): Big Chill Women's Chevron Quilted Faux F, Razor Rollie Kix - Blue, 3-Wheel Light-U"
     }
   ]
 }
