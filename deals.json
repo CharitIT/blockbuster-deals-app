@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T15:54:13Z",
+  "lastScan": "2026-11-12T16:04:19Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACCBEFB21F272DBE4EBD99A165AE681D",
+      "store": "Walmart",
+      "title": "Walmart Black Friday Deal!!",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "TVS on Sale 🔥",
+      "link": "https://go.sylikes.com/fbgOeRuuxbq6",
+      "page": null,
+      "image": "img/wa/ACCBEFB21F272DBE4EBD99A165AE681D.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T16:00:50Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC400EB3BA081264755E8CB4082706B0",
       "store": "Deal",
@@ -1101,25 +1120,6 @@
       "merchant": "Under Armour"
     },
     {
-      "id": "wa-AC30842A801BEE269A496821E7CCB1FD",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$127",
-      "was": "$498",
-      "discount": "74% off",
-      "code": "SINGLESDAY",
-      "notes": "Today Only! Michael Kors Jet Set Travel Large 3-in-1 Signature Logo Tote Bag Use code SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/KQ8jMGR7Y7b",
-      "page": null,
-      "image": "img/wa/AC30842A801BEE269A496821E7CCB1FD.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T17:32:40Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1166,6 +1166,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T16:04:19Z",
+      "text": "1 new offer(s): Walmart Black Friday Deal!!"
+    },
     {
       "at": "2026-11-12T15:54:13Z",
       "text": "2 new offer(s): GORGLITTER Women's Polka Dots Cinched Wa, Champion Women's Performance Script Draw"
@@ -1241,10 +1245,6 @@
     {
       "at": "2026-11-12T00:04:46Z",
       "text": "1 new offer(s): 12 oz. Coffee Mug with Warmer Coaster an"
-    },
-    {
-      "at": "2026-11-11T22:03:03Z",
-      "text": "6 new offer(s): ✅ Includes 4 lightweight  skincare essen, ✅ Enjoy free delivery benefits, shipping, Cuisinart®️ Chef's Classic 11-Piece Stai"
     }
   ]
 }
