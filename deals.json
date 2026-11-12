@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T01:26:19Z",
+  "lastScan": "2026-11-12T01:46:37Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC7ECE57CC7001F769A89458EB4F5FDA",
+      "store": "Deal",
+      "title": "3-in-1 Bamboo Couch Tray with Silicone-Lined Wine Glass Holder, Cup Compartment, and Non-Slip Phone Stand",
+      "price": "$9",
+      "was": "$19",
+      "discount": "53% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/3-in-1-bamboo-couch-tray-with-silicone-lined-wine-glass-holder-cup-compartment-and-non-slip-phone-stand/",
+      "page": null,
+      "image": "img/wa/AC7ECE57CC7001F769A89458EB4F5FDA.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T01:43:53Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACF325E9350B4F9658B703E0BF048F5F",
+      "store": "Deal",
+      "title": "Ring Rover Cam, indoor roving security camera, Custom Patrol Routes, and autonomous mapping",
+      "price": "$999",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/ring-rover-cam-indoor-roving-security-camera-custom-patrol-routes-and-autonomous-mapping/",
+      "page": null,
+      "image": "img/wa/ACF325E9350B4F9658B703E0BF048F5F.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T01:41:38Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACC060C40293153F1F561DC77C8BB0AE",
       "store": "Kohl's",
@@ -1090,44 +1126,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC4E4C906EB2EFC59AE23D02F9D80B80",
-      "store": "Under Armour",
-      "title": "Free standard shipping on orders $99+",
-      "price": "$7",
-      "was": "$20",
-      "discount": "65% off",
-      "code": "WARMUP",
-      "notes": "Under Armour Boys' Outlet Shorts Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
-      "link": "https://go.magik.ly/ml/4rtqi/",
-      "page": null,
-      "image": "img/wa/AC4E4C906EB2EFC59AE23D02F9D80B80.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T02:28:09Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
-      "id": "wa-ACDAE04D5C700A1849241617B1850419",
-      "store": "Under Armour",
-      "title": "Free standard shipping on orders $99+",
-      "price": "$11",
-      "was": "$23",
-      "discount": "52% off",
-      "code": "WARMUP",
-      "notes": "Under Armour Tech™️ Graphic Boys' Shorts Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
-      "link": "https://go.magik.ly/ml/4rsfl/",
-      "page": null,
-      "image": "img/wa/ACDAE04D5C700A1849241617B1850419.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T02:17:26Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1174,6 +1172,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T01:46:37Z",
+      "text": "2 new offer(s): 3-in-1 Bamboo Couch Tray with Silicone-L, Ring Rover Cam, indoor roving security c"
+    },
     {
       "at": "2026-11-12T01:26:19Z",
       "text": "1 new offer(s): NutriBullet®️ 1200 Watt Blender Combo wi"
@@ -1249,10 +1251,6 @@
     {
       "at": "2026-11-11T02:41:57Z",
       "text": "2 new offer(s): Men's Outlet Workout Pants & Leggings - , Brightown 39FT 100LED Solar Rope Lights "
-    },
-    {
-      "at": "2026-11-11T02:31:49Z",
-      "text": "1 new offer(s): Free standard shipping on orders $99+"
     }
   ]
 }
