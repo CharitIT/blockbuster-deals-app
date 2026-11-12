@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T00:35:21Z",
+  "lastScan": "2026-11-12T00:45:30Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACCEA5B0F29A899D457150A873915A01",
+      "store": "Walmart",
+      "title": "babyeap Baby Swing for Infants - Smart Electric Swing with Bluetooth Control 5-point Harness,5 Sway Speed,10 Lullabies(Gray 2)",
+      "price": "$69",
+      "was": "$143",
+      "discount": "52% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/u5e07SuCZ7b",
+      "page": null,
+      "image": "img/wa/ACCEA5B0F29A899D457150A873915A01.jpg",
+      "category": null,
+      "postedAt": "2026-11-12T00:39:01Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC3A1AA56BE171DB5060D822F2CEB6B8",
       "store": "Deal",
@@ -1108,24 +1127,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC8345E3DA6E8C328E10668F7E1A2CA4",
-      "store": "Deal",
-      "title": "Ring Battery Doorbell (newest model) Matte Mocha, with Indoor Cam, White",
-      "price": "$49",
-      "was": "$149",
-      "discount": "67% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/ring-battery-doorbell-newest-model-matte-mocha-with-indoor-cam-white/",
-      "page": null,
-      "image": "img/wa/AC8345E3DA6E8C328E10668F7E1A2CA4.jpg",
-      "category": null,
-      "postedAt": "2026-11-11T01:27:36Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1172,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-12T00:45:30Z",
+      "text": "1 new offer(s): babyeap Baby Swing for Infants - Smart E"
+    },
     {
       "at": "2026-11-12T00:35:21Z",
       "text": "2 new offer(s): Garmin fēnix®️ E, Multisport GPS Smartwa, Brightown 39FT 100LED Solar Rope Lights "
@@ -1247,10 +1252,6 @@
     {
       "at": "2026-11-11T01:41:12Z",
       "text": "2 new offer(s): Free standard shipping on orders $99+, Ultra Facial Cream with Squalane"
-    },
-    {
-      "at": "2026-11-11T01:31:02Z",
-      "text": "1 new offer(s): Ring Battery Doorbell (newest model) Mat"
     }
   ]
 }
