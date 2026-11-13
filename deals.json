@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T19:49:00Z",
+  "lastScan": "2026-11-13T19:59:40Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACD13B7ECBB899BB0A4768A54D103DA6",
+      "store": "Deal",
+      "title": "🚨Login or signin to adiclub account for discount",
+      "price": "$34",
+      "was": "$100",
+      "discount": "66% off",
+      "code": "SD15",
+      "notes": "Adidas Early Black Friday Sale! Men's FULL ZIP WOVEN TRAVEL JACKET 60 % off + Extra 15% off Use Code SD15 You can create a free Adiclub account here👇",
+      "link": "https://mavely.app.link/JVzHGsHz27b",
+      "page": null,
+      "image": "img/wa/ACD13B7ECBB899BB0A4768A54D103DA6.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T19:56:27Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACB973F266BB460DFD97E159DFADD3A3",
+      "store": "Michael Kors",
+      "title": "Free shipping when you login to your Michael kors Account",
+      "price": "$48",
+      "was": "$119",
+      "discount": "60% off",
+      "code": null,
+      "notes": "MICHAEL KORS Jovie Color-Block Suede Sneaker EXTRA 20% OFF APPLIED IN CART",
+      "link": "https://go.magik.ly/ml/4t7ru/",
+      "page": null,
+      "image": "img/wa/ACB973F266BB460DFD97E159DFADD3A3.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T19:56:22Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
     {
       "id": "wa-AC241DD87D9370C5FC6CC8B92CA66B57",
       "store": "Michael Kors",
@@ -1081,44 +1118,6 @@
       "merchant": "Wayfair"
     },
     {
-      "id": "wa-AC09E45F5A756D2ADA6C7157D3E24647",
-      "store": "Wayfair",
-      "title": "VACTechPro 35kPa Self-standing Cordless & 6-in-1 Stick Vacuum with Detachable Battery XCQ-GOLD",
-      "price": "$89",
-      "was": "$599",
-      "discount": "85% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/a1D4A9kh17b",
-      "page": null,
-      "image": "img/wa/AC09E45F5A756D2ADA6C7157D3E24647.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T01:13:18Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Wayfair"
-    },
-    {
-      "id": "wa-ACDB6D15636432484D21715E7092467E",
-      "store": "Walmart",
-      "title": "Beats by Dr. Dre Solo4 On-Ear Wireless Bluetooth Headphones, Drenched Gray",
-      "price": "$69",
-      "was": "$199",
-      "discount": "65% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://mavely.app.link/MvDMeIxh17b",
-      "page": null,
-      "image": "img/wa/ACDB6D15636432484D21715E7092467E.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T00:54:42Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1165,6 +1164,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T19:59:40Z",
+      "text": "2 new offer(s): 🚨Login or signin to adiclub account for , Free shipping when you login to your Mic"
+    },
     {
       "at": "2026-11-13T19:49:00Z",
       "text": "3 new offer(s): FREE SHIPPING WITH KORSVIP OR ORDERS $75, Loretta Sequin Embellished Metallic Sand, Carter's Child of Mine Baby 2-Pack Outfi"
@@ -1240,10 +1243,6 @@
     {
       "at": "2026-11-13T15:11:42Z",
       "text": "1 new offer(s): Walmart Black Friday Early Access is LIV"
-    },
-    {
-      "at": "2026-11-13T03:20:20Z",
-      "text": "2 new offer(s): • Unlimited access to millions of songs , Bath & Body Works 3-Wick Candles are BOG"
     }
   ]
 }
