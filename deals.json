@@ -1,9 +1,83 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T18:02:10Z",
+  "lastScan": "2026-11-13T18:12:57Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC800BB5C2236939718690A6AEC35A38",
+      "store": "Walmart",
+      "title": "✅ Enjoy delivery & shipping perks 📦 ✅ Unlock exclusive member savings 💰 ✅ Save on fuel ⛽ ✅ Make grocery & everyday shopping easier 🛍️",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🔥 DOUBLE THE MEMBERSHIP PERKS, DOUBLE THE EXCITEMENT! 🛒🎉 😍 Get Walmart+ & Sam’s Club Plus Annual Memberships together for just $120/year! 💥 Two premium membersh",
+      "link": "https://mavely.app.link/6d7cAzNaX7b",
+      "page": null,
+      "image": "img/wa/AC800BB5C2236939718690A6AEC35A38.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T18:11:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACD8610DFADC80B1187748B7FBAAEA07",
+      "store": "Deal",
+      "title": "Play-Doh Rainbow Swirl Ice Cream Playset with 7 Pretend Play Kitchen Accessories, Arts and Crafts Toys for 3 Year Old Girls and Boys and Up",
+      "price": "$11",
+      "was": "$24",
+      "discount": "54% off",
+      "code": null,
+      "notes": "Clip coupon",
+      "link": "https://blockbusterdeals.net/product/play-doh-rainbow-swirl-ice-cream-playset-with-7-pretend-play-kitchen-accessories-arts-and-crafts-toys-for-3-year-old-girls-and-boys-and-up-3/",
+      "page": null,
+      "image": "img/wa/ACD8610DFADC80B1187748B7FBAAEA07.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T18:07:43Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACD1DE888E537331D2962693D7FCE9F4",
+      "store": "Macy's",
+      "title": "Cast Iron 12\" Frypan",
+      "price": "$12",
+      "was": "$46",
+      "discount": "74% off",
+      "code": null,
+      "notes": "Arch Studio",
+      "link": "https://mavely.app.link/MxVBeUcg27b",
+      "page": null,
+      "image": "img/wa/ACD1DE888E537331D2962693D7FCE9F4.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T18:04:54Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-AC6547FA5A88F21F1D34E4BF6EE8C589",
+      "store": "Deal",
+      "title": "With 8 Washable Markers & 5 Stencils, Arts & Crafts Toys for Kids, Ages 6+, Battery-Powered Sprayer Kids Activities",
+      "price": "$11",
+      "was": "$21",
+      "discount": "48% off",
+      "code": null,
+      "notes": "Crayola Marker Airbrush Spray Art Kit, Arts & Crafts Toys, Holiday Gift Clip coupon",
+      "link": "https://blockbusterdeals.net/product/crayola-marker-airbrush-spray-art-kit-arts-crafts-toys-holiday-gift-with-8-washable-markers-5-stencils-arts-crafts-toys-for-kids-ages-6-battery-powered-sprayer-kids-activities/",
+      "page": null,
+      "image": "img/wa/AC6547FA5A88F21F1D34E4BF6EE8C589.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T18:01:38Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACCE00CE96C1D28ED3CA29C73AFAF4D5",
       "store": "Macy's",
@@ -1044,81 +1118,6 @@
       "merchant": "Wayfair"
     },
     {
-      "id": "wa-ACFD2AE69AECA9A4F34525AAC2966CB1",
-      "store": "Wayfair",
-      "title": "Ovidia Standing & Height-Adjustable Desks",
-      "price": "$88",
-      "was": "$350",
-      "discount": "75% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/eQJzewCd17b",
-      "page": null,
-      "image": "img/wa/ACFD2AE69AECA9A4F34525AAC2966CB1.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T00:22:38Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Wayfair"
-    },
-    {
-      "id": "wa-ACC7BD75D16C5691A249FDDDAC35BFF2",
-      "store": "Deal",
-      "title": "FDJ Remote Control Car - Transform Toys Car Robot, One Button Deformation to Robot with Flashing Light, 2.4Ghz 1:18 Scale Transforming Police Car Kids Toys with 360 Degree Rotating, Girls Boys Toys",
-      "price": "$18",
-      "was": "$28",
-      "discount": "36% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/fdj-remote-control-car-transform-toys-car-robot-one-button-deformation-to-robot-with-flashing-light-2-4ghz-118-scale-transforming-police-car-kids-toys-with-360-degree-rotating-girls-boys-toys-4/",
-      "page": null,
-      "image": "img/wa/ACC7BD75D16C5691A249FDDDAC35BFF2.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T00:15:27Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC4B2C3845C4C8F618496F74E81335E0",
-      "store": "Wayfair",
-      "title": "Daniel 37\" Low Profile Bamboo and Metal Platform Bed",
-      "price": "$153",
-      "was": "$499",
-      "discount": "69% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/dRLwecsd17b",
-      "page": null,
-      "image": "img/wa/AC4B2C3845C4C8F618496F74E81335E0.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T00:15:25Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Wayfair"
-    },
-    {
-      "id": "wa-AC232808576B7CE488750AED8FC8C16E",
-      "store": "Wayfair",
-      "title": "Rickeisha 77.2\" Modern TV Stand with High Gloss Finish",
-      "price": "$178",
-      "was": "$289",
-      "discount": "38% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/ar1opXed17b",
-      "page": null,
-      "image": "img/wa/AC232808576B7CE488750AED8FC8C16E.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T00:13:59Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Wayfair"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1165,6 +1164,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T18:12:57Z",
+      "text": "4 new offer(s): ✅ Enjoy delivery & shipping perks 📦 ✅ Un, Play-Doh Rainbow Swirl Ice Cream Playset, Cast Iron 12\" Frypan"
+    },
     {
       "at": "2026-11-13T18:02:10Z",
       "text": "3 new offer(s): 3-Pc. Fry Pan Set, Nike Air Max 95 Big Bubble Chrome Women', RC516 16-Cup Rice Cooker And Warmer"
@@ -1240,10 +1243,6 @@
     {
       "at": "2026-11-13T03:10:00Z",
       "text": "2 new offer(s): Wyze Cam OG Indoor/Outdoor 1080p HD Smar, True Hue 10-Pack Bath Towel Bundle, Blea"
-    },
-    {
-      "at": "2026-11-13T02:59:46Z",
-      "text": "1 new offer(s): Hyper Toy Company, HPR125 12V Electric D"
     }
   ]
 }
