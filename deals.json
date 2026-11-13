@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T17:19:09Z",
+  "lastScan": "2026-11-13T17:29:49Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACBB920C758971A4B0BD7E865E9EACDE",
+      "store": "Macy's",
+      "title": "Petite Polar Fleece Zip-Front Jacket",
+      "price": "$19",
+      "was": "$54",
+      "discount": "65% off",
+      "code": null,
+      "notes": "Style & Co",
+      "link": "https://mavely.app.link/fnwfiQAe27b",
+      "page": null,
+      "image": "img/wa/ACBB920C758971A4B0BD7E865E9EACDE.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T17:27:11Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
     {
       "id": "wa-ACC752709A899C9C338EA748804750A0",
       "store": "Macy's",
@@ -1099,25 +1118,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-ACECD440D83DCAA7DED3AF048959F44E",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$56",
-      "was": "$398",
-      "discount": "86% off",
-      "code": "SINGLESDAY",
-      "notes": "Code Still working!! Michael Kors Voyager Large Color-Block Signature Logo Tote Bag Use code SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/ZEOg4J6007b",
-      "page": null,
-      "image": "img/wa/ACECD440D83DCAA7DED3AF048959F44E.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T20:46:43Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1164,6 +1164,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T17:29:49Z",
+      "text": "1 new offer(s): Petite Polar Fleece Zip-Front Jacket"
+    },
     {
       "at": "2026-11-13T17:19:09Z",
       "text": "2 new offer(s): Men's Gliano Round Toe Casual Sneakers, Big Chill Women's Packable Puffer Jacket"
@@ -1239,10 +1243,6 @@
     {
       "at": "2026-11-13T02:29:04Z",
       "text": "2 new offer(s): Carote 7-Piece Carbon Steel Nonstick Bak, Womens Flower Sweaters Cute Fall Vintage"
-    },
-    {
-      "at": "2026-11-13T02:08:54Z",
-      "text": "1 new offer(s): 🚨Pink has all sizes in stock"
     }
   ]
 }
