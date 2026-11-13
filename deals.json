@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T17:29:49Z",
+  "lastScan": "2026-11-13T17:40:29Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC63529B111AE40BF60DF48299A15A9C",
+      "store": "Walmart",
+      "title": "Shyft DualRide Infant Car Seat and Stroller Combo (Beaufort Black)",
+      "price": "$399",
+      "was": "$549",
+      "discount": "27% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://mavely.app.link/MVF5bz8e27b",
+      "page": null,
+      "image": "img/wa/AC63529B111AE40BF60DF48299A15A9C.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T17:37:41Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC2F2797BDC1464B80D3DFECC2BCD1BB",
+      "store": "Walmart",
+      "title": "Shyft DualRide Infant Car Seat and Stroller Combo (Beaufort Black)",
+      "price": "$399",
+      "was": "$549",
+      "discount": "27% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://mavely.app.link/MVF5bz8e27b",
+      "page": null,
+      "image": "img/wa/AC2F2797BDC1464B80D3DFECC2BCD1BB.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T17:37:35Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACBB920C758971A4B0BD7E865E9EACDE",
       "store": "Macy's",
@@ -1080,44 +1118,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-AC1CF50DB1233181D12929C121967C8A",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$127",
-      "was": "$498",
-      "discount": "74% off",
-      "code": "SINGLESDAY",
-      "notes": "Michael Kors Jet Set Travel Large 3-in-1 Signature Logo Tote Bag Use code SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/RG0rSI5107b",
-      "page": null,
-      "image": "img/wa/AC1CF50DB1233181D12929C121967C8A.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T20:59:38Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-ACF96C05E7940A87803E52908FB1FE81",
-      "store": "Michael Kors",
-      "title": "Michael Kors Designer handbags  Clearance🔥🔥",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "BUY 2+ ITEMS, GET 20% OFF",
-      "link": "https://mavely.app.link/QnulWux107b",
-      "page": null,
-      "image": "img/wa/ACF96C05E7940A87803E52908FB1FE81.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T20:51:36Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1164,6 +1164,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T17:40:29Z",
+      "text": "2 new offer(s): Shyft DualRide Infant Car Seat and Strol, Shyft DualRide Infant Car Seat and Strol"
+    },
     {
       "at": "2026-11-13T17:29:49Z",
       "text": "1 new offer(s): Petite Polar Fleece Zip-Front Jacket"
@@ -1239,10 +1243,6 @@
     {
       "at": "2026-11-13T02:39:18Z",
       "text": "2 new offer(s): Free shipping on orders $150+, RSPGAME Music Sync LED Gaming Desk Compu"
-    },
-    {
-      "at": "2026-11-13T02:29:04Z",
-      "text": "2 new offer(s): Carote 7-Piece Carbon Steel Nonstick Bak, Womens Flower Sweaters Cute Fall Vintage"
     }
   ]
 }
