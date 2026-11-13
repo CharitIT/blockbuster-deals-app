@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T03:20:20Z",
+  "lastScan": "2026-11-13T15:11:42Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC54AA6BA99CC8104F201FBB3E36239C",
+      "store": "Walmart",
+      "title": "Walmart Black Friday Early Access is LIVE🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/R2Km1U2z07b",
+      "page": null,
+      "image": "img/wa/AC54AA6BA99CC8104F201FBB3E36239C.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T15:02:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC99607AD476CE60247DEAE7B26156D1",
       "store": "Deal",
@@ -1108,25 +1127,6 @@
       "merchant": "Wayfair"
     },
     {
-      "id": "wa-ACF31DC36584320FF37AD2B8A27F1CB5",
-      "store": "Walmart",
-      "title": "BISSELL PowerForce Helix, Bagless, Upright Vacuum, Pet Friendly, Scatter-Free Technology, Helix Dirt Separation System, Lightweight, 3313, Blue & Black",
-      "price": "$59",
-      "was": "$109",
-      "discount": "46% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://go.sylikes.com/fbgOhlxu1SyO",
-      "page": null,
-      "image": "img/wa/ACF31DC36584320FF37AD2B8A27F1CB5.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T17:06:20Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1173,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T15:11:42Z",
+      "text": "1 new offer(s): Walmart Black Friday Early Access is LIV"
+    },
     {
       "at": "2026-11-13T03:20:20Z",
       "text": "2 new offer(s): • Unlimited access to millions of songs , Bath & Body Works 3-Wick Candles are BOG"
@@ -1248,10 +1252,6 @@
     {
       "at": "2026-11-12T21:26:54Z",
       "text": "3 new offer(s): ✅ Enjoy free delivery benefits, shipping, Extra 20% off applies automatically when, Cooper Logo Billfold Wallet With Passcas"
-    },
-    {
-      "at": "2026-11-12T21:16:51Z",
-      "text": "1 new offer(s): Mercer Medium Logo and Leather Accordion"
     }
   ]
 }
