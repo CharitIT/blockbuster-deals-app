@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T01:48:39Z",
+  "lastScan": "2026-11-13T01:58:47Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC75086C439506657C9D69E2811DF073",
+      "store": "Walmart",
+      "title": "CAROTE 2-Pack 20 oz Insulated Stainless Steel Water Bottles with One-Click Leak-Proof Lids, Carry Loops and Removable Silicone Boots, Dishwasher Safe",
+      "price": "$14",
+      "was": "$45",
+      "discount": "69% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Link for Bottles 👇 Link For All Home Deals👇",
+      "link": "https://mavely.app.link/9b4c3J2m17b",
+      "page": null,
+      "image": "img/wa/AC75086C439506657C9D69E2811DF073.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T01:58:05Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACA92221405B074E27EC7916603AD6F1",
+      "store": "Deal",
+      "title": "KCDDUMK 4 Pack Cami Bralettes for Women, Spaghetti Strap Sleep Bras",
+      "price": "$25",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/kcddumk-4-pack-cami-bralettes-for-women-spaghetti-strap-sleep-bras-4/",
+      "page": null,
+      "image": "img/wa/ACA92221405B074E27EC7916603AD6F1.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T01:58:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACEA4AC574DF52E893F7231453D3B726",
       "store": "Deal",
@@ -1095,42 +1132,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC400EB3BA081264755E8CB4082706B0",
-      "store": "Deal",
-      "title": "GORGLITTER Women's Polka Dots Cinched Waist Maxi Dress Elegant Wedding Guest Cocktail Party Wrap V Neck Flowy Dresses",
-      "price": "$9",
-      "was": "$30",
-      "discount": "70% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/gorglitter-womens-polka-dots-cinched-waist-maxi-dress-elegant-wedding-guest-cocktail-party-wrap-v-neck-flowy-dresses/",
-      "page": null,
-      "image": "img/wa/AC400EB3BA081264755E8CB4082706B0.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T15:51:50Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC91A9D60018AB50D90D3D75823BE73F",
-      "store": "Deal",
-      "title": "Champion Women's Performance Script Drawcord 7/8\" Leggings, Fitted",
-      "price": "$7",
-      "was": "$23",
-      "discount": "70% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/champion-womens-performance-script-drawcord-7-8-leggings-fitted/",
-      "page": null,
-      "image": "img/wa/AC91A9D60018AB50D90D3D75823BE73F.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T15:46:46Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1177,6 +1178,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T01:58:47Z",
+      "text": "2 new offer(s): CAROTE 2-Pack 20 oz Insulated Stainless , KCDDUMK 4 Pack Cami Bralettes for Women,"
+    },
     {
       "at": "2026-11-13T01:48:39Z",
       "text": "2 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, T-fal Kitchen Solutions Ceramic Nonstick"
@@ -1252,10 +1257,6 @@
     {
       "at": "2026-11-12T19:46:09Z",
       "text": "2 new offer(s): Melissa & Doug Wooden Scoop & Serve Ice , MSI Cyborg 15.6\" 144Hz Gaming Laptop, In"
-    },
-    {
-      "at": "2026-11-12T19:36:04Z",
-      "text": "1 new offer(s): Big Chill Women's Packable Puffer Jacket"
     }
   ]
 }
