@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T00:27:51Z",
+  "lastScan": "2026-11-13T00:37:59Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC4E6749A968A138ED80658FC1119D73",
+      "store": "Wayfair",
+      "title": "Bedroom Sets On Sale🔥at Wayfair",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/xBZzu7Je17b",
+      "page": null,
+      "image": "img/wa/AC4E6749A968A138ED80658FC1119D73.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T00:29:36Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
     {
       "id": "wa-ACFD2AE69AECA9A4F34525AAC2966CB1",
       "store": "Wayfair",
@@ -1115,25 +1134,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC0F0010A4F9705B8A73870CCBDA8B99",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$34",
-      "was": "$145",
-      "discount": "77% off",
-      "code": "SINGLESDAY",
-      "notes": "Michael Kors Carmen Signature Logo Sandal Use code : SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/yWmkzZXMZ7b",
-      "page": null,
-      "image": "img/wa/AC0F0010A4F9705B8A73870CCBDA8B99.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T03:06:11Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1180,6 +1180,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T00:37:59Z",
+      "text": "1 new offer(s): Bedroom Sets On Sale🔥at Wayfair"
+    },
     {
       "at": "2026-11-13T00:27:51Z",
       "text": "1 new offer(s): Ovidia Standing & Height-Adjustable Desk"
@@ -1255,10 +1259,6 @@
     {
       "at": "2026-11-12T17:25:24Z",
       "text": "2 new offer(s): Better Homes & Gardens Modern Farmhouse , Free standard shipping on orders $99+"
-    },
-    {
-      "at": "2026-11-12T17:15:14Z",
-      "text": "2 new offer(s): Tramontina Utsava Tri-Ply Clad Stainless, BISSELL PowerForce Helix, Bagless, Uprig"
     }
   ]
 }
