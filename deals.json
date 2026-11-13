@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T17:08:21Z",
+  "lastScan": "2026-11-13T17:19:09Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACC752709A899C9C338EA748804750A0",
+      "store": "Macy's",
+      "title": "Men's Gliano Round Toe Casual Sneakers",
+      "price": "$34",
+      "was": "$99",
+      "discount": "66% off",
+      "code": null,
+      "notes": "Calvin Klein",
+      "link": "https://mavely.app.link/UhsUtnSe27b",
+      "page": null,
+      "image": "img/wa/ACC752709A899C9C338EA748804750A0.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T17:16:50Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Macy's"
+    },
+    {
+      "id": "wa-ACDEE8571705CAF4D417298D06533F31",
+      "store": "Walmart",
+      "title": "Big Chill Women's Packable Puffer Jacket, Midweight, Sizes S-3X",
+      "price": "$14",
+      "was": "$65",
+      "discount": "78% off",
+      "code": null,
+      "notes": "RUN❗️ Walmart Black Friday Deal!!",
+      "link": "https://mavely.app.link/pMxDOx9p27b",
+      "page": null,
+      "image": "img/wa/ACDEE8571705CAF4D417298D06533F31.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T17:09:15Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACBD5A1D66A8851B2C805DE4F3348861",
       "store": "Macy's",
@@ -1080,43 +1118,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-ACE2B8D3074AAB7C1E882825AE56CE15",
-      "store": "Michael Kors",
-      "title": "Arden Small Color-Block Signature Logo Messenger Bag",
-      "price": "$49",
-      "was": "$358",
-      "discount": "86% off",
-      "code": "SINGLESDAY",
-      "notes": "Code Still working!! Michael Kors EXTRA 20% OFF APPLIED IN CART And 11% OFF CODE: SINGLESDAY",
-      "link": "https://mavely.app.link/DHZaAI1Z07b",
-      "page": null,
-      "image": "img/wa/ACE2B8D3074AAB7C1E882825AE56CE15.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T20:46:37Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-AC27E9FE80B22D0D6E1EF189F04932F0",
-      "store": "Deal",
-      "title": "Add to Cart to get 25% Discount",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Today Only!! Lancome Best Sellers Deals Get 25% off",
-      "link": "https://mavely.app.link/8ZZKaNHZ07b",
-      "page": null,
-      "image": "img/wa/AC27E9FE80B22D0D6E1EF189F04932F0.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T20:36:02Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1163,6 +1164,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T17:19:09Z",
+      "text": "2 new offer(s): Men's Gliano Round Toe Casual Sneakers, Big Chill Women's Packable Puffer Jacket"
+    },
     {
       "at": "2026-11-13T17:08:21Z",
       "text": "7 new offer(s): Men's Gliano Round Toe Casual Sneakers, Men's French Rib Quarter-Zip Sweater, Men's Classic Midweight Stand Collar Jac"
@@ -1238,10 +1243,6 @@
     {
       "at": "2026-11-13T02:08:54Z",
       "text": "1 new offer(s): 🚨Pink has all sizes in stock"
-    },
-    {
-      "at": "2026-11-13T01:58:47Z",
-      "text": "2 new offer(s): CAROTE 2-Pack 20 oz Insulated Stainless , KCDDUMK 4 Pack Cami Bralettes for Women,"
     }
   ]
 }
