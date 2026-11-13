@@ -1,9 +1,65 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T01:08:18Z",
+  "lastScan": "2026-11-13T01:18:22Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACF53158F3B95F9A8ABD47998FA2C713",
+      "store": "Deal",
+      "title": "YADIFEN Womens Shapewear Tummy Control Shorts, High Waisted Body Shaper",
+      "price": "$9",
+      "was": "$26",
+      "discount": "65% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/yadifen-womens-shapewear-tummy-control-shorts-high-waisted-body-shaper/",
+      "page": null,
+      "image": "img/wa/ACF53158F3B95F9A8ABD47998FA2C713.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T01:14:28Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC31245B7AA74B3CAFDB2305F3526A43",
+      "store": "Wayfair",
+      "title": "80\" 4-in-1 Convertible Sleeper Sofa Bed with Built-In Support Frame, Soft Corduroy Upholstery & Removable Armrests",
+      "price": "$434",
+      "was": "$1,199",
+      "discount": "64% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/Pwjciysi17b",
+      "page": null,
+      "image": "img/wa/AC31245B7AA74B3CAFDB2305F3526A43.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T01:13:48Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
+    {
+      "id": "wa-AC09E45F5A756D2ADA6C7157D3E24647",
+      "store": "Wayfair",
+      "title": "VACTechPro 35kPa Self-standing Cordless & 6-in-1 Stick Vacuum with Detachable Battery XCQ-GOLD",
+      "price": "$89",
+      "was": "$599",
+      "discount": "85% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/a1D4A9kh17b",
+      "page": null,
+      "image": "img/wa/AC09E45F5A756D2ADA6C7157D3E24647.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T01:13:18Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
     {
       "id": "wa-ACDB6D15636432484D21715E7092467E",
       "store": "Walmart",
@@ -1076,63 +1132,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC38447DD3E9D86068E118E2BD8C48C6",
-      "store": "Walmart",
-      "title": "Shark Navigator Lift-Away Upright Vacuum, Pet Friendly, XL Dust Cup, CU512 Blue",
-      "price": "$84",
-      "was": "$199",
-      "discount": "58% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://go.sylikes.com/fbgOdzshOPN6",
-      "page": null,
-      "image": "img/wa/AC38447DD3E9D86068E118E2BD8C48C6.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T15:16:42Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACB0932640B59BD10A42A8DEB7A40938",
-      "store": "Walmart",
-      "title": "Gourmia 6 Qt Manual Slow Cooker with 3 Heat Settings, Black",
-      "price": "$15",
-      "was": "$49",
-      "discount": "69% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!!",
-      "link": "https://go.sylikes.com/fbgOdxVj1Hvz",
-      "page": null,
-      "image": "img/wa/ACB0932640B59BD10A42A8DEB7A40938.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T15:11:56Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC97AADF057D1B3DED819C0BEF80C544",
-      "store": "Walmart",
-      "title": "Beats by Dr. Dre Solo4 On-Ear Wireless Bluetooth Headphones, Drenched Gray",
-      "price": "$69",
-      "was": "$199",
-      "discount": "65% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://go.sylikes.com/fbgOb7IGogLI",
-      "page": null,
-      "image": "img/wa/AC97AADF057D1B3DED819C0BEF80C544.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T15:07:39Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1179,6 +1178,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T01:18:22Z",
+      "text": "3 new offer(s): YADIFEN Womens Shapewear Tummy Control S, 80\" 4-in-1 Convertible Sleeper Sofa Bed , VACTechPro 35kPa Self-standing Cordless "
+    },
     {
       "at": "2026-11-13T01:08:18Z",
       "text": "1 new offer(s): Beats by Dr. Dre Solo4 On-Ear Wireless B"
@@ -1254,10 +1257,6 @@
     {
       "at": "2026-11-12T18:05:47Z",
       "text": "2 new offer(s): Serta Simply Soft 4-Piece Black Bed Shee, Delta Children Design & Store 6 Bin Toy "
-    },
-    {
-      "at": "2026-11-12T17:55:44Z",
-      "text": "2 new offer(s): Anne Klein Women's Premium Crystal Accen, Shark SpeedStyle Pro Hair Dryer System P"
     }
   ]
 }
