@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T15:42:30Z",
+  "lastScan": "2026-11-13T15:52:52Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC96318BA513098EB612862CCA7DDDE8",
+      "store": "Deal",
+      "title": "🚨Login or signin to adiclub account for discount",
+      "price": "$25",
+      "was": "$60",
+      "discount": "58% off",
+      "code": "SD15",
+      "notes": "Adidas Men's/women's Runfalcon 5 Running Shoes 60 % off + Extra 15% off Use Code SD15 You can create a free Adiclub account here👇",
+      "link": "https://mavely.app.link/IZCyncfk27b",
+      "page": null,
+      "image": "img/wa/AC96318BA513098EB612862CCA7DDDE8.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T15:49:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACA0ECC39813173DB598AD73A91E0342",
       "store": "Deal",
@@ -1107,24 +1125,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC961A3D801B79740685505030E50927",
-      "store": "Woot",
-      "title": "bella Ceramic Nonstick Cookware Set",
-      "price": "$29",
-      "was": "$59",
-      "discount": "51% off",
-      "code": null,
-      "notes": "Sign in with your Amazon account at checkout for free shipping.",
-      "link": "https://mavely.app.link/sMFNuVRK07b",
-      "page": null,
-      "image": "img/wa/AC961A3D801B79740685505030E50927.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T17:27:16Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1171,6 +1171,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T15:52:52Z",
+      "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
+    },
     {
       "at": "2026-11-13T15:42:30Z",
       "text": "1 new offer(s): Men + Women Up To 60% Off Athletic & Sne"
@@ -1246,10 +1250,6 @@
     {
       "at": "2026-11-13T00:37:59Z",
       "text": "1 new offer(s): Bedroom Sets On Sale🔥at Wayfair"
-    },
-    {
-      "at": "2026-11-13T00:27:51Z",
-      "text": "1 new offer(s): Ovidia Standing & Height-Adjustable Desk"
     }
   ]
 }
