@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T00:37:59Z",
+  "lastScan": "2026-11-13T00:48:04Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC05572D60D13BCAD719E80FFB5A833B",
+      "store": "Wayfair",
+      "title": "Chaseburg 5-Drawer Dresser with Wooden, 39.4'' W Dresser With Steel Frame, Wide Chest of Drawer For Hallway, Bedroom Dresser",
+      "price": "$59",
+      "was": "$256",
+      "discount": "77% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/4PFzt7Ue17b",
+      "page": null,
+      "image": "img/wa/AC05572D60D13BCAD719E80FFB5A833B.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T00:41:28Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
     {
       "id": "wa-AC4E6749A968A138ED80658FC1119D73",
       "store": "Wayfair",
@@ -1115,25 +1134,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-ACC7DD95C67FB41A613F55E3C7670992",
-      "store": "Walmart",
-      "title": "Some hot deals  are only accessible to Walmart plus members until tomorrow",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Walmart Black Friday Event 1 starts in less than 2 hours🚨🚨 If you want a Walmart plus subscription signup here👇",
-      "link": "https://go.sylikes.com/fbgKbTyrYo04",
-      "page": null,
-      "image": "img/wa/ACC7DD95C67FB41A613F55E3C7670992.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T03:29:55Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1180,6 +1180,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T00:48:04Z",
+      "text": "1 new offer(s): Chaseburg 5-Drawer Dresser with Wooden, "
+    },
     {
       "at": "2026-11-13T00:37:59Z",
       "text": "1 new offer(s): Bedroom Sets On Sale🔥at Wayfair"
@@ -1255,10 +1259,6 @@
     {
       "at": "2026-11-12T17:35:31Z",
       "text": "3 new offer(s): CAROTE 18-Piece Nonstick Pots and Pans, , CAROTE 18-Piece Nonstick Pots and Pans, , bella Ceramic Nonstick Cookware Set"
-    },
-    {
-      "at": "2026-11-12T17:25:24Z",
-      "text": "2 new offer(s): Better Homes & Gardens Modern Farmhouse , Free standard shipping on orders $99+"
     }
   ]
 }
