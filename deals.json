@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T02:59:46Z",
+  "lastScan": "2026-11-13T03:10:00Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACF946507E9B38813E1137F86AFAE67A",
+      "store": "Walmart",
+      "title": "Wyze Cam OG Indoor/Outdoor 1080p HD Smart Security Camera with Color Night Vision, Spotlight, Bonus Free 1-Month Cam Plus - White",
+      "price": "$10",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Camera 👇 Tech Deals👇",
+      "link": "https://mavely.app.link/YtTw7Wnr17b",
+      "page": null,
+      "image": "img/wa/ACF946507E9B38813E1137F86AFAE67A.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T03:00:42Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACD8DF9358BA602D3AD4943CBF2821F9",
+      "store": "Walmart",
+      "title": "True Hue 10-Pack Bath Towel Bundle, Bleach-Safe Fade Resistant Technology, Grey",
+      "price": "$10",
+      "was": "$16",
+      "discount": "38% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://go.sylikes.com/fbgOJYI039z7",
+      "page": null,
+      "image": "img/wa/ACD8DF9358BA602D3AD4943CBF2821F9.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T03:00:37Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACD569D1FDF7355B6D290BCAFC41DD4B",
       "store": "Walmart",
@@ -1091,44 +1129,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACB04F2A8C12584277F2828DAC608FC4",
-      "store": "Walmart",
-      "title": "My Life As Peyton 18-inch Posable Fashion Doll with Red Hair, Green Eyes, Floral Dress, Denim Jacket & Boots",
-      "price": "$15",
-      "was": "$29",
-      "discount": "48% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!!",
-      "link": "https://go.sylikes.com/fbgOgYNdRm72",
-      "page": null,
-      "image": "img/wa/ACB04F2A8C12584277F2828DAC608FC4.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T16:45:50Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC0D9E7371C6446BC87ED1A448F67386",
-      "store": "Walmart",
-      "title": "Big Chill Women's Chevron Quilted Faux Fur Lined Hooded Jacket, Heavyweight, Sizes S-3X",
-      "price": "$14",
-      "was": "$85",
-      "discount": "84% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!!",
-      "link": "https://mavely.app.link/zFfl9jEI07b",
-      "page": null,
-      "image": "img/wa/AC0D9E7371C6446BC87ED1A448F67386.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T16:40:55Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1175,6 +1175,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T03:10:00Z",
+      "text": "2 new offer(s): Wyze Cam OG Indoor/Outdoor 1080p HD Smar, True Hue 10-Pack Bath Towel Bundle, Blea"
+    },
     {
       "at": "2026-11-13T02:59:46Z",
       "text": "1 new offer(s): Hyper Toy Company, HPR125 12V Electric D"
@@ -1250,10 +1254,6 @@
     {
       "at": "2026-11-12T21:06:44Z",
       "text": "1 new offer(s): Extra 20% off applies automatically when"
-    },
-    {
-      "at": "2026-11-12T20:56:36Z",
-      "text": "3 new offer(s): Michael Kors Designer handbags  Clearanc, Extra 20% off applies automatically when, Arden Small Color-Block Signature Logo M"
     }
   ]
 }
