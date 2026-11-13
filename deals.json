@@ -1,9 +1,65 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T20:42:40Z",
+  "lastScan": "2026-11-13T20:53:27Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC6AA0D40733EE746181894FA747AB65",
+      "store": "Wayfair",
+      "title": "Duluth Queen Cream Diamond-Tufted Wingback Upholstered Platform Bed",
+      "price": "$374",
+      "was": "$395",
+      "discount": "5% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/jTGBsO6y27b",
+      "page": null,
+      "image": "img/wa/AC6AA0D40733EE746181894FA747AB65.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T20:51:17Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
+    {
+      "id": "wa-AC95C4D745CCF5D1633B09002EE500D4",
+      "store": "Wayfair",
+      "title": "Duncanville Upholstered King Platform Bed, Cream",
+      "price": "$341",
+      "was": "$449",
+      "discount": "24% off",
+      "code": null,
+      "notes": "Click for 5% off in cart Free shipping",
+      "link": "https://mavely.app.link/MypkQjzE27b",
+      "page": null,
+      "image": "img/wa/AC95C4D745CCF5D1633B09002EE500D4.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T20:49:56Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
+    {
+      "id": "wa-ACEBBDDB722296AD4B0FE9D8E885ED68",
+      "store": "Deal",
+      "title": "120-Day Self-Emptying with 4L Dust Bag, Anti-Tangling Tech, Edge-to-Corner Cleaning, Deep Carpet Cleaning, 360° Navigation",
+      "price": "$199",
+      "was": "$349",
+      "discount": "43% off",
+      "code": null,
+      "notes": "DREAME D20 Air Plus Robot Vacuum and Mop, 20,000Pa Powerful Suction",
+      "link": "https://blockbusterdeals.net/product/dreame-d20-air-plus-robot-vacuum-and-mop/",
+      "page": null,
+      "image": "img/wa/ACEBBDDB722296AD4B0FE9D8E885ED68.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T20:43:09Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC1AFB6C1D28CD489C0B5595C82EAFA0",
       "store": "Walmart",
@@ -1062,62 +1118,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACFFDA05E38C5DCBCAF957BFCBD3F801",
-      "store": "Walmart",
-      "title": "Carote 7-Piece Carbon Steel Nonstick Bakeware Set, Khaki Taupe",
-      "price": "$20",
-      "was": "$39",
-      "discount": "49% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!!",
-      "link": "https://mavely.app.link/fb27wtbp17b",
-      "page": null,
-      "image": "img/wa/ACFFDA05E38C5DCBCAF957BFCBD3F801.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T02:26:43Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC73A22472FE15A3AE794133FFCFE442",
-      "store": "Deal",
-      "title": "Womens Flower Sweaters Cute Fall Vintage Chunky Knit Pullover Tops",
-      "price": "$14",
-      "was": "$24",
-      "discount": "42% off",
-      "code": "069QTCYP",
-      "notes": "Use Code : 069QTCYP",
-      "link": "https://blockbusterdeals.net/product/womens-flower-sweaters-cute-fall-vintage-chunky-knit-pullover-tops/",
-      "page": null,
-      "image": "img/wa/AC73A22472FE15A3AE794133FFCFE442.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T02:26:32Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACF8C3D1DE297410D51D84B7FF937F7B",
-      "store": "Coach",
-      "title": "🚨Pink has all sizes in stock",
-      "price": "$19",
-      "was": "$95",
-      "discount": "80% off",
-      "code": null,
-      "notes": "COACH Bay Slide In Signature",
-      "link": "https://mavely.app.link/a5H8xMKn17b",
-      "page": null,
-      "image": "img/wa/ACF8C3D1DE297410D51D84B7FF937F7B.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T02:05:46Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Coach"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1164,6 +1164,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T20:53:27Z",
+      "text": "3 new offer(s): Duluth Queen Cream Diamond-Tufted Wingba, Duncanville Upholstered King Platform Be, 120-Day Self-Emptying with 4L Dust Bag, "
+    },
     {
       "at": "2026-11-13T20:42:40Z",
       "text": "4 new offer(s): Hello Kitty and Friends Train Case Beaut, CRAFTSMAN VERSASTACK 262 -Piece Metric a, Barbie Toddler Long Sleeve Sleep Top and"
@@ -1238,10 +1242,6 @@
     },
     {
       "at": "2026-11-13T15:42:30Z",
-      "text": "1 new offer(s): Men + Women Up To 60% Off Athletic & Sne"
-    },
-    {
-      "at": "2026-11-13T15:32:08Z",
       "text": "1 new offer(s): Men + Women Up To 60% Off Athletic & Sne"
     }
   ]
