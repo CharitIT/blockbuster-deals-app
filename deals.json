@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T15:21:56Z",
+  "lastScan": "2026-11-13T15:32:08Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACBB2D398F81C92B7BF48B1A105F8812",
+      "store": "Deal",
+      "title": "Men + Women Up To 60% Off Athletic & Sneakers Shoes Sale",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "Adidas Black Friday First Access🔥",
+      "link": "https://mavely.app.link/Tk3abSdi27b",
+      "page": null,
+      "image": "img/wa/ACBB2D398F81C92B7BF48B1A105F8812.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T15:22:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC117BE1A7241E6F6D37D4FE98605388",
       "store": "Macy's",
@@ -1108,25 +1126,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC498EC6BBDE4CD0D0A702D3FE39E699",
-      "store": "Under Armour",
-      "title": "Free standard shipping on orders $99+",
-      "price": "$18",
-      "was": "$45",
-      "discount": "60% off",
-      "code": "WARMUP",
-      "notes": "Under Armour Velocity 2.0 Men's ¼ Zip Extra 40%off with code : WARMUP + Extra 10%off with code : EXTRA",
-      "link": "https://go.magik.ly/ml/4smvg/",
-      "page": null,
-      "image": "img/wa/AC498EC6BBDE4CD0D0A702D3FE39E699.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T17:15:14Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Under Armour"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1173,6 +1172,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T15:32:08Z",
+      "text": "1 new offer(s): Men + Women Up To 60% Off Athletic & Sne"
+    },
     {
       "at": "2026-11-13T15:21:56Z",
       "text": "1 new offer(s): Petite Polar Fleece Zip-Front Jacket"
@@ -1248,10 +1251,6 @@
     {
       "at": "2026-11-13T00:17:45Z",
       "text": "3 new offer(s): FDJ Remote Control Car - Transform Toys , Daniel 37\" Low Profile Bamboo and Metal , Rickeisha 77.2\" Modern TV Stand with Hig"
-    },
-    {
-      "at": "2026-11-12T21:36:55Z",
-      "text": "1 new offer(s): • Unlimited access to millions of songs "
     }
   ]
 }
