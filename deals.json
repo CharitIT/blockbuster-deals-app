@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T02:39:18Z",
+  "lastScan": "2026-11-13T02:49:32Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACF20FB26C2EFEE63DE1301723203DE1",
+      "store": "Walmart",
+      "title": "OKKO Rave Box Bluetooth Party Speaker, LED Lights, Karaoke Microphone, TWS Pairing",
+      "price": "$29",
+      "was": "$99",
+      "discount": "71% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://mavely.app.link/IQ0SOvCq17b",
+      "page": null,
+      "image": "img/wa/ACF20FB26C2EFEE63DE1301723203DE1.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T02:45:10Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACE74A7F8A140F41A677EABD2D1830B3",
+      "store": "Deal",
+      "title": "nutribullet®️ Full-Size Blender Combo, 1200W, Dark Gray, NBF50500",
+      "price": "$74",
+      "was": "$129",
+      "discount": "43% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/nutribullet-full-size-blender-combo-1200w-dark-gray-nbf50500/",
+      "page": null,
+      "image": "img/wa/ACE74A7F8A140F41A677EABD2D1830B3.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T02:41:49Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACF0B0E2AD50273DCF57C1332B2720F6",
       "store": "Deal",
@@ -1092,44 +1129,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACC9B26202B4CD9D58EED666273B79EF",
-      "store": "Walmart",
-      "title": "VIZIO 4.1 Pro Soundbar w/ Dolby Atmos, Wireless Surround Speakers, QuickFit Compatible (NEW 2026) SV410YW-10",
-      "price": "$79",
-      "was": "$148",
-      "discount": "47% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://go.sylikes.com/fbgOenusncUj",
-      "page": null,
-      "image": "img/wa/ACC9B26202B4CD9D58EED666273B79EF.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T16:31:42Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC169B589DF50B97A51337FE0102D461",
-      "store": "Walmart",
-      "title": "Marvel Spider-Man Tool Bench Playset with Take-Apart Car and Accessories - 55 Pieces, Ages 3+",
-      "price": "$20",
-      "was": "$59",
-      "discount": "66% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!!",
-      "link": "https://go.sylikes.com/fbgOdW1RGnsZ",
-      "page": null,
-      "image": "img/wa/AC169B589DF50B97A51337FE0102D461.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T16:27:58Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1176,6 +1175,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T02:49:32Z",
+      "text": "2 new offer(s): OKKO Rave Box Bluetooth Party Speaker, L, nutribullet®️ Full-Size Blender Combo, 1"
+    },
     {
       "at": "2026-11-13T02:39:18Z",
       "text": "2 new offer(s): Free shipping on orders $150+, RSPGAME Music Sync LED Gaming Desk Compu"
@@ -1251,10 +1254,6 @@
     {
       "at": "2026-11-12T20:36:21Z",
       "text": "1 new offer(s): Add to Cart to get 25% Discount"
-    },
-    {
-      "at": "2026-11-12T20:26:17Z",
-      "text": "1 new offer(s): Men's Stretch Hooded Sherpa Lined Puffer"
     }
   ]
 }
