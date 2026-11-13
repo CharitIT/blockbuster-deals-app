@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T00:48:04Z",
+  "lastScan": "2026-11-13T00:58:09Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC78677C72418F0F54F1CF26A5780540",
+      "store": "Deal",
+      "title": "Arlo Essential Security Camera HD | Indoor Only | 2nd Gen | Pet Camera & Baby Monitor | Wired, Automated Privacy Shield, 2-Way Audio, Night Vision, Live Stream, Motion Alerts,Notifications|White 1 Cam",
+      "price": "$9",
+      "was": "$18",
+      "discount": "50% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/arlo-essential-security-camera-hd-indoor-only-2nd-gen-pet-camera-baby-monitor-wired-automated-privacy-shield-2-way-audio-night-vision-live-stream-motion-alertsnotificationswhite-1-cam-3/",
+      "page": null,
+      "image": "img/wa/AC78677C72418F0F54F1CF26A5780540.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T00:54:23Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC05572D60D13BCAD719E80FFB5A833B",
       "store": "Wayfair",
@@ -1115,25 +1133,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACF6094EA4C0A380C8A8A754E45704B1",
-      "store": "Michael Kors",
-      "title": "Michael Kors Bags sale🔥🔥",
-      "price": "As low as $25",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Today only!! Ends In Few Hours 🚨 20% OFF + Extra 11% OFF Shoulder Bags👇 Crossbodies 👇 Mini Bags👇 Tote Bags👇 Backpacks👇 Wallets👇",
-      "link": "https://mavely.app.link/ppPHTyYNZ7b",
-      "page": null,
-      "image": "img/wa/ACF6094EA4C0A380C8A8A754E45704B1.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T03:32:56Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1180,6 +1179,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T00:58:09Z",
+      "text": "1 new offer(s): Arlo Essential Security Camera HD | Indo"
+    },
     {
       "at": "2026-11-13T00:48:04Z",
       "text": "1 new offer(s): Chaseburg 5-Drawer Dresser with Wooden, "
@@ -1255,10 +1258,6 @@
     {
       "at": "2026-11-12T17:45:38Z",
       "text": "2 new offer(s): BISSELL PowerClean DualBrush Cordless Se, Play-Doh Rainbow Swirl Ice Cream Playset"
-    },
-    {
-      "at": "2026-11-12T17:35:31Z",
-      "text": "3 new offer(s): CAROTE 18-Piece Nonstick Pots and Pans, , CAROTE 18-Piece Nonstick Pots and Pans, , bella Ceramic Nonstick Cookware Set"
     }
   ]
 }
