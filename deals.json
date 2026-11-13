@@ -1,9 +1,83 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T19:59:40Z",
+  "lastScan": "2026-11-13T20:21:05Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACB8D4970F1DA8848549BDE4FD35717C",
+      "store": "QVC",
+      "title": "KitchenAid 5.5qt Bowl Lift Stand Mixer & Accessories",
+      "price": "$259",
+      "was": "$499",
+      "discount": "48% off",
+      "code": "GRATEFUL",
+      "notes": "Use code: GRATEFUL",
+      "link": "https://mavely.app.link/7Mz1nxqB27b",
+      "page": null,
+      "image": "img/wa/ACB8D4970F1DA8848549BDE4FD35717C.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T20:17:29Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "QVC"
+    },
+    {
+      "id": "wa-AC16F34C819E22CA36E8BD56951E404C",
+      "store": "Deal",
+      "title": "Digital Temp Display & Adjustable Heat, Chocolate Fondue Set whith 2 Silicone Bowls for Dipping Cheese, Cake Pops",
+      "price": "$17",
+      "was": "$35",
+      "discount": "51% off",
+      "code": null,
+      "notes": "Chocolate Melting Pot, Electric Fondue Pot Set for Candy Melts & Cake Pops",
+      "link": "https://blockbusterdeals.net/product/chocolate-melting-pot-electric-fondue-pot-set-for-candy-melts-cake-pops-digital-temp-display-adjustable-heat-chocolate-fondue-set-whith-2-silicone-bowls-for-dipping-cheese-cake-pops/",
+      "page": null,
+      "image": "img/wa/AC16F34C819E22CA36E8BD56951E404C.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T20:17:24Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACF274A706FF2B7EA486C257923308A6",
+      "store": "Deal",
+      "title": "🚨Login or signin to adiclub account for discount",
+      "price": "$35",
+      "was": "$70",
+      "discount": "50% off",
+      "code": "SD15",
+      "notes": "Adidas Early Black Friday Sale! Men's Runfalcon 5 TR Running Shoes 60 % off + Extra 15% off Use Code SD15 You can create a free Adiclub account here👇",
+      "link": "https://mavely.app.link/6LR38TXz27b",
+      "page": null,
+      "image": "img/wa/ACF274A706FF2B7EA486C257923308A6.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T20:17:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC3FB6EE75CFBA62325120CBCA6F9553",
+      "store": "Wayfair",
+      "title": "10 - Pair Flip Down Shoe Storage",
+      "price": "$50",
+      "was": "$165",
+      "discount": "70% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/7TXZKu7z27b",
+      "page": null,
+      "image": "img/wa/AC3FB6EE75CFBA62325120CBCA6F9553.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T20:17:08Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
     {
       "id": "wa-ACD13B7ECBB899BB0A4768A54D103DA6",
       "store": "Deal",
@@ -1043,81 +1117,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC862432B6931B9604506F6D11DBBD84",
-      "store": "Wayfair",
-      "title": "Hegg Tufted Upholstered Platform Bed with Wood Slats Headboard Included",
-      "price": "$185",
-      "was": "$939",
-      "discount": "80% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/Bnl36oPk17b",
-      "page": null,
-      "image": "img/wa/AC862432B6931B9604506F6D11DBBD84.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T01:25:07Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Wayfair"
-    },
-    {
-      "id": "wa-ACEF206679B815AC757C352DE418A6CB",
-      "store": "Wayfair",
-      "title": "Roborock Q10 X5+ Robot Vacuum and Mop, Self-Emptying, 10,000Pa Suction, Obstacle Avoidance, Dual Anti-Tangle System roborock Q10X5+",
-      "price": "$229",
-      "was": "$499",
-      "discount": "54% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/ahcdqnYi17b",
-      "page": null,
-      "image": "img/wa/ACEF206679B815AC757C352DE418A6CB.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T01:18:39Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Wayfair"
-    },
-    {
-      "id": "wa-ACF53158F3B95F9A8ABD47998FA2C713",
-      "store": "Deal",
-      "title": "YADIFEN Womens Shapewear Tummy Control Shorts, High Waisted Body Shaper",
-      "price": "$9",
-      "was": "$26",
-      "discount": "65% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/yadifen-womens-shapewear-tummy-control-shorts-high-waisted-body-shaper/",
-      "page": null,
-      "image": "img/wa/ACF53158F3B95F9A8ABD47998FA2C713.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T01:14:28Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC31245B7AA74B3CAFDB2305F3526A43",
-      "store": "Wayfair",
-      "title": "80\" 4-in-1 Convertible Sleeper Sofa Bed with Built-In Support Frame, Soft Corduroy Upholstery & Removable Armrests",
-      "price": "$434",
-      "was": "$1,199",
-      "discount": "64% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/Pwjciysi17b",
-      "page": null,
-      "image": "img/wa/AC31245B7AA74B3CAFDB2305F3526A43.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T01:13:48Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Wayfair"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1164,6 +1163,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T20:21:05Z",
+      "text": "4 new offer(s): KitchenAid 5.5qt Bowl Lift Stand Mixer &, Digital Temp Display & Adjustable Heat, , 🚨Login or signin to adiclub account for "
+    },
     {
       "at": "2026-11-13T19:59:40Z",
       "text": "2 new offer(s): 🚨Login or signin to adiclub account for , Free shipping when you login to your Mic"
@@ -1239,10 +1242,6 @@
     {
       "at": "2026-11-13T15:21:56Z",
       "text": "1 new offer(s): Petite Polar Fleece Zip-Front Jacket"
-    },
-    {
-      "at": "2026-11-13T15:11:42Z",
-      "text": "1 new offer(s): Walmart Black Friday Early Access is LIV"
     }
   ]
 }
