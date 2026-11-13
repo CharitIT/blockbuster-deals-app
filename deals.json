@@ -1,9 +1,84 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T20:21:05Z",
+  "lastScan": "2026-11-13T20:42:40Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC1AFB6C1D28CD489C0B5595C82EAFA0",
+      "store": "Walmart",
+      "title": "Hello Kitty and Friends Train Case Beauty Set with Washable Makeup, Ages 3+",
+      "price": "$19",
+      "was": "$29",
+      "discount": "34% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://go.sylikes.com/fbgS0i6KhPp5",
+      "page": null,
+      "image": "img/wa/AC1AFB6C1D28CD489C0B5595C82EAFA0.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T20:38:26Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-ACA04CB13C089E6203B03CEE21BD5148",
+      "store": "Lowe's",
+      "title": "CRAFTSMAN VERSASTACK 262 -Piece Metric and standard (SAE) Mechanics Tool Set with Hard Case",
+      "price": "$129",
+      "was": "$269",
+      "discount": "52% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/5N2hrErz27b",
+      "page": null,
+      "image": "img/wa/ACA04CB13C089E6203B03CEE21BD5148.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T20:33:22Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Lowe's"
+    },
+    {
+      "id": "wa-AC9118BAEBBFDD4D7F1728197D0BB203",
+      "store": "Walmart",
+      "title": "Barbie Toddler Long Sleeve Sleep Top and Sleep Pants, 2-Piece, Sizes 12M-5T",
+      "price": "$6",
+      "was": "$12",
+      "discount": "50% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://mavely.app.link/LB2DOWdA27b",
+      "page": null,
+      "image": "img/wa/AC9118BAEBBFDD4D7F1728197D0BB203.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T20:33:10Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC4BE582CDD53145FA84DD4127DF629F",
+      "store": "Deal",
+      "title": "Boho Rattan Chandelier Light,5-Tier Hand Woven Lampshade Ceiling Pendant Light Fixture,13'' Farmhouse Chandelier Hanging Light for Living Room,Kitchen Island,Bedroom,Adjustable Cord,Beige",
+      "price": "$31",
+      "was": "$62",
+      "discount": "50% off",
+      "code": null,
+      "notes": "ENDS IN FEW HOURS 🚨",
+      "link": "https://blockbusterdeals.net/product/boho-rattan-chandelier-light5-tier-hand-woven-lampshade-ceiling-pendant-light-fixture13-farmhouse-chandelier-hanging-light-for-living-roomkitchen-islandbedroomadjustable-cordbeige/",
+      "page": null,
+      "image": "img/wa/AC4BE582CDD53145FA84DD4127DF629F.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T20:32:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACB8D4970F1DA8848549BDE4FD35717C",
       "store": "QVC",
@@ -1043,80 +1118,6 @@
       "merchant": "Coach"
     },
     {
-      "id": "wa-AC75086C439506657C9D69E2811DF073",
-      "store": "Walmart",
-      "title": "CAROTE 2-Pack 20 oz Insulated Stainless Steel Water Bottles with One-Click Leak-Proof Lids, Carry Loops and Removable Silicone Boots, Dishwasher Safe",
-      "price": "$14",
-      "was": "$45",
-      "discount": "69% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Link for Bottles 👇 Link For All Home Deals👇",
-      "link": "https://mavely.app.link/9b4c3J2m17b",
-      "page": null,
-      "image": "img/wa/AC75086C439506657C9D69E2811DF073.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T01:58:05Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACA92221405B074E27EC7916603AD6F1",
-      "store": "Deal",
-      "title": "KCDDUMK 4 Pack Cami Bralettes for Women, Spaghetti Strap Sleep Bras",
-      "price": "$25",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/kcddumk-4-pack-cami-bralettes-for-women-spaghetti-strap-sleep-bras-4/",
-      "page": null,
-      "image": "img/wa/ACA92221405B074E27EC7916603AD6F1.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T01:58:00Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACEA4AC574DF52E893F7231453D3B726",
-      "store": "Deal",
-      "title": "Bear Baby Bottle Warmer, Fast Warming Breast Milk Formula, White",
-      "price": "$14",
-      "was": "$29",
-      "discount": "52% off",
-      "code": "YLQUI517",
-      "notes": "Use Code : YLQUI517",
-      "link": "https://blockbusterdeals.net/product/bear-baby-bottle-warmer-fast-warming-breast-milk-formula-white-4/",
-      "page": null,
-      "image": "img/wa/ACEA4AC574DF52E893F7231453D3B726.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T01:39:52Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC9C9F71FE606E56E7097B9F420C7A99",
-      "store": "Walmart",
-      "title": "T-fal Kitchen Solutions Ceramic Nonstick 21-Piece Pots and Pans Cookware Set, Black and Moon Gey",
-      "price": "$49",
-      "was": "$119",
-      "discount": "59% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://mavely.app.link/8civ0DYj17b",
-      "page": null,
-      "image": "img/wa/AC9C9F71FE606E56E7097B9F420C7A99.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T01:39:44Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1163,6 +1164,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T20:42:40Z",
+      "text": "4 new offer(s): Hello Kitty and Friends Train Case Beaut, CRAFTSMAN VERSASTACK 262 -Piece Metric a, Barbie Toddler Long Sleeve Sleep Top and"
+    },
     {
       "at": "2026-11-13T20:21:05Z",
       "text": "4 new offer(s): KitchenAid 5.5qt Bowl Lift Stand Mixer &, Digital Temp Display & Adjustable Heat, , 🚨Login or signin to adiclub account for "
@@ -1238,10 +1243,6 @@
     {
       "at": "2026-11-13T15:32:08Z",
       "text": "1 new offer(s): Men + Women Up To 60% Off Athletic & Sne"
-    },
-    {
-      "at": "2026-11-13T15:21:56Z",
-      "text": "1 new offer(s): Petite Polar Fleece Zip-Front Jacket"
     }
   ]
 }
