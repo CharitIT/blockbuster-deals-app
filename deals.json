@@ -1,9 +1,66 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T18:12:57Z",
+  "lastScan": "2026-11-13T19:49:00Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC241DD87D9370C5FC6CC8B92CA66B57",
+      "store": "Michael Kors",
+      "title": "FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
+      "price": "$48",
+      "was": "$119",
+      "discount": "60% off",
+      "code": null,
+      "notes": "MICHAEL KORS Jovie Color-Block Suede Sneaker EXTRA 20% OFF APPLIED IN CART",
+      "link": "https://go.magik.ly/ml/4t7ru/",
+      "page": null,
+      "image": "img/wa/AC241DD87D9370C5FC6CC8B92CA66B57.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T19:42:09Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
+    {
+      "id": "wa-AC359216F2AEADD2D6D8FEB22CDD7EAF",
+      "store": "Michael Kors",
+      "title": "Loretta Sequin Embellished Metallic Sandal",
+      "price": "$31",
+      "was": "$149",
+      "discount": "79% off",
+      "code": null,
+      "notes": "MICHAEL KORS EXTRA 20% OFF APPLIED IN CART FREE SHIPPING WITH KORSVIP OR ORDERS $75+",
+      "link": "https://go.magik.ly/ml/4t7rg/",
+      "page": null,
+      "image": "img/wa/AC359216F2AEADD2D6D8FEB22CDD7EAF.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T19:41:01Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Michael Kors"
+    },
+    {
+      "id": "wa-AC69E772E1CB48DE22A64D90E8111E2B",
+      "store": "Walmart",
+      "title": "Carter's Child of Mine Baby 2-Pack Outfit Set, 4-Piece, Sizes 0/3 - 24 Months",
+      "price": "$10",
+      "was": "$18",
+      "discount": "44% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://mavely.app.link/FtnxQOjy27b",
+      "page": null,
+      "image": "img/wa/AC69E772E1CB48DE22A64D90E8111E2B.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T19:40:57Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC800BB5C2236939718690A6AEC35A38",
       "store": "Walmart",
@@ -1062,62 +1119,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC78677C72418F0F54F1CF26A5780540",
-      "store": "Deal",
-      "title": "Arlo Essential Security Camera HD | Indoor Only | 2nd Gen | Pet Camera & Baby Monitor | Wired, Automated Privacy Shield, 2-Way Audio, Night Vision, Live Stream, Motion Alerts,Notifications|White 1 Cam",
-      "price": "$9",
-      "was": "$18",
-      "discount": "50% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/arlo-essential-security-camera-hd-indoor-only-2nd-gen-pet-camera-baby-monitor-wired-automated-privacy-shield-2-way-audio-night-vision-live-stream-motion-alertsnotificationswhite-1-cam-3/",
-      "page": null,
-      "image": "img/wa/AC78677C72418F0F54F1CF26A5780540.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T00:54:23Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC05572D60D13BCAD719E80FFB5A833B",
-      "store": "Wayfair",
-      "title": "Chaseburg 5-Drawer Dresser with Wooden, 39.4'' W Dresser With Steel Frame, Wide Chest of Drawer For Hallway, Bedroom Dresser",
-      "price": "$59",
-      "was": "$256",
-      "discount": "77% off",
-      "code": null,
-      "notes": "Free shipping",
-      "link": "https://mavely.app.link/4PFzt7Ue17b",
-      "page": null,
-      "image": "img/wa/AC05572D60D13BCAD719E80FFB5A833B.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T00:41:28Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Wayfair"
-    },
-    {
-      "id": "wa-AC4E6749A968A138ED80658FC1119D73",
-      "store": "Wayfair",
-      "title": "Bedroom Sets On Sale🔥at Wayfair",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/xBZzu7Je17b",
-      "page": null,
-      "image": "img/wa/AC4E6749A968A138ED80658FC1119D73.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T00:29:36Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Wayfair"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1164,6 +1165,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T19:49:00Z",
+      "text": "3 new offer(s): FREE SHIPPING WITH KORSVIP OR ORDERS $75, Loretta Sequin Embellished Metallic Sand, Carter's Child of Mine Baby 2-Pack Outfi"
+    },
     {
       "at": "2026-11-13T18:12:57Z",
       "text": "4 new offer(s): ✅ Enjoy delivery & shipping perks 📦 ✅ Un, Play-Doh Rainbow Swirl Ice Cream Playset, Cast Iron 12\" Frypan"
@@ -1239,10 +1244,6 @@
     {
       "at": "2026-11-13T03:20:20Z",
       "text": "2 new offer(s): • Unlimited access to millions of songs , Bath & Body Works 3-Wick Candles are BOG"
-    },
-    {
-      "at": "2026-11-13T03:10:00Z",
-      "text": "2 new offer(s): Wyze Cam OG Indoor/Outdoor 1080p HD Smar, True Hue 10-Pack Bath Towel Bundle, Blea"
     }
   ]
 }
