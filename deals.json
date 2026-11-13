@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T02:49:32Z",
+  "lastScan": "2026-11-13T02:59:46Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACD569D1FDF7355B6D290BCAFC41DD4B",
+      "store": "Walmart",
+      "title": "Hyper Toy Company, HPR125 12V Electric Dirt Bike, Children Ages 5+, up to 8 MPH, Black/Red",
+      "price": "$99",
+      "was": "$128",
+      "discount": "23% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://mavely.app.link/XydFrtWq17b",
+      "page": null,
+      "image": "img/wa/ACD569D1FDF7355B6D290BCAFC41DD4B.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T02:49:46Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACF20FB26C2EFEE63DE1301723203DE1",
       "store": "Walmart",
@@ -1110,25 +1129,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC0CFEB428729F416B6F8524B03631EB",
-      "store": "Walmart",
-      "title": "Razor Rollie Kix - Blue, 3-Wheel Light-Up Scooter for Toddler 30 Months+",
-      "price": "$18",
-      "was": "$34",
-      "discount": "47% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!!",
-      "link": "https://go.sylikes.com/fbgOeRrawQyK",
-      "page": null,
-      "image": "img/wa/AC0CFEB428729F416B6F8524B03631EB.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T16:35:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1175,6 +1175,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T02:59:46Z",
+      "text": "1 new offer(s): Hyper Toy Company, HPR125 12V Electric D"
+    },
     {
       "at": "2026-11-13T02:49:32Z",
       "text": "2 new offer(s): OKKO Rave Box Bluetooth Party Speaker, L, nutribullet®️ Full-Size Blender Combo, 1"
@@ -1250,10 +1254,6 @@
     {
       "at": "2026-11-12T20:56:36Z",
       "text": "3 new offer(s): Michael Kors Designer handbags  Clearanc, Extra 20% off applies automatically when, Arden Small Color-Block Signature Logo M"
-    },
-    {
-      "at": "2026-11-12T20:36:21Z",
-      "text": "1 new offer(s): Add to Cart to get 25% Discount"
     }
   ]
 }
