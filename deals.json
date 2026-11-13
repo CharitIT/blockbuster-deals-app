@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T16:35:08Z",
+  "lastScan": "2026-11-13T16:46:02Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC12750DE381B0B58DE76C77C291FB54",
+      "store": "Deal",
+      "title": "🚨Login or signin to adiclub account for discount",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": "SD15",
+      "notes": "Adidas Early Black Friday Sale! As Low As Womens Adidas Shoes 60% off + Extra 15% off Use Code SD15 You can create a free Adiclub account here👇",
+      "link": "https://mavely.app.link/4qqsY8Yn27b",
+      "page": null,
+      "image": "img/wa/AC12750DE381B0B58DE76C77C291FB54.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T16:37:34Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC07166653F43C3687021B29E6E91AE6",
       "store": "Deal",
@@ -1103,24 +1121,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACAB64F47DA3C0D170BDA526AD408B62",
-      "store": "Deal",
-      "title": "Anne Klein Women's Premium Crystal Accented Watch and Bracelet Set, AK/3584",
-      "price": "$51",
-      "was": "$195",
-      "discount": "74% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/anne-klein-womens-premium-crystal-accented-watch-and-bracelet-set-ak-3584/",
-      "page": null,
-      "image": "img/wa/ACAB64F47DA3C0D170BDA526AD408B62.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T17:51:51Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1167,6 +1167,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T16:46:02Z",
+      "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
+    },
     {
       "at": "2026-11-13T16:35:08Z",
       "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
@@ -1242,10 +1246,6 @@
     {
       "at": "2026-11-13T01:28:27Z",
       "text": "2 new offer(s): Hegg Tufted Upholstered Platform Bed wit, Roborock Q10 X5+ Robot Vacuum and Mop, S"
-    },
-    {
-      "at": "2026-11-13T01:18:22Z",
-      "text": "3 new offer(s): YADIFEN Womens Shapewear Tummy Control S, 80\" 4-in-1 Convertible Sleeper Sofa Bed , VACTechPro 35kPa Self-standing Cordless "
     }
   ]
 }
