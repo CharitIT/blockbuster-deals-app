@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T02:29:04Z",
+  "lastScan": "2026-11-13T02:39:18Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACF0B0E2AD50273DCF57C1332B2720F6",
+      "store": "Deal",
+      "title": "Free shipping on orders $150+",
+      "price": "$48",
+      "was": "$80",
+      "discount": "40% off",
+      "code": null,
+      "notes": "Women's Karis Gale Jacket",
+      "link": "https://mavely.app.link/O9TRgcno17b",
+      "page": null,
+      "image": "img/wa/ACF0B0E2AD50273DCF57C1332B2720F6.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T02:35:12Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC8FD5F3ADF9CA29933D15D8FE282407",
+      "store": "Walmart",
+      "title": "RSPGAME Music Sync LED Gaming Desk Computer Gamer Table for Home Office Carbon Fiber Black",
+      "price": "$59",
+      "was": "$89",
+      "discount": "34% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://mavely.app.link/KwJoYpvp17b",
+      "page": null,
+      "image": "img/wa/AC8FD5F3ADF9CA29933D15D8FE282407.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T02:35:09Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-ACFFDA05E38C5DCBCAF957BFCBD3F801",
       "store": "Walmart",
@@ -1093,44 +1130,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC7F37E2112A39D0F9F00761FCE9D31E",
-      "store": "Walmart",
-      "title": "CLOUDREST PRO White Vanity Desk Set with Mirror, Makeup Vanity with LED Lights & 3 Color Modes, Adjustable Brightness, Built-in Power Strip, 5 Drawers, Dressing Table for Women Girls",
-      "price": "$119",
-      "was": "$219",
-      "discount": "46% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://go.sylikes.com/fbgOdIs9OEMM",
-      "page": null,
-      "image": "img/wa/AC7F37E2112A39D0F9F00761FCE9D31E.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T16:22:25Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-AC110BC5F35A62C4DE7E2C016DB839D4",
-      "store": "Walmart",
-      "title": "Ello Everyday 30 Piece Glass Mixed Food Storage Set with Plastic Press-Fit Lids, Oven & Dishwasher Safe, Icy Pine",
-      "price": "$25",
-      "was": "$52",
-      "discount": "52% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!!",
-      "link": "https://go.sylikes.com/fbgOd1ON8hWo",
-      "page": null,
-      "image": "img/wa/AC110BC5F35A62C4DE7E2C016DB839D4.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T16:16:34Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1177,6 +1176,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T02:39:18Z",
+      "text": "2 new offer(s): Free shipping on orders $150+, RSPGAME Music Sync LED Gaming Desk Compu"
+    },
     {
       "at": "2026-11-13T02:29:04Z",
       "text": "2 new offer(s): Carote 7-Piece Carbon Steel Nonstick Bak, Womens Flower Sweaters Cute Fall Vintage"
@@ -1252,10 +1255,6 @@
     {
       "at": "2026-11-12T20:26:17Z",
       "text": "1 new offer(s): Men's Stretch Hooded Sherpa Lined Puffer"
-    },
-    {
-      "at": "2026-11-12T20:06:14Z",
-      "text": "2 new offer(s): Men's Hooded Puffer Bomber Jacket, BISSELL PowerClean 200W Cordless Stick V"
     }
   ]
 }
