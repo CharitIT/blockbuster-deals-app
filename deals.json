@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T20:53:27Z",
+  "lastScan": "2026-11-13T21:14:49Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC499CAEA35E13F86B856ECBA7255438",
+      "store": "Walmart",
+      "title": "Big Chill Women's Double Zip Front Hooded Puffer Jacket with Long Sleeves, Sizes S-3X",
+      "price": "$19",
+      "was": "$119",
+      "discount": "84% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://go.sylikes.com/fbgS26e2vhtE",
+      "page": null,
+      "image": "img/wa/AC499CAEA35E13F86B856ECBA7255438.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T21:07:20Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC08D823972DB37DD3DBDB3E33C1376D",
+      "store": "Deal",
+      "title": "Creative App & Multiple Templates, Inkless Printing, Easy to Use, Bluetooth Connection, Portable",
+      "price": "$7",
+      "was": "$20",
+      "discount": "65% off",
+      "code": "LZGJMIS4",
+      "notes": "NIIMBOT D110 Mini Label Maker with 1 Label for Kids School Items, White Use code: LZGJMIS4 Save 20% at checkout",
+      "link": "https://blockbusterdeals.net/product/niimbot-d110-mini-label-maker-with-1-label-for-kids-school-items-white-creative-app-multiple-templates-inkless-printing-easy-to-use-bluetooth-connection-portable/",
+      "page": null,
+      "image": "img/wa/AC08D823972DB37DD3DBDB3E33C1376D.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T21:05:38Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC6AA0D40733EE746181894FA747AB65",
       "store": "Wayfair",
@@ -1081,43 +1118,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACF0B0E2AD50273DCF57C1332B2720F6",
-      "store": "Deal",
-      "title": "Free shipping on orders $150+",
-      "price": "$48",
-      "was": "$80",
-      "discount": "40% off",
-      "code": null,
-      "notes": "Women's Karis Gale Jacket",
-      "link": "https://mavely.app.link/O9TRgcno17b",
-      "page": null,
-      "image": "img/wa/ACF0B0E2AD50273DCF57C1332B2720F6.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T02:35:12Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC8FD5F3ADF9CA29933D15D8FE282407",
-      "store": "Walmart",
-      "title": "RSPGAME Music Sync LED Gaming Desk Computer Gamer Table for Home Office Carbon Fiber Black",
-      "price": "$59",
-      "was": "$89",
-      "discount": "34% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://mavely.app.link/KwJoYpvp17b",
-      "page": null,
-      "image": "img/wa/AC8FD5F3ADF9CA29933D15D8FE282407.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T02:35:09Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1164,6 +1164,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T21:14:49Z",
+      "text": "2 new offer(s): Big Chill Women's Double Zip Front Hoode, Creative App & Multiple Templates, Inkle"
+    },
     {
       "at": "2026-11-13T20:53:27Z",
       "text": "3 new offer(s): Duluth Queen Cream Diamond-Tufted Wingba, Duncanville Upholstered King Platform Be, 120-Day Self-Emptying with 4L Dust Bag, "
@@ -1239,10 +1243,6 @@
     {
       "at": "2026-11-13T15:52:52Z",
       "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
-    },
-    {
-      "at": "2026-11-13T15:42:30Z",
-      "text": "1 new offer(s): Men + Women Up To 60% Off Athletic & Sne"
     }
   ]
 }
