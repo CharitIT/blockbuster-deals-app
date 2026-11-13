@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T21:14:49Z",
+  "lastScan": "2026-11-13T21:25:29Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC51EDEA9056AD075CF25890F46805ED",
+      "store": "Deal",
+      "title": "LiDAR Mapping & AutoLift for Carpet & Hard Floors, HEPA, Sonic Mopping, Edge & Object Detection, Self-Refill & Self-Clean",
+      "price": "$379",
+      "was": "$399",
+      "discount": "5% off",
+      "code": null,
+      "notes": "Shark PowerDetect Robot Vacuum & Mop Combo, 60-Day Self-Empty, AV2800ZE",
+      "link": "https://blockbusterdeals.net/product/shark-powerdetect-robot-vacuum-mop-combo-60-day-self-empty-av2800ze-lidar-mapping-autolift-for-carpet-hard-floors-hepa-sonic-mopping-edge-object-detection-self-refill-self-clean/",
+      "page": null,
+      "image": "img/wa/AC51EDEA9056AD075CF25890F46805ED.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T21:22:54Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACD947A30006802E88C9FDF7EA20ED37",
+      "store": "Walmart",
+      "title": "Apple Watch Series 11 [GPS 42mm] Smarwatch with Jet Black Aluminum Case with Black Sport Band - S/M",
+      "price": "$259",
+      "was": "$399",
+      "discount": "35% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://go.sylikes.com/fbgS4GjZgTKb",
+      "page": null,
+      "image": "img/wa/ACD947A30006802E88C9FDF7EA20ED37.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T21:14:24Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC499CAEA35E13F86B856ECBA7255438",
       "store": "Walmart",
@@ -1081,43 +1118,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACF20FB26C2EFEE63DE1301723203DE1",
-      "store": "Walmart",
-      "title": "OKKO Rave Box Bluetooth Party Speaker, LED Lights, Karaoke Microphone, TWS Pairing",
-      "price": "$29",
-      "was": "$99",
-      "discount": "71% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!!",
-      "link": "https://mavely.app.link/IQ0SOvCq17b",
-      "page": null,
-      "image": "img/wa/ACF20FB26C2EFEE63DE1301723203DE1.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T02:45:10Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACE74A7F8A140F41A677EABD2D1830B3",
-      "store": "Deal",
-      "title": "nutribullet®️ Full-Size Blender Combo, 1200W, Dark Gray, NBF50500",
-      "price": "$74",
-      "was": "$129",
-      "discount": "43% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/nutribullet-full-size-blender-combo-1200w-dark-gray-nbf50500/",
-      "page": null,
-      "image": "img/wa/ACE74A7F8A140F41A677EABD2D1830B3.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T02:41:49Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1164,6 +1164,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T21:25:29Z",
+      "text": "2 new offer(s): LiDAR Mapping & AutoLift for Carpet & Ha, Apple Watch Series 11 [GPS 42mm] Smarwat"
+    },
     {
       "at": "2026-11-13T21:14:49Z",
       "text": "2 new offer(s): Big Chill Women's Double Zip Front Hoode, Creative App & Multiple Templates, Inkle"
@@ -1238,10 +1242,6 @@
     },
     {
       "at": "2026-11-13T16:03:09Z",
-      "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
-    },
-    {
-      "at": "2026-11-13T15:52:52Z",
       "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
     }
   ]
