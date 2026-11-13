@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T15:32:08Z",
+  "lastScan": "2026-11-13T15:42:30Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACA0ECC39813173DB598AD73A91E0342",
+      "store": "Deal",
+      "title": "Men + Women Up To 60% Off Athletic & Sneakers Shoes Sale",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": "SD15",
+      "notes": "Adidas Black Friday First Access🔥 60 % off + Extra 15% off Use Code SD15 🚨Login or signin to adiclub account for discount You can create a free Adiclub account ",
+      "link": "https://mavely.app.link/Tk3abSdi27b",
+      "page": null,
+      "image": "img/wa/ACA0ECC39813173DB598AD73A91E0342.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T15:37:03Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACBB2D398F81C92B7BF48B1A105F8812",
       "store": "Deal",
@@ -1107,25 +1125,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC13CC7CA9761E30707B05C1CA48E30A",
-      "store": "Walmart",
-      "title": "Better Homes & Gardens Modern Farmhouse 6-Drawer Dresser, 56.85 in Wide, Alabaster and Light Honey",
-      "price": "$147",
-      "was": "$279",
-      "discount": "47% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://go.sylikes.com/fbgOhG5ya8PN",
-      "page": null,
-      "image": "img/wa/AC13CC7CA9761E30707B05C1CA48E30A.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T17:19:44Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1172,6 +1171,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T15:42:30Z",
+      "text": "1 new offer(s): Men + Women Up To 60% Off Athletic & Sne"
+    },
     {
       "at": "2026-11-13T15:32:08Z",
       "text": "1 new offer(s): Men + Women Up To 60% Off Athletic & Sne"
@@ -1247,10 +1250,6 @@
     {
       "at": "2026-11-13T00:27:51Z",
       "text": "1 new offer(s): Ovidia Standing & Height-Adjustable Desk"
-    },
-    {
-      "at": "2026-11-13T00:17:45Z",
-      "text": "3 new offer(s): FDJ Remote Control Car - Transform Toys , Daniel 37\" Low Profile Bamboo and Metal , Rickeisha 77.2\" Modern TV Stand with Hig"
     }
   ]
 }
