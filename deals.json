@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T02:08:54Z",
+  "lastScan": "2026-11-13T02:29:04Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACFFDA05E38C5DCBCAF957BFCBD3F801",
+      "store": "Walmart",
+      "title": "Carote 7-Piece Carbon Steel Nonstick Bakeware Set, Khaki Taupe",
+      "price": "$20",
+      "was": "$39",
+      "discount": "49% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://mavely.app.link/fb27wtbp17b",
+      "page": null,
+      "image": "img/wa/ACFFDA05E38C5DCBCAF957BFCBD3F801.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T02:26:43Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC73A22472FE15A3AE794133FFCFE442",
+      "store": "Deal",
+      "title": "Womens Flower Sweaters Cute Fall Vintage Chunky Knit Pullover Tops",
+      "price": "$14",
+      "was": "$24",
+      "discount": "42% off",
+      "code": "069QTCYP",
+      "notes": "Use Code : 069QTCYP",
+      "link": "https://blockbusterdeals.net/product/womens-flower-sweaters-cute-fall-vintage-chunky-knit-pullover-tops/",
+      "page": null,
+      "image": "img/wa/AC73A22472FE15A3AE794133FFCFE442.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T02:26:32Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACF8C3D1DE297410D51D84B7FF937F7B",
       "store": "Coach",
@@ -1094,44 +1131,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC0B7659C862D4C88732B2A360F5D471",
-      "store": "Walmart",
-      "title": "Marvel Spidey and His Amazing Friends 6-Pack Hero and Toy Vehicles Mega Bundle, Holiday Gift for Kids",
-      "price": "$20",
-      "was": "$59",
-      "discount": "66% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!!",
-      "link": "https://go.sylikes.com/fbgOdFBekgcN",
-      "page": null,
-      "image": "img/wa/AC0B7659C862D4C88732B2A360F5D471.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T16:10:46Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACF07A73694BD7B624EBE252326CD6B2",
-      "store": "Walmart",
-      "title": "Ninja Professional Plus Select Series, 1400PW, 72 oz Blender with Auto IQ & Total Crushing Power, BN705WM, Black",
-      "price": "$49",
-      "was": "$89",
-      "discount": "45% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://go.sylikes.com/fbgOdAddSr7f",
-      "page": null,
-      "image": "img/wa/ACF07A73694BD7B624EBE252326CD6B2.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T16:06:28Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1178,6 +1177,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T02:29:04Z",
+      "text": "2 new offer(s): Carote 7-Piece Carbon Steel Nonstick Bak, Womens Flower Sweaters Cute Fall Vintage"
+    },
     {
       "at": "2026-11-13T02:08:54Z",
       "text": "1 new offer(s): 🚨Pink has all sizes in stock"
@@ -1253,10 +1256,6 @@
     {
       "at": "2026-11-12T20:06:14Z",
       "text": "2 new offer(s): Men's Hooded Puffer Bomber Jacket, BISSELL PowerClean 200W Cordless Stick V"
-    },
-    {
-      "at": "2026-11-12T19:56:11Z",
-      "text": "1 new offer(s): 0.9, 1.5, 2.5, 3.8, 5.3 QT, Measurement "
     }
   ]
 }
