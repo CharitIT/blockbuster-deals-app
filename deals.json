@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T00:58:09Z",
+  "lastScan": "2026-11-13T01:08:18Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACDB6D15636432484D21715E7092467E",
+      "store": "Walmart",
+      "title": "Beats by Dr. Dre Solo4 On-Ear Wireless Bluetooth Headphones, Drenched Gray",
+      "price": "$69",
+      "was": "$199",
+      "discount": "65% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://mavely.app.link/MvDMeIxh17b",
+      "page": null,
+      "image": "img/wa/ACDB6D15636432484D21715E7092467E.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T00:54:42Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC78677C72418F0F54F1CF26A5780540",
       "store": "Deal",
@@ -1114,25 +1133,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACB4963A62A65B0850219AFE5F8273A8",
-      "store": "Walmart",
-      "title": "Walmart Black Friday Early Access is LIVE🔥",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": null,
-      "link": "https://mavely.app.link/R2Km1U2z07b",
-      "page": null,
-      "image": "img/wa/ACB4963A62A65B0850219AFE5F8273A8.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T15:04:02Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1179,6 +1179,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T01:08:18Z",
+      "text": "1 new offer(s): Beats by Dr. Dre Solo4 On-Ear Wireless B"
+    },
     {
       "at": "2026-11-13T00:58:09Z",
       "text": "1 new offer(s): Arlo Essential Security Camera HD | Indo"
@@ -1254,10 +1258,6 @@
     {
       "at": "2026-11-12T17:55:44Z",
       "text": "2 new offer(s): Anne Klein Women's Premium Crystal Accen, Shark SpeedStyle Pro Hair Dryer System P"
-    },
-    {
-      "at": "2026-11-12T17:45:38Z",
-      "text": "2 new offer(s): BISSELL PowerClean DualBrush Cordless Se, Play-Doh Rainbow Swirl Ice Cream Playset"
     }
   ]
 }
