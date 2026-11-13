@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T01:58:47Z",
+  "lastScan": "2026-11-13T02:08:54Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACF8C3D1DE297410D51D84B7FF937F7B",
+      "store": "Coach",
+      "title": "🚨Pink has all sizes in stock",
+      "price": "$19",
+      "was": "$95",
+      "discount": "80% off",
+      "code": null,
+      "notes": "COACH Bay Slide In Signature",
+      "link": "https://mavely.app.link/a5H8xMKn17b",
+      "page": null,
+      "image": "img/wa/ACF8C3D1DE297410D51D84B7FF937F7B.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T02:05:46Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Coach"
+    },
     {
       "id": "wa-AC75086C439506657C9D69E2811DF073",
       "store": "Walmart",
@@ -1113,25 +1132,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACCBEFB21F272DBE4EBD99A165AE681D",
-      "store": "Walmart",
-      "title": "Walmart Black Friday Deal!!",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "TVS on Sale 🔥",
-      "link": "https://go.sylikes.com/fbgOeRuuxbq6",
-      "page": null,
-      "image": "img/wa/ACCBEFB21F272DBE4EBD99A165AE681D.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T16:00:50Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1178,6 +1178,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T02:08:54Z",
+      "text": "1 new offer(s): 🚨Pink has all sizes in stock"
+    },
     {
       "at": "2026-11-13T01:58:47Z",
       "text": "2 new offer(s): CAROTE 2-Pack 20 oz Insulated Stainless , KCDDUMK 4 Pack Cami Bralettes for Women,"
@@ -1253,10 +1257,6 @@
     {
       "at": "2026-11-12T19:56:11Z",
       "text": "1 new offer(s): 0.9, 1.5, 2.5, 3.8, 5.3 QT, Measurement "
-    },
-    {
-      "at": "2026-11-12T19:46:09Z",
-      "text": "2 new offer(s): Melissa & Doug Wooden Scoop & Serve Ice , MSI Cyborg 15.6\" 144Hz Gaming Laptop, In"
     }
   ]
 }
