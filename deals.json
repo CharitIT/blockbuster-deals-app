@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T00:17:45Z",
+  "lastScan": "2026-11-13T00:27:51Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACFD2AE69AECA9A4F34525AAC2966CB1",
+      "store": "Wayfair",
+      "title": "Ovidia Standing & Height-Adjustable Desks",
+      "price": "$88",
+      "was": "$350",
+      "discount": "75% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/eQJzewCd17b",
+      "page": null,
+      "image": "img/wa/ACFD2AE69AECA9A4F34525AAC2966CB1.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T00:22:38Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
     {
       "id": "wa-ACC7BD75D16C5691A249FDDDAC35BFF2",
       "store": "Deal",
@@ -1115,24 +1134,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-AC28828F4F8415D154859ACE63292A64",
-      "store": "Deal",
-      "title": "VTech Little CEO Learning Desk Toddler Activity Center",
-      "price": "$18",
-      "was": "$29",
-      "discount": "38% off",
-      "code": null,
-      "notes": "Clip Coupon",
-      "link": "https://blockbusterdeals.net/product/vtech-little-ceo-learning-desk-toddler-activity-center/",
-      "page": null,
-      "image": "img/wa/AC28828F4F8415D154859ACE63292A64.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T03:01:36Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1179,6 +1180,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T00:27:51Z",
+      "text": "1 new offer(s): Ovidia Standing & Height-Adjustable Desk"
+    },
     {
       "at": "2026-11-13T00:17:45Z",
       "text": "3 new offer(s): FDJ Remote Control Car - Transform Toys , Daniel 37\" Low Profile Bamboo and Metal , Rickeisha 77.2\" Modern TV Stand with Hig"
@@ -1254,10 +1259,6 @@
     {
       "at": "2026-11-12T17:15:14Z",
       "text": "2 new offer(s): Tramontina Utsava Tri-Ply Clad Stainless, BISSELL PowerForce Helix, Bagless, Uprig"
-    },
-    {
-      "at": "2026-11-12T17:05:08Z",
-      "text": "2 new offer(s): Chefman Turbofry 8 Qt Air Fryer w/ Digit, Cook With Color 12Pc Mixing Bowl, Taupe"
     }
   ]
 }
