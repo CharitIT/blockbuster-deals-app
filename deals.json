@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T01:18:22Z",
+  "lastScan": "2026-11-13T01:28:27Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC862432B6931B9604506F6D11DBBD84",
+      "store": "Wayfair",
+      "title": "Hegg Tufted Upholstered Platform Bed with Wood Slats Headboard Included",
+      "price": "$185",
+      "was": "$939",
+      "discount": "80% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/Bnl36oPk17b",
+      "page": null,
+      "image": "img/wa/AC862432B6931B9604506F6D11DBBD84.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T01:25:07Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
+    {
+      "id": "wa-ACEF206679B815AC757C352DE418A6CB",
+      "store": "Wayfair",
+      "title": "Roborock Q10 X5+ Robot Vacuum and Mop, Self-Emptying, 10,000Pa Suction, Obstacle Avoidance, Dual Anti-Tangle System roborock Q10X5+",
+      "price": "$229",
+      "was": "$499",
+      "discount": "54% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/ahcdqnYi17b",
+      "page": null,
+      "image": "img/wa/ACEF206679B815AC757C352DE418A6CB.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T01:18:39Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
     {
       "id": "wa-ACF53158F3B95F9A8ABD47998FA2C713",
       "store": "Deal",
@@ -1094,44 +1132,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC965B9979BC441F8B1792295D1211DE",
-      "store": "Walmart",
-      "title": "All board games On Sale🔥at Walmart",
-      "price": "$5",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! As Low As",
-      "link": "https://go.sylikes.com/fbgOd3KRVt9a",
-      "page": null,
-      "image": "img/wa/AC965B9979BC441F8B1792295D1211DE.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T15:34:13Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACED21AD8C0F008B1A498E23579BA2D8",
-      "store": "Walmart",
-      "title": "Ninja Crispi Glass Air Fryer 4-Qt, 3-in-1, Non-Toxic, Air Fry Recrisp, Portable, Dishwasher Safe, FN090RD Red",
-      "price": "$89",
-      "was": "$140",
-      "discount": "36% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://go.sylikes.com/fbgOdEN9Tt6a",
-      "page": null,
-      "image": "img/wa/ACED21AD8C0F008B1A498E23579BA2D8.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T15:21:39Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1178,6 +1178,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T01:28:27Z",
+      "text": "2 new offer(s): Hegg Tufted Upholstered Platform Bed wit, Roborock Q10 X5+ Robot Vacuum and Mop, S"
+    },
     {
       "at": "2026-11-13T01:18:22Z",
       "text": "3 new offer(s): YADIFEN Womens Shapewear Tummy Control S, 80\" 4-in-1 Convertible Sleeper Sofa Bed , VACTechPro 35kPa Self-standing Cordless "
@@ -1253,10 +1257,6 @@
     {
       "at": "2026-11-12T18:15:53Z",
       "text": "1 new offer(s): • Unlimited access to millions of songs "
-    },
-    {
-      "at": "2026-11-12T18:05:47Z",
-      "text": "2 new offer(s): Serta Simply Soft 4-Piece Black Bed Shee, Delta Children Design & Store 6 Bin Toy "
     }
   ]
 }
