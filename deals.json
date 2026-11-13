@@ -1,9 +1,63 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T16:46:02Z",
+  "lastScan": "2026-11-13T16:57:08Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC403FC6A65CBB78EB173511CDC11D48",
+      "store": "Deal",
+      "title": "🚨Login or signin to adiclub account for discount",
+      "price": "$20",
+      "was": null,
+      "discount": null,
+      "code": "SD15",
+      "notes": "Adidas Early Black Friday Sale! As low as Men's Adidas Shoes 60 % off + Extra 15% off Use Code SD15 You can create a free Adiclub account here👇",
+      "link": "https://mavely.app.link/7uzVPYZn27b",
+      "page": null,
+      "image": "img/wa/AC403FC6A65CBB78EB173511CDC11D48.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T16:48:17Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACB803C3872171A42C5BDCAEDA237D10",
+      "store": "Deal",
+      "title": "🚨Login or signin to adiclub account for discount",
+      "price": "$25",
+      "was": "$65",
+      "discount": "62% off",
+      "code": "SD15",
+      "notes": "Adidas Early Black Friday Sale! Men's Runfalcon 6 CLOUDFOAM Running Shoes 60% off + Extra 15% off Use Code SD15 You can create a free Adiclub account here👇",
+      "link": "https://mavely.app.link/BebWaxko27b",
+      "page": null,
+      "image": "img/wa/ACB803C3872171A42C5BDCAEDA237D10.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T16:46:16Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC952CDBD178018B7B282C90112D5CD0",
+      "store": "Deal",
+      "title": "🚨Login or signin to adiclub account for discount",
+      "price": "$11",
+      "was": "$35",
+      "discount": "69% off",
+      "code": "SD15",
+      "notes": "Adidas Early Black Friday Sale! Men's Own The Run Shorts 60 % off + Extra 15% off Use Code SD15 You can create a free Adiclub account here👇",
+      "link": "https://mavely.app.link/OrU5iIOn27b",
+      "page": null,
+      "image": "img/wa/AC952CDBD178018B7B282C90112D5CD0.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T16:45:58Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC12750DE381B0B58DE76C77C291FB54",
       "store": "Deal",
@@ -1066,61 +1120,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-ACD102ACDB4057EF32FF9260E68C475F",
-      "store": "Deal",
-      "title": "• Unlimited access to millions of songs and podcasts.",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "🎶 Get 3 Months FREE of Amazon Music Unlimited! 🎧 ✨ New subscribers only 🎵 Enjoy millions of songs & podcasts, ad-free! 📲 Download your favorites & listen offlin",
-      "link": "https://theblogcm.com/566/eJkb",
-      "page": null,
-      "image": "img/wa/ACD102ACDB4057EF32FF9260E68C475F.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T18:06:57Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACDA741B909A9E88A74C226D46380336",
-      "store": "Walmart",
-      "title": "Serta Simply Soft 4-Piece Black Bed Sheet Set, King - Ultra Soft",
-      "price": "$12",
-      "was": "$29",
-      "discount": "59% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!!",
-      "link": "https://go.sylikes.com/fbgOjAPLFwIz",
-      "page": null,
-      "image": "img/wa/ACDA741B909A9E88A74C226D46380336.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T18:03:49Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACC74AFE447CD08C3CAFF1FFE7FA28DF",
-      "store": "Deal",
-      "title": "Delta Children Design & Store 6 Bin Toy Storage Organizer - Greenguard Gold Certified, CoComelon",
-      "price": "$19",
-      "was": "$39",
-      "discount": "51% off",
-      "code": null,
-      "notes": null,
-      "link": "https://blockbusterdeals.net/product/delta-children-design-store-6-bin-toy-storage-organizer-greenguard-gold-certified-cocomelon/",
-      "page": null,
-      "image": "img/wa/ACC74AFE447CD08C3CAFF1FFE7FA28DF.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T17:59:41Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1167,6 +1166,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T16:57:08Z",
+      "text": "3 new offer(s): 🚨Login or signin to adiclub account for , 🚨Login or signin to adiclub account for , 🚨Login or signin to adiclub account for "
+    },
     {
       "at": "2026-11-13T16:46:02Z",
       "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
@@ -1242,10 +1245,6 @@
     {
       "at": "2026-11-13T01:48:39Z",
       "text": "2 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, T-fal Kitchen Solutions Ceramic Nonstick"
-    },
-    {
-      "at": "2026-11-13T01:28:27Z",
-      "text": "2 new offer(s): Hegg Tufted Upholstered Platform Bed wit, Roborock Q10 X5+ Robot Vacuum and Mop, S"
     }
   ]
 }
