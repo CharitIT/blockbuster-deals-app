@@ -1,9 +1,65 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-12T21:47:05Z",
+  "lastScan": "2026-11-13T00:17:45Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACC7BD75D16C5691A249FDDDAC35BFF2",
+      "store": "Deal",
+      "title": "FDJ Remote Control Car - Transform Toys Car Robot, One Button Deformation to Robot with Flashing Light, 2.4Ghz 1:18 Scale Transforming Police Car Kids Toys with 360 Degree Rotating, Girls Boys Toys",
+      "price": "$18",
+      "was": "$28",
+      "discount": "36% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/fdj-remote-control-car-transform-toys-car-robot-one-button-deformation-to-robot-with-flashing-light-2-4ghz-118-scale-transforming-police-car-kids-toys-with-360-degree-rotating-girls-boys-toys-4/",
+      "page": null,
+      "image": "img/wa/ACC7BD75D16C5691A249FDDDAC35BFF2.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T00:15:27Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC4B2C3845C4C8F618496F74E81335E0",
+      "store": "Wayfair",
+      "title": "Daniel 37\" Low Profile Bamboo and Metal Platform Bed",
+      "price": "$153",
+      "was": "$499",
+      "discount": "69% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/dRLwecsd17b",
+      "page": null,
+      "image": "img/wa/AC4B2C3845C4C8F618496F74E81335E0.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T00:15:25Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
+    {
+      "id": "wa-AC232808576B7CE488750AED8FC8C16E",
+      "store": "Wayfair",
+      "title": "Rickeisha 77.2\" Modern TV Stand with High Gloss Finish",
+      "price": "$178",
+      "was": "$289",
+      "discount": "38% off",
+      "code": null,
+      "notes": "Free shipping",
+      "link": "https://mavely.app.link/ar1opXed17b",
+      "page": null,
+      "image": "img/wa/AC232808576B7CE488750AED8FC8C16E.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T00:13:59Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Wayfair"
+    },
     {
       "id": "wa-AC8C8E1C6C69287DCD809E2F926ECCAC",
       "store": "Deal",
@@ -1077,61 +1133,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC7B2D9F4BEB4EA6038258994E43B416",
-      "store": "Michael Kors",
-      "title": "Extra 20% off applies automatically when you add to cart",
-      "price": "$34",
-      "was": "$165",
-      "discount": "79% off",
-      "code": "SINGLESDAY",
-      "notes": "Michael Kors Zoe Metallic Wedge Sandal Use code : SINGLESDAY for extra 11% off",
-      "link": "https://mavely.app.link/vTXDPKoMZ7b",
-      "page": null,
-      "image": "img/wa/AC7B2D9F4BEB4EA6038258994E43B416.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T03:01:25Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-ACD6B3189862C87E40F8AC03395905EE",
-      "store": "Deal",
-      "title": "Transformers Toys Heroic Optimus Prime Action Figure - Timeless Large-Scale Figure, Changes into Toy Truck - Toys for Kids 6 and Up, 11-inch (Amazon Exclusive)",
-      "price": "$19",
-      "was": "$27",
-      "discount": "30% off",
-      "code": null,
-      "notes": "Early Black Friday Deal!!",
-      "link": "https://blockbusterdeals.net/product/transformers-toys-heroic-optimus-prime-action-figure-timeless-large-scale-figure-changes-into-toy-truck-toys-for-kids-6-and-up-11-inch-amazon-exclusive/",
-      "page": null,
-      "image": "img/wa/ACD6B3189862C87E40F8AC03395905EE.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T02:56:17Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC990AB8877D90C15A55C8174FDB2317",
-      "store": "Deal",
-      "title": "Play-Doh Starter Set 9-Piece Kit with Storage Tote & 4 Modeling Compound Cans, Ages 3+, Presentation May Vary",
-      "price": "$6",
-      "was": "$12",
-      "discount": "50% off",
-      "code": null,
-      "notes": "Early Black Friday Deal!!",
-      "link": "https://blockbusterdeals.net/product/play-doh-starter-set-9-piece-kit-with-storage-tote-4-modeling-compound-cans-ages-3-presentation-may-vary/",
-      "page": null,
-      "image": "img/wa/AC990AB8877D90C15A55C8174FDB2317.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T02:56:10Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1178,6 +1179,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T00:17:45Z",
+      "text": "3 new offer(s): FDJ Remote Control Car - Transform Toys , Daniel 37\" Low Profile Bamboo and Metal , Rickeisha 77.2\" Modern TV Stand with Hig"
+    },
     {
       "at": "2026-11-12T21:36:55Z",
       "text": "1 new offer(s): • Unlimited access to millions of songs "
@@ -1253,10 +1258,6 @@
     {
       "at": "2026-11-12T17:05:08Z",
       "text": "2 new offer(s): Chefman Turbofry 8 Qt Air Fryer w/ Digit, Cook With Color 12Pc Mixing Bowl, Taupe"
-    },
-    {
-      "at": "2026-11-12T16:55:01Z",
-      "text": "1 new offer(s): My Life As Peyton 18-inch Posable Fashio"
     }
   ]
 }
