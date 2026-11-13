@@ -1,9 +1,45 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T03:10:00Z",
+  "lastScan": "2026-11-13T03:20:20Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC99607AD476CE60247DEAE7B26156D1",
+      "store": "Deal",
+      "title": "• Unlimited access to millions of songs and podcasts.",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "🎶 Get 3 Months FREE of Amazon Music Unlimited! 🎧 ✨ New subscribers only 🎵 Enjoy millions of songs & podcasts, ad-free! 📲 Download your favorites & listen offlin",
+      "link": "https://theblogcm.com/566/eJkb",
+      "page": null,
+      "image": "img/wa/AC99607AD476CE60247DEAE7B26156D1.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T03:11:49Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-ACBF2855CBF24C982AC6197A1BB0592B",
+      "store": "Deal",
+      "title": "Bath & Body Works 3-Wick Candles are BOGO FREE🔥🔥",
+      "price": "$12",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "(When you buy 2)",
+      "link": "https://mavely.app.link/mhvLCFYr17b",
+      "page": null,
+      "image": "img/wa/ACBF2855CBF24C982AC6197A1BB0592B.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T03:10:00Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACF946507E9B38813E1137F86AFAE67A",
       "store": "Walmart",
@@ -1091,44 +1127,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC4AC8398A14600E8E5E74125FBBE310",
-      "store": "Walmart",
-      "title": "Chefman Turbofry 8 Qt Air Fryer w/ Digital Controls & Windowed Basket - Stainless Steel",
-      "price": "$56",
-      "was": "$119",
-      "discount": "53% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!!",
-      "link": "https://go.sylikes.com/fbgOhNXfJoE1",
-      "page": null,
-      "image": "img/wa/AC4AC8398A14600E8E5E74125FBBE310.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T16:59:29Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACE89B60BC23B3BC56B136A74D34238D",
-      "store": "Walmart",
-      "title": "Cook With Color 12Pc Mixing Bowl, Taupe",
-      "price": "$10",
-      "was": "$29",
-      "discount": "66% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!!",
-      "link": "https://go.sylikes.com/fbgOg4iP0BdR",
-      "page": null,
-      "image": "img/wa/ACE89B60BC23B3BC56B136A74D34238D.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T16:55:45Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1175,6 +1173,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T03:20:20Z",
+      "text": "2 new offer(s): • Unlimited access to millions of songs , Bath & Body Works 3-Wick Candles are BOG"
+    },
     {
       "at": "2026-11-13T03:10:00Z",
       "text": "2 new offer(s): Wyze Cam OG Indoor/Outdoor 1080p HD Smar, True Hue 10-Pack Bath Towel Bundle, Blea"
@@ -1250,10 +1252,6 @@
     {
       "at": "2026-11-12T21:16:51Z",
       "text": "1 new offer(s): Mercer Medium Logo and Leather Accordion"
-    },
-    {
-      "at": "2026-11-12T21:06:44Z",
-      "text": "1 new offer(s): Extra 20% off applies automatically when"
     }
   ]
 }
