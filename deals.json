@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T01:28:27Z",
+  "lastScan": "2026-11-13T01:48:39Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACEA4AC574DF52E893F7231453D3B726",
+      "store": "Deal",
+      "title": "Bear Baby Bottle Warmer, Fast Warming Breast Milk Formula, White",
+      "price": "$14",
+      "was": "$29",
+      "discount": "52% off",
+      "code": "YLQUI517",
+      "notes": "Use Code : YLQUI517",
+      "link": "https://blockbusterdeals.net/product/bear-baby-bottle-warmer-fast-warming-breast-milk-formula-white-4/",
+      "page": null,
+      "image": "img/wa/ACEA4AC574DF52E893F7231453D3B726.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T01:39:52Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC9C9F71FE606E56E7097B9F420C7A99",
+      "store": "Walmart",
+      "title": "T-fal Kitchen Solutions Ceramic Nonstick 21-Piece Pots and Pans Cookware Set, Black and Moon Gey",
+      "price": "$49",
+      "was": "$119",
+      "discount": "59% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://mavely.app.link/8civ0DYj17b",
+      "page": null,
+      "image": "img/wa/AC9C9F71FE606E56E7097B9F420C7A99.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T01:39:44Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC862432B6931B9604506F6D11DBBD84",
       "store": "Wayfair",
@@ -1094,44 +1131,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC682F818C8E6A1B56747460BC7B2D66",
-      "store": "Walmart",
-      "title": "VIZIO 58\" Class Class Quantum 4K QLED HDR, Limited Edition Smart TV (NEW 2026) VQD58X-10",
-      "price": "$178",
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://go.sylikes.com/fbgOdJTCb14R",
-      "page": null,
-      "image": "img/wa/AC682F818C8E6A1B56747460BC7B2D66.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T15:43:32Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
-      "id": "wa-ACD2D3FF3F1ACA6E220C603B4A81306E",
-      "store": "Walmart",
-      "title": "Nespresso Vertuo Pop Coffee and Espresso Maker by De'Longhi, Liquorice Black",
-      "price": "$69",
-      "was": "$119",
-      "discount": "42% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://go.sylikes.com/fbgOdG1Gu3cX",
-      "page": null,
-      "image": "img/wa/ACD2D3FF3F1ACA6E220C603B4A81306E.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T15:35:52Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1178,6 +1177,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T01:48:39Z",
+      "text": "2 new offer(s): Bear Baby Bottle Warmer, Fast Warming Br, T-fal Kitchen Solutions Ceramic Nonstick"
+    },
     {
       "at": "2026-11-13T01:28:27Z",
       "text": "2 new offer(s): Hegg Tufted Upholstered Platform Bed wit, Roborock Q10 X5+ Robot Vacuum and Mop, S"
@@ -1253,10 +1256,6 @@
     {
       "at": "2026-11-12T19:36:04Z",
       "text": "1 new offer(s): Big Chill Women's Packable Puffer Jacket"
-    },
-    {
-      "at": "2026-11-12T18:15:53Z",
-      "text": "1 new offer(s): • Unlimited access to millions of songs "
     }
   ]
 }
