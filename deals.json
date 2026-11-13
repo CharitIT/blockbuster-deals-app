@@ -1,9 +1,47 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T17:40:29Z",
+  "lastScan": "2026-11-13T17:51:22Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC70EF7D3E3CDFDE32EBFA62D3E1FBC2",
+      "store": "Walmart",
+      "title": "Reece Channel Stitched Upholstered King Bed, Ivory, by Hillsdale Living Essentials",
+      "price": "$67",
+      "was": "$159",
+      "discount": "58% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!! Free shipping",
+      "link": "https://mavely.app.link/cBnhWY3s27b",
+      "page": null,
+      "image": "img/wa/AC70EF7D3E3CDFDE32EBFA62D3E1FBC2.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T17:48:24Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
+    {
+      "id": "wa-AC26CA573B62ACBF051E45087388771B",
+      "store": "Walmart",
+      "title": "Celebrity Pink Women's Fortuna Ankle Bootie",
+      "price": "$15",
+      "was": "$40",
+      "discount": "62% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://mavely.app.link/IVwNvq1e27b",
+      "page": null,
+      "image": "img/wa/AC26CA573B62ACBF051E45087388771B.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T17:42:36Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC63529B111AE40BF60DF48299A15A9C",
       "store": "Walmart",
@@ -1080,44 +1118,6 @@
       "merchant": "Michael Kors"
     },
     {
-      "id": "wa-AC54DCF986D5EC02A3800DAF0029C468",
-      "store": "Michael Kors",
-      "title": "Cooper Logo Billfold Wallet With Passcase",
-      "price": "$27",
-      "was": "$158",
-      "discount": "83% off",
-      "code": "SINGLESDAY",
-      "notes": "Michael Kors EXTRA 20% OFF APPLIED IN CART And 11% OFF CODE: SINGLESDAY",
-      "link": "https://mavely.app.link/zxCz8ki307b",
-      "page": null,
-      "image": "img/wa/AC54DCF986D5EC02A3800DAF0029C468.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T21:26:33Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
-      "id": "wa-ACACF96193BB7E62ADF3768F03E5BC34",
-      "store": "Michael Kors",
-      "title": "Mercer Medium Logo and Leather Accordion Crossbody Bag",
-      "price": "$49",
-      "was": "$328",
-      "discount": "85% off",
-      "code": "SINGLESDAY",
-      "notes": "Michael Kors EXTRA 20% OFF APPLIED IN CART And 11% OFF CODE: SINGLESDAY",
-      "link": "https://mavely.app.link/q8jOI4F007b",
-      "page": null,
-      "image": "img/wa/ACACF96193BB7E62ADF3768F03E5BC34.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T21:11:20Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Michael Kors"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1164,6 +1164,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T17:51:22Z",
+      "text": "2 new offer(s): Reece Channel Stitched Upholstered King , Celebrity Pink Women's Fortuna Ankle Boo"
+    },
     {
       "at": "2026-11-13T17:40:29Z",
       "text": "2 new offer(s): Shyft DualRide Infant Car Seat and Strol, Shyft DualRide Infant Car Seat and Strol"
@@ -1239,10 +1243,6 @@
     {
       "at": "2026-11-13T02:49:32Z",
       "text": "2 new offer(s): OKKO Rave Box Bluetooth Party Speaker, L, nutribullet®️ Full-Size Blender Combo, 1"
-    },
-    {
-      "at": "2026-11-13T02:39:18Z",
-      "text": "2 new offer(s): Free shipping on orders $150+, RSPGAME Music Sync LED Gaming Desk Compu"
     }
   ]
 }
