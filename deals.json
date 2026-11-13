@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T15:52:52Z",
+  "lastScan": "2026-11-13T16:03:09Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC1CE7AC1F93ED13C6C1B5BC2AD79955",
+      "store": "Deal",
+      "title": "🚨Login or signin to adiclub account for discount",
+      "price": "$23",
+      "was": "$70",
+      "discount": "67% off",
+      "code": "SD15",
+      "notes": "Adidas Lite Racer Adapt 7.0 Wide Men's Shoes 60 % off + Extra 15% off Use Code SD15 You can create a free Adiclub account here👇",
+      "link": "https://mavely.app.link/nFtrcbdk27b",
+      "page": null,
+      "image": "img/wa/AC1CE7AC1F93ED13C6C1B5BC2AD79955.jpg",
+      "category": null,
+      "postedAt": "2026-11-13T16:00:15Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC96318BA513098EB612862CCA7DDDE8",
       "store": "Deal",
@@ -1106,25 +1124,6 @@
       "merchant": "Walmart"
     },
     {
-      "id": "wa-AC054A333FAF90047AEBE9AE30BBC05D",
-      "store": "Walmart",
-      "title": "CAROTE 18-Piece Nonstick Pots and Pans, Granite Cookware Set with Kitchen Utensils, Brown",
-      "price": "$59",
-      "was": "$139",
-      "discount": "58% off",
-      "code": null,
-      "notes": "Walmart Black Friday Deal!! Free shipping",
-      "link": "https://go.sylikes.com/fbgOjjyZLmPB",
-      "page": null,
-      "image": "img/wa/AC054A333FAF90047AEBE9AE30BBC05D.jpg",
-      "category": null,
-      "postedAt": "2026-11-12T17:33:17Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Walmart"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1171,6 +1170,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-13T16:03:09Z",
+      "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
+    },
     {
       "at": "2026-11-13T15:52:52Z",
       "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
@@ -1246,10 +1249,6 @@
     {
       "at": "2026-11-13T00:48:04Z",
       "text": "1 new offer(s): Chaseburg 5-Drawer Dresser with Wooden, "
-    },
-    {
-      "at": "2026-11-13T00:37:59Z",
-      "text": "1 new offer(s): Bedroom Sets On Sale🔥at Wayfair"
     }
   ]
 }
