@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-14T00:36:35Z",
+  "lastScan": "2026-11-14T00:47:12Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8F0C2B3B052893EAFAF70515A3E21C",
+      "store": "Woot",
+      "title": "(Like-New) Amazon Fire TV Stick 4K Select (newest model)",
+      "price": "$11",
+      "was": null,
+      "discount": null,
+      "code": "FIRE30",
+      "notes": "Use Code :FIRE30 at checkout for an extra 30% off 🔥 Sign in with your Amazon account at checkout for free shipping.",
+      "link": "https://mavely.app.link/l1oj0oAR27b",
+      "page": null,
+      "image": "img/wa/AC8F0C2B3B052893EAFAF70515A3E21C.jpg",
+      "category": null,
+      "postedAt": "2026-11-14T00:44:19Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-ACA0AB95875C9781BF06992B3632C11C",
       "store": "Deal",
@@ -1098,24 +1116,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC1CE7AC1F93ED13C6C1B5BC2AD79955",
-      "store": "Deal",
-      "title": "🚨Login or signin to adiclub account for discount",
-      "price": "$23",
-      "was": "$70",
-      "discount": "67% off",
-      "code": "SD15",
-      "notes": "Adidas Lite Racer Adapt 7.0 Wide Men's Shoes 60 % off + Extra 15% off Use Code SD15 You can create a free Adiclub account here👇",
-      "link": "https://mavely.app.link/nFtrcbdk27b",
-      "page": null,
-      "image": "img/wa/AC1CE7AC1F93ED13C6C1B5BC2AD79955.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T16:00:15Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1162,6 +1162,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-14T00:47:12Z",
+      "text": "1 new offer(s): (Like-New) Amazon Fire TV Stick 4K Selec"
+    },
     {
       "at": "2026-11-14T00:36:35Z",
       "text": "1 new offer(s): Victoria’s Secret Beauty Gift Sets 🔥"
@@ -1237,10 +1241,6 @@
     {
       "at": "2026-11-13T16:57:08Z",
       "text": "3 new offer(s): 🚨Login or signin to adiclub account for , 🚨Login or signin to adiclub account for , 🚨Login or signin to adiclub account for "
-    },
-    {
-      "at": "2026-11-13T16:46:02Z",
-      "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
     }
   ]
 }
