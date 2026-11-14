@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-14T00:47:12Z",
+  "lastScan": "2026-11-14T00:57:44Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACEFA3D4F0DE7F1762AB89A60C53A22A",
+      "store": "Target",
+      "title": "BISSELL PowerClean DualBrush Cordless Self-Standing Stick Vacuum 4196T Pet Hair Pick-Up Black",
+      "price": "$259",
+      "was": "$359",
+      "discount": "28% off",
+      "code": null,
+      "notes": null,
+      "link": "https://mavely.app.link/WtUDxEWU27b",
+      "page": null,
+      "image": "img/wa/ACEFA3D4F0DE7F1762AB89A60C53A22A.jpg",
+      "category": null,
+      "postedAt": "2026-11-14T00:56:31Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Target"
+    },
+    {
+      "id": "wa-AC8118C677DDCBE15C6790C4948DABD2",
+      "store": "Deal",
+      "title": "CHI Original 1\" Ceramic Hair Straightener Flat Iron for Styling",
+      "price": "$38",
+      "was": "$100",
+      "discount": "62% off",
+      "code": null,
+      "notes": null,
+      "link": "https://blockbusterdeals.net/product/chi-original-1-ceramic-hair-straightener-flat-iron-for-styling-6/",
+      "page": null,
+      "image": "img/wa/AC8118C677DDCBE15C6790C4948DABD2.jpg",
+      "category": null,
+      "postedAt": "2026-11-14T00:47:49Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC8F0C2B3B052893EAFAF70515A3E21C",
       "store": "Woot",
@@ -1080,42 +1117,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC1E6F0ECBD08697C618DDAF80F9BECE",
-      "store": "Deal",
-      "title": "🚨Login or signin to adiclub account for discount",
-      "price": "$25",
-      "was": "$75",
-      "discount": "67% off",
-      "code": "SD15",
-      "notes": "Adidas Sportswear Purechill 60 % off + Extra 15% off Use Code SD15 You can create a free Adiclub account here👇",
-      "link": "https://mavely.app.link/7MejOAXl27b",
-      "page": null,
-      "image": "img/wa/AC1E6F0ECBD08697C618DDAF80F9BECE.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T16:14:22Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-AC4EB8B386A6942BD910AFECABA1BCA9",
-      "store": "Deal",
-      "title": "🚨Login or signin to adiclub account for discount",
-      "price": "$34",
-      "was": "$100",
-      "discount": "66% off",
-      "code": "SD15",
-      "notes": "Adidas ZENBOOST Running men's Shoes 60 % off + Extra 15% off Use Code SD15 You can create a free Adiclub account here👇",
-      "link": "https://mavely.app.link/u9FFTzEl27b",
-      "page": null,
-      "image": "img/wa/AC4EB8B386A6942BD910AFECABA1BCA9.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T16:09:06Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1162,6 +1163,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-14T00:57:44Z",
+      "text": "2 new offer(s): BISSELL PowerClean DualBrush Cordless Se, CHI Original 1\" Ceramic Hair Straightene"
+    },
     {
       "at": "2026-11-14T00:47:12Z",
       "text": "1 new offer(s): (Like-New) Amazon Fire TV Stick 4K Selec"
@@ -1237,10 +1242,6 @@
     {
       "at": "2026-11-13T17:08:21Z",
       "text": "7 new offer(s): Men's Gliano Round Toe Casual Sneakers, Men's French Rib Quarter-Zip Sweater, Men's Classic Midweight Stand Collar Jac"
-    },
-    {
-      "at": "2026-11-13T16:57:08Z",
-      "text": "3 new offer(s): 🚨Login or signin to adiclub account for , 🚨Login or signin to adiclub account for , 🚨Login or signin to adiclub account for "
     }
   ]
 }
