@@ -1,9 +1,27 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-14T00:25:58Z",
+  "lastScan": "2026-11-14T00:36:35Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-ACA0AB95875C9781BF06992B3632C11C",
+      "store": "Deal",
+      "title": "Victoria’s Secret Beauty Gift Sets 🔥",
+      "price": null,
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "(Buy 1, Get 1 Free )😍🛍",
+      "link": "https://mavely.app.link/JaRRbmmW27b",
+      "page": null,
+      "image": "img/wa/ACA0AB95875C9781BF06992B3632C11C.jpg",
+      "category": null,
+      "postedAt": "2026-11-14T00:35:54Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
     {
       "id": "wa-AC768714CB5D65F95540A6545AF1D79F",
       "store": "Deal",
@@ -1098,24 +1116,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC96318BA513098EB612862CCA7DDDE8",
-      "store": "Deal",
-      "title": "🚨Login or signin to adiclub account for discount",
-      "price": "$25",
-      "was": "$60",
-      "discount": "58% off",
-      "code": "SD15",
-      "notes": "Adidas Men's/women's Runfalcon 5 Running Shoes 60 % off + Extra 15% off Use Code SD15 You can create a free Adiclub account here👇",
-      "link": "https://mavely.app.link/IZCyncfk27b",
-      "page": null,
-      "image": "img/wa/AC96318BA513098EB612862CCA7DDDE8.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T15:49:19Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1162,6 +1162,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-14T00:36:35Z",
+      "text": "1 new offer(s): Victoria’s Secret Beauty Gift Sets 🔥"
+    },
     {
       "at": "2026-11-14T00:25:58Z",
       "text": "2 new offer(s): Artificial Fiddle Leaf Fig Tree Home Fak, Shark SpeedStyle Pro Hair Dryer System P"
@@ -1236,10 +1240,6 @@
     },
     {
       "at": "2026-11-13T16:46:02Z",
-      "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
-    },
-    {
-      "at": "2026-11-13T16:35:08Z",
       "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
     }
   ]
