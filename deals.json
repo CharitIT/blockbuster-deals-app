@@ -1,9 +1,46 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-14T00:15:22Z",
+  "lastScan": "2026-11-14T00:25:58Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC768714CB5D65F95540A6545AF1D79F",
+      "store": "Deal",
+      "title": "Artificial Fiddle Leaf Fig Tree Home Fake 6FT , Large Tall Trees with Planter, Long Fake Ficus Lyrata Tree Floor Plants for Decor Office Living Room Housewarming Gift",
+      "price": "$31",
+      "was": "$63",
+      "discount": "51% off",
+      "code": null,
+      "notes": "Add to cart and 50%off discount will be auto applied at checkout",
+      "link": "https://blockbusterdeals.net/product/artificial-fiddle-leaf-fig-tree-home-fake-6ft-large-tall-trees-with-planter-long-fake-ficus-lyrata-tree-floor-plants-for-decor-office-living-room-housewarming-gift/",
+      "page": null,
+      "image": "img/wa/AC768714CB5D65F95540A6545AF1D79F.jpg",
+      "category": null,
+      "postedAt": "2026-11-14T00:24:52Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp"
+    },
+    {
+      "id": "wa-AC30F69349966E387DAB26B2C9A9C552",
+      "store": "Costco",
+      "title": "Shark SpeedStyle Pro Hair Dryer System Plus Storage Bag",
+      "price": "$159",
+      "was": "$199",
+      "discount": "20% off",
+      "code": null,
+      "notes": null,
+      "link": "https://www.mnpa6gtrk.com/3LNH5GPF/3DGXXQKD/?uid=42889",
+      "page": null,
+      "image": "img/wa/AC30F69349966E387DAB26B2C9A9C552.jpg",
+      "category": null,
+      "postedAt": "2026-11-14T00:19:59Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Costco"
+    },
     {
       "id": "wa-AC8E0B1F1C54B0E4B13041E244DD02BB",
       "store": "Walmart",
@@ -1079,42 +1116,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-ACA0ECC39813173DB598AD73A91E0342",
-      "store": "Deal",
-      "title": "Men + Women Up To 60% Off Athletic & Sneakers Shoes Sale",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": "SD15",
-      "notes": "Adidas Black Friday First Access🔥 60 % off + Extra 15% off Use Code SD15 🚨Login or signin to adiclub account for discount You can create a free Adiclub account ",
-      "link": "https://mavely.app.link/Tk3abSdi27b",
-      "page": null,
-      "image": "img/wa/ACA0ECC39813173DB598AD73A91E0342.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T15:37:03Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
-      "id": "wa-ACBB2D398F81C92B7BF48B1A105F8812",
-      "store": "Deal",
-      "title": "Men + Women Up To 60% Off Athletic & Sneakers Shoes Sale",
-      "price": null,
-      "was": null,
-      "discount": null,
-      "code": null,
-      "notes": "Adidas Black Friday First Access🔥",
-      "link": "https://mavely.app.link/Tk3abSdi27b",
-      "page": null,
-      "image": "img/wa/ACBB2D398F81C92B7BF48B1A105F8812.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T15:22:19Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1161,6 +1162,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-14T00:25:58Z",
+      "text": "2 new offer(s): Artificial Fiddle Leaf Fig Tree Home Fak, Shark SpeedStyle Pro Hair Dryer System P"
+    },
     {
       "at": "2026-11-14T00:15:22Z",
       "text": "1 new offer(s): Hello Kitty Girls 17\" Classic Kitty Back"
@@ -1236,10 +1241,6 @@
     {
       "at": "2026-11-13T16:35:08Z",
       "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
-    },
-    {
-      "at": "2026-11-13T16:24:05Z",
-      "text": "2 new offer(s): 🚨Login or signin to adiclub account for , 🚨Login or signin to adiclub account for "
     }
   ]
 }
