@@ -1,9 +1,28 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-13T21:36:10Z",
+  "lastScan": "2026-11-14T00:15:22Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "wa-AC8E0B1F1C54B0E4B13041E244DD02BB",
+      "store": "Walmart",
+      "title": "Hello Kitty Girls 17\" Classic Kitty Backpack, Red",
+      "price": "$7",
+      "was": "$14",
+      "discount": "50% off",
+      "code": null,
+      "notes": "Walmart Black Friday Deal!!",
+      "link": "https://go.sylikes.com/fbgTak4P5yxm",
+      "page": null,
+      "image": "img/wa/AC8E0B1F1C54B0E4B13041E244DD02BB.jpg",
+      "category": null,
+      "postedAt": "2026-11-14T00:11:02Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "whatsapp",
+      "merchant": "Walmart"
+    },
     {
       "id": "wa-AC6C05A62A2CEC42C03E0148E0A144F1",
       "store": "Deal",
@@ -1096,25 +1115,6 @@
       "source": "whatsapp"
     },
     {
-      "id": "wa-AC117BE1A7241E6F6D37D4FE98605388",
-      "store": "Macy's",
-      "title": "Petite Polar Fleece Zip-Front Jacket",
-      "price": "$19",
-      "was": "$54",
-      "discount": "65% off",
-      "code": null,
-      "notes": "Style & Co",
-      "link": "https://mavely.app.link/fnwfiQAe27b",
-      "page": null,
-      "image": "img/wa/AC117BE1A7241E6F6D37D4FE98605388.jpg",
-      "category": null,
-      "postedAt": "2026-11-13T15:16:15Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "whatsapp",
-      "merchant": "Macy's"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1161,6 +1161,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-14T00:15:22Z",
+      "text": "1 new offer(s): Hello Kitty Girls 17\" Classic Kitty Back"
+    },
     {
       "at": "2026-11-13T21:36:10Z",
       "text": "6 new offer(s): • Unlimited access to millions of songs , Jetson Dash Hoverboard, LED Lights, Blac, Try Mistplay. Download games through the"
@@ -1236,10 +1240,6 @@
     {
       "at": "2026-11-13T16:24:05Z",
       "text": "2 new offer(s): 🚨Login or signin to adiclub account for , 🚨Login or signin to adiclub account for "
-    },
-    {
-      "at": "2026-11-13T16:13:32Z",
-      "text": "1 new offer(s): 🚨Login or signin to adiclub account for "
     }
   ]
 }
