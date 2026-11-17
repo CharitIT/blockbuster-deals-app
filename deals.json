@@ -1,7 +1,7 @@
 {
   "channel": "Blockbuster Deals 32",
   "source": "whatsapp",
-  "lastScan": "2026-11-14T00:57:44Z",
+  "lastScan": "2026-11-17T01:46:24Z",
   "nextScan": null,
   "offers": [
     {
@@ -61,7 +61,7 @@
     },
     {
       "id": "wa-ACA0AB95875C9781BF06992B3632C11C",
-      "store": "Deal",
+      "store": "Victoria's Secret",
       "title": "Victoria’s Secret Beauty Gift Sets 🔥",
       "price": null,
       "was": null,
@@ -75,7 +75,8 @@
       "postedAt": "2026-11-14T00:35:54Z",
       "expiresAt": null,
       "status": "active",
-      "source": "whatsapp"
+      "source": "whatsapp",
+      "merchant": "Victoria's Secret"
     },
     {
       "id": "wa-AC768714CB5D65F95540A6545AF1D79F",
