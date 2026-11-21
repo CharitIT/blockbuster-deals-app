@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>BlockbusterDealsIT</title>
-<meta name="description" content="Offers from the Blockbuster Deals WhatsApp community, updated live.">
+<title>Big Deals USA</title>
+<meta name="description" content="Big discounts from US stores, updated live.">
 <meta name="theme-color" content="#0B6E4F">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon-192.png">
@@ -215,12 +215,12 @@ footer{font-size:12px;color:var(--muted)}
 <div class="wrap">
   <header>
     <div class="top">
-      <div class="eyebrow">Live deals · Blockbuster Deals WhatsApp</div>
+      <div class="eyebrow">Live deals · Big discounts</div>
       <button class="refresh" id="refresh" type="button" aria-label="Refresh deals" title="Refresh">
         <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M20 12a8 8 0 1 1-2.34-5.66" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M20 4v5h-5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </button>
     </div>
-    <h1>BlockbusterDealsIT</h1>
+    <h1>Big Deals USA</h1>
     <div class="status">
       <span><span class="dot" id="dot"></span>Checked <b id="checked">—</b></span>
       <span>Last scan <b id="last">—</b></span>
@@ -321,7 +321,7 @@ footer{font-size:12px;color:var(--muted)}
     <ol id="log"></ol>
   </section>
 
-  <footer>Refreshes every 5 minutes while open, and each time you come back to the app. Prices and codes are copied as posted; check the store before buying.</footer>
+  <footer>Refreshes every 5 minutes while open, and each time you come back to the app. Prices and codes are copied as posted; check the store before buying.<br><br>Big Deals USA is an independent app and is not affiliated with, endorsed by or sponsored by any store or deal site listed here. Deals and links come from <a href="https://blockbusterdeals.net" target="_blank" rel="noopener">blockbusterdeals.net</a>; tap “View original post” to see each one at its source. Product names, images and trademarks belong to their owners.</footer>
 </div>
 
 <script>
@@ -464,7 +464,7 @@ footer{font-size:12px;color:var(--muted)}
     const top = el("div","row");
     top.append(el("div","store",o.store||"Deal"));
     if (o.discount) top.append(el("div","off",o.discount));
-    if (o.image && /^(https:\/\/|img\/wa\/)/.test(o.image)){ const im=el("img","thumb"); im.src=o.image; im.alt=""; im.loading="lazy"; im.decoding="async"; im.onerror=()=>im.remove(); c.append(im); }
+    if (o.image && /^https:\/\//.test(o.image)){ const im=el("img","thumb"); im.src=o.image; im.alt=""; im.loading="lazy"; im.decoding="async"; im.onerror=()=>im.remove(); c.append(im); }
     c.append(top, el("h3","title",o.title||"Untitled offer"));
     if (o.price || o.was){
       const p = el("div","price");
@@ -491,7 +491,6 @@ footer{font-size:12px;color:var(--muted)}
       });
       box.append(t,b); c.append(box);
     }
-    if (o.notes) c.append(el("p","notes",o.notes));
     const m = el("div","meta");
     if (o.live) m.append(el("span","pill fresh","Just posted"));
     else m.append(el("span","pill"+(s==="soon"?" soon":s==="expired"?" gone":""),
@@ -526,7 +525,7 @@ footer{font-size:12px;color:var(--muted)}
       if (filter==="soon" && s!=="soon") return false;
       if (filter==="expired" && s!=="expired") return false;
       if (!offOk(o) || !priceOk(o) || !catOk(o) || !storeOk(o)) return false;
-      return !needle || [o.store,o.merchant,o.title,o.code,o.notes].join(" ").toLowerCase().includes(needle);
+      return !needle || [o.store,o.merchant,o.title,o.code].join(" ").toLowerCase().includes(needle);
     }).sort(SORTS[sortBy] || SORTS.new);
     $("#list").classList.toggle("compact", view === "grid");
     const nActive = (filter !== "active") + (minOff > 0) + (pMin > 0 || pMax < PMAX) + (store !== "All") + (cat !== "All");

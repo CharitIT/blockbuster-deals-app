@@ -4,7 +4,7 @@ Runs on a Mac signed in to WhatsApp Desktop (launchd, every 10 minutes; see scri
 Standard library + macOS `sips` only.
 - Reads only the announcement group named CHAT, read-only. Nothing is sent to WhatsApp.
 - Each post is an image with a caption like "$6🔥 At Walmart / Reg$11 / <title> / <link> / #ad".
-- Images are shrunk into img/wa/ so GitHub Pages can serve them.
+- Photos are NOT copied or republished (they belong to the posters/stores).
 - New offers are merged into deals.json (newest COUNT kept), then committed and pushed.
 """
 import json, os, re, sqlite3, subprocess, sys
@@ -112,10 +112,10 @@ def parse(stanza, date, caption, local, cache, budget):
         "was": was if disc else None,
         "discount": disc,
         "code": code.group(1) if code else None,
-        "notes": " ".join(rest)[:160] or None,
+        "notes": None,  # don't republish others' captions
         "link": link,
         "page": None,
-        "image": image(stanza, local),
+        "image": None,  # don't republish others' photos
         "category": None,
         "postedAt": datetime.fromtimestamp(date + APPLE_EPOCH, timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "expiresAt": None,
@@ -186,7 +186,7 @@ def main():
 
     if os.environ.get("WA_NO_PUSH"):
         return
-    paths = ("deals.json", "stores.json", "img/wa")
+    paths = ("deals.json", "stores.json")
     git("add", "-A", *paths)
     if git("diff", "--cached", "--quiet", "--", *paths).returncode == 0:
         return

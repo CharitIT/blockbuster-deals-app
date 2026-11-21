@@ -1,4 +1,4 @@
-# BlockbusterDeals Worker (Cloudflare, free)
+# Big Deals USA Worker (Cloudflare, free)
 
 Gives the app live prices (price, original price, % off, you save) for every deal, and sends
 ntfy phone alerts every 5 minutes. Replaces the slow GitHub schedule for alerts.

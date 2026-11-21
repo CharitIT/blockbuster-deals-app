@@ -1,9 +1,10 @@
-// Serves the app at https://usa-blockbuster-deals.pages.dev/ by forwarding each request to
+// Serves the app at https://bigdeals-usa.pages.dev/ by forwarding each request to
 // GitHub Pages, so whatever is pushed to GitHub (including the deals bot) shows up here
 // right away, with no Cloudflare rebuild.
 // Deploy (from a folder holding only this file, or Wrangler may upload more):
-//   npx wrangler pages deploy <folder> --project-name usa-blockbuster-deals --branch main --force
-// --force keeps it on classic Pages (pages.dev); without it Wrangler makes a workers.dev Worker instead.
+//   npx wrangler pages deploy <folder> --project-name bigdeals-usa --branch main
+// (The project was created with `wrangler pages project create ... --force`, which keeps it on
+// classic Pages at pages.dev; without --force Wrangler makes a workers.dev Worker instead.)
 const ORIGIN = "https://charitit.github.io/blockbuster-deals-app";
 
 export default {

@@ -1,6 +1,9 @@
-# BlockbusterDeals Board (PWA)
+# Big Deals USA (PWA)
 
-A phone app for iPhone and Android that shows live offers from blockbusterdeals.net, the site behind the BlockbusterDeals 19 WhatsApp community.
+A phone app for iPhone and Android that shows big discounts from US stores, using the public deal list on blockbusterdeals.net.
+Live at https://bigdeals-usa.pages.dev/
+
+Big Deals USA is independent and not affiliated with any store or deal site. It shows each deal's title, price and discount, keeps the source's own links, and links back to the original post; it does not copy the source's write-ups or store copies of photos.
 It reloads every 5 minutes while it's open, and whenever you come back to it.
 
 ## App features
@@ -36,18 +39,18 @@ Open http://localhost:8080. You need a server because opening `index.html` direc
 
 ## Put it online for free (GitHub Pages)
 
-1. Create a new **public** repo on GitHub named `blockbuster-deals`. GitHub Pages is free for public repos.
+1. Create a new **public** repo on GitHub named `bigdeals-usa`. GitHub Pages is free for public repos.
 2. In Cursor's terminal:
    ```bash
    git init
    git add .
-   git commit -m "BlockbusterDeals Board PWA"
+   git commit -m "Big Deals USA PWA"
    git branch -M main
-   git remote add origin https://github.com/<your-username>/blockbuster-deals.git
+   git remote add origin https://github.com/<your-username>/bigdeals-usa.git
    git push -u origin main
    ```
 3. On GitHub, go to the repo's **Settings → Pages → Build and deployment**. Choose **Deploy from a branch**, select `main` and `/ (root)`, then **Save**.
-4. After about a minute the app is live at `https://<your-username>.github.io/blockbuster-deals/`.
+4. After about a minute the app is live at `https://<your-username>.github.io/bigdeals-usa/`.
 
 ## Install it on your phone
 
@@ -58,7 +61,7 @@ It opens full-screen with its own icon, like a regular app.
 
 ## How offers get updated (fully automatic)
 
-No WhatsApp and no Mac needed. The deals come from **blockbusterdeals.net**, the website behind the BlockbusterDeals WhatsApp community.
+No WhatsApp and no Mac needed. The deals come from **blockbusterdeals.net**'s public deal list.
 
 1. **GitHub Actions** runs `scripts/fetch_deals.py` every 10 minutes (`.github/workflows/update-deals.yml`). It reads the site's public product list (price, regular price, store link, photo, posted time), merges in `manual.json`, and commits `deals.json` only when something changed.
 2. **GitHub Pages** redeploys within about a minute of that commit.

@@ -1,4 +1,4 @@
-// BlockbusterDeals Worker (Cloudflare Workers, free plan)
+// Big Deals USA Worker (Cloudflare Workers, free plan)
 //
 // 1. GET https://<your-worker>.workers.dev/  -> newest deals from blockbusterdeals.net
 //    WITH price, original price and % off, readable by the phone app (CORS enabled).
@@ -11,9 +11,9 @@
 //   Triggers -> Cron:       */5 * * * *
 
 const SITE = "https://blockbusterdeals.net";
-const APP = "https://usa-blockbuster-deals.pages.dev/";
+const APP = "https://bigdeals-usa.pages.dev/";
 const COUNT = 40;
-const UA = "Mozilla/5.0 (BlockbusterDeals Board; +" + APP + ")";
+const UA = "Mozilla/5.0 (Big Deals USA; +" + APP + ")";
 
 const ENTITIES = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " " };
 function decode(s) {
@@ -38,13 +38,6 @@ function storeFor(url, cats) {
   for (const [k, name] of [["walmart", "Walmart"], ["target", "Target"], ["hsn", "HSN"], ["qvc", "QVC"], ["macys", "Macy's"]])
     if (host.includes(k)) return name;
   return cats[0] || "Deal";
-}
-
-const DISCLAIMER = /(this post contains affiliate links|as an amazon associate|prices and availability are accurate)/i;
-function note(html) {
-  const paras = String(html || "").split(/<\/p>|<br\s*\/?>|\n/).filter(p => p.trim() && !DISCLAIMER.test(p));
-  const t = decode(paras[0] || "");
-  return t.length > 160 ? t.slice(0, 159) + "…" : t;
 }
 
 async function getJSON(url) {
@@ -77,7 +70,7 @@ async function loadDeals() {
       discount: off ? off + "% off" : null,
       save: off ? money(Number(reg) - Number(price), unit) : null,
       code: null,
-      notes: note(p.short_description || p.description),
+      notes: null, // the site's own write-up stays on the site (copyright); "page" links to it
       link: buy,
       page: p.permalink,
       image: img.thumbnail || img.src || null,

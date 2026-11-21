@@ -1,7 +1,7 @@
 {
-  "name": "BlockbusterDealsIT",
-  "short_name": "BB Deals",
-  "description": "Offers from the Blockbuster Deals WhatsApp community, updated live.",
+  "name": "Big Deals USA",
+  "short_name": "Big Deals",
+  "description": "Big discounts from US stores, updated live.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

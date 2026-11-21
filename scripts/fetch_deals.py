@@ -1,4 +1,4 @@
-"""Build deals.json from blockbusterdeals.net (the site behind the BlockbusterDeals WhatsApp community).
+"""Build deals.json for Big Deals USA from blockbusterdeals.net's public deal list.
 
 Runs in GitHub Actions. Standard library only.
 - Prices, store links and images come from the public WooCommerce Store API.
@@ -17,7 +17,7 @@ COUNT = 60
 ROOT = Path(__file__).resolve().parent.parent
 OUT, MANUAL = ROOT / "deals.json", ROOT / "manual.json"
 LOG_FILE = ROOT / "fetch_log.txt"
-UA = {"User-Agent": "Mozilla/5.0 (BlockbusterDeals Board; +https://usa-blockbuster-deals.pages.dev/)",
+UA = {"User-Agent": "Mozilla/5.0 (Big Deals USA; +https://bigdeals-usa.pages.dev/)",
       "Accept": "application/json"}
 
 
@@ -226,7 +226,7 @@ def build():
             "was": money(reg, unit) if disc else None,
             "discount": disc,
             "code": None,
-            "notes": text(p.get("short_description") or p.get("description")),
+            "notes": None,  # the site's own write-up stays on the site (copyright); we link to it instead
             "link": buy,
             "page": p.get("permalink"),
             "image": ((p.get("images") or [{}])[0]).get("thumbnail") or ((p.get("images") or [{}])[0]).get("src"),
@@ -269,7 +269,7 @@ def main():
     log("Updating deals.json...")
     log_entries = ([{"at": now, "text": f"{len(added)} new offer(s): " + ", ".join(o['title'][:40] for o in added[:3])}] if added else []) + old.get("log", [])
     OUT.write_text(json.dumps({
-        "channel": "BlockbusterDeals 19",
+        "channel": "Big Deals USA",
         "source": SITE,
         "lastScan": now,
         "nextScan": None,
@@ -303,7 +303,7 @@ def notify(added, now):
     cutoff = (datetime.now(timezone.utc) - timedelta(hours=12)).strftime("%Y-%m-%dT%H:%M:%SZ")
     # Only deals posted in the last 12 hours (GitHub can delay runs by hours), so the first run or a long pause does not send a flood.
     fresh = [o for o in added if (o.get("postedAt") or "") >= cutoff and pct(o) >= min_off]
-    app = "https://usa-blockbuster-deals.pages.dev/"
+    app = "https://bigdeals-usa.pages.dev/"
     try:
         if len(fresh) > 4:
             ntfy(topic, {"title": f"{len(fresh)} new deals", "tags": ["shopping_cart"], "click": app,
