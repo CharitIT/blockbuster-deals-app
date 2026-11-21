@@ -15,7 +15,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from fetch_deals import (KNOWN, MANUAL, OUT, ROOT, STORES, load_store_cache, log, merchant_for,
                          merchant_from_title, notify, resolve_merchant)
 
-CHAT = os.environ.get("WA_CHAT", "Blockbuster Deals 32")
+# Matches any "Blockbuster…" group; the newest-active one wins, so renumbered groups (19 → 32 → 3x) are followed.
+CHAT = os.environ.get("WA_CHAT", "Blockbuster")
 COUNT = 60
 WA = Path.home() / "Library/Group Containers/group.net.whatsapp.WhatsApp.shared"
 DB = WA / "ChatStorage.sqlite"

@@ -8,7 +8,7 @@
   <key>Label</key><string>com.blockbuster.deals</string>
   <key>ProgramArguments</key>
   <array>
-    <string>/opt/homebrew/bin/python3</string>
+    <string>/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python</string>
     <string>/Users/mcihub/OwnSpace/Apps/GitHubs/blockbuster-deals-app/scripts/whatsapp_deals.py</string>
   </array>
   <key>EnvironmentVariables</key>
