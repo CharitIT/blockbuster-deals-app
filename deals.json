@@ -1,7 +1,7 @@
 {
   "channel": "BlockbusterDeals 19",
   "source": "https://blockbusterdeals.net",
-  "lastScan": "2026-11-21T02:25:00Z",
+  "lastScan": "2026-11-21T02:28:00Z",
   "nextScan": null,
   "offers": [
     {
@@ -306,7 +306,7 @@
     },
     {
       "id": "bbd-59635",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "Jou Jou Women’s Double-Breasted Patch-Pocket Maxi Coat",
       "price": "$58",
       "was": "$119",
@@ -320,7 +320,8 @@
       "postedAt": "2026-11-20T21:09:05Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-59633",
@@ -397,7 +398,7 @@
     },
     {
       "id": "bbd-59621",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "Tory Burch Women’s Reva Gold-Tone Stainless Steel Bangle Bracelet Watch 27mm Gift Set",
       "price": "$182",
       "was": "$260",
@@ -411,7 +412,8 @@
       "postedAt": "2026-11-20T19:04:19Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-59619",
@@ -470,7 +472,7 @@
     },
     {
       "id": "bbd-59613",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "Dolce&Gabbana 4-Piece Eau de Parfum Spray Mini Gift Set",
       "price": "$35",
       "was": "$76",
@@ -484,7 +486,8 @@
       "postedAt": "2026-11-20T17:52:58Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-59611",
@@ -506,7 +509,7 @@
     },
     {
       "id": "bbd-59609",
-      "store": "Household and Kitchen",
+      "store": "Macy's",
       "title": "The Cellar Enameled Cast Iron 6-Quart Dutch Oven",
       "price": "$46",
       "was": "$135",
@@ -520,7 +523,8 @@
       "postedAt": "2026-11-20T16:58:36Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-59603",
@@ -543,7 +547,7 @@
     },
     {
       "id": "bbd-59602",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "Macy’s Diamond Flower Burst Stud Earrings (1/10 ct. t.w.) in Sterling Silver",
       "price": "$26",
       "was": "$105",
@@ -557,11 +561,12 @@
       "postedAt": "2026-11-20T16:31:53Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-59600",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "Tommy Hilfiger Men’s Cotton Classic Crewneck T-Shirts, Pack of 5",
       "price": "$34",
       "was": "$64",
@@ -575,7 +580,8 @@
       "postedAt": "2026-11-20T16:26:50Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-59598",
@@ -655,7 +661,7 @@
     },
     {
       "id": "bbd-59585",
-      "store": "Household and Kitchen",
+      "store": "Macy's",
       "title": "16 Piece Macy’s Favorite Scents Set",
       "price": "$15",
       "was": "$35",
@@ -669,7 +675,8 @@
       "postedAt": "2026-11-20T15:52:26Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-59584",
@@ -711,7 +718,7 @@
     },
     {
       "id": "bbd-59580",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "16-Piece Macy’s Favorite Scents Set",
       "price": "$15",
       "was": "$35",
@@ -725,7 +732,8 @@
       "postedAt": "2026-11-20T15:34:04Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-59578",
@@ -767,7 +775,7 @@
     },
     {
       "id": "bbd-59574",
-      "store": "Electronics",
+      "store": "Walmart",
       "title": "TCL 98″ Q Series QLED 4K UHD HDR Smart Google TV with Gemini (New, Limited Edition) – Dolby Vision, Dolby Atmos, 144Hz Refresh Rate, HDR 10+, Auto Game Mode – 98Q51BG",
       "price": "$898",
       "was": "$1,499",
@@ -781,7 +789,8 @@
       "postedAt": "2026-11-20T03:31:49Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Walmart"
     },
     {
       "id": "bbd-59571",
@@ -823,7 +832,7 @@
     },
     {
       "id": "bbd-59567",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "NutriBullet Blender Full Size Combo 1200 Watt 64 oz",
       "price": "$74",
       "was": "$129",
@@ -837,7 +846,8 @@
       "postedAt": "2026-11-20T02:39:41Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-59565",
@@ -935,7 +945,7 @@
     },
     {
       "id": "bbd-59555",
-      "store": "Clothing",
+      "store": "Macy's",
       "title": "Calvin Klein Men’s Chevron Stretch Jacket With Sherpa Lined Hood",
       "price": "$67",
       "was": "$225",
@@ -949,7 +959,8 @@
       "postedAt": "2026-11-20T01:47:51Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-59553",
@@ -972,7 +983,7 @@
     },
     {
       "id": "bbd-59550",
-      "store": "Deal",
+      "store": "Macy's",
       "title": "Diamond Bolo Bracelet (1/10 ct. t.w.) in Sterling Silver, 14k Gold-Plated Sterling Silver or 14k Rose Gold-Plated Sterling Silver",
       "price": "$62",
       "was": "$250",
@@ -986,11 +997,12 @@
       "postedAt": "2026-11-20T01:40:12Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-59548",
-      "store": "Branded Deals",
+      "store": "Macy's",
       "title": "Casio Men’s Digital Black Resin Strap Watch 42.4mm",
       "price": "$20",
       "was": "$40",
@@ -1004,7 +1016,8 @@
       "postedAt": "2026-11-20T01:34:36Z",
       "expiresAt": null,
       "status": "active",
-      "source": "site"
+      "source": "site",
+      "merchant": "Macy's"
     },
     {
       "id": "bbd-59545",
