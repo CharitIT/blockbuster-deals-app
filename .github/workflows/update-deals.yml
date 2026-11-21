@@ -4,7 +4,7 @@ name: Update deals
 # (scripts/whatsapp_deals.py is a manual fallback for when the site is down; don't run both.)
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes (GitHub may run it a few minutes late)
+    - cron: "*/5 * * * *"    # every 5 minutes, GitHub's minimum (it may run a few minutes late)
   workflow_dispatch: {}      # "Run workflow" button on the Actions tab
 
 permissions:
