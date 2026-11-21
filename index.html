@@ -12,7 +12,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
-<meta name="apple-mobile-web-app-title" content="BB Deals">
+<meta name="apple-mobile-web-app-title" content="Big Deals">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
@@ -38,7 +38,7 @@
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 var(--body);
   padding:env(safe-area-inset-top,0px) max(16px,env(safe-area-inset-right,0px)) env(safe-area-inset-bottom,0px) max(16px,env(safe-area-inset-left,0px))}
-.wrap{max-width:1040px;margin:0 auto;padding-block:20px 48px;display:grid;gap:20px}
+.wrap{max-width:1040px;margin:0 auto;padding-block:20px 48px;display:grid;grid-template-columns:minmax(0,1fr);gap:20px}
 header{display:grid;gap:12px}
 .top{display:flex;justify-content:space-between;align-items:center;gap:12px}
 .eyebrow{font:600 12px/1 var(--body);letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
@@ -153,6 +153,17 @@ html,body{overscroll-behavior-y:contain}
 @media (max-width:767px) and (prefers-reduced-motion:reduce){.drawer{transition:none}}
 .chip.zero{opacity:.5}
 .chip.zero[aria-pressed="true"]{opacity:1}
+/* Black Friday banner (fixed dark look in both themes) */
+.bf{background:#111;color:#F4F4F4;border:1px solid #2B2B2B;border-radius:14px;padding:14px 0 14px 14px;display:grid;gap:12px;min-width:0}
+.bfHead{display:flex;align-items:center;gap:12px;padding-right:14px}
+.bfHead>div{flex:1;min-width:0}
+.bf h2{font:800 22px/1.05 var(--display);margin:0;color:#F5C23A;letter-spacing:-.01em}
+.bfSub{margin:4px 0 0;font-size:13px;color:#BDBDBD}
+.bfAll{flex:none;font:700 14px var(--body);color:#111;background:#F5C23A;border:0;border-radius:999px;padding:9px 14px;cursor:pointer}
+.bfAll:focus-visible{outline:2px solid #fff;outline-offset:2px}
+.bfRow.grid.compact{display:flex;min-width:0;max-width:100%;overflow-x:auto;scroll-snap-type:x mandatory;gap:10px;padding:2px 14px 4px 0;-webkit-overflow-scrolling:touch;scrollbar-width:thin}
+.bfRow .card{flex:0 0 168px;scroll-snap-align:start;color:var(--ink)}
+.bf.open .bfRow{display:none}
 .catTag{font:600 11px/1 var(--body);color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:3px 8px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
 .card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:grid;gap:10px;align-content:start}
@@ -233,6 +244,17 @@ footer{font-size:12px;color:var(--muted)}
     <button type="button" id="installBtn" hidden>Install</button>
     <button type="button" class="installX" id="installX" aria-label="Dismiss">✕</button>
   </div>
+
+  <section class="bf" id="bf" hidden aria-labelledby="bfTitle">
+    <div class="bfHead">
+      <div>
+        <h2 id="bfTitle">Black Friday Deals</h2>
+        <p class="bfSub" id="bfSub">Biggest discounts first · ends Dec 2</p>
+      </div>
+      <button type="button" class="bfAll" id="bfAll" aria-controls="list">See all</button>
+    </div>
+    <div class="bfRow grid compact" id="bfRow" role="list"></div>
+  </section>
 
   <div class="tools">
     <input id="q" type="search" placeholder="Search store, item or code" aria-label="Search offers">
@@ -321,13 +343,15 @@ footer{font-size:12px;color:var(--muted)}
     <ol id="log"></ol>
   </section>
 
-  <footer>Refreshes every 5 minutes while open, and each time you come back to the app. Prices and codes are copied as posted; check the store before buying.<br><br>Big Deals USA is an independent app and is not affiliated with, endorsed by or sponsored by any store or deal site listed here. Deals and links come from <a href="https://blockbusterdeals.net" target="_blank" rel="noopener">blockbusterdeals.net</a>; tap “View original post” to see each one at its source. Product names, images and trademarks belong to their owners.</footer>
+  <footer>Refreshes every 5 minutes while open, and each time you come back to the app. Prices and codes are copied as posted; check the store before buying.<br><br>Big Deals USA is an independent app and is not affiliated with, endorsed by or sponsored by any store or deal site listed here. Deals and links come from <a href="https://blockbusterdeals.net" target="_blank" rel="noopener">blockbusterdeals.net</a>; tap “View original post” to see each one at its source. Product names, images and trademarks belong to their owners. Black Friday deals come from the ANLF Black Friday Deals 2026 list; they open a search at the store because the list has no links, and prices can change.</footer>
 </div>
 
 <script>
 (function(){
   const REFRESH_MS = 5 * 60 * 1000;    // 5 minutes
-  const WORKER_URL = "https://bbdeals.immadi-charit.workers.dev/";   // e.g. "https://bbdeals.<your-name>.workers.dev/" (set after deploying worker/worker.js)
+  const WORKER_URL = "https://bbdeals.immadi-charit.workers.dev/";
+  const BF_END = Date.parse("2026-12-03T04:59:00Z");   // Black Friday banner shows until 11:59 PM ET on Dec 2
+  let bf = [], section = "all";                         // section: "all" deals or only "bf" (Black Friday)   // e.g. "https://bbdeals.<your-name>.workers.dev/" (set after deploying worker/worker.js)
   const $ = s => document.querySelector(s);
   let data = {offers:[],log:[]}, filter = "active", q = "", lastFetch = 0, seen = new Set();
   try { const f = localStorage.getItem("bd-filter"); if (f) filter = f; } catch(e){}
@@ -386,7 +410,7 @@ footer{font-size:12px;color:var(--muted)}
   const priceOf = o => { const v = num(o.price); return v != null && v > 0 ? v : null; };
   const savedOf = o => { const a = num(o.price), b = num(o.was); return a != null && b != null && b > a ? b - a : 0; };
   const MAIN_STORES = ["Amazon","Walmart","Target","HSN","eBay"];   // always shown, in this order
-  const KNOWN_STORES = MAIN_STORES.concat(["QVC","Macy's","Kohl's","Best Buy","Nordstrom","JCPenney","Home Depot","Lowe's","Costco","Sam's Club","BJ's",
+  const KNOWN_STORES = MAIN_STORES.concat(["Woot","Groupon","QVC","Macy's","Kohl's","Best Buy","Nordstrom","JCPenney","Home Depot","Lowe's","Costco","Sam's Club","BJ's",
     "Ulta","Sephora","Old Navy","Gap","Nike","Adidas","Wayfair","Curology","Dick's","Bed Bath & Beyond","Overstock","Zappos","Chewy","Dell","Lenovo",
     "Apple","Samsung","Michael Kors","Calvin Klein","Belk","Dillard's","Saks Off 5th","TJ Maxx","Marshalls","Ross",
     "Victoria's Secret","American Eagle","Abercrombie","Hollister","J.Crew","LOFT","Lululemon","Under Armour","IKEA","Crocs","Skechers",
@@ -460,7 +484,7 @@ footer{font-size:12px;color:var(--muted)}
 
   function card(o){
     const s = state(o);
-    const c = el("article","card"+(s==="expired"?" expired":"")+(seen.size && !seen.has(o.id)?" new":""));
+    const c = el("article","card"+(s==="expired"?" expired":"")+(seen.size && !o.bf && !seen.has(o.id)?" new":""));
     const top = el("div","row");
     top.append(el("div","store",o.store||"Deal"));
     if (o.discount) top.append(el("div","off",o.discount));
@@ -497,7 +521,7 @@ footer{font-size:12px;color:var(--muted)}
       s==="expired"?"Expired":o.expiresAt?"Ends "+fmtDay(o.expiresAt):"No end date"));
     m.append(el("span","catTag",category(o)));
     if (o.postedAt) m.append(el("span",null,"Posted "+fmt(o.postedAt)));
-    if (o.link && /^https?:\/\//.test(o.link)){ const a=el("a","go","Open deal ↗"); a.href=o.link; a.target="_blank"; a.rel="noopener"; m.append(a); }
+    if (o.link && /^https?:\/\//.test(o.link)){ const a=el("a","go",o.linkLabel||"Open deal ↗"); a.href=o.link; a.target="_blank"; a.rel="noopener"; m.append(a); }
     if (o.page && /^https?:\/\//.test(o.page) && o.page !== o.link){
       const a=el("a","go","View original post ↗"); a.href=o.page; a.target="_blank"; a.rel="noopener";
       a.title="Use the original post if the deal link does not open"; m.append(a);
@@ -506,8 +530,22 @@ footer{font-size:12px;color:var(--muted)}
     return c;
   }
 
+  function renderBF(){
+    const box = $("#bf"), on = bf.length && Date.now() <= BF_END;
+    if (!on && section === "bf") section = "all";
+    box.hidden = !on; if (!on) return;
+    box.classList.toggle("open", section === "bf");
+    $("#bfAll").textContent = section === "bf" ? "Back to all deals" : "See all " + bf.length;
+    $("#bfAll").setAttribute("aria-pressed", String(section === "bf"));
+    $("#bfSub").textContent = (section === "bf" ? bf.length.toLocaleString() + " deals below" : "Biggest discounts first") + " · ends Dec 2";
+    if (section !== "bf"){
+      const top = bf.filter(o => priceOf(o) != null && pctOff(o) > 0).sort(SORTS.pct).slice(0, 20);
+      $("#bfRow").replaceChildren(...top.map(o => { const c = card(o); c.setAttribute("role","listitem"); return c; }));
+    }
+  }
   function render(){
-    const offers = data.offers || [];
+    renderBF();
+    const offers = section === "bf" ? bf : (data.offers || []);
     const counts = {active:0,soon:0,expired:0};
     offers.forEach(o=>counts[state(o)]++);
     $("#nActive").textContent = counts.active+counts.soon;
@@ -546,7 +584,7 @@ footer{font-size:12px;color:var(--muted)}
       const res = await fetch("deals.json?t="+Date.now(), {cache:"no-store"});
       if (!res.ok) throw new Error(res.status);
       data = await res.json();
-      await addPriced();
+      await Promise.all([addPriced(), loadBF()]);
       lastFetch = Date.now();
       $("#dot").classList.remove("off");
       render();
@@ -573,6 +611,15 @@ footer{font-size:12px;color:var(--muted)}
       render();
       return true;
     } catch(e){ return false; }
+  }
+  // Black Friday list (Google Sheet, read through the Worker) until BF_END.
+  async function loadBF(){
+    if (!WORKER_URL || Date.now() > BF_END){ bf = []; return; }
+    try {
+      const r = await fetch(WORKER_URL + "blackfriday?t=" + Date.now(), {cache:"no-store"});
+      if (!r.ok) return;
+      bf = (await r.json()).offers || [];
+    } catch(e){ /* keep the last list */ }
   }
   function tick(){ if (lastFetch) $("#checked").textContent = ago(lastFetch); }
 
@@ -636,6 +683,10 @@ footer{font-size:12px;color:var(--muted)}
   $("#offRange").addEventListener("change", e => { try{ localStorage.setItem("bd-off", e.target.value); }catch(err){} });
   $("#q").addEventListener("input",e=>{ q=e.target.value; render(); });
   $("#refresh").addEventListener("click", load);
+  $("#bfAll").addEventListener("click", () => {
+    section = section === "bf" ? "all" : "bf"; render();
+    $(section === "bf" ? "#list" : "#bf").scrollIntoView({behavior:"smooth", block:"start"});
+  });
 
   // Refresh every 5 minutes while open, plus whenever the app comes back to the foreground after 5 minutes.
   setInterval(load, REFRESH_MS);

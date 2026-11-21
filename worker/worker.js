@@ -3,6 +3,7 @@
 // 1. GET https://<your-worker>.workers.dev/  -> newest deals from blockbusterdeals.net
 //    WITH price, original price and % off, readable by the phone app (CORS enabled).
 // 2. Cron trigger (every 5 min) -> sends an ntfy phone alert for each new deal.
+// 3. GET /blackfriday -> the Black Friday Google Sheet as deals (until Dec 2), for the app's banner.
 //
 // Settings in the Cloudflare dashboard (Worker -> Settings):
 //   Variables and Secrets:  NTFY_TOPIC (secret)      your ntfy topic name
@@ -83,6 +84,90 @@ async function loadDeals() {
   });
 }
 
+// ---- Black Friday list (Google Sheet), served at /blackfriday until BF_END ----
+// The sheet's CSV feed works without sign-in but has no CORS header, so the app reads it through here.
+const BF_SHEET = "https://docs.google.com/spreadsheets/d/18zHldCWqzRWQu0c6vmNsXhQXtl9dJgaYHMNDiZEzLh4/gviz/tq?tqx=out:csv";
+const BF_END = "2026-12-03T04:59:00Z"; // 11:59 PM US Eastern on Dec 2
+// The sheet has no product links, so cards open a search for the item at its store.
+const SEARCH = {
+  "Amazon": "https://www.amazon.com/s?k=",
+  "Best Buy": "https://www.bestbuy.com/site/searchpage.jsp?st=",
+  "Macy's": "https://www.macys.com/shop/search?keyword=",
+  "Groupon": "https://www.groupon.com/search?query=",
+  "Walmart": "https://www.walmart.com/search?q=",
+  "Kohl's": "https://www.kohls.com/search.jsp?search=",
+  "Home Depot": "https://www.homedepot.com/s/",
+  "Michael Kors": "https://www.michaelkors.com/search?q=",
+  "Lowe's": "https://www.lowes.com/search?searchTerm=",
+  "Woot": "https://www.woot.com/search?query=",
+  "Walgreens": "https://www.walgreens.com/search/results.jsp?Ntt=",
+  "CVS": "https://www.cvs.com/search?searchTerm=",
+  "Target": "https://www.target.com/s?searchTerm=",
+  "Samsung": "https://www.samsung.com/us/search/searchMain/?searchTerm=",
+};
+
+// gviz CSV quotes every field; unquoted fields are handled too. Regex-based to stay well
+// under the free plan's CPU limit for ~1,500 rows.
+function parseCSV(text) {
+  const rows = []; let row = [];
+  const re = /(?:"((?:[^"]|"")*)"|([^,\r\n]*))(,|\r?\n|$)/g;
+  let m;
+  while ((m = re.exec(text))) {
+    row.push(m[1] !== undefined ? m[1].replace(/""/g, '"') : m[2]);
+    if (m[3] !== ",") { rows.push(row); row = []; }
+    if (m[3] === "") break;
+  }
+  return rows;
+}
+
+function hashId(str) {
+  let h = 5381;
+  for (let i = 0; i < str.length; i++) h = ((h << 5) + h + str.charCodeAt(i)) | 0;
+  return (h >>> 0).toString(36);
+}
+
+async function loadBlackFriday() {
+  const r = await fetch(BF_SHEET, { headers: { "User-Agent": UA }, cf: { cacheTtl: 300, cacheEverything: true } });
+  if (!r.ok) throw new Error("sheet -> " + r.status);
+  const rows = parseCSV(await r.text());
+  const offers = [], ids = new Set();
+  let section = "Electronics";
+  for (let i = 1; i < rows.length; i++) {           // row 0 is the sheet's heading
+    const [title = "", price = "", code = "", store = "", notes = ""] = rows[i].map(c => (c || "").trim());
+    if (!title) continue;
+    const url = (notes.match(/https?:\/\/[^\s;]+/) || [])[0];
+    if (!price && !store && !url) { section = title; continue; } // section heading row
+    const was = notes.match(/Was\s+(\$[\d,]+(?:\.\d+)?)\s*\((\d+)% off\)/i);
+    const off = was && +was[2] > 0;
+    const id = "bf-" + hashId(store + "|" + title + "|" + price);
+    if (ids.has(id)) continue; // same item listed twice in the sheet
+    ids.add(id);
+    const q = encodeURIComponent(title.slice(0, 120));
+    offers.push({
+      id,
+      store: store || "Special deal",
+      title,
+      price: price || null,
+      was: off ? was[1] : null,
+      discount: off ? was[2] + "% off" : null,
+      save: null,
+      code: code || null,
+      notes: null,
+      link: url || (SEARCH[store] ? SEARCH[store] + q : "https://www.google.com/search?q=" + encodeURIComponent((store + " " + title).slice(0, 150))),
+      linkLabel: url ? "Open deal ↗" : "Find at " + (store || "store") + " ↗",
+      page: null,
+      image: null,
+      category: section,
+      postedAt: null,
+      expiresAt: BF_END,
+      status: "active",
+      source: "sheet",
+      bf: true,
+    });
+  }
+  return offers;
+}
+
 const CORS = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Methods": "GET, OPTIONS",
@@ -142,6 +227,20 @@ export default {
         return new Response(JSON.stringify({ result: await checkAndNotify(env) }), { headers: CORS });
       }
       const cache = caches.default;
+      if (url.pathname === "/blackfriday") {
+        if (Date.now() > Date.parse(BF_END))
+          return new Response(JSON.stringify({ ended: true, endsAt: BF_END, offers: [] }), { headers: CORS });
+        const bfKey = new Request(url.origin + "/bf-v1");
+        let bfRes = await cache.match(bfKey);
+        if (!bfRes) {
+          const offers = await loadBlackFriday();
+          bfRes = new Response(JSON.stringify({ fetchedAt: new Date().toISOString(), endsAt: BF_END, offers }), {
+            headers: { ...CORS, "Cache-Control": "public, max-age=300" },
+          });
+          ctx.waitUntil(cache.put(bfKey, bfRes.clone()));
+        }
+        return bfRes;
+      }
       const key = new Request(url.origin + "/deals-v1");
       let res = await cache.match(key);
       if (!res) {

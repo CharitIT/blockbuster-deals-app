@@ -1,5 +1,7 @@
 # Big Deals USA (PWA)
 
+> **Maintainers and AI assistants: read [AGENTS.md](AGENTS.md) first.** It has the current setup, the rules and the change log, and it takes precedence over this README.
+
 A phone app for iPhone and Android that shows big discounts from US stores, using the public deal list on blockbusterdeals.net.
 Live at https://bigdeals-usa.pages.dev/
 
