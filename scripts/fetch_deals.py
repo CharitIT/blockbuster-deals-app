@@ -17,7 +17,7 @@ COUNT = 60
 ROOT = Path(__file__).resolve().parent.parent
 OUT, MANUAL = ROOT / "deals.json", ROOT / "manual.json"
 LOG_FILE = ROOT / "fetch_log.txt"
-UA = {"User-Agent": "Mozilla/5.0 (BlockbusterDeals Board; +https://charitit.github.io/blockbuster-deals-app/)",
+UA = {"User-Agent": "Mozilla/5.0 (BlockbusterDeals Board; +https://usa-blockbuster-deals.pages.dev/)",
       "Accept": "application/json"}
 
 
@@ -303,7 +303,7 @@ def notify(added, now):
     cutoff = (datetime.now(timezone.utc) - timedelta(hours=12)).strftime("%Y-%m-%dT%H:%M:%SZ")
     # Only deals posted in the last 12 hours (GitHub can delay runs by hours), so the first run or a long pause does not send a flood.
     fresh = [o for o in added if (o.get("postedAt") or "") >= cutoff and pct(o) >= min_off]
-    app = "https://charitit.github.io/blockbuster-deals-app/"
+    app = "https://usa-blockbuster-deals.pages.dev/"
     try:
         if len(fresh) > 4:
             ntfy(topic, {"title": f"{len(fresh)} new deals", "tags": ["shopping_cart"], "click": app,

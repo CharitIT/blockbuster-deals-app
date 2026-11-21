@@ -11,7 +11,7 @@
 //   Triggers -> Cron:       */5 * * * *
 
 const SITE = "https://blockbusterdeals.net";
-const APP = "https://charitit.github.io/blockbuster-deals-app/";
+const APP = "https://usa-blockbuster-deals.pages.dev/";
 const COUNT = 40;
 const UA = "Mozilla/5.0 (BlockbusterDeals Board; +" + APP + ")";
 
