@@ -327,7 +327,7 @@ footer{font-size:12px;color:var(--muted)}
 <script>
 (function(){
   const REFRESH_MS = 5 * 60 * 1000;    // 5 minutes
-  const WORKER_URL = "";   // e.g. "https://bbdeals.<your-name>.workers.dev/" (set after deploying worker/worker.js)
+  const WORKER_URL = "https://bbdeals.immadi-charit.workers.dev/";   // e.g. "https://bbdeals.<your-name>.workers.dev/" (set after deploying worker/worker.js)
   const $ = s => document.querySelector(s);
   let data = {offers:[],log:[]}, filter = "active", q = "", lastFetch = 0, seen = new Set();
   try { const f = localStorage.getItem("bd-filter"); if (f) filter = f; } catch(e){}
