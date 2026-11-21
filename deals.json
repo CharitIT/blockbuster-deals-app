@@ -1,9 +1,28 @@
 {
   "channel": "BlockbusterDeals 19",
   "source": "https://blockbusterdeals.net",
-  "lastScan": "2026-11-21T02:28:00Z",
+  "lastScan": "2026-11-21T02:38:53Z",
   "nextScan": null,
   "offers": [
+    {
+      "id": "bbd-59673",
+      "store": "Amazon",
+      "title": "BIODANCE Bio-Collagen Real Deep Mask for Hydrating & Plumping (4ea)",
+      "price": "$12",
+      "was": null,
+      "discount": null,
+      "code": null,
+      "notes": "",
+      "link": "https://link.amazon/B0dicZVfN",
+      "page": "https://blockbusterdeals.net/product/biodance-bio-collagen-real-deep-mask-for-hydrating-plumping-4ea/",
+      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/11/20261121_075610_0000-300x300.png",
+      "category": "Amazon Deals",
+      "postedAt": "2026-11-21T02:28:34Z",
+      "expiresAt": null,
+      "status": "active",
+      "source": "site",
+      "merchant": "Amazon"
+    },
     {
       "id": "bbd-59671",
       "store": "Amazon",
@@ -1115,25 +1134,6 @@
       "merchant": "Amazon"
     },
     {
-      "id": "bbd-59535",
-      "store": "Amazon",
-      "title": "Paula’s Choice SKIN PERFECTING 2% BHA Liquid Leave-On Exfoliant",
-      "price": "$24",
-      "was": "$37",
-      "discount": "35% off",
-      "code": null,
-      "notes": "",
-      "link": "https://link.amazon/B01M2RXOZ",
-      "page": "https://blockbusterdeals.net/product/paulas-choice-skin-perfecting-2-bha-liquid-leave-on-exfoliant/",
-      "image": "https://blockbusterdeals.net/wp-content/uploads/2026/11/Black_20261120_055948_0000-300x300.png",
-      "category": "Amazon Deals",
-      "postedAt": "2026-11-20T00:31:05Z",
-      "expiresAt": null,
-      "status": "active",
-      "source": "site",
-      "merchant": "Amazon"
-    },
-    {
       "id": "curology-free-box-20260926",
       "store": "Curology",
       "title": "Free $96 Curology skincare box (11th Anniversary deal)",
@@ -1180,6 +1180,10 @@
     }
   ],
   "log": [
+    {
+      "at": "2026-11-21T02:38:53Z",
+      "text": "1 new offer(s): BIODANCE Bio-Collagen Real Deep Mask for"
+    },
     {
       "at": "2026-11-21T02:25:00Z",
       "text": "60 new offer(s): Swarovski Certa Crystal Watch, Swiss Mad, Brother GX37 Sewing Machine 37 Built-in , Touchland Top 5 Hydrating Hand Sanitizer"
@@ -1255,10 +1259,6 @@
     {
       "at": "2026-11-13T17:51:22Z",
       "text": "2 new offer(s): Reece Channel Stitched Upholstered King , Celebrity Pink Women's Fortuna Ankle Boo"
-    },
-    {
-      "at": "2026-11-13T17:40:29Z",
-      "text": "2 new offer(s): Shyft DualRide Infant Car Seat and Strol, Shyft DualRide Infant Car Seat and Strol"
     }
   ]
 }
